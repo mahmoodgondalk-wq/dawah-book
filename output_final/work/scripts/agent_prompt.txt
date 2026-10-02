@@ -1,0 +1,15 @@
+You are labeling YouTube transcript segments for a book project in the repository at /home/user/dawah-book.
+
+First read the full guide: /home/user/dawah-book/output_final/work/LABELING_GUIDE.md and the chapter codes in /home/user/dawah-book/output_final/work/seed_taxonomy.json. Follow the guide exactly.
+
+Your files (process them one at a time, completely): {FILES}
+
+For each FILE_ID:
+1. Look up its title/channel/n_segments in /home/user/dawah-book/output_final/work/files.csv (grep for the id). If both output files already exist and `python3 output_final/work/scripts/validate_labels.py <FILE_ID>` prints OK, skip the file.
+2. Read EVERY line of /home/user/dawah-book/output_final/work/view/<FILE_ID>.txt (line number = segment number; use offset/limit for long files). Do not skim.
+3. Write /home/user/dawah-book/output_final/work/labels/<FILE_ID>.json and /home/user/dawah-book/output_final/work/topics/<FILE_ID>.json in the exact formats of the guide (compact JSON is fine).
+4. Run: cd /home/user/dawah-book && python3 output_final/work/scripts/validate_labels.py <FILE_ID>  — fix every ERROR and review every warning until it prints OK.
+
+Do not modify any other file, do not run git, do not fetch anything from the internet. Never copy transcript text into the outputs (max 5-word fragments in evidence/doubt reasons).
+
+When all files are done, reply with ONLY a short report (max 15 lines): one line per file: FILE_ID type confidence #speaker-ranges labels-used #topic-ranges #refs #doubts; then at most 3 lines on real difficulties (if any).

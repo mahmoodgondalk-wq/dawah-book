@@ -202,14 +202,11 @@ def dump_doc(doc):
 
 
 def write_view(doc, path):
+    """Reading view for labelers: line k == segment k (no header). '» ' marks a raw '>>' before the segment."""
     with open(path, "w", encoding="utf-8") as f:
-        f.write(f"FILE {doc['file_id']} | {doc['channel']} | TITLE: {doc['title']}\n")
-        f.write(f"SEGMENTS: {len(doc['segments'])} | WORDS: {doc['n_words']} | MODE: {doc['mode']}\n")
-        f.write("(format: number| text ; '»' = raw caption turn-change marker '>>' before the segment)\n\n")
         for s in doc["segments"]:
-            n = int(s["id"].rsplit("-", 1)[1])
-            mark = "»" if s["marker"] == ">>" else ""
-            f.write(f"{n}|{mark} {s['text']}\n")
+            mark = "» " if s["marker"] == ">>" else ""
+            f.write(f"{mark}{s['text']}\n")
 
 
 def main():

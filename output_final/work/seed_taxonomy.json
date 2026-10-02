@@ -1,0 +1,132 @@
+{
+ "note": "Seed taxonomy used during labeling (chapter codes). Final taxonomy with sub-chapters is in taxonomy.json.",
+ "parts": [
+  {"code": "P01", "title": "God: Existence and Knowledge of God", "chapters": [
+   {"code": "P01.C01", "title": "Arguments for the existence of God", "scope": "cosmological/kalam, contingency, design, fine-tuning, fitrah, causality, origin of the universe"},
+   {"code": "P01.C02", "title": "Atheism, agnosticism and the burden of proof", "scope": "rationality of atheism, what evidence would convince, criteria for God, 'lack of belief', agnostic positions"},
+   {"code": "P01.C03", "title": "Reason, knowledge and evidence", "scope": "epistemology, skepticism, certainty, philosophy, scientism, logic, faith and reason"},
+   {"code": "P01.C04", "title": "Morality and its foundation", "scope": "objective morality, moral grounding without God, moral relativism"},
+   {"code": "P01.C05", "title": "Evil, suffering and the wisdom of trials", "scope": "problem of evil, why God allows suffering, life as a test"},
+   {"code": "P01.C06", "title": "Science, evolution and creation", "scope": "evolution, Adam, origin of life, science vs religion (not Quran-science claims, see P05.C06)"},
+   {"code": "P01.C07", "title": "Pantheism, deism and other conceptions of God", "scope": "pantheism, deism, omnism, 'all religions are true', spirituality without religion"},
+   {"code": "P01.C08", "title": "Divine decree and free will", "scope": "qadar, predestination, free will"},
+   {"code": "P01.C09", "title": "The purpose of life and why God communicates through prophets", "scope": "purpose of creation, why God does not show Himself, need for religion/revelation"}
+  ]},
+  {"code": "P02", "title": "Tawheed and Islamic Creed", "chapters": [
+   {"code": "P02.C01", "title": "Tawheed and the Islamic concept of God", "scope": "oneness of God, attributes of Allah, names, transcendence, God's nature"},
+   {"code": "P02.C02", "title": "Shirk, intercession and calling upon others besides Allah", "scope": "shirk, calling upon the dead/saints, tawassul, intercession"},
+   {"code": "P02.C03", "title": "Aqeedah, its sources and theological schools", "scope": "importance of creed, Ash'ari/Athari/Maturidi debates, kalam theology"},
+   {"code": "P02.C04", "title": "Angels, jinn, magic and the evil eye", "scope": "the unseen, jinn, possession, sihr, ruqyah, evil eye, Satan"},
+   {"code": "P02.C05", "title": "Death, the grave and the Day of Judgment", "scope": "life after death, signs of the Hour, end times, Dajjal, judgment"},
+   {"code": "P02.C06", "title": "Paradise and Hellfire", "scope": "descriptions, justice of Hell, eternal punishment, rewards"},
+   {"code": "P02.C07", "title": "Salvation and the fate of non-Muslims", "scope": "who enters Paradise, those who never received the message, works and faith"},
+   {"code": "P02.C08", "title": "Worship, spirituality and connection with God", "scope": "prayer, dhikr, sincerity, sins, repentance, feeling close to God, Islamic practices"}
+  ]},
+  {"code": "P03", "title": "Finding the True Religion: The Case for Islam", "chapters": [
+   {"code": "P03.C01", "title": "How to know which religion is from God", "scope": "criteria/method to identify the true religion, comparing religions"},
+   {"code": "P03.C02", "title": "General evidences for the truth of Islam", "scope": "overall case for Islam, cumulative evidence"},
+   {"code": "P03.C03", "title": "Islam and the message of all the prophets", "scope": "continuity of revelation, Islam as the religion of all prophets, previous prophets"}
+  ]},
+  {"code": "P04", "title": "The Prophethood of Muhammad", "chapters": [
+   {"code": "P04.C01", "title": "Proofs of prophethood: prophecies", "scope": "prophecies made by the Prophet and their fulfilment"},
+   {"code": "P04.C02", "title": "Proofs of prophethood: miracles", "scope": "physical miracles, moon splitting, miracle reports"},
+   {"code": "P04.C03", "title": "Proofs of prophethood: character, life and other evidences", "scope": "truthfulness, conduct, indirect proofs, why he could not be a liar or deluded"},
+   {"code": "P04.C04", "title": "Muhammad in previous scriptures", "scope": "Bible prophecies of Muhammad, Deuteronomy 18, Paraclete"},
+   {"code": "P04.C05", "title": "The historical existence of Muhammad and the early sources", "scope": "did Muhammad exist, revisionist claims, non-Muslim sources"},
+   {"code": "P04.C06", "title": "The finality of prophethood and later claimants", "scope": "seal of prophets, Baha'i, Ahmadiyya/Qadiani, Mirza Ghulam Ahmad, people claiming to be Mahdi"}
+  ]},
+  {"code": "P05", "title": "The Quran", "chapters": [
+   {"code": "P05.C01", "title": "The challenge and inimitability of the Quran", "scope": "challenge to produce a surah, eloquence, literary miracle, attempted imitations"},
+   {"code": "P05.C02", "title": "Revelation, compilation and preservation of the Quran", "scope": "how it was revealed, compiled, Uthman's compilation, memorization, preservation"},
+   {"code": "P05.C03", "title": "Qira'at, ahruf, variants and manuscripts", "scope": "readings, seven ahruf, Hafs, Warsh, Sana'a, Birmingham, corrections in manuscripts, rasm"},
+   {"code": "P05.C04", "title": "Alleged sources of the Quran", "scope": "claims of copying from the Bible, apocrypha, poetry, legends, Alexander romance, teachers of Muhammad"},
+   {"code": "P05.C05", "title": "Alleged contradictions and errors in the Quran", "scope": "contradiction claims, grammatical claims, alleged mistakes (non-scientific)"},
+   {"code": "P05.C06", "title": "The Quran and science", "scope": "scientific claims, alleged scientific mistakes, embryology, cosmology, sun setting, stars as missiles"},
+   {"code": "P05.C07", "title": "The Quran and history", "scope": "historical accuracy, Quran correcting Bible history, Haman, Joseph, Ibrahim, Dhu al-Qarnayn identity"},
+   {"code": "P05.C08", "title": "Understanding the Quran: language and interpretation", "scope": "Arabic, why Arabic, tafsir, context of verses, clarity of the Quran, specific verses explained"},
+   {"code": "P05.C09", "title": "The Satanic Verses", "scope": "the story of the gharaniq / satanic verses"}
+  ]},
+  {"code": "P06", "title": "The Sunnah and the Hadith", "chapters": [
+   {"code": "P06.C01", "title": "The authority of the Sunnah and the Quran-only claim", "scope": "need for hadith, hadith rejection, Quranists"},
+   {"code": "P06.C02", "title": "The reliability and methodology of hadith", "scope": "isnad, grading, preservation of hadith, orientalist and academic criticism"},
+   {"code": "P06.C03", "title": "Specific hadiths explained", "scope": "explanation/defence of particular narrations (camel urine, fly, etc.)"},
+   {"code": "P06.C04", "title": "Hadith collections and scholars", "scope": "Bukhari, Muslim, al-Albani, other scholars and books, isnad of specific books"}
+  ]},
+  {"code": "P07", "title": "The Prophet Muhammad: Life and Criticisms", "chapters": [
+   {"code": "P07.C01", "title": "The life of the Prophet (Seerah)", "scope": "events of his life, battles, treaties, Seerah sources, early Islam"},
+   {"code": "P07.C02", "title": "The marriage to Aisha", "scope": "age of Aisha, historical context, objections"},
+   {"code": "P07.C03", "title": "The Prophet's other marriages", "scope": "Zaynab, polygamy of the Prophet, Safiyya, etc."},
+   {"code": "P07.C04", "title": "Other criticisms of the Prophet", "scope": "epilepsy claims, poison/aorta, violence claims, Banu Qurayza, assassinations, character attacks"},
+   {"code": "P07.C05", "title": "Honouring the Prophet; mockery and insults", "scope": "why Muslims love/defend him, drawings, mocking, salawat"}
+  ]},
+  {"code": "P08", "title": "Christianity: God and Jesus", "chapters": [
+   {"code": "P08.C01", "title": "The Trinity", "scope": "coherence of the Trinity, Trinity in scripture"},
+   {"code": "P08.C02", "title": "The divinity of Jesus", "scope": "did Jesus claim to be God, attributes of God, son of God, worship of Jesus"},
+   {"code": "P08.C03", "title": "Jesus in Islam", "scope": "Quranic Jesus, virgin birth, return of Jesus, Jesus as prophet and messiah"},
+   {"code": "P08.C04", "title": "The crucifixion and the resurrection", "scope": "historical claims, Quran 4:157, evidence for/against"},
+   {"code": "P08.C05", "title": "Original sin, atonement and salvation in Christianity", "scope": "sin, sacrifice, grace, justice"},
+   {"code": "P08.C06", "title": "Paul and early Christianity", "scope": "Paul's authority, early church, councils"}
+  ]},
+  {"code": "P09", "title": "The Bible", "chapters": [
+   {"code": "P09.C01", "title": "Authorship of the Bible and the Gospels", "scope": "who wrote the gospels, anonymous authorship, dating"},
+   {"code": "P09.C02", "title": "Preservation, corruption and textual criticism of the Bible", "scope": "manuscripts, variants, canon, tahrif"},
+   {"code": "P09.C03", "title": "The Quran's stance on the Torah and the Gospel", "scope": "Christian/Islamic dilemma, Quran 5:47, 10:94, scholars on Bible preservation"},
+   {"code": "P09.C04", "title": "Biblical prophecies", "scope": "messianic prophecies, Old Testament prophecy claims (not prophecies of Muhammad: P04.C04)"},
+   {"code": "P09.C05", "title": "Biblical ethics, laws and contradictions", "scope": "violence, women, slavery, marriage age in the Bible, contradictions, Biblical injustice"},
+   {"code": "P09.C06", "title": "Christian denominations and practices", "scope": "Catholicism, Orthodoxy, Protestantism, Mormonism, Unitarians, Christmas, church authority"}
+  ]},
+  {"code": "P10", "title": "Judaism and Other Religions", "chapters": [
+   {"code": "P10.C01", "title": "Judaism and the Jewish people", "scope": "Jewish beliefs, Jews in Islam, Ezra, Talmud"},
+   {"code": "P10.C02", "title": "Hinduism", "scope": ""},
+   {"code": "P10.C03", "title": "Buddhism, Jainism and Sikhism", "scope": ""},
+   {"code": "P10.C04", "title": "Other beliefs and movements", "scope": "Hebrew Israelites, paganism, New Age, Sacred Treasury, cults"},
+   {"code": "P10.C05", "title": "Pre-Islamic Arabia", "scope": "religion and customs of pre-Islamic Arabs, Kaaba, Black Stone, Hajj origins"}
+  ]},
+  {"code": "P11", "title": "Sunni and Shia, Sects and Groups", "chapters": [
+   {"code": "P11.C01", "title": "Imamah, the Twelve Imams and the Shia Mahdi", "scope": ""},
+   {"code": "P11.C02", "title": "The Companions and Ahl al-Bayt", "scope": "Abu Bakr, Umar, Uthman, Ali, Aisha, Fatima, Hafsa; Shia accusations and responses"},
+   {"code": "P11.C03", "title": "Shia sources, narrators and theology", "scope": "al-Kafi, Zurarah, Shia hadith, development of Shia theology, taqiyya"},
+   {"code": "P11.C04", "title": "Sectarianism and Muslim unity", "scope": "73 sects, Sunni-Shia unity, madhhabs, following scholars"},
+   {"code": "P11.C05", "title": "Early Islamic history: the Fitna", "scope": "martyrdom of Uthman, al-Jamal, Siffin, Karbala"},
+   {"code": "P11.C06", "title": "Other groups and contemporary figures", "scope": "Wahhabism, Sufism, modernists, specific contemporary preachers and their views"}
+  ]},
+  {"code": "P12", "title": "Islamic Law and Ethics", "chapters": [
+   {"code": "P12.C01", "title": "Sharia: its nature and relevance", "scope": "Islamic law in general, 'outdated laws', punishments, Islamic governance"},
+   {"code": "P12.C02", "title": "Apostasy and blasphemy", "scope": ""},
+   {"code": "P12.C03", "title": "Jihad, warfare and violence", "scope": "violent verses, terrorism, sword verse, conquest claims"},
+   {"code": "P12.C04", "title": "Slavery", "scope": ""},
+   {"code": "P12.C05", "title": "Non-Muslims under Islam", "scope": "jizya, dhimmis, treatment of Jews and Christians, interfaith relations"},
+   {"code": "P12.C06", "title": "Animals, food and lifestyle", "scope": "halal slaughter, animal welfare, pork, alcohol, veganism"},
+   {"code": "P12.C07", "title": "Other legal and ethical questions", "scope": "specific fiqh questions, music, masturbation, interest, celebrations"}
+  ]},
+  {"code": "P13", "title": "Women, Marriage, Family and Sexuality", "chapters": [
+   {"code": "P13.C01", "title": "Women's rights and gender roles in Islam", "scope": "equality, inheritance, testimony, leadership, domestic violence claims"},
+   {"code": "P13.C02", "title": "Hijab and modesty", "scope": ""},
+   {"code": "P13.C03", "title": "Marriage, polygamy and the age of marriage", "scope": "polygamy in general, cousin marriage, age of marriage in general, divorce"},
+   {"code": "P13.C04", "title": "Family, children and the marriage crisis", "scope": "parenting, children leaving Islam, marriage difficulties"},
+   {"code": "P13.C05", "title": "Homosexuality, gender identity and sexual ethics", "scope": "LGBTQ, transgender, zina, sexual ethics"},
+   {"code": "P13.C06", "title": "Feminism and liberal values", "scope": "feminism, wokeness, liberalism and individual freedom"}
+  ]},
+  {"code": "P14", "title": "Society, Politics and History", "chapters": [
+   {"code": "P14.C01", "title": "Palestine and Israel", "scope": ""},
+   {"code": "P14.C02", "title": "Immigration, nationalism and racism", "scope": ""},
+   {"code": "P14.C03", "title": "Islamic civilization and history", "scope": "Golden Age, spread of Islam, conquests in history, caliphates"},
+   {"code": "P14.C04", "title": "The modern world and Western society", "scope": "secularism, technology, AI, media, Western values in general"},
+   {"code": "P14.C05", "title": "The state of the Muslim Ummah", "scope": "problems of Muslims today and their remedy"}
+  ]},
+  {"code": "P15", "title": "Dawah, Doubts and Conversion", "chapters": [
+   {"code": "P15.C01", "title": "Dealing with doubts", "scope": ""},
+   {"code": "P15.C02", "title": "Seeking knowledge", "scope": "how to learn, which books, scholarship"},
+   {"code": "P15.C03", "title": "Dawah: methods, conduct and debates", "scope": "how to do dawah, debate etiquette, advice to dawah carriers, dawah drama"},
+   {"code": "P15.C04", "title": "Conversion and accepting Islam", "scope": "shahada, conversion stories, new Muslims"},
+   {"code": "P15.C05", "title": "Ex-Muslims and reasons for leaving Islam", "scope": "apostates' claims about why they left, their stories"},
+   {"code": "P15.C06", "title": "Critics and apologists: methods and honesty", "scope": "remarks about specific critics/debaters (their honesty, misquotations, behaviour, debate challenges) when not about a doctrinal topic"}
+  ]},
+  {"code": "P16", "title": "Other Remarks", "chapters": [
+   {"code": "P16.C01", "title": "Greetings, introductions and closing remarks", "scope": "opening/closing words of videos and conversations"},
+   {"code": "P16.C02", "title": "Channel announcements and personal matters", "scope": "channel news, books, events, personal life"},
+   {"code": "P16.C03", "title": "Conversation logistics", "scope": "stream/call management, technical issues, moderation"},
+   {"code": "P16.C04", "title": "Miscellaneous", "scope": "anything that fits nowhere else"}
+  ]}
+ ]
+}
