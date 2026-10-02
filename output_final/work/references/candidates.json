@@ -240,6 +240,106 @@
   "context": "number um what was it Hadith number | 17 Hadith number 17 | as you can see here we're looking at"
  },
  {
+  "file": "FR103",
+  "seg": 121,
+  "ref": "Quran 7:157",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "Farid Responds",
+  "context": "Muhammad peace be upon him which is | something that I mentioned earlier in 7 | 157 however I don't mind granting David"
+ },
+ {
+  "file": "FR103",
+  "seg": 181,
+  "ref": "Quran 6:115",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "Farid Responds",
+  "context": "the Quran that's not what he says when | referring to verses like uh 6115 and | similar verses and saying that uh nobody"
+ },
+ {
+  "file": "FR103",
+  "seg": 189,
+  "ref": "Quran 10:15",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "Farid Responds",
+  "context": "verses that this is alluding | to in chapter 10:1 15 we find the | disbelievers asking the prophet peace be"
+ },
+ {
+  "file": "FR103",
+  "seg": 189,
+  "ref": "[chapcolon] chapter 10:1",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "Farid Responds",
+  "context": "verses that this is alluding | to in chapter 10:1 15 we find the | disbelievers asking the prophet peace be"
+ },
+ {
+  "file": "FR103",
+  "seg": 199,
+  "ref": "Quran 5:41",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "Farid Responds",
+  "context": "proper word for that would be which is | the word used in Quran uh chapter 5: 41 | as I've mentioned previously um which is"
+ },
+ {
+  "file": "FR103",
+  "seg": 199,
+  "ref": "[chapcolon] chapter 5: 41",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "Farid Responds",
+  "context": "proper word for that would be which is | the word used in Quran uh chapter 5: 41 | as I've mentioned previously um which is"
+ },
+ {
+  "file": "FR103",
+  "seg": 398,
+  "ref": "Quran 5:41",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "Farid Responds",
+  "context": "is speaking of twisting the scripture | with their tongues uh 541 speaks of | distorting words from their place the"
+ },
+ {
+  "file": "FR103",
+  "seg": 402,
+  "ref": "Quran 2:75",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "Farid Responds",
+  "context": "with the script the same be found with | 275 and a few verses later it states | that they would write the book and claim"
+ },
+ {
+  "file": "FR106",
+  "seg": 86,
+  "ref": "Quran 2:189",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "Farid Responds",
+  "context": "different world um one example is uh | chapter 2: 189 that says don't enter | houses from the back and enter them from"
+ },
+ {
+  "file": "FR106",
+  "seg": 86,
+  "ref": "[chapcolon] chapter 2: 189",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "Farid Responds",
+  "context": "different world um one example is uh | chapter 2: 189 that says don't enter | houses from the back and enter them from"
+ },
+ {
   "file": "FR109",
   "seg": 128,
   "ref": "Quran 3:3-4",
@@ -318,6 +418,126 @@
   ],
   "speaker": "Farid Responds",
   "context": "by showing that they came to him asking | him to rule upon them in a matter verse | 43 condemns them for coming to him for a"
+ },
+ {
+  "file": "FR118",
+  "seg": 47,
+  "ref": "Quran 6:37",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "Farid Responds",
+  "context": "miracles in three different ways for | example you have a 637 they ask why has | no other sign been sent down to him from"
+ },
+ {
+  "file": "FR118",
+  "seg": 64,
+  "ref": "Quran 41:53",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "Farid Responds",
+  "context": "ever-present witness over everything | 4153 of course naturally I argue that | our signs in the horizons refers to the"
+ },
+ {
+  "file": "FR118",
+  "seg": 76,
+  "ref": "Quran 2:118",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "Farid Responds",
+  "context": "the signs clear for people of sure Faith | 2118 is the earliest chapter that's | revealed in Medina and of course as we"
+ },
+ {
+  "file": "FR118",
+  "seg": 177,
+  "ref": "Quran 2:118",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "Farid Responds",
+  "context": "Converse carrying on we have a new | attempt to respond to 2118 which | explicitly says the signs were shown to"
+ },
+ {
+  "file": "FR124",
+  "seg": 1253,
+  "ref": "[page] page number 37",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "Farid Responds",
+  "context": "okay so so check it out | um go to page number 37 or excuse me | page number 36 of the PDF page excuse me"
+ },
+ {
+  "file": "FR124",
+  "seg": 1254,
+  "ref": "[page] page number 36",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "Farid Responds",
+  "context": "um go to page number 37 or excuse me | page number 36 of the PDF page excuse me | 37 for the PDF"
+ },
+ {
+  "file": "FR132",
+  "seg": 46,
+  "ref": "Quran 11:45-46",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "Farid Responds",
+  "context": "based on that for example they say that | chapter 11 45 46 is about a prophecy by | nuhar Islam that never came to pass"
+ },
+ {
+  "file": "FR133",
+  "seg": 78,
+  "ref": "[volpage] volume 4 Page 382",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "Farid Responds",
+  "context": "hell a place of confinement for | disbelievers he says volume 4 Page 382 | this verse indicates the Glorious coming"
+ },
+ {
+  "file": "FR133",
+  "seg": 84,
+  "ref": "[page] page 240",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "Farid Responds",
+  "context": "that he received a new revelation in a | tethkara page 240. | God has sent me and"
+ },
+ {
+  "file": "FR133",
+  "seg": 93,
+  "ref": "[page] page 244",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "Farid Responds",
+  "context": "that Jesus is dead oh and of course | at page 244 claims to be the Messiah the | Son of Mary so we have two types of"
+ },
+ {
+  "file": "FR133",
+  "seg": 164,
+  "ref": "[page] page 277",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "Farid Responds",
+  "context": "a prophecy that he had received this | prophecy was recorded page 277 which was | written and published in the year 1907."
+ },
+ {
+  "file": "FR133",
+  "seg": 380,
+  "ref": "[page] page 231",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "Farid Responds",
+  "context": "telling him that his initial prophecy | failed he said the following page 231 | indicating that even if the timing of a"
  },
  {
   "file": "ML001",

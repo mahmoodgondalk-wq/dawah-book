@@ -15,6 +15,7 @@ import sys
 
 sys.path.insert(0, os.path.dirname(__file__))
 from excerpts import HOSTS, WORK  # noqa: E402
+from validate_labels import validate  # noqa: E402
 
 BIBLE = r"(?:gen(?:esis)?|exo(?:dus)?|ex|lev(?:iticus)?|num(?:bers)?|deut(?:eronomy)?|josh(?:ua)?|judg(?:es)?|ruth|samuel|sam|kings|kgs|chron(?:icles)?|ezra|neh(?:emiah)?|esther|job|psalms?|ps|prov(?:erbs)?|eccl(?:esiastes)?|song(?: of songs| of solomon)?|isa(?:iah)?|jer(?:emiah)?|lam(?:entations)?|ezek(?:iel)?|dan(?:iel)?|hos(?:ea)?|joel|amos|obad(?:iah)?|jonah|mic(?:ah)?|nah(?:um)?|hab(?:akkuk)?|zeph(?:aniah)?|hag(?:gai)?|zech(?:ariah)?|mal(?:achi)?|matt?(?:hew)?|mathew|mark|mk|luke|lk|john|jn|acts|rom(?:ans)?|cor(?:inthians)?|gal(?:atians)?|eph(?:esians)?|phil(?:ippians)?|col(?:ossians)?|thess(?:alonians)?|tim(?:othy)?|titus|philemon|heb(?:rews)?|james|jas|pet(?:er)?|jude|rev(?:elations?)?|maccabees|sirach|enoch|barnabas|thomas)"
 RE_BIBLE_NEAR = re.compile(r"(?i)\b(?:[1-3]\s?)?" + BIBLE + r"\s*(?:chapter\s*)?\(?\s*\d")
@@ -38,6 +39,8 @@ def main():
     cands = {}
     for tp in sorted(glob.glob(os.path.join(WORK, "topics", "*.json"))):
         fid = os.path.basename(tp)[:-5]
+        if validate(fid)[0]:
+            continue  # not (yet) a valid labeled file
         T = json.load(open(tp, encoding="utf-8"))
         seg = json.load(open(os.path.join(WORK, "segments", fid + ".json"), encoding="utf-8"))
         L = json.load(open(os.path.join(WORK, "labels", fid + ".json"), encoding="utf-8"))
