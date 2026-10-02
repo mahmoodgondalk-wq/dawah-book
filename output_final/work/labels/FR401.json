@@ -1,3 +1,1 @@
-{"file_id": "FR401", "type": "REACTION", "confidence": "medium", "evidence": "Apostate Prophet clip on cousin-marriage risks, a short narrator rebuttal, then apparently a closing clip on his own parents.",
- "speakers": [[1, 19, "Clip"], [20, 36, "Farid Responds"], [37, 41, "Clip"]],
- "doubts": [[20, 20, "clip ends mid-segment"], [37, 41, "remark about parents being cousins may be the narrator, not a clip"]]}
+{"file_id": "FR401", "type": "REACTION", "confidence": "medium", "evidence": "Apostate Prophet clip on cousin-marriage risks, a short narrator rebuttal, then apparently a closing clip on his own parents.", "speakers": [[1, 19, "Clip"], [20, 36, "Farid Responds"], [37, 41, "Clip"]], "doubts": [[1, 41, "unnamed narrator; this 2019 series is largely voiced by contributor Emin, so Farid is not confirmed"], [20, 20, "clip ends mid-segment"], [37, 41, "remark about parents being cousins may be the narrator, not a clip"]]}
