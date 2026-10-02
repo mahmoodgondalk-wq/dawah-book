@@ -1,0 +1,3 @@
+{"file_id": "FR329", "type": "REACTION", "confidence": "high", "evidence": "Farid introduces, plays a short Christian Prince clip on Jesus washing feet, then rebuts it.",
+ "speakers": [[1, 8, "Farid Responds"], [9, 16, "Clip"], [17, 24, "Farid Responds"]],
+ "doubts": [[8, 9, "clip starts mid-segment"], [16, 16, "host resumes mid-segment"]]}

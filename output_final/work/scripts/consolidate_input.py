@@ -53,13 +53,27 @@ def main():
         if r["host_words"] == 0:
             continue
         by.setdefault(r["part"], []).append(r)
+    # articles (whole PDF articles by Farid Responds), with the chapter chosen from their title/subject
+    ART_CODES = {"FA01": ("P05.C02", "Claims about the Quran's history and preservation (Jay Smith)"),
+                 "FA02": ("P05.C03", "Origins of the hadith of the seven ahruf"),
+                 "FA03": ("P05.C03", "Isnad tree of the hadith of the seven ahruf"),
+                 "FA04": ("P11.C03", "Status of the narrator Zurarah in Shia sources"),
+                 "FA05": ("P11.C03", "Alterations of narrations in al-Kulayni's al-Kafi"),
+                 "FA06": ("P05.C07", "Identity of Dhu al-Qarnayn and Alexander parallels"),
+                 "FA07": ("P05.C03", "Corrections in early Quran manuscripts"),
+                 "FA08": ("P05.C03", "Regional variants of the Uthmanic masahif")}
+    for a in json.load(open(os.path.join(WORK, "articles.json"), encoding="utf-8")):
+        code, sub = ART_CODES[a["file_id"]]
+        by.setdefault(code[:3], []).append({"id": "ARTICLE:" + a["file_id"], "code": code, "subtopic": sub, "role": "overview",
+                                             "host_words": f'{a["pages"]} pages', "channel": "Farid Responds",
+                                             "title": "article: " + a["title"]})
     for part, rs in sorted(by.items()):
         rs.sort(key=lambda r: (r["code"], r["subtopic"].lower()))
         with open(os.path.join(WORK, "consolidation", f"{part}_in.txt"), "w", encoding="utf-8") as f:
             for r in rs:
                 ch = "ML" if r["channel"] == "The Muslim Lantern" else "FR"
                 f.write(f'{r["id"]} | {r["code"]} | {r["subtopic"]} | {r["role"]} | {r["host_words"]} | {ch} | {r["title"][:70]}\n')
-        print(part, len(rs), "ranges,", sum(r["host_words"] for r in rs), "host words")
+        print(part, len(rs), "ranges,", sum(r["host_words"] for r in rs if isinstance(r["host_words"], int)), "host words")
     print("total ranges", len(allr), "with host speech", sum(1 for r in allr if r["host_words"] > 0))
 
 

@@ -27,7 +27,9 @@
   "title_source": "no title line: file name without extension",
   "pages": 1,
   "sha256": "9f93c66b8a8d407bedece14acdcebe9b1919cefa6b0b7532f55e0dc41c3fc611",
-  "encrypted": "Encrypted:       no"
+  "encrypted": "Encrypted:       no",
+  "wide_slices": 6,
+  "aspect_ratio": 8.559289
  },
  {
   "file_id": "FA04",

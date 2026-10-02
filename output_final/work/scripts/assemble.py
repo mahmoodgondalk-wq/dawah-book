@@ -54,6 +54,23 @@ def source_line(fid, idx):
     return f'Source: {r["channel"]}, "{r["title"]}"'
 
 
+def articles_index():
+    p = os.path.join(WORK, "articles.json")
+    return {a["file_id"]: a for a in json.load(open(p, encoding="utf-8"))} if os.path.exists(p) else {}
+
+
+def render_article(aid, arts):
+    a = arts[aid]
+    src = f'Source: Farid Responds, article "{a["title"]}"'
+    path = "/" + a["folder"] + "/" + a["file_name"]
+    out = [f"// ARTICLE {aid} pages:{a['pages']} sha256:{a['sha256']}"]
+    if a.get("wide_slices"):
+        out.append(f'#wide-article("Farid Responds", {tstr(src)}, {tstr(path)}, {a["aspect_ratio"]}, {a["wide_slices"]})')
+    else:
+        out.append(f'#article("Farid Responds", {tstr(src)}, {tstr(path)}, {a["pages"]})')
+    return out
+
+
 def load_ref_index():
     p = os.path.join(WORK, "references", "approved_refs.json")
     if not os.path.exists(p):
@@ -112,7 +129,9 @@ def merge_adjacent(excerpts):
     """Merge consecutive excerpts of the same file that are contiguous (same source, continuous passage)."""
     out = []
     for e in excerpts:
-        if out and out[-1]["file"] == e["file"] and out[-1]["last"] + 1 == e["first"]:
+        if "article" in e:
+            out.append(dict(e))
+        elif out and out[-1].get("file") == e["file"] and out[-1]["last"] + 1 == e["first"]:
             out[-1] = dict(out[-1], last=e["last"])
         else:
             out.append(dict(e))
@@ -129,12 +148,14 @@ def main():
     mapping = json.load(open(args.mapping, encoding="utf-8"))
     idx = files_index()
     refidx = load_ref_index()
+    arts = articles_index()
     cdir = os.path.join(args.out, "content")
     os.makedirs(cdir, exist_ok=True)
     for f in os.listdir(cdir):
         if f.endswith(".typ"):
             os.remove(os.path.join(cdir, f))
     used_files = set()
+    used_articles = set()
     includes = []
     chap_no = 0
     stats = {"excerpts": 0, "turns": 0}
@@ -150,6 +171,10 @@ def main():
                 exs = merge_adjacent(mapping.get(sub["id"], []))
                 rendered = []
                 for ex in exs:
+                    if "article" in ex:
+                        rendered.append(render_article(ex["article"], arts))
+                        used_articles.add(ex["article"])
+                        continue
                     r, hs = render_excerpt(ex, idx, refidx)
                     if r:
                         rendered.append(r)
@@ -190,13 +215,19 @@ def main():
         for r in rows:
             src.append(f"  {tstr(r['title'])},")
         src.append("))")
+    arows = sorted((a for a in arts.values() if a["file_id"] in used_articles), key=lambda a: a["file_name"])
+    if arows:
+        src.append(f"#source-group({tstr('Farid Responds (articles)')}, (")
+        for a in arows:
+            src.append(f"  {tstr(a['title'])},")
+        src.append("))")
     with open(os.path.join(args.out, "sources.typ"), "w", encoding="utf-8") as f:
         f.write("\n".join(src) + "\n")
     book = ['#import "template.typ": *', "#show: book-setup", '#include "front.typ"', "#body-start()"] + includes + \
            ['#include "sources.typ"']
     with open(os.path.join(args.out, "book.typ"), "w", encoding="utf-8") as f:
         f.write("\n".join(book) + "\n")
-    print(f"parts: {len(includes)}, chapters: {chap_no}, excerpts: {stats['excerpts']}, sources: {len(used_files)}")
+    print(f"parts: {len(includes)}, chapters: {chap_no}, excerpts: {stats['excerpts']}, sources: {len(used_files)}, articles: {len(used_articles)}")
 
 
 if __name__ == "__main__":

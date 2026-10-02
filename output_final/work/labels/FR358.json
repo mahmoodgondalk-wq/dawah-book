@@ -1,0 +1,3 @@
+{"file_id": "FR358", "type": "MIXED", "confidence": "medium", "evidence": "A Christian Prince clip is played, then the host asks an unnamed guest about it and the guest answers.",
+ "speakers": [[1, 8, "Clip"], [9, 13, "Farid Responds"], [14, 23, "Guest"], [24, 25, "Clip"]],
+ "doubts": [[9, 13, "questioner assumed to be host; short interjections may be guest"], [24, 25, "replayed CP sound bite"]]}

@@ -1,0 +1,3 @@
+{"file_id": "FR293", "type": "REACTION", "confidence": "high", "evidence": "Farid plays short clips of Sameer on the Sana'a palimpsest and rebuts them, reading the academic paper aloud.",
+ "speakers": [[1, 11, "Farid Responds"], [12, 12, "Clip"], [13, 15, "Farid Responds"], [16, 24, "Clip"], [25, 51, "Farid Responds"], [52, 53, "Clip"], [54, 59, "Farid Responds"], [60, 63, "Clip"], [64, 73, "Farid Responds"], [74, 75, "Clip"], [76, 79, "Farid Responds"], [80, 80, "Clip"]],
+ "doubts": [[26, 26, "single word may be replayed clip audio"], [53, 53, "clip ends mid-segment"], [59, 60, "clip resumes mid-segment"]]}

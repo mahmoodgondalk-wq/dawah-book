@@ -20,6 +20,8 @@ For every chapter of your part (see seed_taxonomy.json; include NEW proposals):
 5. NEW proposals: either merge them into an existing chapter of your part (preferred) or keep a new chapter with a neutral title (give it code `<PART>.N1`, `<PART>.N2`, ...).
 6. Chapter titles: keep the seed titles; you may adjust a title only to describe its content more accurately (neutral wording).
 
+Entries whose RANGE_ID starts with `ARTICLE:` are whole written articles (embedded as their original PDF pages). Place each one, unchanged, in the sub-chapter that fits it best (or give it its own sub-chapter named after its subject); within a sub-chapter put it after the video passages on the same point.
+
 Every RANGE_ID of the input must appear exactly once in your output (in one sub-chapter, or in `moves`).
 
 ## Output: `output_final/work/consolidation/<PART>_out.json`

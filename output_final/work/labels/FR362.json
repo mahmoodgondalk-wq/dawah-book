@@ -1,0 +1,3 @@
+{"file_id": "FR362", "type": "CONVERSATION", "confidence": "low", "evidence": "After a short CP clip on the Black Stone, the host quizzes two unnamed people by phone on who stole it; captions are garbled.",
+ "speakers": [[1, 6, "Clip"], [7, 12, "Farid Responds"], [13, 14, "Guest"], [15, 19, "Farid Responds"], [20, 28, "Guest"], [29, 45, "Farid Responds"], [46, 50, "Guest 2"], [51, 54, "Farid Responds"], [55, 56, "Clip"]],
+ "doubts": [[7, 54, "garbled captions; quiz turn boundaries approximate"], [39, 41, "unclear who says this; may be second respondent"], [46, 50, "second respondent assumed distinct from first"], [55, 56, "replayed CP sound bite"]]}

@@ -134,6 +134,10 @@ def parse_book():
                 recs.append(("turn", {"file": fid, "segs": ks, "label": label, "dash": dash_ks,
                                        "call_label": strs[0], "paras": strs[1:], "is_host_call": call.startswith("#host("),
                                        "excerpt": excerpt, "where": f"{os.path.basename(p)}:{i + 2}"}))
+            elif line.startswith("// ARTICLE "):
+                parts = line.split()
+                recs.append(("article", {"id": parts[2], "pages": int(parts[3].split(":")[1]), "sha": parts[4].split(":")[1],
+                                          "call": lines[i + 1], "where": f"{os.path.basename(p)}:{i + 2}"}))
             elif line.startswith("// R "):
                 call = lines[i + 1]
                 if not call.startswith("#refbox("):
@@ -141,8 +145,8 @@ def parse_book():
                     continue
                 recs.append(("ref", {"file": line[5:].strip(), "strings": parse_tstrings(call), "excerpt": excerpt,
                                       "where": f"{os.path.basename(p)}:{i + 2}"}))
-            elif line.startswith("#host(") or line.startswith("#other(") or line.startswith("#refbox("):
-                if not lines[i - 1].startswith("// T ") and not lines[i - 1].startswith("// R "):
+            elif line.startswith("#host(") or line.startswith("#other(") or line.startswith("#refbox(") or line.startswith("#article(") or line.startswith("#wide-article("):
+                if not (lines[i - 1].startswith("// T ") or lines[i - 1].startswith("// R ") or lines[i - 1].startswith("// ARTICLE ")):
                     recs.append(("error", f"{p}:{i + 1}: call without its ID comment"))
     return recs
 
@@ -216,8 +220,37 @@ def main():
             cites = approved.get(ex["file"], {}) if ex else {}
             if not ex or not any(rf in cites.get(str(k), []) for k in ex["host_segs"]):
                 errF.append(f"{r['where']}: reference box {rf} not cited by a host segment of the excerpt above it")
+    # ---------- articles (A: unaltered original pages; B: every article and every page exactly once) ----------
+    import hashlib, subprocess
+    arts = {a["file_id"]: a for a in json.load(open(os.path.join(WORK, "articles.json"), encoding="utf-8"))}
+    seen_art = {}
+    for kind, r in recs:
+        if kind != "article":
+            continue
+        a = arts.get(r["id"])
+        seen_art[r["id"]] = seen_art.get(r["id"], 0) + 1
+        if not a:
+            errA.append(f"{r['where']}: unknown article {r['id']}")
+            continue
+        path = os.path.join(ROOT, a["folder"], a["file_name"])
+        sha = hashlib.sha256(open(path, "rb").read()).hexdigest()
+        if sha != a["sha256"] or sha != r["sha"]:
+            errA.append(f"{r['where']}: article file {a['file_name']} differs from the input recorded in articles.json")
+        info = subprocess.run(["pdfinfo", path], capture_output=True, text=True).stdout
+        npages = int([l for l in info.split("\n") if l.startswith("Pages:")][0].split()[1])
+        strs = parse_tstrings(r["call"])
+        if strs[0] != "Farid Responds" or strs[1] != f'Source: Farid Responds, article "{a["title"]}"' or strs[2] != "/" + a["folder"] + "/" + a["file_name"]:
+            errA.append(f"{r['where']}: article call arguments do not match articles.json")
+        if r["call"].startswith("#article("):
+            m = re.search(r",\s*(\d+)\)\s*$", r["call"])
+            if not m or int(m.group(1)) != npages or r["pages"] != npages:
+                errA.append(f"{r['where']}: article {r['id']} does not include all {npages} pages")
+        elif not (npages == 1 and a.get("wide_slices")):
+            errA.append(f"{r['where']}: wide-article used for a multi-page PDF")
+    errB_art = [f"article {k} not in the book" for k in arts if k not in seen_art] + \
+               [f"article {k} appears {c} times" for k, c in seen_art.items() if c > 1]
     # ---------- B ----------
-    errB = []
+    errB = list(errB_art)
     missing = []
     for fid, d in segs.items():
         if fid not in spk:
@@ -245,7 +278,7 @@ def main():
     # reference text never inside speaker text
     ref_texts = set()
     for p in glob.glob(os.path.join(WORK, "references", "*.json")):
-        if os.path.basename(p) == "approved_refs.json":
+        if not re.match(r"^(quran|hadith|shamela)_", os.path.basename(p)) or os.path.basename(p).startswith("quran_chapters"):
             continue
         ref = json.load(open(p, encoding="utf-8"))
         if ref.get("kind") == "quran":
@@ -266,6 +299,7 @@ def main():
     summary = {
         "files": len(segs), "labeled_files": len(labels), "turns_in_book": n_turns, "reference_boxes": n_refs,
         "host_segments_total": nhost, "host_segments_in_book": len(host_count),
+        "articles_in_book": len(seen_art), "articles_total": len(arts),
     }
     with open(os.path.join(ROOT, "output_final", "work", "verify_results.json"), "w", encoding="utf-8") as f:
         json.dump({"summary": summary, "errors": results}, f, ensure_ascii=False, indent=1)
