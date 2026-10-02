@@ -1,0 +1,18 @@
+{"file_id": "FR257",
+ "ranges": [[1,45,"P07.C04","Epilepsy claim: introduction and guest","overview"],
+  [46,128,"P07.C04","Epilepsy claim: diagnosis from historical reports","response"],
+  [129,216,"P07.C04","Epilepsy claim: absence of risk factors","argument"],
+  [217,284,"P07.C04","Epilepsy claim: case reports and absence seizures","response"],
+  [285,375,"P07.C04","Epilepsy claim: Napoleon and leadership","response"],
+  [376,482,"P07.C04","Epilepsy claim: no witnessed seizures","argument"],
+  [483,558,"P07.C04","Epilepsy claim: postictal psychosis","response"],
+  [559,675,"P07.C04","Epilepsy claim: ringing bell as aura","response"],
+  [676,808,"P07.C04","Epilepsy claim: lip movement during revelation","response"],
+  [809,848,"P07.C04","Epilepsy claim: sound like bees","response"],
+  [849,974,"P07.C04","Epilepsy claim: snorting during revelation","response"],
+  [975,1014,"P07.C04","Epilepsy claim: bias in the research method","response"],
+  [1015,1109,"P07.C04","Epilepsy claim: sweating and pain during revelation","response"],
+  [1110,1148,"P07.C04","Epilepsy claim: miracles witnessed by others","conclusion"],
+  [1149,1160,"P16.C01","Closing remarks","other"]],
+ "refs": []
+}
