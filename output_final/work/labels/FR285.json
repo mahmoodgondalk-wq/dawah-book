@@ -1,0 +1,3 @@
+{"file_id": "FR285", "type": "REACTION", "confidence": "high", "evidence": "Farid plays short parts of an ex-Muslim video on allegedly invented Quranic words and refutes each.",
+ "speakers": [[1, 4, "Farid Responds"], [5, 7, "Clip"], [8, 10, "Farid Responds"], [11, 19, "Clip"], [20, 56, "Farid Responds"], [57, 58, "Clip"], [59, 70, "Farid Responds"], [71, 85, "Clip"], [86, 121, "Farid Responds"], [122, 127, "Clip"], [128, 213, "Farid Responds"]],
+ "doubts": [[4, 4, "clip starts mid-segment"], [10, 11, "clip resumes mid-segment"], [20, 20, "clip ends mid-segment"], [57, 57, "clip starts mid-segment"], [71, 71, "clip starts mid-segment"], [86, 86, "clip ends mid-segment"], [122, 122, "clip replay starts mid-segment"]]}

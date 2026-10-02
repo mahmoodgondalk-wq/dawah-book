@@ -7,8 +7,13 @@ All scripts are in `work/scripts/`. Run them from the repository root.
 - Script: `python3 output_final/work/scripts/normalize_segment.py` (deterministic; also regenerates `work/view/*.txt`, which is git-ignored)
 - 774 .txt files (424 The Muslim Lantern, 350 Farid Responds) -> `work/segments/<file_id>.json`, index in `work/files.csv`
 - 355,663 segments, 3,226,878 words. Join check (D) passes for all files.
-- 8 non-.txt files ignored (PDFs in `Farid Responds/`), listed in `work/ignored_files.txt`.
-  Reason: INSTRUCTIONS section 1 ("Ignore any file that is not a .txt file"); this rule was added to INSTRUCTIONS.md after the PDFs were uploaded.
+- The 8 PDFs in `Farid Responds/` were first set aside (INSTRUCTIONS section 1), but the USER THEN SAID: "don't ignore the PDF articles".
+  They are now included as ARTICLES (metadata: `work/articles.json`, ids FA01-FA08, sha256 of each input file).
+  Method (fidelity first): the original PDF pages are embedded unaltered (vector) in the book, one original page per book page
+  (`article()` in book/template.typ); the very wide one-page isnad diagram (FA03) is shown in 6 overlapping landscape slices
+  (view cropping only). No text is re-extracted, so Arabic, footnotes, tables and diagrams stay exactly as published.
+  Each article is labeled `Farid Responds:` with `Source: Farid Responds, article "<title>"` and placed by topic.
+  Typst root = repository root (the PDFs are referenced in place as "/Farid Responds/<file>").
 
 ## Stage 3: LABEL (classification + speakers + topic ranges) — IN PROGRESS
 - Guide: `work/LABELING_GUIDE.md`; seed chapter codes: `work/seed_taxonomy.json`; validator: `work/scripts/validate_labels.py`
@@ -17,7 +22,7 @@ All scripts are in `work/scripts/`. Run them from the repository root.
 - Each batch is labeled by one subagent with the identical prompt in `work/scripts/agent_prompt.txt` (replace {FILES}).
 - Outputs: `work/labels/<id>.json` (type, confidence, evidence, speaker ranges, doubts), `work/topics/<id>.json` (topic ranges, refs).
 - Pilot (ML043, FR054, FR002, ML001) done and checked.
-- Labeling status: TOTAL 220/774 files labeled; complete batches: 19/152 (as of 2026-10-02 09:04 UTC)
+- Labeling status: TOTAL 297/774 files labeled; complete batches: 22/152 (as of 2026-10-02 09:09 UTC)
 - After all batches: run `python3 output_final/work/scripts/fixups.py` (idempotent) and `make_classification.py`.
 ## Stage 4: TAXONOMY + MAPPING — NOT STARTED
 ## Stage 5: REFERENCE TEXTS — NOT STARTED

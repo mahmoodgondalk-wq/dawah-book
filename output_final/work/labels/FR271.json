@@ -1,0 +1,7 @@
+{"file_id": "FR271",
+ "type": "REACTION",
+ "confidence": "medium",
+ "evidence": "Farid plays a Jay Smith and Al Fadi clip on a Hafs/Warsh word difference and responds; auto-captions without punctuation.",
+ "speakers": [[1, 13, "Farid Responds"], [14, 50, "Clip"], [51, 61, "Farid Responds"], [62, 63, "Clip"], [64, 67, "Farid Responds"], [68, 104, "Clip"], [105, 180, "Farid Responds"]],
+ "doubts": [[14, 14, "clip starts mid-segment"], [19, 19, "'let's carry on' may be host pausing"], [61, 61, "clip quote starts mid-segment"], [64, 64, "host resumes mid-segment; garbled words"], [103, 104, "clip speaker or host sarcasm unclear"]]
+}

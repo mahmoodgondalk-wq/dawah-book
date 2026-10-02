@@ -144,3 +144,35 @@
     }
   ]
 }
+
+// ---------- articles (embedded original PDF pages, unaltered) ----------
+// Each page of the original PDF is placed, scaled to fit, on its own book page.
+#let article(label, src, path, npages) = {
+  for p in range(1, npages + 1) {
+    page(margin: (inside: 14mm, outside: 12mm, top: 22mm, bottom: 18mm))[
+      #if p == 1 [#block(below: 2mm)[#text(weight: "bold")[#label:]]]
+      #align(center + top, block(width: 100%, height: if p == 1 or p == npages { 236mm } else { 245mm })[
+        #align(center, image(path, page: p, width: 100%, height: 100%, fit: "contain"))
+      ])
+      #if p == npages { source(src) }
+    ]
+  }
+}
+
+// A very wide single-page diagram: shown in overlapping landscape slices (view cropping only).
+// ratio = page width / page height of the original.
+#let wide-article(label, src, path, ratio, slices) = {
+  let pw = 297mm - 24mm
+  let ph = 210mm - 32mm - 12mm
+  let w = ph * ratio
+  let step = (w - pw) / (slices - 1)
+  for i in range(slices) {
+    page(flipped: true, margin: (x: 12mm, top: 20mm, bottom: 12mm))[
+      #block(below: 2mm)[#if i == 0 [#text(weight: "bold")[#label:]] #h(1fr) #text(size: 8pt, fill: c-src)[(#(i + 1)/#slices)]]
+      #block(width: pw, height: ph, clip: true)[
+        #place(top + left, dx: -step * i, image(path, width: w, height: ph, fit: "stretch"))
+      ]
+      #if i == slices - 1 { source(src) }
+    ]
+  }
+}

@@ -1,0 +1,3 @@
+{"file_id": "FR316", "type": "REACTION", "confidence": "low", "evidence": "Farid plays an old CP debate clip attributed to him, interjecting to contrast his own pronunciation.",
+ "speakers": [[1, 24, "Farid Responds"], [25, 29, "Clip"], [30, 30, "Farid Responds"], [31, 32, "Clip"], [33, 33, "Farid Responds"], [34, 38, "Clip"], [39, 40, "Farid Responds"], [41, 41, "Clip"], [42, 43, "Farid Responds"], [44, 47, "Clip"], [48, 59, "Farid Responds"]],
+ "doubts": [[24, 25, "clip starts mid-segment"], [30, 50, "garbled auto-captions; host pronunciation interjections and clip turns interleave mid-segment"]]}

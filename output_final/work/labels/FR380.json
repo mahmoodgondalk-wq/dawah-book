@@ -1,0 +1,3 @@
+{"file_id": "FR380", "type": "REACTION", "confidence": "medium", "evidence": "Narrator who calls himself Gibran (not Farid) plays Apostate Prophet reading the stars-as-missiles verse and rebuts it.",
+ "speakers": [[1, 4, "Gibran"], [5, 41, "Clip"], [42, 71, "Gibran"], [72, 77, "Clip"], [78, 170, "Gibran"]],
+ "doubts": [[1, 170, "narrator introduces himself as Gibran, a channel contributor; not the host Farid"], [71, 71, "clip starts mid-segment (auto-captions)"], [78, 78, "clip ends mid-segment (auto-captions)"]]}

@@ -1,0 +1,3 @@
+{"file_id": "FR312", "type": "REACTION", "confidence": "high", "evidence": "Farid replies to a Christian Prince video, twice playing his short page-number remark, then comments alone.",
+ "speakers": [[1, 22, "Farid Responds"], [23, 24, "Clip"], [25, 31, "Farid Responds"], [32, 33, "Clip"], [34, 103, "Farid Responds"], [104, 105, "Clip"]],
+ "doubts": [[24, 24, "host reply starts mid-segment"], [33, 33, "host resumes mid-segment"], [104, 105, "garbled closing words; possibly an inserted sound bite"]]}

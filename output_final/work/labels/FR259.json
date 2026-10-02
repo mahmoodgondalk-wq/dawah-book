@@ -1,0 +1,5 @@
+{"file_id": "FR259", "type": "SOLO", "confidence": "low",
+ "evidence": "Only four one-word auto-caption fragments; no dialogue cues, attributed to the host by default.",
+ "speakers": [[1,4,"Farid Responds"]],
+ "doubts": [[1,4,"fragmentary captions; speaker cannot be determined"]]
+}

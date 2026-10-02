@@ -1,0 +1,3 @@
+{"file_id": "FR354", "type": "REACTION", "confidence": "high", "evidence": "Farid plays Christian Prince challenging a caller to read Quran, then points out his reading errors.",
+ "speakers": [[1, 8, "Farid Responds"], [9, 24, "Clip"], [25, 38, "Farid Responds"], [39, 43, "Clip"], [44, 47, "Farid Responds"], [48, 53, "Clip"]],
+ "doubts": [[24, 24, "clip ends mid-segment"], [38, 38, "clip resumes mid-segment"], [43, 43, "clip ends mid-segment"], [48, 48, "host goodbye then replayed clip in one segment"]]}

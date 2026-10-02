@@ -1,0 +1,5 @@
+{"file_id": "FR262", "type": "CONVERSATION", "confidence": "low",
+ "evidence": "Excerpt of a talk with an unnamed Quran translator about qira'at; the interviewer refers to what the guest told him before.",
+ "speakers": [[1,54,"Guest"],[55,63,"Farid Responds"],[64,93,"Guest"]],
+ "doubts": [[1,21,"opening framing could be Farid rather than the guest"],[22,37,"scripted passage, possibly a read-out or voice-over"],[55,63,"interviewer assumed to be Farid"]]
+}

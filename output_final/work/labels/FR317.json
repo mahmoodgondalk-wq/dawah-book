@@ -1,0 +1,3 @@
+{"file_id": "FR317", "type": "REACTION", "confidence": "high", "evidence": "Farid plays Christian Prince clips for lies 102-107 and rebuts each one alone.",
+ "speakers": [[1, 15, "Farid Responds"], [16, 19, "Clip"], [20, 23, "Farid Responds"], [24, 33, "Clip"], [34, 41, "Farid Responds"], [42, 52, "Clip"], [53, 67, "Farid Responds"], [68, 74, "Clip"], [75, 80, "Farid Responds"], [81, 96, "Clip"], [97, 100, "Farid Responds"], [101, 102, "Clip"]],
+ "doubts": [[23, 24, "clip starts mid-segment after host names the lie"], [42, 42, "host names lie, clip starts mid-segment"], [68, 68, "host names lie, clip starts mid-segment"], [90, 92, "could be host remark; CP in clip assumed"], [101, 102, "closing sound bite of CP"]]}

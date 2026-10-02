@@ -1,0 +1,3 @@
+{"file_id": "FR319", "type": "REACTION", "confidence": "medium", "evidence": "Farid replays the lie-one clip, then plays CP's exchange with a Muslim caller about Paul and comments.",
+ "speakers": [[1, 3, "Farid Responds"], [4, 11, "Clip"], [12, 17, "Farid Responds"], [18, 25, "Clip"], [26, 28, "Farid Responds"], [29, 36, "Clip"], [37, 57, "Farid Responds"], [58, 60, "Clip"]],
+ "doubts": [[12, 15, "host recording: replay of Farid's earlier lie-one commentary"], [18, 18, "clip starts mid-segment"], [26, 26, "host resumes mid-segment"], [57, 58, "closing CP sound bite starts mid-segment"]]}

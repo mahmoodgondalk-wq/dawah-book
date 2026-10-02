@@ -1,0 +1,5 @@
+{"file_id": "FR258", "type": "REACTION", "confidence": "high",
+ "evidence": "Farid plays David Wood's video on Ibn Masud's reading of Surat al-Layl and responds between excerpts.",
+ "speakers": [[1,5,"Farid Responds"],[6,36,"Clip"],[37,43,"Farid Responds"],[44,47,"Clip"],[48,53,"Farid Responds"],[54,75,"Clip"],[76,270,"Farid Responds"]],
+ "doubts": [[5,6,"clip may start mid-segment 5"],[209,211,"'anyone who doubts a word' may be a played clip, not Farid"]]
+}

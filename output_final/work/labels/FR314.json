@@ -1,0 +1,3 @@
+{"file_id": "FR314", "type": "REACTION", "confidence": "medium", "evidence": "Farid replays his earlier clip and plays Christian Prince's reply on a Fath al-Bari reference, rebutting it.",
+ "speakers": [[1, 15, "Farid Responds"], [16, 18, "Clip"], [19, 25, "Farid Responds"], [26, 27, "Clip"], [28, 31, "Farid Responds"], [32, 33, "Clip"], [34, 38, "Farid Responds"], [39, 39, "Clip"]],
+ "doubts": [[7, 11, "host recording: Farid replays his own clip from the previous video"], [15, 15, "CP clip starts mid-segment"], [26, 26, "garbled; may be host or CP clip"], [33, 33, "host resumes mid-segment"], [39, 39, "truncated closing bite, likely CP clip"]]}
