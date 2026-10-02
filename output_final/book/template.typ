@@ -9,7 +9,7 @@
 #let c-rule = rgb("#c4c4c4")
 #let c-bar = rgb("#b8c2cc")
 
-#let body-fonts = ("Source Serif 4", "Amiri", "Noto Naskh Arabic", "Noto Serif Hebrew", "DejaVu Sans", "WenQuanYi Zen Hei", "Noto Color Emoji")
+#let body-fonts = ("Source Serif 4", "Amiri", "Noto Naskh Arabic", "Noto Serif Hebrew", "DejaVu Sans", "FreeSerif", "WenQuanYi Zen Hei", "Noto Color Emoji")
 #let arabic-fonts = ("Amiri", "Noto Naskh Arabic", "Source Serif 4", "DejaVu Sans")
 
 // ---------- page furniture ----------
