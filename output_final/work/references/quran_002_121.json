@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "2:121",
+ "label": "Reference text: Quran 2:121, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/2/121?translations=20",
+ "urls_fetched": [
+  "https://quran.com/2/121?translations=20"
+ ],
+ "retrieved_utc": "2026-10-02T09:02:50Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "2:121",
+   "raw": "Those to whom We have given the Book recite it with its true recital.<sup foot_note=254047>1</sup> They [are the ones who] believe in it. And whoever disbelieves in it - it is they who are the losers.",
+   "text": "Those to whom We have given the Book recite it with its true recital. They [are the ones who] believe in it. And whoever disbelieves in it - it is they who are the losers.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

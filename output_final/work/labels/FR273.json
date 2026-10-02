@@ -1,0 +1,3 @@
+{"file_id": "FR273", "type": "REACTION", "confidence": "high", "evidence": "Farid plays two David Wood clips on stealth jihad and responds alone.",
+ "speakers": [[1, 9, "Farid Responds"], [10, 50, "Clip"], [51, 62, "Farid Responds"], [63, 71, "Clip"], [72, 130, "Farid Responds"]],
+ "doubts": [[50, 50, "clip ends mid-segment; host pause words at end"], [63, 63, "clip starts mid-segment after host request"], [71, 71, "clip ends mid-segment; host resumes"]]}

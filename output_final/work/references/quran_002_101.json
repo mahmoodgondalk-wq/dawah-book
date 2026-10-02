@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "2:101",
+ "label": "Reference text: Quran 2:101, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/2/101?translations=20",
+ "urls_fetched": [
+  "https://quran.com/2/101?translations=20"
+ ],
+ "retrieved_utc": "2026-10-02T09:02:47Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "2:101",
+   "raw": "And when a messenger from Allāh came to them confirming that which was with them, a party of those who had been given the Scripture threw the Scripture of Allāh [i.e., the Torah] behind their backs as if they did not know [what it contained].",
+   "text": "And when a messenger from Allāh came to them confirming that which was with them, a party of those who had been given the Scripture threw the Scripture of Allāh [i.e., the Torah] behind their backs as if they did not know [what it contained].",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

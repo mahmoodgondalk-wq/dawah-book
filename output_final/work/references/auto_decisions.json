@@ -105,6 +105,13 @@
   "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
  },
  {
+  "file": "FR240",
+  "seg": 45,
+  "key": "quran:33:4-5",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
   "file": "ML001",
   "seg": 362,
   "key": "quran:4:59",

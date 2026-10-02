@@ -1,0 +1,27 @@
+{
+ "kind": "quran",
+ "ref": "11:45-46",
+ "label": "Reference text: Quran 11:45-46, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/11/45-46?translations=20",
+ "urls_fetched": [
+  "https://quran.com/11/45-46?translations=20",
+  "https://quran.com/11/46?translations=20"
+ ],
+ "retrieved_utc": "2026-10-02T09:02:28Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "11:45",
+   "raw": "And Noah called to his Lord and said, \"My Lord, indeed my son is of my family; and indeed, Your promise is true; and You are the most just of judges!\"",
+   "text": "And Noah called to his Lord and said, \"My Lord, indeed my son is of my family; and indeed, Your promise is true; and You are the most just of judges!\"",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "11:46",
+   "raw": "He said, \"O Noah, indeed he is not of your family; indeed, he is [one whose] work was other than righteous, so ask Me not for that about which you have no knowledge. Indeed, I advise you, lest you be among the ignorant.\"",
+   "text": "He said, \"O Noah, indeed he is not of your family; indeed, he is [one whose] work was other than righteous, so ask Me not for that about which you have no knowledge. Indeed, I advise you, lest you be among the ignorant.\"",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

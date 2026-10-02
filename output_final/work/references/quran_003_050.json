@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "3:50",
+ "label": "Reference text: Quran 3:50, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/3/50?translations=20",
+ "urls_fetched": [
+  "https://quran.com/3/50?translations=20"
+ ],
+ "retrieved_utc": "2026-10-02T09:03:02Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "3:50",
+   "raw": "And [I have come] confirming what was before me of the Torah and to make lawful for you some of what was forbidden to you. And I have come to you with a sign from your Lord, so fear Allāh and obey me.",
+   "text": "And [I have come] confirming what was before me of the Torah and to make lawful for you some of what was forbidden to you. And I have come to you with a sign from your Lord, so fear Allāh and obey me.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

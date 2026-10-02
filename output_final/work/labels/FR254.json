@@ -1,0 +1,5 @@
+{"file_id": "FR254", "type": "REACTION", "confidence": "high",
+ "evidence": "Farid plays excerpts of Yasir Qadhi's Karbala lecture and comments on the sources behind each excerpt.",
+ "speakers": [[1,8,"Farid Responds"],[9,14,"Clip"],[15,16,"Farid Responds"],[17,29,"Clip"],[30,35,"Farid Responds"],[36,50,"Clip"],[51,54,"Farid Responds"],[55,70,"Clip"],[71,76,"Farid Responds"],[77,81,"Clip"],[82,85,"Farid Responds"],[86,94,"Clip"],[95,101,"Farid Responds"],[102,106,"Clip"],[107,109,"Farid Responds"],[110,110,"Clip"]],
+ "doubts": [[14,14,"clip ends mid-segment; Farid's remark follows"],[30,30,"clip ends mid-segment"],[51,51,"clip ends mid-segment"],[95,95,"clip ends mid-segment"]]
+}

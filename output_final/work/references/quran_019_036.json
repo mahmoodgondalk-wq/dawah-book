@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "19:36",
+ "label": "Reference text: Quran 19:36, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/19/36?translations=20",
+ "urls_fetched": [
+  "https://quran.com/19/36?translations=20"
+ ],
+ "retrieved_utc": "2026-10-02T09:02:36Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "19:36",
+   "raw": "[Jesus said], \"And indeed, Allāh is my Lord and your Lord, so worship Him. That is a straight path.\"",
+   "text": "[Jesus said], \"And indeed, Allāh is my Lord and your Lord, so worship Him. That is a straight path.\"",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

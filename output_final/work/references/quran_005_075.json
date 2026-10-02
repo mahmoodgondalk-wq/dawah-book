@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "5:75",
+ "label": "Reference text: Quran 5:75, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/5/75?translations=20",
+ "urls_fetched": [
+  "https://quran.com/5/75?translations=20"
+ ],
+ "retrieved_utc": "2026-10-02T09:03:19Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "5:75",
+   "raw": "The Messiah, son of Mary, was not but a messenger; [other] messengers have passed on before him. And his mother was a supporter of truth. They both used to eat food.<sup foot_note=254283>1</sup> Look how We make clear to them the signs; then look how they are deluded.",
+   "text": "The Messiah, son of Mary, was not but a messenger; [other] messengers have passed on before him. And his mother was a supporter of truth. They both used to eat food. Look how We make clear to them the signs; then look how they are deluded.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

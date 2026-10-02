@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "2:113",
+ "label": "Reference text: Quran 2:113, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/2/113?translations=20",
+ "urls_fetched": [
+  "https://quran.com/2/113?translations=20"
+ ],
+ "retrieved_utc": "2026-10-02T09:02:48Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "2:113",
+   "raw": "The Jews say, \"The Christians have nothing [true] to stand on,\" and the Christians say, \"The Jews have nothing to stand on,\" although they [both] recite the Scripture. Thus do those who know not [i.e., the polytheists] speak the same as their words. But Allāh will judge between them on the Day of Resurrection concerning that over which they used to differ.",
+   "text": "The Jews say, \"The Christians have nothing [true] to stand on,\" and the Christians say, \"The Jews have nothing to stand on,\" although they [both] recite the Scripture. Thus do those who know not [i.e., the polytheists] speak the same as their words. But Allāh will judge between them on the Day of Resurrection concerning that over which they used to differ.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

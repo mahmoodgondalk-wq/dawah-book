@@ -1,0 +1,282 @@
+[
+ {
+  "file": "FR010",
+  "seg": 165,
+  "key": null,
+  "decision": "skip",
+  "reason": "Silsilat al-Ahadith al-Sahihah (al-Albani, 20th century) is not a classical book; shamela pagination/edition not certain"
+ },
+ {
+  "file": "FR010",
+  "seg": 166,
+  "key": null,
+  "decision": "skip",
+  "reason": "same citation as segment 165"
+ },
+ {
+  "file": "FR014",
+  "seg": 28,
+  "key": "quran:33:10",
+  "decision": "skip",
+  "reason": "only 'verse number 10' is stated; the surah is not named in the transcript"
+ },
+ {
+  "file": "FR014",
+  "seg": 45,
+  "key": "hadith:bukhari:4110",
+  "decision": "add",
+  "reason": "'Sahih al-Bukhari hadith number 4110' stated by the host"
+ },
+ {
+  "file": "FR058",
+  "seg": 103,
+  "key": "quran:2:118",
+  "decision": "skip",
+  "reason": "surah name garbled in the captions ('inah Bak'); not locatable with certainty"
+ },
+ {
+  "file": "FR091",
+  "seg": 56,
+  "key": "hadith:bukhari:666",
+  "decision": "skip",
+  "reason": "only 'Hadith number 666' is stated; the collection is not named in the transcript"
+ },
+ {
+  "file": "FR091",
+  "seg": 231,
+  "key": "hadith:bukhari:17",
+  "decision": "skip",
+  "reason": "only 'Hadith number 17' is stated; the collection is not named in the transcript"
+ },
+ {
+  "file": "FR103",
+  "seg": 181,
+  "key": "quran:6:115",
+  "decision": "add",
+  "reason": "digits '6115' in the captions; the only valid surah:verse reading is 6:115"
+ },
+ {
+  "file": "FR103",
+  "seg": 398,
+  "key": "quran:5:41",
+  "decision": "skip",
+  "reason": "digits '541' are ambiguous (5:41 or 54:1)"
+ },
+ {
+  "file": "FR103",
+  "seg": 402,
+  "key": "quran:2:75",
+  "decision": "skip",
+  "reason": "digits '275' are ambiguous (2:75 or 27:5)"
+ },
+ {
+  "file": "FR103",
+  "seg": 189,
+  "key": null,
+  "decision": "skip",
+  "reason": "'chapter 10:1 15' is garbled; verse not certain"
+ },
+ {
+  "file": "FR109",
+  "seg": 128,
+  "key": "quran:3:3-4",
+  "decision": "skip",
+  "reason": "captions say '33 or 34'; ambiguous"
+ },
+ {
+  "file": "FR109",
+  "seg": 133,
+  "key": "quran:7:157",
+  "decision": "add",
+  "reason": "digits '7157'; the only valid surah:verse reading is 7:157"
+ },
+ {
+  "file": "FR109",
+  "seg": 173,
+  "key": "quran:7:157",
+  "decision": "add",
+  "reason": "digits '7157'; the only valid surah:verse reading is 7:157"
+ },
+ {
+  "file": "FR109",
+  "seg": 187,
+  "key": "quran:5:42",
+  "decision": "add",
+  "reason": "'verse 42' continues the explicit reference 'chapter 5: 41' (segment 183)"
+ },
+ {
+  "file": "FR109",
+  "seg": 189,
+  "key": "quran:5:43",
+  "decision": "add",
+  "reason": "'verse 43' continues the explicit reference 'chapter 5: 41' (segment 183)"
+ },
+ {
+  "file": "FR118",
+  "seg": 47,
+  "key": "quran:6:37",
+  "decision": "skip",
+  "reason": "digits '637' are ambiguous (6:37 or 63:7)"
+ },
+ {
+  "file": "FR118",
+  "seg": 64,
+  "key": "quran:41:53",
+  "decision": "skip",
+  "reason": "digits '4153' are ambiguous (41:53 or 4:153)"
+ },
+ {
+  "file": "FR118",
+  "seg": 76,
+  "key": "quran:2:118",
+  "decision": "skip",
+  "reason": "digits '2118' are ambiguous (2:118 or 21:18)"
+ },
+ {
+  "file": "FR118",
+  "seg": 177,
+  "key": "quran:2:118",
+  "decision": "skip",
+  "reason": "digits '2118' are ambiguous (2:118 or 21:18)"
+ },
+ {
+  "file": "FR172",
+  "seg": 43,
+  "key": null,
+  "decision": "skip",
+  "reason": "book title garbled ('ibn hajjar's tehavib'); edition and pagination cannot be matched on shamela.ws with certainty"
+ },
+ {
+  "file": "FR172",
+  "seg": 44,
+  "key": null,
+  "decision": "skip",
+  "reason": "same citation as segment 43"
+ },
+ {
+  "file": "FR172",
+  "seg": 52,
+  "key": null,
+  "decision": "skip",
+  "reason": "book named only earlier and garbled; edition and pagination cannot be matched on shamela.ws with certainty"
+ },
+ {
+  "file": "FR037",
+  "seg": 101,
+  "key": null,
+  "decision": "skip",
+  "reason": "Bible reference (Mark 14:61): never added"
+ },
+ {
+  "file": "ML043",
+  "seg": 128,
+  "key": null,
+  "decision": "skip",
+  "reason": "Bible reference (Acts 21:21): never added"
+ },
+ {
+  "file": "FR124",
+  "seg": 1253,
+  "key": null,
+  "decision": "skip",
+  "reason": "page of a PDF document, not a classical book reference"
+ },
+ {
+  "file": "FR124",
+  "seg": 1254,
+  "key": null,
+  "decision": "skip",
+  "reason": "page of a PDF document, not a classical book reference"
+ },
+ {
+  "file": "FR133",
+  "seg": 78,
+  "key": null,
+  "decision": "skip",
+  "reason": "Ahmadi literature, not a classical Islamic book"
+ },
+ {
+  "file": "FR133",
+  "seg": 84,
+  "key": null,
+  "decision": "skip",
+  "reason": "Tadhkirah (Ahmadi literature), not a classical Islamic book"
+ },
+ {
+  "file": "FR133",
+  "seg": 93,
+  "key": null,
+  "decision": "skip",
+  "reason": "Ahmadi literature, not a classical Islamic book"
+ },
+ {
+  "file": "FR133",
+  "seg": 164,
+  "key": null,
+  "decision": "skip",
+  "reason": "Ahmadi literature, not a classical Islamic book"
+ },
+ {
+  "file": "FR133",
+  "seg": 380,
+  "key": null,
+  "decision": "skip",
+  "reason": "Ahmadi literature, not a classical Islamic book"
+ },
+ {
+  "file": "FR148",
+  "seg": 165,
+  "key": null,
+  "decision": "skip",
+  "reason": "The Sealed Nectar (modern book), not a classical book"
+ },
+ {
+  "file": "FR148",
+  "seg": 174,
+  "key": null,
+  "decision": "skip",
+  "reason": "footnote source not named; not locatable"
+ },
+ {
+  "file": "FR148",
+  "seg": 186,
+  "key": null,
+  "decision": "skip",
+  "reason": "footnote source not named; not locatable"
+ },
+ {
+  "file": "FR172",
+  "seg": 40,
+  "key": null,
+  "decision": "skip",
+  "reason": "modern academic book (S. Nasser), not a classical Islamic book"
+ },
+ {
+  "file": "FR172",
+  "seg": 67,
+  "key": null,
+  "decision": "skip",
+  "reason": "modern academic book (S. Nasser), not a classical Islamic book"
+ },
+ {
+  "file": "FR172",
+  "seg": 74,
+  "key": null,
+  "decision": "skip",
+  "reason": "modern academic book (S. Nasser), not a classical Islamic book"
+ },
+ {
+  "file": "FR172",
+  "seg": 92,
+  "key": null,
+  "decision": "skip",
+  "reason": "modern academic book (S. Nasser), not a classical Islamic book"
+ },
+ {
+  "file": "FR172",
+  "seg": 156,
+  "key": null,
+  "decision": "skip",
+  "reason": "modern academic book (S. Nasser), not a classical Islamic book"
+ }
+]

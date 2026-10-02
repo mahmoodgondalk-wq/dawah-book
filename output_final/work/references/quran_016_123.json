@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "16:123",
+ "label": "Reference text: Quran 16:123, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/16/123?translations=20",
+ "urls_fetched": [
+  "https://quran.com/16/123?translations=20"
+ ],
+ "retrieved_utc": "2026-10-02T09:02:32Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "16:123",
+   "raw": "Then We revealed to you, [O Muḥammad], to follow the religion of Abraham, inclining toward truth; and he was not of those who associate with Allāh.",
+   "text": "Then We revealed to you, [O Muḥammad], to follow the religion of Abraham, inclining toward truth; and he was not of those who associate with Allāh.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "12:42",
+ "label": "Reference text: Quran 12:42, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/12/42?translations=20",
+ "urls_fetched": [
+  "https://quran.com/12/42?translations=20"
+ ],
+ "retrieved_utc": "2026-10-02T09:02:31Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "12:42",
+   "raw": "And he said to the one whom he knew would go free, \"Mention me before your master.\" But Satan made him forget the mention [to] his master, and he [i.e., Joseph] remained in prison several years.",
+   "text": "And he said to the one whom he knew would go free, \"Mention me before your master.\" But Satan made him forget the mention [to] his master, and he [i.e., Joseph] remained in prison several years.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

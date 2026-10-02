@@ -1,0 +1,32 @@
+{
+ "kind": "quran",
+ "ref": "4:163-165",
+ "label": "Reference text: Quran 4:163-165, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/4/163-165?translations=20",
+ "urls_fetched": [
+  "https://quran.com/4/163-165?translations=20"
+ ],
+ "retrieved_utc": "2026-10-02T09:03:10Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "4:163",
+   "raw": "Indeed, We have revealed to you, [O Muḥammad], as We revealed to Noah and the prophets after him. And We revealed to Abraham, Ishmael, Isaac, Jacob, the Descendants,<sup foot_note=254241>1</sup> Jesus, Job, Jonah, Aaron, and Solomon; and to David We gave the book [of Psalms].",
+   "text": "Indeed, We have revealed to you, [O Muḥammad], as We revealed to Noah and the prophets after him. And We revealed to Abraham, Ishmael, Isaac, Jacob, the Descendants, Jesus, Job, Jonah, Aaron, and Solomon; and to David We gave the book [of Psalms].",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "4:164",
+   "raw": "And [We sent] messengers about whom We have related [their stories] to you before and messengers about whom We have not related to you. And Allāh spoke to Moses with [direct] speech.",
+   "text": "And [We sent] messengers about whom We have related [their stories] to you before and messengers about whom We have not related to you. And Allāh spoke to Moses with [direct] speech.",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "4:165",
+   "raw": "[We sent] messengers as bringers of good tidings and warners so that mankind will have no argument against Allāh after the messengers. And ever is Allāh Exalted in Might and Wise.",
+   "text": "[We sent] messengers as bringers of good tidings and warners so that mankind will have no argument against Allāh after the messengers. And ever is Allāh Exalted in Might and Wise.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

@@ -16,6 +16,8 @@ FR118	47	quran:6:37	Quran 6:37	[quran: numbers not both literally present, Bible
 FR118	64	quran:41:53	Quran 41:53	[quran: numbers not both literally present, Bible context, or invalid verse]	ever-present witness over everything | 4153 of course naturally I argue that | our signs in the horizons refers to the
 FR118	76	quran:2:118	Quran 2:118	[quran: numbers not both literally present, Bible context, or invalid verse]	the signs clear for people of sure Faith | 2118 is the earliest chapter that's | revealed in Medina and of course as we
 FR118	177	quran:2:118	Quran 2:118	[quran: numbers not both literally present, Bible context, or invalid verse]	Converse carrying on we have a new | attempt to respond to 2118 which | explicitly says the signs were shown to
+FR172	43	None	Tahdhib al-Tahdhib vol. 1 p. 627	[book]	unanimously known to be a weak hadith | transmitter he references ibn hajjar's | tehavib volume 1 page 627 which has
+FR172	52	None	Tahdhib al-Tahdhib vol. 2 p. 250-251	[book]	nasser's work when we actually returned | his biography in volume 2 page 250 to | 251 we find scholars like legendi
 FR010	166	None	[page] page 111	[regex only]	Um if you actually look into his As-Silsilah Sahihah, okay, volume two of | his Silsilah Sahihah, uh page 111, he actually mentions he's actually referring to a different Hadith with the | same narrator, this uh Abdullah bin Rafa or Ubaydullah bin Abdurrahman bin Rafa, whatever his name is.
 FR014	45	None	[hadith] Bukhari hadith number 4110	[regex only]	In any case, when the battle ends, and when the Ahzab basically left Medina and returned, the prophet, peace be upon him, said something very important, which is the topic of today's video. | We find in Sahih al-Bukhari hadith number 4110. | At least this is in Arabic numbering.
 FR037	101	None	[chapcolon] chapter 14:61 [bible-context?]	[regex only]	And I believe that because Muhammad, peace be upon him, told us this. | And it's something that you actually find explicitly, again, that's the keyword, explicitly in the Gospel of Mark chapter 14:61. | And Muhammad, peace be upon him, also taught us that Christians have gone astray by turning Christ into a deity, something that he also never claimed.
@@ -27,4 +29,15 @@ FR133	84	None	[page] page 240	[regex only]	that he received a new revelation in 
 FR133	93	None	[page] page 244	[regex only]	that Jesus is dead oh and of course | at page 244 claims to be the Messiah the | Son of Mary so we have two types of
 FR133	164	None	[page] page 277	[regex only]	a prophecy that he had received this | prophecy was recorded page 277 which was | written and published in the year 1907.
 FR133	380	None	[page] page 231	[regex only]	telling him that his initial prophecy | failed he said the following page 231 | indicating that even if the timing of a
+FR148	165	None	[page] page 106	[regex only]	um the sealed nectar so here's an | example so on page 106 it says | um now it's talking about the
+FR148	174	None	[volpage] volume 1 page 57	[regex only]	it says | volume 1 page 57 and that's it it just | provides you with a reference right
+FR148	186	None	[volpage] volume 1 page 52	[regex only]	in the uh footnotes | the same source volume 1 page 52 | he adds
+FR172	40	None	[page] page 21	[regex only]	we return to shaadi's transmission of | variant readings page 21 we find him | making the unfounded claim that aslam is
+FR172	44	None	[volpage] volume 1 page 627	[regex only]	transmitter he references ibn hajjar's | tehavib volume 1 page 627 which has | absolutely nothing to do with the claim
+FR172	52	None	[volpage] volume 2 page 250	[regex only]	nasser's work when we actually returned | his biography in volume 2 page 250 to | 251 we find scholars like legendi
+FR172	67	None	[page] page 111	[regex only]	in transmission of variance readings | page 111 he makes the claim that the | seven slash 10 readers and their two
+FR172	74	None	[page] page 134	[regex only]	which shadi refutes in his second book | page 134 to 135 on page 131 shady | awkwardly tiptoes around the subject
+FR172	74	None	[page] page 131	[regex only]	which shadi refutes in his second book | page 134 to 135 on page 131 shady | awkwardly tiptoes around the subject
+FR172	92	None	[page] page 132	[regex only]	mine | in shadi's second canonization page 132 | he states that humble was a corrupt
+FR172	156	None	[page] page 40	[regex only]	ibn atla he says when speaking of the | on page 40 of transmission of variant | readings their origin was attributed to
 ML043	128	None	[glued] (Act21:21)	[regex only]	Then he goes and he lies by saying to James and others– | They say you're been accused of not following the law (Act21:21) | So he goes and pretends that he's following the law,

@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "5:41",
+ "label": "Reference text: Quran 5:41, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/5/41?translations=20",
+ "urls_fetched": [
+  "https://quran.com/5/41?translations=20"
+ ],
+ "retrieved_utc": "2026-10-02T09:03:15Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "5:41",
+   "raw": "O Messenger, let them not grieve you who hasten into disbelief – of those who say, \"We believe\" with their mouths, but their hearts believe not, and from among the Jews. [They are] avid listeners to falsehood, listening to another people who have not come to you.<sup foot_note=254271>1</sup> They distort words beyond their [proper] places [i.e., usages], saying, \"If you are given this,<sup foot_note=254272>2</sup> take it; but if you are not given it, then beware.\" But he for whom Allāh intends fitnah<sup foot_note=254270>3</sup> - never will you possess [power to do] for him a thing against Allāh. Those are the ones for whom Allāh does not intend to purify their hearts. For them in this world is disgrace, and for them in the Hereafter is a great punishment.",
+   "text": "O Messenger, let them not grieve you who hasten into disbelief – of those who say, \"We believe\" with their mouths, but their hearts believe not, and from among the Jews. [They are] avid listeners to falsehood, listening to another people who have not come to you. They distort words beyond their [proper] places [i.e., usages], saying, \"If you are given this, take it; but if you are not given it, then beware.\" But he for whom Allāh intends fitnah - never will you possess [power to do] for him a thing against Allāh. Those are the ones for whom Allāh does not intend to purify their hearts. For them in this world is disgrace, and for them in the Hereafter is a great punishment.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

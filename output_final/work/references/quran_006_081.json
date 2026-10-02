@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "6:81",
+ "label": "Reference text: Quran 6:81, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/6/81?translations=20",
+ "urls_fetched": [
+  "https://quran.com/6/81?translations=20"
+ ],
+ "retrieved_utc": "2026-10-02T09:03:21Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "6:81",
+   "raw": "And how should I fear what you associate while you do not fear that you have associated with Allāh that for which He has not sent down to you any authority? So which of the two parties has more right to security, if you should know?\"",
+   "text": "And how should I fear what you associate while you do not fear that you have associated with Allāh that for which He has not sent down to you any authority? So which of the two parties has more right to security, if you should know?\"",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

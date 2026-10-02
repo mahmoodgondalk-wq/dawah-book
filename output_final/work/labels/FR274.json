@@ -1,0 +1,3 @@
+{"file_id": "FR274", "type": "REACTION", "confidence": "high", "evidence": "Farid pauses a David Wood video several times to respond; ends with an edited Eucharist clip montage.",
+ "speakers": [[1, 8, "Farid Responds"], [9, 12, "Clip"], [13, 16, "Farid Responds"], [17, 30, "Clip"], [31, 39, "Farid Responds"], [40, 55, "Clip"], [56, 180, "Farid Responds"], [181, 204, "Clip"]],
+ "doubts": [[13, 13, "clip stops mid-segment; host note follows"], [30, 30, "clip ends mid-segment; host comment begins"], [55, 55, "clip ends mid-segment; host resumes"], [172, 180, "host recording: intro replayed as closing edit; 172 garbled"]]}

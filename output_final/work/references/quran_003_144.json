@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "3:144",
+ "label": "Reference text: Quran 3:144, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/3/144?translations=20",
+ "urls_fetched": [
+  "https://quran.com/3/144?translations=20"
+ ],
+ "retrieved_utc": "2026-10-02T09:03:01Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "3:144",
+   "raw": "Muḥammad is not but a messenger. [Other] messengers have passed on before him. So if he was to die or be killed, would you turn back on your heels [to unbelief]? And he who turns back on his heels will never harm Allāh at all; but Allāh will reward the grateful.",
+   "text": "Muḥammad is not but a messenger. [Other] messengers have passed on before him. So if he was to die or be killed, would you turn back on your heels [to unbelief]? And he who turns back on his heels will never harm Allāh at all; but Allāh will reward the grateful.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

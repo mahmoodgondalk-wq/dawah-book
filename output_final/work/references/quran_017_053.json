@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "17:53",
+ "label": "Reference text: Quran 17:53, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/17/53?translations=20",
+ "urls_fetched": [
+  "https://quran.com/17/53?translations=20"
+ ],
+ "retrieved_utc": "2026-10-02T09:02:33Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "17:53",
+   "raw": "And tell My servants to say that which is best. Indeed, Satan induces [dissension] among them. Indeed Satan is ever, to mankind, a clear enemy.",
+   "text": "And tell My servants to say that which is best. Indeed, Satan induces [dissension] among them. Indeed Satan is ever, to mankind, a clear enemy.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

@@ -540,6 +540,156 @@
   "context": "telling him that his initial prophecy | failed he said the following page 231 | indicating that even if the timing of a"
  },
  {
+  "file": "FR148",
+  "seg": 165,
+  "ref": "[page] page 106",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "Farid Responds",
+  "context": "um the sealed nectar so here's an | example so on page 106 it says | um now it's talking about the"
+ },
+ {
+  "file": "FR148",
+  "seg": 174,
+  "ref": "[volpage] volume 1 page 57",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "Farid Responds",
+  "context": "it says | volume 1 page 57 and that's it it just | provides you with a reference right"
+ },
+ {
+  "file": "FR148",
+  "seg": 186,
+  "ref": "[volpage] volume 1 page 52",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "Farid Responds",
+  "context": "in the uh footnotes | the same source volume 1 page 52 | he adds"
+ },
+ {
+  "file": "FR172",
+  "seg": 40,
+  "ref": "[page] page 21",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "Farid Responds",
+  "context": "we return to shaadi's transmission of | variant readings page 21 we find him | making the unfounded claim that aslam is"
+ },
+ {
+  "file": "FR172",
+  "seg": 43,
+  "ref": "Tahdhib al-Tahdhib vol. 1 p. 627",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "Farid Responds",
+  "context": "unanimously known to be a weak hadith | transmitter he references ibn hajjar's | tehavib volume 1 page 627 which has"
+ },
+ {
+  "file": "FR172",
+  "seg": 44,
+  "ref": "[volpage] volume 1 page 627",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "Farid Responds",
+  "context": "transmitter he references ibn hajjar's | tehavib volume 1 page 627 which has | absolutely nothing to do with the claim"
+ },
+ {
+  "file": "FR172",
+  "seg": 52,
+  "ref": "Tahdhib al-Tahdhib vol. 2 p. 250-251",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "Farid Responds",
+  "context": "nasser's work when we actually returned | his biography in volume 2 page 250 to | 251 we find scholars like legendi"
+ },
+ {
+  "file": "FR172",
+  "seg": 52,
+  "ref": "[volpage] volume 2 page 250",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "Farid Responds",
+  "context": "nasser's work when we actually returned | his biography in volume 2 page 250 to | 251 we find scholars like legendi"
+ },
+ {
+  "file": "FR172",
+  "seg": 67,
+  "ref": "[page] page 111",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "Farid Responds",
+  "context": "in transmission of variance readings | page 111 he makes the claim that the | seven slash 10 readers and their two"
+ },
+ {
+  "file": "FR172",
+  "seg": 74,
+  "ref": "[page] page 134",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "Farid Responds",
+  "context": "which shadi refutes in his second book | page 134 to 135 on page 131 shady | awkwardly tiptoes around the subject"
+ },
+ {
+  "file": "FR172",
+  "seg": 74,
+  "ref": "[page] page 131",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "Farid Responds",
+  "context": "which shadi refutes in his second book | page 134 to 135 on page 131 shady | awkwardly tiptoes around the subject"
+ },
+ {
+  "file": "FR172",
+  "seg": 92,
+  "ref": "[page] page 132",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "Farid Responds",
+  "context": "mine | in shadi's second canonization page 132 | he states that humble was a corrupt"
+ },
+ {
+  "file": "FR172",
+  "seg": 156,
+  "ref": "[page] page 40",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "Farid Responds",
+  "context": "ibn atla he says when speaking of the | on page 40 of transmission of variant | readings their origin was attributed to"
+ },
+ {
+  "file": "FR240",
+  "seg": 45,
+  "ref": "Quran 33:4-5",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "Farid Responds",
+  "context": "surah 33 verses 4 to 5 abolishing adoption in islam no | this is incorrect surah 33 verses 4 and 5 | were revealed before this adoption was already abolished"
+ },
+ {
+  "file": "FR240",
+  "seg": 45,
+  "ref": "[chapverse] surah 33 verses 4 and 5",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "Farid Responds",
+  "context": "surah 33 verses 4 to 5 abolishing adoption in islam no | this is incorrect surah 33 verses 4 and 5 | were revealed before this adoption was already abolished"
+ },
+ {
   "file": "ML001",
   "seg": 362,
   "ref": "Quran 4:59",

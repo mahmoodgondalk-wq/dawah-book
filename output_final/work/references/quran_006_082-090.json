@@ -1,0 +1,68 @@
+{
+ "kind": "quran",
+ "ref": "6:82-90",
+ "label": "Reference text: Quran 6:82-90, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/6/82-90?translations=20",
+ "urls_fetched": [
+  "https://quran.com/6/82-90?translations=20"
+ ],
+ "retrieved_utc": "2026-10-02T09:03:22Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "6:82",
+   "raw": "They who believe and do not mix their belief with injustice<sup foot_note=254328>1</sup> - those will have security, and they are [rightly] guided.",
+   "text": "They who believe and do not mix their belief with injustice - those will have security, and they are [rightly] guided.",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "6:83",
+   "raw": "And that was Our [conclusive] argument which We gave Abraham against his people. We raise by degrees whom We will. Indeed, your Lord is Wise and Knowing.",
+   "text": "And that was Our [conclusive] argument which We gave Abraham against his people. We raise by degrees whom We will. Indeed, your Lord is Wise and Knowing.",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "6:84",
+   "raw": "And We gave to him [i.e., Abraham] Isaac and Jacob - all [of them] We guided. And Noah, We guided before; and among his descendants, David and Solomon and Job and Joseph and Moses and Aaron. Thus do We reward the doers of good.",
+   "text": "And We gave to him [i.e., Abraham] Isaac and Jacob - all [of them] We guided. And Noah, We guided before; and among his descendants, David and Solomon and Job and Joseph and Moses and Aaron. Thus do We reward the doers of good.",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "6:85",
+   "raw": "And Zechariah and John and Jesus and Elias - and all were of the righteous.",
+   "text": "And Zechariah and John and Jesus and Elias - and all were of the righteous.",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "6:86",
+   "raw": "And Ishmael and Elisha and Jonah and Lot - and all [of them] We preferred over the worlds.",
+   "text": "And Ishmael and Elisha and Jonah and Lot - and all [of them] We preferred over the worlds.",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "6:87",
+   "raw": "And [some] among their fathers and their descendants and their brothers - and We chose them and We guided them to a straight path.",
+   "text": "And [some] among their fathers and their descendants and their brothers - and We chose them and We guided them to a straight path.",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "6:88",
+   "raw": "That is the guidance of Allāh by which He guides whomever He wills of His servants. But if they had associated others with Allāh, then worthless for them would be whatever they were doing.",
+   "text": "That is the guidance of Allāh by which He guides whomever He wills of His servants. But if they had associated others with Allāh, then worthless for them would be whatever they were doing.",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "6:89",
+   "raw": "Those are the ones to whom We gave the Scripture and authority and prophethood. But if they [i.e., the disbelievers] deny it, then We have entrusted it to a people who are not therein disbelievers.",
+   "text": "Those are the ones to whom We gave the Scripture and authority and prophethood. But if they [i.e., the disbelievers] deny it, then We have entrusted it to a people who are not therein disbelievers.",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "6:90",
+   "raw": "Those are the ones whom Allāh has guided, so from their guidance take an example. Say, \"I ask of you for it [i.e., this message] no payment. It is not but a reminder for the worlds.\"",
+   "text": "Those are the ones whom Allāh has guided, so from their guidance take an example. Say, \"I ask of you for it [i.e., this message] no payment. It is not but a reminder for the worlds.\"",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

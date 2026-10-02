@@ -1,0 +1,5 @@
+{"file_id": "FR255", "type": "SOLO", "confidence": "low",
+ "evidence": "Captions are only scattered nonsense auto-caption words; no dialogue cues, so attributed to the host by default.",
+ "speakers": [[1,18,"Farid Responds"]],
+ "doubts": [[1,18,"unintelligible auto-captions; speaker cannot be determined"]]
+}

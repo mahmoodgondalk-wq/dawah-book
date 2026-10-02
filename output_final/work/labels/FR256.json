@@ -1,0 +1,5 @@
+{"file_id": "FR256", "type": "REACTION", "confidence": "high",
+ "evidence": "Farid plays an ex-Muslim's epilepsy-theory video in short excerpts and interjects with brief rebuttals and sarcasm.",
+ "speakers": [[1,15,"Farid Responds"],[16,38,"Clip"],[39,65,"Farid Responds"],[66,77,"Clip"],[78,93,"Farid Responds"],[94,119,"Clip"],[120,121,"Farid Responds"],[122,127,"Clip"],[128,135,"Farid Responds"],[136,147,"Clip"],[148,161,"Farid Responds"],[162,169,"Clip"],[170,171,"Farid Responds"]],
+ "doubts": [[15,15,"isolated 'yeah' may start the clip"],[66,66,"'so we'll go now' could be Farid resuming the clip"],[120,120,"clip ends mid-segment before 'wow amazing point'"],[128,128,"clip ends mid-segment"]]
+}

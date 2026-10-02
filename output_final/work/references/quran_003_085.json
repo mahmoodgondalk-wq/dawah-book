@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "3:85",
+ "label": "Reference text: Quran 3:85, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/3/85?translations=20",
+ "urls_fetched": [
+  "https://quran.com/3/85?translations=20"
+ ],
+ "retrieved_utc": "2026-10-02T09:03:04Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "3:85",
+   "raw": "And whoever desires other than Islām as religion - never will it be accepted from him, and he, in the Hereafter, will be among the losers.",
+   "text": "And whoever desires other than Islām as religion - never will it be accepted from him, and he, in the Hereafter, will be among the losers.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

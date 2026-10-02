@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "12:41",
+ "label": "Reference text: Quran 12:41, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/12/41?translations=20",
+ "urls_fetched": [
+  "https://quran.com/12/41?translations=20"
+ ],
+ "retrieved_utc": "2026-10-02T09:02:29Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "12:41",
+   "raw": "O two companions of prison, as for one of you, he will give drink to his master of wine; but as for the other, he will be crucified, and the birds will eat from his head. The matter has been decreed about which you both inquire.\"",
+   "text": "O two companions of prison, as for one of you, he will give drink to his master of wine; but as for the other, he will be crucified, and the birds will eat from his head. The matter has been decreed about which you both inquire.\"",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "5:42",
+ "label": "Reference text: Quran 5:42, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/5/42?translations=20",
+ "urls_fetched": [
+  "https://quran.com/5/42?translations=20"
+ ],
+ "retrieved_utc": "2026-10-02T09:03:16Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "5:42",
+   "raw": "[They are] avid listeners to falsehood, devourers of [what is] unlawful. So if they come to you, [O Muḥammad], judge between them or turn away from them. And if you turn away from them - never will they harm you at all. And if you judge, judge between them with justice. Indeed, Allāh loves those who act justly.",
+   "text": "[They are] avid listeners to falsehood, devourers of [what is] unlawful. So if they come to you, [O Muḥammad], judge between them or turn away from them. And if you turn away from them - never will they harm you at all. And if you judge, judge between them with justice. Indeed, Allāh loves those who act justly.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

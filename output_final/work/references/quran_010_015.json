@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "10:15",
+ "label": "Reference text: Quran 10:15, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/10/15?translations=20",
+ "urls_fetched": [
+  "https://quran.com/10/15?translations=20"
+ ],
+ "retrieved_utc": "2026-10-02T09:02:24Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "10:15",
+   "raw": "And when Our verses are recited to them as clear evidences, those who do not expect the meeting with Us say, \"Bring us a Qur’ān other than this or change it.\" Say, [O Muḥammad], \"It is not for me to change it on my own accord. I only follow what is revealed to me. Indeed I fear, if I should disobey my Lord, the punishment of a tremendous Day.\"",
+   "text": "And when Our verses are recited to them as clear evidences, those who do not expect the meeting with Us say, \"Bring us a Qur’ān other than this or change it.\" Say, [O Muḥammad], \"It is not for me to change it on my own accord. I only follow what is revealed to me. Indeed I fear, if I should disobey my Lord, the punishment of a tremendous Day.\"",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

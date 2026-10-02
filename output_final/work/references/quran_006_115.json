@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "6:115",
+ "label": "Reference text: Quran 6:115, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/6/115?translations=20",
+ "urls_fetched": [
+  "https://quran.com/6/115?translations=20"
+ ],
+ "retrieved_utc": "2026-10-02T09:03:20Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "6:115",
+   "raw": "And the word of your Lord has been fulfilled in truth and in justice. None can alter His words, and He is the Hearing, the Knowing.",
+   "text": "And the word of your Lord has been fulfilled in truth and in justice. None can alter His words, and He is the Hearing, the Knowing.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

@@ -1,0 +1,3 @@
+{"file_id": "FR248", "type": "REACTION", "confidence": "high", "evidence": "Host speaks about qira'at, then plays a short David Wood clip (with ad) and responds; ends with a played clip.",
+ "speakers": [[1, 78, "Farid Responds"], [79, 104, "Clip"], [105, 106, "Farid Responds"], [107, 110, "Clip"], [111, 158, "Farid Responds"], [159, 163, "Clip"]],
+ "doubts": [[79, 79, "clip starts mid-segment"], [105, 107, "host interjects mid-sentence of the clip"], [110, 110, "clip ends mid-segment; host resumes"]]}

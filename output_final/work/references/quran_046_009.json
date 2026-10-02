@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "46:9",
+ "label": "Reference text: Quran 46:9, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/46/9?translations=20",
+ "urls_fetched": [
+  "https://quran.com/46/9?translations=20"
+ ],
+ "retrieved_utc": "2026-10-02T09:03:07Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "46:9",
+   "raw": "Say, \"I am not something new among the messengers,<sup foot_note=256618>1</sup> nor do I know what will be done with me or with you. I only follow that which is revealed to me, and I am not but a clear warner.\"",
+   "text": "Say, \"I am not something new among the messengers, nor do I know what will be done with me or with you. I only follow that which is revealed to me, and I am not but a clear warner.\"",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

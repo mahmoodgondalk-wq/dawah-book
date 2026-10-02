@@ -1,0 +1,26 @@
+{
+ "kind": "quran",
+ "ref": "33:4-5",
+ "label": "Reference text: Quran 33:4-5, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/33/4-5?translations=20",
+ "urls_fetched": [
+  "https://quran.com/33/4-5?translations=20"
+ ],
+ "retrieved_utc": "2026-10-02T09:02:58Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "33:4",
+   "raw": "Allāh has not made for a man two hearts in his interior. And He has not made your wives whom you declare unlawful<sup foot_note=255963>1</sup> your mothers. And He has not made your claimed [i.e., adopted] sons your [true] sons. That is [merely] your saying by your mouths, but Allāh says the truth, and He guides to the [right] way.",
+   "text": "Allāh has not made for a man two hearts in his interior. And He has not made your wives whom you declare unlawful your mothers. And He has not made your claimed [i.e., adopted] sons your [true] sons. That is [merely] your saying by your mouths, but Allāh says the truth, and He guides to the [right] way.",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "33:5",
+   "raw": "Call them<sup foot_note=255966>1</sup> by [the names of] their fathers; it is more just in the sight of Allāh. But if you do not know their fathers - then they are [still] your brothers in religion and those entrusted to you. And there is no blame upon you for that in which you have erred but [only for] what your hearts intended. And ever is Allāh Forgiving and Merciful.",
+   "text": "Call them by [the names of] their fathers; it is more just in the sight of Allāh. But if you do not know their fathers - then they are [still] your brothers in religion and those entrusted to you. And there is no blame upon you for that in which you have erred but [only for] what your hearts intended. And ever is Allāh Forgiving and Merciful.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

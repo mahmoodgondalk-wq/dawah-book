@@ -1,0 +1,3 @@
+{"file_id": "FR278", "type": "REACTION", "confidence": "high", "evidence": "Farid plays a David Wood video on Surah Corona in parts and rebuts it alone.",
+ "speakers": [[1, 12, "Farid Responds"], [13, 46, "Clip"], [47, 56, "Farid Responds"], [57, 67, "Clip"], [68, 76, "Farid Responds"], [77, 92, "Clip"], [93, 112, "Farid Responds"], [113, 123, "Clip"], [124, 140, "Farid Responds"], [141, 150, "Clip"], [151, 153, "Farid Responds"], [154, 155, "Clip"], [156, 316, "Farid Responds"]],
+ "doubts": [[13, 13, "clip starts mid-segment"], [68, 68, "clip ends mid-segment"], [112, 113, "clip resumes mid-segment 112"], [124, 124, "clip ends mid-segment"], [150, 156, "host interjects mid-sentence of clip"]]}

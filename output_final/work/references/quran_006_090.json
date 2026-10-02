@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "6:90",
+ "label": "Reference text: Quran 6:90, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/6/90?translations=20",
+ "urls_fetched": [
+  "https://quran.com/6/90?translations=20"
+ ],
+ "retrieved_utc": "2026-10-02T09:03:24Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "6:90",
+   "raw": "Those are the ones whom Allāh has guided, so from their guidance take an example. Say, \"I ask of you for it [i.e., this message] no payment. It is not but a reminder for the worlds.\"",
+   "text": "Those are the ones whom Allāh has guided, so from their guidance take an example. Say, \"I ask of you for it [i.e., this message] no payment. It is not but a reminder for the worlds.\"",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

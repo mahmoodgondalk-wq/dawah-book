@@ -1,0 +1,3 @@
+{"file_id": "FR276", "type": "REACTION", "confidence": "high", "evidence": "Farid plays a David Wood video on a convert and Quran 4:34, pausing to rebut it.",
+ "speakers": [[1, 4, "Farid Responds"], [5, 16, "Clip"], [17, 22, "Farid Responds"], [23, 24, "Clip"], [25, 26, "Farid Responds"], [27, 37, "Clip"], [38, 44, "Farid Responds"], [45, 46, "Clip"], [47, 47, "Farid Responds"], [48, 53, "Clip"], [54, 91, "Farid Responds"]],
+ "doubts": [[17, 17, "clip ends mid-segment"], [23, 23, "clip resumes mid-segment"], [27, 27, "host remark then clip resumes"], [45, 48, "host pauses and rewinds clip mid-segment"], [54, 55, "may still be clip naming Ibn Abbas"]]}
