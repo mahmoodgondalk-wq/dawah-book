@@ -1,0 +1,1002 @@
+[
+ {
+  "file": "FR010",
+  "seg": 165,
+  "ref": "Silsilah al-Ahadith as-Sahihah vol. 2 p. 111",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "Farid Responds",
+  "context": "And um I noticed something very interesting about this. | Um if you actually look into his As-Silsilah Sahihah, okay, volume two of | his Silsilah Sahihah, uh page 111, he actually mentions he's actually referring to a different Hadith with the"
+ },
+ {
+  "file": "FR010",
+  "seg": 166,
+  "ref": "[page] page 111",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "Farid Responds",
+  "context": "Um if you actually look into his As-Silsilah Sahihah, okay, volume two of | his Silsilah Sahihah, uh page 111, he actually mentions he's actually referring to a different Hadith with the | same narrator, this uh Abdullah bin Rafa or Ubaydullah bin Abdurrahman bin Rafa, whatever his name is."
+ },
+ {
+  "file": "FR011",
+  "seg": 45,
+  "ref": "Quran 12:41",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "Farid Responds",
+  "context": "Genesis 40:13 says, \"Within 3 days, Pharaoh will lift up your head and restore you to your position and you will put Pharaoh's cup in his hand just as you used to do when you were his cupbearer.\" | Quran 12:41 says, \"O two companions of prison, as for one of you, he will give drink to his master of wine.\" | Uh-huh."
+ },
+ {
+  "file": "FR011",
+  "seg": 45,
+  "ref": "[quran] Quran 12:41",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "Farid Responds",
+  "context": "Genesis 40:13 says, \"Within 3 days, Pharaoh will lift up your head and restore you to your position and you will put Pharaoh's cup in his hand just as you used to do when you were his cupbearer.\" | Quran 12:41 says, \"O two companions of prison, as for one of you, he will give drink to his master of wine.\" | Uh-huh."
+ },
+ {
+  "file": "FR011",
+  "seg": 51,
+  "ref": "Quran 12:42",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "Farid Responds",
+  "context": "Mention me to Pharaoh.\" | Quran 12:42 says, \"Mention me before your master, but Satan made him forget the mention to his master.\" | Once again, Genesis says Pharaoh."
+ },
+ {
+  "file": "FR011",
+  "seg": 51,
+  "ref": "[quran] Quran 12:42",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "Farid Responds",
+  "context": "Mention me to Pharaoh.\" | Quran 12:42 says, \"Mention me before your master, but Satan made him forget the mention to his master.\" | Once again, Genesis says Pharaoh."
+ },
+ {
+  "file": "FR014",
+  "seg": 28,
+  "ref": "Quran 33:10",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "Farid Responds",
+  "context": "And the the Quran preserves multiple reactions of the people of Medina towards what was going on. | One verse, uh verse number 10, says, \"Remember when they came at you from above you and from below you, and when eyes shifted in fear and hearts reached the throats, and you assumed about Allah various assumptions.\" | There the believers were tested and shaken with a severe shaking."
+ },
+ {
+  "file": "FR014",
+  "seg": 45,
+  "ref": "Sahih al-Bukhari 4110",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "Farid Responds",
+  "context": "In any case, when the battle ends, and when the Ahzab basically left Medina and returned, the prophet, peace be upon him, said something very important, which is the topic of today's video. | We find in Sahih al-Bukhari hadith number 4110. | At least this is in Arabic numbering."
+ },
+ {
+  "file": "FR014",
+  "seg": 45,
+  "ref": "[hadith] Bukhari hadith number 4110",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "Farid Responds",
+  "context": "In any case, when the battle ends, and when the Ahzab basically left Medina and returned, the prophet, peace be upon him, said something very important, which is the topic of today's video. | We find in Sahih al-Bukhari hadith number 4110. | At least this is in Arabic numbering."
+ },
+ {
+  "file": "FR037",
+  "seg": 101,
+  "ref": "[chapcolon] chapter 14:61 [bible-context?]",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "Farid Responds",
+  "context": "And I believe that because Muhammad, peace be upon him, told us this. | And it's something that you actually find explicitly, again, that's the keyword, explicitly in the Gospel of Mark chapter 14:61. | And Muhammad, peace be upon him, also taught us that Christians have gone astray by turning Christ into a deity, something that he also never claimed."
+ },
+ {
+  "file": "FR058",
+  "seg": 103,
+  "ref": "Quran 2:118",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "Farid Responds",
+  "context": "that signs were given to Muhammad peace | be upon him like inah Bak verse | 118 now if you want a more thorough"
+ },
+ {
+  "file": "FR078",
+  "seg": 136,
+  "ref": "Quran 2:89",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "Farid Responds",
+  "context": "just blurted out the numbers: 40 to 44 | chapter 2 vers 89 chapter 2 verse 91 | chapter 2 verse 101 chapter 2 verse 113"
+ },
+ {
+  "file": "FR078",
+  "seg": 136,
+  "ref": "Quran 2:91",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "Farid Responds",
+  "context": "just blurted out the numbers: 40 to 44 | chapter 2 vers 89 chapter 2 verse 91 | chapter 2 verse 101 chapter 2 verse 113"
+ },
+ {
+  "file": "FR078",
+  "seg": 136,
+  "ref": "[chapverse] chapter 2 verse 91",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "Farid Responds",
+  "context": "just blurted out the numbers: 40 to 44 | chapter 2 vers 89 chapter 2 verse 91 | chapter 2 verse 101 chapter 2 verse 113"
+ },
+ {
+  "file": "FR078",
+  "seg": 137,
+  "ref": "Quran 2:101",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "Farid Responds",
+  "context": "chapter 2 vers 89 chapter 2 verse 91 | chapter 2 verse 101 chapter 2 verse 113 | chapter 2 verse 121 chapter 2 verse 136"
+ },
+ {
+  "file": "FR078",
+  "seg": 137,
+  "ref": "Quran 2:113",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "Farid Responds",
+  "context": "chapter 2 vers 89 chapter 2 verse 91 | chapter 2 verse 101 chapter 2 verse 113 | chapter 2 verse 121 chapter 2 verse 136"
+ },
+ {
+  "file": "FR078",
+  "seg": 137,
+  "ref": "[chapverse] chapter 2 verse 101",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "Farid Responds",
+  "context": "chapter 2 vers 89 chapter 2 verse 91 | chapter 2 verse 101 chapter 2 verse 113 | chapter 2 verse 121 chapter 2 verse 136"
+ },
+ {
+  "file": "FR078",
+  "seg": 137,
+  "ref": "[chapverse] chapter 2 verse 113",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "Farid Responds",
+  "context": "chapter 2 vers 89 chapter 2 verse 91 | chapter 2 verse 101 chapter 2 verse 113 | chapter 2 verse 121 chapter 2 verse 136"
+ },
+ {
+  "file": "FR078",
+  "seg": 138,
+  "ref": "Quran 2:121",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "Farid Responds",
+  "context": "chapter 2 verse 101 chapter 2 verse 113 | chapter 2 verse 121 chapter 2 verse 136 | and of course David sees nothing wrong"
+ },
+ {
+  "file": "FR078",
+  "seg": 138,
+  "ref": "Quran 2:136",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "Farid Responds",
+  "context": "chapter 2 verse 101 chapter 2 verse 113 | chapter 2 verse 121 chapter 2 verse 136 | and of course David sees nothing wrong"
+ },
+ {
+  "file": "FR078",
+  "seg": 138,
+  "ref": "[chapverse] chapter 2 verse 121",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "Farid Responds",
+  "context": "chapter 2 verse 101 chapter 2 verse 113 | chapter 2 verse 121 chapter 2 verse 136 | and of course David sees nothing wrong"
+ },
+ {
+  "file": "FR078",
+  "seg": 138,
+  "ref": "[chapverse] chapter 2 verse 136",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "Farid Responds",
+  "context": "chapter 2 verse 101 chapter 2 verse 113 | chapter 2 verse 121 chapter 2 verse 136 | and of course David sees nothing wrong"
+ },
+ {
+  "file": "FR091",
+  "seg": 56,
+  "ref": "Sahih al-Bukhari 666",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "Farid Responds",
+  "context": "666 let's zoom | in all right this is Hadith number | 666 on a very cold and stormy night"
+ },
+ {
+  "file": "FR091",
+  "seg": 231,
+  "ref": "Sahih al-Bukhari 17",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "Farid Responds",
+  "context": "number um what was it Hadith number | 17 Hadith number 17 | as you can see here we're looking at"
+ },
+ {
+  "file": "FR109",
+  "seg": 128,
+  "ref": "Quran 3:3-4",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "Farid Responds",
+  "context": "positively about what's included in the | T and inil like in 33 or 34 which | mentions that the Bible includes"
+ },
+ {
+  "file": "FR109",
+  "seg": 133,
+  "ref": "Quran 7:157",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "Farid Responds",
+  "context": "not being preserved and I'll give an | example of that later on or 7157 which | speaks of Muhammad peace be upon him"
+ },
+ {
+  "file": "FR109",
+  "seg": 161,
+  "ref": "Quran 3:85",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "Farid Responds",
+  "context": "before Islam was revealed the evidence | for this is in chap | 3:85 which states that no religion will"
+ },
+ {
+  "file": "FR109",
+  "seg": 173,
+  "ref": "Quran 7:157",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "Farid Responds",
+  "context": "mentioned earlier in | 7157 however I don't mind granting David | what he wants and accepting that this"
+ },
+ {
+  "file": "FR109",
+  "seg": 183,
+  "ref": "Quran 5:41",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "Farid Responds",
+  "context": "the position that these texts are not | preserved let's return to chapter 5: 41 | allaha speaks of Jews that approached"
+ },
+ {
+  "file": "FR109",
+  "seg": 183,
+  "ref": "[chapcolon] chapter 5: 41",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "Farid Responds",
+  "context": "the position that these texts are not | preserved let's return to chapter 5: 41 | allaha speaks of Jews that approached"
+ },
+ {
+  "file": "FR109",
+  "seg": 187,
+  "ref": "Quran 5:42",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "Farid Responds",
+  "context": "about them as people that would tamper | with their scripture verse 42 elaborates | by showing that they came to him asking"
+ },
+ {
+  "file": "FR109",
+  "seg": 189,
+  "ref": "Quran 5:43",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "Farid Responds",
+  "context": "by showing that they came to him asking | him to rule upon them in a matter verse | 43 condemns them for coming to him for a"
+ },
+ {
+  "file": "ML001",
+  "seg": 362,
+  "ref": "Quran 4:59",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Is is there a verse? | I just told you the the the verse I told you chapter 4 of the Quran verse 59. | Okay."
+ },
+ {
+  "file": "ML043",
+  "seg": 128,
+  "ref": "[glued] (Act21:21)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Then he goes and he lies by saying to James and others– | They say you're been accused of not following the law (Act21:21) | So he goes and pretends that he's following the law,"
+ },
+ {
+  "file": "ML043",
+  "seg": 361,
+  "ref": "Quran 10:62",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "That's why we're not worried when Jesus comes back | We're not worried because we are on the side of the Truth (Yunus10:62) | We're doing what Jesus did (alAnaam6:82-90)"
+ },
+ {
+  "file": "ML043",
+  "seg": 361,
+  "ref": "[glued] (Yunus10:62)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "That's why we're not worried when Jesus comes back | We're not worried because we are on the side of the Truth (Yunus10:62) | We're doing what Jesus did (alAnaam6:82-90)"
+ },
+ {
+  "file": "ML043",
+  "seg": 362,
+  "ref": "Quran 6:82-90",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "We're not worried because we are on the side of the Truth (Yunus10:62) | We're doing what Jesus did (alAnaam6:82-90) | Jesus worshiped one God, we worship one God (alBaqara2:136)"
+ },
+ {
+  "file": "ML043",
+  "seg": 362,
+  "ref": "[glued] (alAnaam6:82-90)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "We're not worried because we are on the side of the Truth (Yunus10:62) | We're doing what Jesus did (alAnaam6:82-90) | Jesus worshiped one God, we worship one God (alBaqara2:136)"
+ },
+ {
+  "file": "ML043",
+  "seg": 363,
+  "ref": "Quran 2:136",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "We're doing what Jesus did (alAnaam6:82-90) | Jesus worshiped one God, we worship one God (alBaqara2:136) | He fell on his face, he prayed."
+ },
+ {
+  "file": "ML043",
+  "seg": 363,
+  "ref": "[glued] (alBaqara2:136)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "We're doing what Jesus did (alAnaam6:82-90) | Jesus worshiped one God, we worship one God (alBaqara2:136) | He fell on his face, he prayed."
+ },
+ {
+  "file": "ML043",
+  "seg": 365,
+  "ref": "Quran 48:29",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "He fell on his face, he prayed. | We fall on our face and we pray (alFath48:29) | We don't eat pork (alMaida5:3)."
+ },
+ {
+  "file": "ML043",
+  "seg": 365,
+  "ref": "[glued] (alFath48:29)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "He fell on his face, he prayed. | We fall on our face and we pray (alFath48:29) | We don't eat pork (alMaida5:3)."
+ },
+ {
+  "file": "ML043",
+  "seg": 366,
+  "ref": "Quran 5:3",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "We fall on our face and we pray (alFath48:29) | We don't eat pork (alMaida5:3). | We fast (alBaqara2:183)."
+ },
+ {
+  "file": "ML043",
+  "seg": 366,
+  "ref": "[glued] (alMaida5:3)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "We fall on our face and we pray (alFath48:29) | We don't eat pork (alMaida5:3). | We fast (alBaqara2:183)."
+ },
+ {
+  "file": "ML043",
+  "seg": 367,
+  "ref": "Quran 2:183",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "We don't eat pork (alMaida5:3). | We fast (alBaqara2:183). | He didn't eat pork and fasted"
+ },
+ {
+  "file": "ML043",
+  "seg": 367,
+  "ref": "[glued] (alBaqara2:183)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "We don't eat pork (alMaida5:3). | We fast (alBaqara2:183). | He didn't eat pork and fasted"
+ },
+ {
+  "file": "ML043",
+  "seg": 369,
+  "ref": "Quran 24:31",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "He didn't eat pork and fasted | Our women are covered by Hijab (anNur24:31), like his mother was covered by a Hijab | Why do we need to worry then?"
+ },
+ {
+  "file": "ML043",
+  "seg": 369,
+  "ref": "[glued] (anNur24:31)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "He didn't eat pork and fasted | Our women are covered by Hijab (anNur24:31), like his mother was covered by a Hijab | Why do we need to worry then?"
+ },
+ {
+  "file": "ML043",
+  "seg": 371,
+  "ref": "Quran 46:13",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Why do we need to worry then? | (alAhqaf46:13) He followed the law, we follow the law-the law of God! | Why worry then?"
+ },
+ {
+  "file": "ML043",
+  "seg": 371,
+  "ref": "[glued] (alAhqaf46:13)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Why do we need to worry then? | (alAhqaf46:13) He followed the law, we follow the law-the law of God! | Why worry then?"
+ },
+ {
+  "file": "ML043",
+  "seg": 373,
+  "ref": "Quran 6:81",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Why worry then? | (alAnaam6:81) | Christians come, they think they got a gotcha moment, \"Jesus is coming back!\""
+ },
+ {
+  "file": "ML043",
+  "seg": 373,
+  "ref": "[glued] (alAnaam6:81)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Why worry then? | (alAnaam6:81) | Christians come, they think they got a gotcha moment, \"Jesus is coming back!\""
+ },
+ {
+  "file": "ML043",
+  "seg": 380,
+  "ref": "Quran 22:77",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "when he came, he came with the same thing | He said, you prostrate to God, fall on your face and you pray (alHajj22:77) | You wear the hijab (anNur24:31)"
+ },
+ {
+  "file": "ML043",
+  "seg": 380,
+  "ref": "[glued] (alHajj22:77)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "when he came, he came with the same thing | He said, you prostrate to God, fall on your face and you pray (alHajj22:77) | You wear the hijab (anNur24:31)"
+ },
+ {
+  "file": "ML043",
+  "seg": 381,
+  "ref": "Quran 24:31",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "He said, you prostrate to God, fall on your face and you pray (alHajj22:77) | You wear the hijab (anNur24:31) | Satan is your greatest enemy (alIsra17:53)"
+ },
+ {
+  "file": "ML043",
+  "seg": 381,
+  "ref": "[glued] (anNur24:31)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "He said, you prostrate to God, fall on your face and you pray (alHajj22:77) | You wear the hijab (anNur24:31) | Satan is your greatest enemy (alIsra17:53)"
+ },
+ {
+  "file": "ML043",
+  "seg": 382,
+  "ref": "Quran 17:53",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "You wear the hijab (anNur24:31) | Satan is your greatest enemy (alIsra17:53) | You worship God alone (Maryam19:36)"
+ },
+ {
+  "file": "ML043",
+  "seg": 382,
+  "ref": "[glued] (alIsra17:53)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "You wear the hijab (anNur24:31) | Satan is your greatest enemy (alIsra17:53) | You worship God alone (Maryam19:36)"
+ },
+ {
+  "file": "ML043",
+  "seg": 383,
+  "ref": "Quran 19:36",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Satan is your greatest enemy (alIsra17:53) | You worship God alone (Maryam19:36) | You fast (alBaqara2:183)"
+ },
+ {
+  "file": "ML043",
+  "seg": 383,
+  "ref": "[glued] (Maryam19:36)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Satan is your greatest enemy (alIsra17:53) | You worship God alone (Maryam19:36) | You fast (alBaqara2:183)"
+ },
+ {
+  "file": "ML043",
+  "seg": 384,
+  "ref": "Quran 2:183",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "You worship God alone (Maryam19:36) | You fast (alBaqara2:183) | Jesus was the Messiah, he was a Prophet and a Messenger sent by God (anNisa4:171)"
+ },
+ {
+  "file": "ML043",
+  "seg": 384,
+  "ref": "[glued] (alBaqara2:183)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "You worship God alone (Maryam19:36) | You fast (alBaqara2:183) | Jesus was the Messiah, he was a Prophet and a Messenger sent by God (anNisa4:171)"
+ },
+ {
+  "file": "ML043",
+  "seg": 385,
+  "ref": "Quran 4:171",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "You fast (alBaqara2:183) | Jesus was the Messiah, he was a Prophet and a Messenger sent by God (anNisa4:171) | as he said about himself (Maryam19:39)"
+ },
+ {
+  "file": "ML043",
+  "seg": 385,
+  "ref": "[glued] (anNisa4:171)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "You fast (alBaqara2:183) | Jesus was the Messiah, he was a Prophet and a Messenger sent by God (anNisa4:171) | as he said about himself (Maryam19:39)"
+ },
+ {
+  "file": "ML043",
+  "seg": 386,
+  "ref": "Quran 19:39",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Jesus was the Messiah, he was a Prophet and a Messenger sent by God (anNisa4:171) | as he said about himself (Maryam19:39) | And so did Abraham (Maryam19:41),"
+ },
+ {
+  "file": "ML043",
+  "seg": 386,
+  "ref": "[glued] (Maryam19:39)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Jesus was the Messiah, he was a Prophet and a Messenger sent by God (anNisa4:171) | as he said about himself (Maryam19:39) | And so did Abraham (Maryam19:41),"
+ },
+ {
+  "file": "ML043",
+  "seg": 387,
+  "ref": "Quran 19:41",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "as he said about himself (Maryam19:39) | And so did Abraham (Maryam19:41), | so did Moses (Maryam19:51),"
+ },
+ {
+  "file": "ML043",
+  "seg": 387,
+  "ref": "[glued] (Maryam19:41)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "as he said about himself (Maryam19:39) | And so did Abraham (Maryam19:41), | so did Moses (Maryam19:51),"
+ },
+ {
+  "file": "ML043",
+  "seg": 388,
+  "ref": "Quran 19:51",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "And so did Abraham (Maryam19:41), | so did Moses (Maryam19:51), | so did all of these people (anNisa4:163-165)"
+ },
+ {
+  "file": "ML043",
+  "seg": 388,
+  "ref": "[glued] (Maryam19:51)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "And so did Abraham (Maryam19:41), | so did Moses (Maryam19:51), | so did all of these people (anNisa4:163-165)"
+ },
+ {
+  "file": "ML043",
+  "seg": 389,
+  "ref": "Quran 4:163-165",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "so did Moses (Maryam19:51), | so did all of these people (anNisa4:163-165) | Now, the question is, why would you not accept Prophet Muhammad as a Prophet if this is the case?"
+ },
+ {
+  "file": "ML043",
+  "seg": 389,
+  "ref": "[glued] (anNisa4:163-165)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "so did Moses (Maryam19:51), | so did all of these people (anNisa4:163-165) | Now, the question is, why would you not accept Prophet Muhammad as a Prophet if this is the case?"
+ },
+ {
+  "file": "ML043",
+  "seg": 426,
+  "ref": "Quran 3:144",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Because just like Jesus was sent, | Moses was sent, Abraham was sent, Prophet Muhammad was sent (alimran3:144), | They're all Prophets coming from the same God."
+ },
+ {
+  "file": "ML043",
+  "seg": 426,
+  "ref": "[glued] (alimran3:144)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Because just like Jesus was sent, | Moses was sent, Abraham was sent, Prophet Muhammad was sent (alimran3:144), | They're all Prophets coming from the same God."
+ },
+ {
+  "file": "ML043",
+  "seg": 428,
+  "ref": "Quran 42:13",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "They're all Prophets coming from the same God. | They taught you the same thing (ashShura42:13) | – Exactly"
+ },
+ {
+  "file": "ML043",
+  "seg": 428,
+  "ref": "[glued] (ashShura42:13)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "They're all Prophets coming from the same God. | They taught you the same thing (ashShura42:13) | – Exactly"
+ },
+ {
+  "file": "ML043",
+  "seg": 481,
+  "ref": "Quran 33:40",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Now, before I let you go, the last thing I was telling you is this | The Prophet Muhammadﷺ was a Messenger (alAhzab33:40), a servant of God (alFurqan25:1) | Jesus is called the Messenger (alMaida5:75), and servant of God (Maryam19:30)"
+ },
+ {
+  "file": "ML043",
+  "seg": 481,
+  "ref": "Quran 25:1",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Now, before I let you go, the last thing I was telling you is this | The Prophet Muhammadﷺ was a Messenger (alAhzab33:40), a servant of God (alFurqan25:1) | Jesus is called the Messenger (alMaida5:75), and servant of God (Maryam19:30)"
+ },
+ {
+  "file": "ML043",
+  "seg": 481,
+  "ref": "[glued] (alAhzab33:40)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Now, before I let you go, the last thing I was telling you is this | The Prophet Muhammadﷺ was a Messenger (alAhzab33:40), a servant of God (alFurqan25:1) | Jesus is called the Messenger (alMaida5:75), and servant of God (Maryam19:30)"
+ },
+ {
+  "file": "ML043",
+  "seg": 481,
+  "ref": "[glued] (alFurqan25:1)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Now, before I let you go, the last thing I was telling you is this | The Prophet Muhammadﷺ was a Messenger (alAhzab33:40), a servant of God (alFurqan25:1) | Jesus is called the Messenger (alMaida5:75), and servant of God (Maryam19:30)"
+ },
+ {
+  "file": "ML043",
+  "seg": 482,
+  "ref": "Quran 5:75",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "The Prophet Muhammadﷺ was a Messenger (alAhzab33:40), a servant of God (alFurqan25:1) | Jesus is called the Messenger (alMaida5:75), and servant of God (Maryam19:30) | Moses was the Messenger and servant of God (Maryam19:51)"
+ },
+ {
+  "file": "ML043",
+  "seg": 482,
+  "ref": "Quran 19:30",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "The Prophet Muhammadﷺ was a Messenger (alAhzab33:40), a servant of God (alFurqan25:1) | Jesus is called the Messenger (alMaida5:75), and servant of God (Maryam19:30) | Moses was the Messenger and servant of God (Maryam19:51)"
+ },
+ {
+  "file": "ML043",
+  "seg": 482,
+  "ref": "[glued] (alMaida5:75)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "The Prophet Muhammadﷺ was a Messenger (alAhzab33:40), a servant of God (alFurqan25:1) | Jesus is called the Messenger (alMaida5:75), and servant of God (Maryam19:30) | Moses was the Messenger and servant of God (Maryam19:51)"
+ },
+ {
+  "file": "ML043",
+  "seg": 482,
+  "ref": "[glued] (Maryam19:30)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "The Prophet Muhammadﷺ was a Messenger (alAhzab33:40), a servant of God (alFurqan25:1) | Jesus is called the Messenger (alMaida5:75), and servant of God (Maryam19:30) | Moses was the Messenger and servant of God (Maryam19:51)"
+ },
+ {
+  "file": "ML043",
+  "seg": 483,
+  "ref": "Quran 19:51",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Jesus is called the Messenger (alMaida5:75), and servant of God (Maryam19:30) | Moses was the Messenger and servant of God (Maryam19:51) | Abraham was a Messenger and servant of God (Maryam19:41)"
+ },
+ {
+  "file": "ML043",
+  "seg": 483,
+  "ref": "[glued] (Maryam19:51)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Jesus is called the Messenger (alMaida5:75), and servant of God (Maryam19:30) | Moses was the Messenger and servant of God (Maryam19:51) | Abraham was a Messenger and servant of God (Maryam19:41)"
+ },
+ {
+  "file": "ML043",
+  "seg": 484,
+  "ref": "Quran 19:41",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Moses was the Messenger and servant of God (Maryam19:51) | Abraham was a Messenger and servant of God (Maryam19:41) | Prophet Muhammad told you to follow Jesus (alAnaam6:90)"
+ },
+ {
+  "file": "ML043",
+  "seg": 484,
+  "ref": "[glued] (Maryam19:41)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Moses was the Messenger and servant of God (Maryam19:51) | Abraham was a Messenger and servant of God (Maryam19:41) | Prophet Muhammad told you to follow Jesus (alAnaam6:90)"
+ },
+ {
+  "file": "ML043",
+  "seg": 485,
+  "ref": "Quran 6:90",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Abraham was a Messenger and servant of God (Maryam19:41) | Prophet Muhammad told you to follow Jesus (alAnaam6:90) | Jesus told you to follow Moses (alimran3:50)"
+ },
+ {
+  "file": "ML043",
+  "seg": 485,
+  "ref": "[glued] (alAnaam6:90)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Abraham was a Messenger and servant of God (Maryam19:41) | Prophet Muhammad told you to follow Jesus (alAnaam6:90) | Jesus told you to follow Moses (alimran3:50)"
+ },
+ {
+  "file": "ML043",
+  "seg": 486,
+  "ref": "Quran 3:50",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Prophet Muhammad told you to follow Jesus (alAnaam6:90) | Jesus told you to follow Moses (alimran3:50) | Moses told you to follow Abraham (anNahl16:123)"
+ },
+ {
+  "file": "ML043",
+  "seg": 486,
+  "ref": "[glued] (alimran3:50)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Prophet Muhammad told you to follow Jesus (alAnaam6:90) | Jesus told you to follow Moses (alimran3:50) | Moses told you to follow Abraham (anNahl16:123)"
+ },
+ {
+  "file": "ML043",
+  "seg": 487,
+  "ref": "Quran 16:123",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Jesus told you to follow Moses (alimran3:50) | Moses told you to follow Abraham (anNahl16:123) | All the Prophets have the same tradition of doing the same thing (alAnbiya21:25)"
+ },
+ {
+  "file": "ML043",
+  "seg": 487,
+  "ref": "[glued] (anNahl16:123)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Jesus told you to follow Moses (alimran3:50) | Moses told you to follow Abraham (anNahl16:123) | All the Prophets have the same tradition of doing the same thing (alAnbiya21:25)"
+ },
+ {
+  "file": "ML043",
+  "seg": 488,
+  "ref": "Quran 21:25",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Moses told you to follow Abraham (anNahl16:123) | All the Prophets have the same tradition of doing the same thing (alAnbiya21:25) | Nothing is new."
+ },
+ {
+  "file": "ML043",
+  "seg": 488,
+  "ref": "[glued] (alAnbiya21:25)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Moses told you to follow Abraham (anNahl16:123) | All the Prophets have the same tradition of doing the same thing (alAnbiya21:25) | Nothing is new."
+ },
+ {
+  "file": "ML043",
+  "seg": 491,
+  "ref": "Quran 46:9",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Allah says in the Quran قُلۡ مَا كُنتُ بِدۡعࣰا مِّنَ ٱلرُّسُلِ | (Say, I'm not an innovation of the Messengers) (alAhqaf46:9) | I'm not bringing something new here"
+ },
+ {
+  "file": "ML043",
+  "seg": 491,
+  "ref": "[glued] (alAhqaf46:9)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Allah says in the Quran قُلۡ مَا كُنتُ بِدۡعࣰا مِّنَ ٱلرُّسُلِ | (Say, I'm not an innovation of the Messengers) (alAhqaf46:9) | I'm not bringing something new here"
+ },
+ {
+  "file": "ML043",
+  "seg": 494,
+  "ref": "Quran 42:13",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "(Prophet Muhammad is not bringing anything new) | It's the same Message that came from God from the beginning (ashShura42:13) | – All right, Eric!"
+ },
+ {
+  "file": "ML043",
+  "seg": 494,
+  "ref": "[glued] (ashShura42:13)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "(Prophet Muhammad is not bringing anything new) | It's the same Message that came from God from the beginning (ashShura42:13) | – All right, Eric!"
+ }
+]

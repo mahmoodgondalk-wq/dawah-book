@@ -13,21 +13,15 @@
 #let arabic-fonts = ("Amiri", "Noto Naskh Arabic", "Source Serif 4", "DejaVu Sans")
 
 // ---------- page furniture ----------
+// Running header: the current chapter title, kept in a state that is cleared just before every
+// part/chapter page break (so a chapter's first page has no header) and set after the chapter heading.
+#let running = state("running-chapter", none)
 #let running-header = context {
-  let p = here().page()
-  let chs = query(heading.where(level: 2))
-  let cur = none
-  let starts-here = false
-  for h in chs {
-    let hp = h.location().page()
-    if hp < p { cur = h } else if hp == p { starts-here = true; break } else { break }
-  }
-  let parts = query(heading.where(level: 1))
-  let part-here = parts.any(h => h.location().page() == p)
-  if cur != none and not starts-here and not part-here {
+  let cur = running.get()
+  if cur != none {
     set text(size: 8.4pt, fill: c-src)
     block(width: 100%, below: 0pt)[
-      #grid(columns: (1fr, auto), align(left)[#emph(cur.body)], [])
+      #emph(cur)
       #v(-4pt)
       #line(length: 100%, stroke: 0.4pt + c-rule)
     ]
@@ -57,13 +51,14 @@
 
 #let book-setup(doc) = {
   set document(title: "The Muslim Lantern and Farid Responds: A Topical Compilation", author: ("The Muslim Lantern", "Farid Responds"))
-  set page(paper: "a4", margin: (inside: 27mm, outside: 23mm, top: 27mm, bottom: 25mm), binding: left,
+  set page(paper: "a4", margin: (inside: 30mm, outside: 25mm, top: 28mm, bottom: 26mm), binding: left,
            header: running-header, footer: running-footer)
-  set text(font: body-fonts, size: 10.8pt, lang: "en", hyphenate: true, fallback: true)
+  set text(font: body-fonts, size: 11.2pt, lang: "en", hyphenate: true, fallback: true)
   set par(justify: true, leading: 0.8em, spacing: 0.9em, first-line-indent: 0pt)
   show heading: set text(font: body-fonts, hyphenate: false)
   show heading: set par(justify: false)
   show heading.where(level: 1): it => {
+    running.update(none)
     pagebreak(weak: true)
     v(32%)
     align(center, block(width: 85%)[
@@ -73,6 +68,7 @@
     pagebreak()
   }
   show heading.where(level: 2): it => {
+    running.update(none)
     pagebreak(weak: true)
     v(10mm)
     block(width: 100%, below: 1.4em)[
@@ -81,6 +77,7 @@
       #v(-0.35em)
       #line(length: 100%, stroke: 0.6pt + c-rule)
     ]
+    running.update(it.body)
   }
   show heading.where(level: 3): it => {
     v(1.1em, weak: true)

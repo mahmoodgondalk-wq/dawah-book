@@ -21,8 +21,8 @@ WORK = os.path.join(ROOT, "output_final", "work")
 HOSTS = ("The Muslim Lantern", "Farid Responds")
 CONTEXT_WORDS = {"Clip": 70}
 DEFAULT_CONTEXT_WORDS = 90
-PARA_TARGET = 120
-PARA_MAX = 200
+PARA_TARGET = 100
+PARA_MAX = 150
 DASH_RE = re.compile(r"^[–-] ")
 
 _cache = {}

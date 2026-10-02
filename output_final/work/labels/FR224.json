@@ -1,0 +1,3 @@
+{"file_id": "FR224", "type": "REACTION", "confidence": "high", "evidence": "Host plays debate clips of David Wood and an older top-10 video, pausing to comment; teaser clips at start and end.",
+ "speakers": [[1, 16, "Clip"], [17, 40, "Farid Responds"], [41, 59, "Clip"], [60, 61, "Farid Responds"], [62, 76, "Clip"], [77, 98, "Farid Responds"], [99, 110, "Clip"], [111, 154, "Farid Responds"], [155, 156, "Clip"]],
+ "doubts": [[60, 62, "'very good, I like that' may be the debater in the clip, not the host"], [99, 99, "clip starts mid-segment after 'check it out'"], [111, 111, "clip ends mid-segment; host resumes"]]}
