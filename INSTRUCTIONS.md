@@ -2,17 +2,19 @@
 
 You are a meticulous transcript compiler and book typesetter working autonomously in a cloud session. You turn raw YouTube transcripts (and a few written articles) into ONE topic-based book in PDF, written in English. You are NOT an author, editor, summarizer, fact-checker or commentator. The words in the book belong entirely to the two people. You compile and arrange; you never alter.
 
-Input folder: `input/`. Output folder: `output_final/`. Process the whole corpus in one run.
+Input folders: `The Muslim Lantern/transcripts/` and `Farid Responds/` (both in the repository root; the folder names contain spaces, so always quote the paths in scripts). Output folder: `output_final/`. Process the whole corpus in one run.
 
 ---
 
 ## 1. INPUT
 
-The input folder has two subfolders:
-- `the-muslim-lantern/`: one .txt file per video of the channel "The Muslim Lantern".
-- `farid-responds/`: one .txt file per video of the channel "Farid Responds", PLUS a few files that are written ARTICLES published by Farid Responds (not videos).
+The input is in two folders in the repository root:
+- `The Muslim Lantern/transcripts/`: one .txt file per video of the channel "The Muslim Lantern".
+- `Farid Responds/`: one .txt file per video of the channel "Farid Responds", PLUS a few files that are written ARTICLES published by Farid Responds (not videos).
 
-Each file contains the TITLE and the RAW YouTube transcript: timestamps (e.g. "0:16", "6 seconds", "1 minute, 2 seconds"), possible YouTube chapter labels (e.g. "Chapter 3: Examining Christianity"), the text "Sync to video time", broken lines, and NO reliable indication of who is speaking. If a file has no clear title line, use the file name as the title.
+Read every .txt file in these two folders, including any subfolders. Ignore any file that is not a .txt file and mention it in the final report. The channel of a file is determined by the folder it is in.
+
+Each file contains the TITLE and the RAW YouTube transcript: timestamps (e.g. "0:16", "6 seconds", "1 minute, 2 seconds"), possible YouTube chapter labels (e.g. "Chapter 3: Examining Christianity"), the text "Sync to video time", broken lines, and NO reliable indication of who is speaking. If a file has no clear title line, use the file name (without extension) as the title.
 
 The two channels are NOT kept separate in the book. The book is ONE unified book organized by TOPIC; each passage is labeled with who said/wrote it and from which source. Process EVERY file. Do not skip or sample any.
 
@@ -51,15 +53,23 @@ IT IS FORBIDDEN TO VERIFY ANYTHING FROM EXTERNAL SOURCES. Do not search the web 
 
 ### 3.1 The only exception: reference texts shown on screen in the videos
 
-In the videos, Quran verses and Hadith often appear ON SCREEN with their source, but are not read aloud, so they are missing from the transcripts. You may add those texts, under these strict rules:
+In the videos, Quran verses, Hadith and passages from classical books often appear ON SCREEN with their source, but are not read aloud, so they are missing from the transcripts. You may add those texts, under these strict rules:
 
-1. TRIGGER: only when the transcript itself contains an explicit, locatable reference written in the speaker's text. For the Quran: a surah and verse number such as "(Quran4:124)", "Quran 50:35", "(Quran 50:38-39)", or a bare "(2:36)" that clearly continues a list of Quran references (e.g. "(Quran17:53) and (2:36) and (2:202)"). For Hadith: a named collection plus a number, such as "Sahih Bukhari 1234". If the transcript gives no locatable reference, add NOTHING: never guess from the meaning of the words, never search by text, never add a reference the speaker did not give.
-2. ONLY QURAN AND HADITH: references to the Bible or to any other book (e.g. "Genesis 32:26", "Mathew12:25-26", "1Corinthians14:34-35") are NEVER looked up or added.
-3. ALLOWED SOURCES ONLY: quran.com for Quran verses, using the Saheeh International English translation; sunnah.com for Hadith, using the English text as shown there. No other website, no other translation, no text from your own memory. If the text cannot be retrieved from these two sites for a given reference, add nothing and list that reference in the final report.
-4. VERBATIM: copy exactly what the site shows, by script, without any edit. For a verse range (e.g. 50:38-39) include each verse of the range in order. Save each retrieved text with its URL and source in `work/references/` and build the book from those saved files.
-5. PRESENTATION: a reference text is a separate, visually distinct box placed directly after the excerpt in which the reference is cited, labeled for example "Reference text: Quran 4:124, quran.com (Saheeh International)" or "Reference text: sunnah.com, Sahih al-Bukhari 1234". It is never merged into the speaker's text, never attributed to any speaker, and never given a speaker label. Place it after every excerpt that cites it.
+1. TRIGGER: only when the transcript itself contains an explicit, locatable reference written in the speaker's text.
+   - Quran: a surah and verse number such as "(Quran4:124)", "Quran 50:35", "(Quran 50:38-39)", or a bare "(2:36)" that clearly continues a list of Quran references (e.g. "(Quran17:53) and (2:36) and (2:202)").
+   - Hadith: a named collection plus a number, such as "Sahih Bukhari 1234".
+   - Classical books: the book title (or author and title) AND a volume and/or page number that locate the passage.
+   If the transcript gives no locatable reference, add NOTHING: never guess from the meaning of the words, never search by text, never add a reference the speaker did not give.
+2. ONLY QURAN, HADITH AND CLASSICAL ISLAMIC BOOKS: references to the Bible or to any other kind of book (e.g. "Genesis 32:26", "Mathew12:25-26", "1Corinthians14:34-35") are NEVER looked up or added.
+3. ALLOWED SOURCES ONLY:
+   - quran.com for Quran verses, using the Saheeh International English translation;
+   - sunnah.com for Hadith, using the English text as shown there;
+   - shamela.ws for passages of classical Islamic books, ONLY under the classical-books trigger of point 1. Copy the Arabic text exactly as shown on shamela.ws, with no translation, no transliteration and no added diacritics. If the book, volume or page is missing or ambiguous, or the passage cannot be found with certainty at that exact location, add nothing and list it in the final report.
+   No other website, no other translation, no text from your own memory. If the text cannot be retrieved from these sites for a given reference, add nothing and list that reference in the final report.
+4. VERBATIM: copy exactly what the site shows, by script, without any edit. For a verse range (e.g. 50:38-39) include each verse of the range in order. Save each retrieved text with its URL and source in `output_final/work/references/` and build the book from those saved files.
+5. PRESENTATION: a reference text is a separate, visually distinct box placed directly after the excerpt in which the reference is cited, labeled for example "Reference text: Quran 4:124, quran.com (Saheeh International)", "Reference text: sunnah.com, Sahih al-Bukhari 1234" or "Reference text: shamela.ws, [book title], vol. X, p. Y". It is never merged into the speaker's text, never attributed to any speaker, and never given a speaker label. Place it after every excerpt that cites it.
 6. NO JUDGMENT: never compare the reference text with what the speaker said, never comment on differences, never use it to correct or adjust the speaker's words.
-7. These two sites may be used ONLY for this purpose. Do not use them or anything else to verify any other claim.
+7. These sites may be used ONLY for this purpose. Do not use them or anything else to verify any other claim.
 
 ---
 
@@ -67,8 +77,8 @@ In the videos, Quran verses and Hadith often appear ON SCREEN with their source,
 
 You must NEVER retype, regenerate or "re-write from memory" any of the speakers' text. Text is only ever moved by code. Your judgment is used ONLY to produce labels and assignments that refer to segment IDs. The method:
 
-1. NORMALIZE (script): for each file, remove noise (section 2) with regular expressions and store the normalized text plus metadata (folder, file name, title, chapter labels with their position).
-2. SEGMENT (script): split the normalized text into small consecutive segments, each a verbatim substring, cut at (a) turn-change dashes and (b) sentence boundaries. Give each segment an ID like `<file_id>-<number>`. Check by script that joining the segments in order with single spaces reproduces the normalized text exactly. Save as `work/segments/<file_id>.json`.
+1. NORMALIZE (script): for each file, remove noise (section 2) with regular expressions and store the normalized text plus metadata (folder, file name, title, chapter labels with their position). Assign each file a short unique `file_id`.
+2. SEGMENT (script): split the normalized text into small consecutive segments, each a verbatim substring, cut at (a) turn-change dashes and (b) sentence boundaries. Give each segment an ID like `<file_id>-<number>`. Check by script that joining the segments in order with single spaces reproduces the normalized text exactly. Save as `output_final/work/segments/<file_id>.json`.
 3. LABEL (your judgment): for each file you output ONLY labels per segment ID (speaker for conversations/reactions; type; topic tags later). Labels are stored as JSON mapping segment IDs (or ID ranges) to labels. You never output the text itself as a deliverable.
 4. ASSEMBLE (script): the book is generated by code that pulls the text of the assigned segment IDs from the segment files, merging consecutive segments of the same speaker with a single space.
 5. VERIFY (script): see section 11.
@@ -83,7 +93,7 @@ Prefer Python scripts for everything mechanical (cleaning, splitting, merging, a
 - Keep all working files in `output_final/work/`.
 - Keep `output_final/PROGRESS.md`: after each stage (and every batch of files within a stage) write what is done and what remains. If the session is interrupted or restarted, or the user writes "continua", read `PROGRESS.md` first and RESUME from there without redoing finished work.
 - Commit and push `output_final/` to the session's working branch regularly (after every stage and every batch of files at least) so nothing is lost. Do not open a pull request unless asked.
-- Never modify `INSTRUCTIONS.md` or the input folders.
+- Never modify `INSTRUCTIONS.md` or the input folders (`The Muslim Lantern/` and `Farid Responds/`).
 
 ---
 
@@ -108,7 +118,7 @@ Save `output_final/work/classification.csv` with: folder, file name, title, assi
 
 ## 7. ARTICLES BY FARID RESPONDS
 
-Some files in `farid-responds/` are articles. The whole text is by `Farid Responds`. No speaker separation. Keep the text word for word, including its own punctuation, capitalization, headings and paragraph structure. Quotations inside an article stay inside the article text and are not separate speakers. Source label: *Source: Farid Responds, article "[title]"*. Articles are integrated by topic like everything else.
+Some files in `Farid Responds/` are articles. The whole text is by `Farid Responds`. No speaker separation. Keep the text word for word, including its own punctuation, capitalization, headings and paragraph structure. Quotations inside an article stay inside the article text and are not separate speakers. Source label: *Source: Farid Responds, article "[title]"*. Articles are integrated by topic like everything else.
 
 ---
 
@@ -135,7 +145,7 @@ Reaction videos and clips:
 
 Solo videos: everything is the host's.
 
-Save one file per source: `work/labels/<file_id>.json` (segment ID -> speaker, with doubt flags).
+Save one file per source: `output_final/work/labels/<file_id>.json` (segment ID -> speaker, with doubt flags).
 
 ---
 
@@ -149,8 +159,8 @@ Save one file per source: `work/labels/<file_id>.json` (segment ID -> speaker, w
 
 Method:
 a) Per file, tag ranges of segment IDs with free-form topic keywords (use the YouTube chapter labels as hints).
-b) Consolidate all keywords into one taxonomy (parts, chapters, subchapters) ordered by importance. Save `work/taxonomy.json`.
-c) Assign every passage to a taxonomy node with an order position. Save `work/mapping.json`: for each node, an ordered list of excerpts, each = (source file, first segment ID, last segment ID). Excerpts always start and end at segment (sentence) boundaries.
+b) Consolidate all keywords into one taxonomy (parts, chapters, subchapters) ordered by importance. Save `output_final/work/taxonomy.json`.
+c) Assign every passage to a taxonomy node with an order position. Save `output_final/work/mapping.json`: for each node, an ordered list of excerpts, each = (source file, first segment ID, last segment ID). Excerpts always start and end at segment (sentence) boundaries.
 
 ### 9.2 Completeness
 - Take EVERYTHING each host said or wrote about each topic, from ALL files. Do not select highlights; do not drop passages because they are repetitive.
@@ -171,7 +181,7 @@ c) Assign every passage to a taxonomy node with an order position. Save `work/ma
 Under each excerpt (or group), state the source exactly as in the input: *Source: The Muslim Lantern, "[video title]"* / *Source: Farid Responds, "[video title]"* / *Source: Farid Responds, article "[title]"*. Use the same formats everywhere.
 
 ### 9.6 Reference texts
-Where an excerpt cites a Quran or Hadith reference that qualifies under section 3.1, add the reference text box directly after that excerpt, exactly as section 3.1 prescribes.
+Where an excerpt cites a Quran, Hadith or classical-book reference that qualifies under section 3.1, add the reference text box directly after that excerpt, exactly as section 3.1 prescribes.
 
 ---
 
@@ -194,10 +204,10 @@ Produce ONE professional PDF (if technically impossible for size, split by Part 
 
 - Check A (fidelity): every excerpt in the book, extracted back from the generated book source, matches the segment files character for character (apart from whitespace).
 - Check B (coverage): every host segment appears in the book exactly once; list any missing or duplicated segment and fix.
-- Check C (attribution): no text appears under a speaker label different from the one in `work/labels/`.
+- Check C (attribution): no text appears under a speaker label different from the one in `output_final/work/labels/`.
 - Check D (join integrity): for every file, segments joined in order reproduce the normalized text exactly.
 - Check E (visual): render sample pages of the PDF to images and look at them: table of contents correct, Arabic correct, no layout problems, no empty pages.
-- Check F (references): every reference text in the book is byte-identical to its file in `work/references/`; every one corresponds to an explicit Quran/Hadith reference found in a host's segments; none is attributed to a speaker; none was added without an explicit reference in the transcript; no Bible or other reference was added. List all skipped or unretrievable references.
+- Check F (references): every reference text in the book is byte-identical to its file in `output_final/work/references/`; every one corresponds to an explicit Quran, Hadith or classical-book reference found in a host's segments; none is attributed to a speaker; none was added without an explicit reference in the transcript; no Bible or other reference was added. List all skipped or unretrievable references.
 Fix every problem found and re-run the checks until they all pass. Save the results in `output_final/checks.md`.
 
 ---
@@ -206,7 +216,7 @@ Fix every problem found and re-run the checks until they all pass. Save the resu
 
 Deliver in `output_final/`: the final PDF, `work/` (segments, labels, classification, taxonomy, mapping, references), `checks.md`, `PROGRESS.md`. If the environment lets you send files to the user, send the PDF as well. Commit and push everything.
 
-At the end, report in chat (NOT in the book): number of files per folder and per type (SOLO / CONVERSATION / REACTION / ARTICLE / MIXED); the low-confidence classifications; the attribution doubts (title + passage); the number of reference texts added, the references that could not be retrieved, and the references skipped because they were too vague; confirmation that checks A to F passed.
+At the end, report in chat (NOT in the book): number of files per folder and per type (SOLO / CONVERSATION / REACTION / ARTICLE / MIXED); any non-.txt files ignored; the low-confidence classifications; the attribution doubts (title + passage); the number of reference texts added (split by Quran / Hadith / classical books), the references that could not be retrieved, and the references skipped because they were too vague; confirmation that checks A to F passed.
 
 ---
 
