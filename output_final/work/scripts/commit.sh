@@ -1,6 +1,14 @@
 #!/bin/bash
 # Commit output_final and try to push (retries with backoff). Usage: commit.sh "message"
 cd "$(dirname "$0")/../../.." || exit 1
+STATUS=$(python3 output_final/work/scripts/batches.py status 2>/dev/null | tail -1)
+python3 - "$STATUS" <<'PY'
+import sys,re,datetime
+p="output_final/PROGRESS.md"; s=open(p).read()
+line="- Labeling status: "+sys.argv[1]+" (as of "+datetime.datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")+")"
+s=re.sub(r"^- Labeling status:.*$", line, s, flags=re.M)
+open(p,"w").write(s)
+PY
 git add -A output_final
 git commit -q -m "$1
 

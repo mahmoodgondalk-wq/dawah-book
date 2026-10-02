@@ -17,6 +17,8 @@ All scripts are in `work/scripts/`. Run them from the repository root.
 - Each batch is labeled by one subagent with the identical prompt in `work/scripts/agent_prompt.txt` (replace {FILES}).
 - Outputs: `work/labels/<id>.json` (type, confidence, evidence, speaker ranges, doubts), `work/topics/<id>.json` (topic ranges, refs).
 - Pilot (ML043, FR054, FR002, ML001) done and checked.
+- Labeling status: TOTAL 165/774 files labeled; complete batches: 11/152 (as of 2026-10-02 08:59 UTC)
+- After all batches: run `python3 output_final/work/scripts/fixups.py` (idempotent) and `make_classification.py`.
 ## Stage 4: TAXONOMY + MAPPING — NOT STARTED
 ## Stage 5: REFERENCE TEXTS — NOT STARTED
 ## Stage 6: ASSEMBLE + PDF — NOT STARTED
