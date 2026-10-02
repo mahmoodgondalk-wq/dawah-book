@@ -36,7 +36,23 @@
 
 #let running-footer = context {
   set text(size: 9pt, fill: c-src)
-  align(center)[#counter(page).display()]
+  let bs = query(<body-start>)
+  let in-body = bs.len() > 0 and here().page() >= bs.first().location().page()
+  align(center)[#counter(page).display(if in-body { "1" } else { "i" })]
+}
+
+#let body-start() = {
+  pagebreak(weak: true)
+  counter(page).update(1)
+  [#metadata("body") <body-start>]
+}
+
+// Index of sources: one group per channel, titles exactly as in the input.
+#let source-group(channel, titles) = {
+  heading(level: 2, channel)
+  set par(justify: false, spacing: 0.55em, hanging-indent: 1.2em)
+  set text(size: 9.6pt)
+  for t in titles { block(width: 100%)[#t] }
 }
 
 #let book-setup(doc) = {

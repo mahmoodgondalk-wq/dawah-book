@@ -1,0 +1,3 @@
+{"file_id": "FR065", "type": "REACTION", "confidence": "medium", "evidence": "Host plays a Godlogic (Avery) street clip claiming Umar matched the Quran and rebuts it.",
+ "speakers": [[1, 25, "Farid Responds"], [26, 51, "Clip"], [52, 53, "Farid Responds"], [54, 56, "Clip"], [57, 59, "Farid Responds"], [60, 65, "Clip"], [66, 153, "Farid Responds"], [154, 156, "Clip"], [157, 215, "Farid Responds"], [216, 218, "Clip"]],
+ "doubts": [[51, 52, "clip ends mid-segment around 'give you that'"], [54, 56, "repeated line may be host quoting rather than replay"], [60, 65, "Bukhari citation likely read by Avery in clip; could be host"], [154, 157, "short replay of clip line inside host speech"], [216, 218, "closing lines sound like a played clip"]]}

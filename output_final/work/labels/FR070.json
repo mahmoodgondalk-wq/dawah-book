@@ -1,0 +1,3 @@
+{"file_id": "FR070", "type": "REACTION", "confidence": "medium", "evidence": "Host plays David Wood on the Islamic dilemma, then a Sam Shamoun clip on a hadith paralleling Matthew 25, and comments.",
+ "speakers": [[1, 16, "Farid Responds"], [17, 17, "Clip"], [18, 44, "Farid Responds"], [45, 100, "Clip"], [101, 108, "Farid Responds"], [109, 148, "Clip"], [149, 191, "Farid Responds"], [192, 197, "Clip"]],
+ "doubts": [[16, 18, "catchphrase soundbite split over segments; likely a clip"], [149, 149, "clip ends mid-segment before 'so you see'"], [192, 197, "closing rant sounds like a played clip, not host"]]}

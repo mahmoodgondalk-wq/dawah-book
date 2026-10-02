@@ -1,0 +1,4 @@
+{"file_id": "FR025", "type": "REACTION", "confidence": "high",
+ "evidence": "Host presents his article on Dhul-Qarnayn and plays interview clips of Prof. Tesei, rebutting between them.",
+ "speakers": [[1, 6, "Farid Responds"], [7, 7, "Clip"], [8, 49, "Farid Responds"], [50, 57, "Clip"], [58, 87, "Farid Responds"], [88, 105, "Clip"], [106, 115, "Farid Responds"], [116, 120, "Clip"], [121, 136, "Farid Responds"], [137, 141, "Clip"], [142, 152, "Farid Responds"], [153, 160, "Clip"], [161, 185, "Farid Responds"], [186, 192, "Clip"], [193, 194, "Farid Responds"], [195, 197, "Clip"], [198, 208, "Farid Responds"]],
+ "doubts": [[6, 6, "could be clip intro rather than host narration"]]}

@@ -1,0 +1,3 @@
+{"file_id": "FR067", "type": "REACTION", "confidence": "medium", "evidence": "Host recounts a Clubhouse exchange, then plays Godlogic (Avery) arguing about Ahad with an Arab and responds.",
+ "speakers": [[1, 49, "Farid Responds"], [50, 62, "Clip"], [63, 85, "Farid Responds"], [86, 104, "Clip"], [105, 123, "Farid Responds"], [124, 130, "Clip"]],
+ "doubts": [[49, 50, "clip starts mid-segment with Avery's catchphrase"], [62, 62, "clip ends mid-segment before 'oh Avery Avery'"], [86, 86, "clip starts right after host says verse number"], [124, 130, "closing lines sound like a played clip"]]}

@@ -1,0 +1,3 @@
+{"file_id": "FR044", "type": "REACTION", "confidence": "medium", "evidence": "Edited juxtaposition: critic Daniel Haqiqatjou's clip, then the host's own earlier video segment, then the critic's line again.",
+ "speakers": [[1, 25, "Clip"], [26, 43, "Farid Responds"], [44, 44, "Clip"]],
+ "doubts": [[26, 43, "host recording: host's earlier video on the hadith grading inserted as a played clip"]]}

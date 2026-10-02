@@ -1,0 +1,3 @@
+{"file_id": "FR042", "type": "REACTION", "confidence": "medium", "evidence": "Host comments on played clips of David Wood, Apostate Prophet and a Muslim polemicist, plus meme sound bites.",
+ "speakers": [[1, 12, "Farid Responds"], [13, 15, "Clip"], [16, 19, "Farid Responds"], [20, 22, "Clip"], [23, 24, "Farid Responds"], [25, 29, "Clip"], [30, 30, "Farid Responds"], [31, 40, "Clip"], [41, 68, "Farid Responds"], [69, 75, "Clip"], [76, 83, "Farid Responds"], [84, 92, "Clip"]],
+ "doubts": [[20, 22, "inserted meme sound bite, not the host's own voice presumably"], [30, 30, "marked turn; read as host introducing the next clip"], [69, 75, "read as clip of a Muslim polemicist; could be host role-play"]]}

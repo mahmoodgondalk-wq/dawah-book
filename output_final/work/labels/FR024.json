@@ -1,0 +1,8 @@
+{"file_id": "FR024", "type": "REACTION", "confidence": "medium",
+ "evidence": "Compilation of Sneako stream clips (two Shia, The Muslim Lantern, a tawassul defender); no Farid commentary.",
+ "speakers": [[1, 25, "Clip"], [26, 36, "The Muslim Lantern"], [37, 44, "Clip"], [45, 57, "The Muslim Lantern"], [58, 58, "Clip"], [59, 59, "The Muslim Lantern"], [60, 61, "Clip"], [62, 69, "The Muslim Lantern"], [70, 122, "Clip"]],
+ "doubts": [[26, 36, "host recording: The Muslim Lantern on Sneako stream; same exchange appears in ML060"],
+            [38, 38, "segment opens with a host fragment, rest is Sneako's interpretation"],
+            [45, 57, "host recording: The Muslim Lantern on Sneako stream; same exchange appears in ML060"],
+            [59, 59, "host recording: The Muslim Lantern on Sneako stream; same exchange appears in ML060"],
+            [62, 69, "host recording: The Muslim Lantern on Sneako stream; 'He got divine' may be Sneako"]]}

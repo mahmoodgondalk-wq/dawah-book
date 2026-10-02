@@ -1,0 +1,4 @@
+{"file_id": "FR086", "type": "REACTION", "confidence": "high", "evidence": "Host plays one clip of a critic citing the Torah cushion hadith from Abu Dawud, then analyses its chain alone.",
+ "speakers": [[1, 12, "Farid Responds"], [13, 38, "Clip"], [39, 119, "Farid Responds"], [120, 123, "Clip"]],
+ "doubts": [[38, 38, "clip ends mid-segment; host resumes 'so yes'"], [120, 123, "garbled outro words after goodbye, likely played audio"]]
+}
