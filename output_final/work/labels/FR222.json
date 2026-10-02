@@ -1,0 +1,3 @@
+{"file_id": "FR222", "type": "CONVERSATION", "confidence": "medium", "evidence": "Host lectures on the Battle of al-Jamal to a live audience, quizzing them; a few audience answers are captured.",
+ "speakers": [[1, 845, "Farid Responds"], [846, 846, "Guest"], [847, 959, "Farid Responds"], [960, 960, "Guest"], [961, 979, "Farid Responds"], [980, 981, "Guest"], [982, 1128, "Farid Responds"]],
+ "doubts": [[846, 846, "short audience guess after 'any guesses'; could be host"], [960, 960, "number answer after 'any ideas' likely from audience"], [980, 981, "sounds like an audience question; host may be paraphrasing a report"]]}
