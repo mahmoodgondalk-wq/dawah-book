@@ -1,3 +1,1 @@
-{"file_id": "FR310", "type": "REACTION", "confidence": "medium", "evidence": "Farid addresses Christian Prince, plays his short claim about the Prophet having no children, and rebuts it.",
- "speakers": [[1, 1, "Clip"], [2, 19, "Farid Responds"], [20, 22, "Clip"], [23, 47, "Farid Responds"], [48, 49, "Clip"]],
- "doubts": [[1, 1, "opening sound bite; speaker unclear"], [19, 22, "clip starts and ends mid-segment"], [47, 49, "closing words likely an inserted CP sound bite"]]}
+{"file_id": "FR310", "type": "REACTION", "confidence": "medium", "evidence": "Farid addresses Christian Prince, plays his short claim about the Prophet having no children, and rebuts it.", "speakers": [[1, 19, "Farid Responds"], [20, 22, "Clip"], [23, 48, "Farid Responds"], [49, 49, "Clip"]], "doubts": [[19, 22, "clip starts and ends mid-segment"], [48, 49, "CP sound bite follows the farewell mid-segment"]]}

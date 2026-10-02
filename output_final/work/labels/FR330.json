@@ -1,3 +1,1 @@
-{"file_id": "FR330", "type": "REACTION", "confidence": "high", "evidence": "Farid plays a Christian Prince call about Zayd and Zaynab, then shows the source rejecting the report.",
- "speakers": [[1, 11, "Farid Responds"], [12, 48, "Clip"], [49, 70, "Farid Responds"], [71, 73, "Clip"]],
- "doubts": [[12, 12, "clip starts mid-segment"], [48, 48, "host resumes mid-segment"], [71, 73, "closing sound bite; speaker unclear"]]}
+{"file_id": "FR330", "type": "REACTION", "confidence": "high", "evidence": "Farid plays a Christian Prince call about Zayd and Zaynab, then shows the source rejecting the report.", "speakers": [[1, 11, "Farid Responds"], [12, 48, "Clip"], [49, 71, "Farid Responds"], [72, 73, "Clip"]], "doubts": [[12, 12, "clip starts mid-segment"], [48, 48, "host resumes mid-segment"], [71, 73, "garbled farewell then CP sound bite"]]}
