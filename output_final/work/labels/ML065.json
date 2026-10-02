@@ -1,0 +1,7 @@
+{"file_id": "ML065",
+ "type": "REACTION",
+ "confidence": "high",
+ "evidence": "Host monologue that plays and comments on several clips of Daniel Wallace in the first half, then argues alone from Quran, hadith and tafsir.",
+ "speakers": [[1, 18, "The Muslim Lantern"], [19, 22, "Clip"], [23, 62, "The Muslim Lantern"], [63, 68, "Clip"], [69, 90, "The Muslim Lantern"], [91, 114, "Clip"], [115, 171, "The Muslim Lantern"], [172, 186, "Clip"], [187, 227, "The Muslim Lantern"], [228, 252, "Clip"], [253, 266, "The Muslim Lantern"], [267, 272, "Clip"], [273, 288, "The Muslim Lantern"], [289, 290, "Clip"], [291, 315, "The Muslim Lantern"], [316, 322, "Clip"], [323, 447, "The Muslim Lantern"], [448, 454, "Clip"], [455, 1298, "The Muslim Lantern"]],
+ "doubts": [[115, 115, "clip ends mid-segment; host comment is the larger part"], [228, 228, "unclear whether host framing question or start of the Wallace clip"], [267, 267, "host lead-in ends and clip starts mid-segment"], [291, 291, "clip cut off mid-segment; host resumes for the larger part"], [448, 448, "host lead-in ends and clip starts mid-segment"]]
+}
