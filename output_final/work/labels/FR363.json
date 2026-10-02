@@ -1,0 +1,3 @@
+{"file_id": "FR363", "type": "REACTION", "confidence": "medium", "evidence": "A guest narrator, self-described one-year Arabic student, plays CP and Sam Shamoun clips and rebuts their Arabic grammar; Farid is not heard.",
+ "speakers": [[1, 9, "Guest"], [10, 26, "Clip"], [27, 52, "Guest"], [53, 71, "Clip"], [72, 105, "Guest"]],
+ "doubts": [[1, 9, "intro could be host; matches narrator's style"], [18, 19, "brief quip inserted inside clip, probably narrator"]]}
