@@ -1,0 +1,3 @@
+{"file_id": "FR252", "type": "REACTION", "confidence": "medium", "evidence": "Host briefly introduces, then a narrated video by Abu Zakariya plays in full without host comments.",
+ "speakers": [[1, 18, "Farid Responds"], [19, 207, "Clip"]],
+ "doubts": [[19, 207, "narration of the presented video; narrator not the host is assumed"]]}
