@@ -1,0 +1,17 @@
+{"file_id": "ML150",
+ "ranges": [[1, 27, "P16.C01", "Guest's religious background", "other"],
+            [28, 76, "P03.C02", "Why believe in Islam: types of evidence", "argument"],
+            [77, 151, "P04.C01", "Prophecies of the Prophet Muhammad", "argument"],
+            [152, 182, "P03.C03", "Islam as the religion of all prophets", "response"],
+            [183, 206, "P03.C01", "Fulfilled prophecies in other religions", "argument"],
+            [207, 278, "P08.C06", "Historical development of the Trinity doctrine", "response"],
+            [279, 295, "P09.C02", "Earliest Bible manuscripts", "argument"],
+            [296, 369, "P02.C07", "Fate of good non-Muslims who reject Islam", "response"],
+            [370, 428, "P01.C09", "Why God sends prophets and messengers", "argument"],
+            [429, 482, "P15.C04", "Abandoning inherited beliefs after evidence", "response"],
+            [483, 529, "P01.C01", "Design argument from complexity", "argument"],
+            [530, 553, "P01.C01", "Who created the Creator: infinite regress", "response"],
+            [554, 600, "P01.C03", "Reliability of human reasoning", "response"],
+            [601, 639, "P03.C02", "Recap of rational evidences presented", "conclusion"]],
+ "refs": [[451, "Quran 2:170"]]
+}

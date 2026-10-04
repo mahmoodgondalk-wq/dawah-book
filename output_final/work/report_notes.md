@@ -1,0 +1,13 @@
+# Notes for the final report (collected during labeling; the doubts themselves are in labels/<id>.json)
+
+- Team narrators Gibran/Emin in the 2019 Apostate Prophet series (Farid Responds).
+- Many "host recording:" doubts: recordings of a host played inside another video.
+- Sound bite "You asked me excellent, excellent question" labeled Clip (fixups.py, 8 files).
+- FA01 byline Ijaz Ahmad; FA07 by Mansur Ahmed & Farid with intro by Ijaz Ahmad (attribution doubt; kept under Farid Responds as published on the channel folder).
+- ML026 teaser kept.
+- ML131: guest never named -> "Guest"; goodbye exchange 591-599 split by dialogue logic (doubt).
+- ML132: clip boundaries 17-18, 395-397, 536 inferred; seg 397 mixes clip and host.
+- ML133, ML139, ML143: automatic captions with no turn markers; speaker changes inferred (medium confidence).
+- ML137: caller name "Jeong Lee" taken from the host's sign-off.
+- ML139: an agnostic friend labeled "Guest 2" (seg 10; maybe 393-403).
+- ML141: name appears as "Liam" and "Lian"; "Liam" used.
