@@ -17,3 +17,5 @@
 - ML162: host replays earlier stream exchanges (197-198, 239-243, 318-321): host words = host recording doubt; guest replayed = Clip.
 - ML163: shahada led by host and repeated by Del, captions show it once (given to host, doubt).
 - ML164, ML174, ML176: auto-captions; majority-speaker assignment, many doubts. ML174 has "Guest 2".
+- ML169, ML172, ML177, ML180: auto-captions; majority-speaker assignment. ML172: two sisters (Guest = Christian, Guest 2 = Muslim) told apart by content. ML180: Guest 2 (Muslim man) cuts in at 318-324.
+- ML170: Quran verse numbers occur in the guest's recitation (no refs).
