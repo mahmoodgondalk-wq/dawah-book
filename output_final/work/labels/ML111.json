@@ -1,0 +1,7 @@
+{"file_id": "ML111",
+ "type": "REACTION",
+ "confidence": "high",
+ "evidence": "Host plays short critic videos (bracketed captions) on Quran, Prophet and Ezra, pausing to rebut each claim; ends with a rabbi clip.",
+ "speakers": [[1, 5, "The Muslim Lantern"], [6, 8, "Clip"], [9, 122, "The Muslim Lantern"], [123, 125, "Clip"], [126, 169, "The Muslim Lantern"], [170, 170, "Clip"], [171, 172, "The Muslim Lantern"], [173, 173, "Clip"], [174, 251, "The Muslim Lantern"], [252, 252, "Clip"], [253, 295, "The Muslim Lantern"], [296, 301, "Clip"], [302, 334, "The Muslim Lantern"], [335, 338, "Clip"], [339, 376, "The Muslim Lantern"], [377, 378, "Clip"], [379, 405, "The Muslim Lantern"], [406, 408, "Clip"], [409, 478, "The Muslim Lantern"], [479, 481, "Clip"], [482, 512, "The Muslim Lantern"], [513, 514, "Clip"], [515, 519, "The Muslim Lantern"], [520, 521, "Clip"], [522, 528, "The Muslim Lantern"], [529, 531, "Clip"], [532, 538, "The Muslim Lantern"], [539, 540, "Clip"], [541, 558, "The Muslim Lantern"], [559, 562, "Clip"], [563, 685, "The Muslim Lantern"], [686, 695, "Clip"], [696, 736, "The Muslim Lantern"], [737, 749, "Clip"], [750, 787, "The Muslim Lantern"]],
+ "doubts": [[379, 379, "clip bracket left open; could be clip repeating question, but reads as host mocking the pronunciation"]]
+}
