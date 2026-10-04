@@ -22,3 +22,4 @@
 - ML184, ML186: auto-captions, majority-speaker assignment. ML185: a verse locator (21:23) sits in a caller line (no ref).
 - ML154: long fast exchange; guest never named.
 - ML167: auto-captions; two lads and a bystander all labeled Guest.
+- ML187, ML189, ML191: auto-captions, majority-speaker assignment. ML188 has two guests (Khalid, Amy).
