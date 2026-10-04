@@ -112,8 +112,323 @@
   "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
  },
  {
+  "file": "FR283",
+  "seg": 47,
+  "key": "quran:85:11",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "FR285",
+  "seg": 137,
+  "key": "quran:41:44",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "FR285",
+  "seg": 138,
+  "key": "quran:16:103",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "FR308",
+  "seg": 200,
+  "key": "quran:15:96",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "FR318",
+  "seg": 34,
+  "key": "quran:36:14",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "FR324",
+  "seg": 19,
+  "key": "quran:4:24",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "FR331",
+  "seg": 198,
+  "key": "quran:33:50",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "FR360",
+  "seg": 5,
+  "key": "quran:9:31",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "FR361",
+  "seg": 30,
+  "key": "quran:36:14",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "FR361",
+  "seg": 158,
+  "key": "quran:5:18",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "FR367",
+  "seg": 26,
+  "key": "quran:3:7",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "FR367",
+  "seg": 230,
+  "key": "quran:51:47",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "FR367",
+  "seg": 599,
+  "key": "quran:41:16",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "FR367",
+  "seg": 716,
+  "key": "quran:16:120",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "FR367",
+  "seg": 752,
+  "key": "quran:56:7",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "FR367",
+  "seg": 877,
+  "key": "quran:76:2",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "FR367",
+  "seg": 912,
+  "key": "quran:53:45-46",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "FR367",
+  "seg": 1081,
+  "key": "quran:78:7",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "ML000",
+  "seg": 279,
+  "key": "quran:2:256",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
   "file": "ML001",
   "seg": 362,
+  "key": "quran:4:59",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "ML005",
+  "seg": 641,
+  "key": "quran:3:7",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "ML006",
+  "seg": 1331,
+  "key": "quran:2:10",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "ML007",
+  "seg": 414,
+  "key": "quran:4:157",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "ML007",
+  "seg": 574,
+  "key": "quran:3:7",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "ML007",
+  "seg": 1300,
+  "key": "quran:2:256",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "ML007",
+  "seg": 1506,
+  "key": "quran:3:7",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "ML007",
+  "seg": 1525,
+  "key": "quran:5:44",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "ML008",
+  "seg": 317,
+  "key": "quran:39:5",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "ML011",
+  "seg": 432,
+  "key": "quran:46:25",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "ML012",
+  "seg": 101,
+  "key": "quran:33:40",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "ML012",
+  "seg": 119,
+  "key": "quran:33:40",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "ML012",
+  "seg": 138,
+  "key": "quran:5:3",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "ML015",
+  "seg": 626,
+  "key": "quran:2:256",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "ML016",
+  "seg": 249,
+  "key": "quran:10:94",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "ML018",
+  "seg": 146,
+  "key": "quran:60:8",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "ML019",
+  "seg": 39,
+  "key": "quran:4:157",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "ML019",
+  "seg": 44,
+  "key": "quran:4:157",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "ML033",
+  "seg": 980,
+  "key": "quran:4:82",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "ML035",
+  "seg": 374,
+  "key": "quran:29:13",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "ML035",
+  "seg": 393,
+  "key": "quran:16:25",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "ML036",
+  "seg": 644,
+  "key": "quran:2:136",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "ML039",
+  "seg": 389,
+  "key": "quran:4:82",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "ML040",
+  "seg": 99,
+  "key": "quran:3:7",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "ML040",
+  "seg": 124,
+  "key": "quran:9:100",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "ML040",
+  "seg": 1100,
+  "key": "quran:60:8",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "ML040",
+  "seg": 1114,
   "key": "quran:4:59",
   "decision": "add",
   "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
@@ -346,6 +661,622 @@
   "file": "ML043",
   "seg": 494,
   "key": "quran:42:13",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "ML045",
+  "seg": 334,
+  "key": "quran:9:29",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "ML046",
+  "seg": 307,
+  "key": "quran:49:5",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "ML046",
+  "seg": 343,
+  "key": "quran:16:125",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "ML046",
+  "seg": 349,
+  "key": "quran:29:46",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "ML046",
+  "seg": 358,
+  "key": "quran:4:94",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "ML046",
+  "seg": 373,
+  "key": "quran:16:125",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "ML049",
+  "seg": 98,
+  "key": "quran:2:216",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "ML049",
+  "seg": 109,
+  "key": "quran:2:251",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "ML049",
+  "seg": 247,
+  "key": "quran:24:2",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "ML051",
+  "seg": 141,
+  "key": "quran:19:64",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "ML051",
+  "seg": 143,
+  "key": "quran:40:22",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "ML051",
+  "seg": 144,
+  "key": "quran:50:38",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "ML053",
+  "seg": 60,
+  "key": "quran:39:15",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "ML053",
+  "seg": 97,
+  "key": "quran:66:6",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "ML053",
+  "seg": 114,
+  "key": "quran:39:7",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "ML053",
+  "seg": 127,
+  "key": "quran:2:155",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "ML053",
+  "seg": 147,
+  "key": "quran:66:10",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "ML053",
+  "seg": 148,
+  "key": "quran:9:114",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "ML053",
+  "seg": 149,
+  "key": "quran:11:42-46",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "ML053",
+  "seg": 156,
+  "key": "quran:28:56",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "ML053",
+  "seg": 440,
+  "key": "quran:7:145",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "ML053",
+  "seg": 456,
+  "key": "quran:5:46",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "ML057",
+  "seg": 404,
+  "key": "quran:3:199",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "ML057",
+  "seg": 408,
+  "key": "quran:3:199",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "ML057",
+  "seg": 436,
+  "key": "quran:98:6",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "ML057",
+  "seg": 441,
+  "key": "quran:3:199",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "ML057",
+  "seg": 444,
+  "key": "quran:2:62",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "ML057",
+  "seg": 484,
+  "key": "quran:17:15",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "ML059",
+  "seg": 292,
+  "key": "quran:47:30",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "ML060",
+  "seg": 508,
+  "key": "quran:9:100",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "ML064",
+  "seg": 238,
+  "key": "quran:4:171",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "ML064",
+  "seg": 590,
+  "key": "quran:4:171",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "ML064",
+  "seg": 592,
+  "key": "quran:5:72",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "ML064",
+  "seg": 594,
+  "key": "quran:5:73",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "ML064",
+  "seg": 596,
+  "key": "quran:9:31",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "ML064",
+  "seg": 598,
+  "key": "quran:98:6",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "ML064",
+  "seg": 636,
+  "key": "quran:9:31",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "ML064",
+  "seg": 720,
+  "key": "quran:7:157",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "ML064",
+  "seg": 731,
+  "key": "quran:4:171",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "ML064",
+  "seg": 780,
+  "key": "quran:5:73",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "ML064",
+  "seg": 781,
+  "key": "quran:4:171",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "ML064",
+  "seg": 782,
+  "key": "quran:5:72",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "ML064",
+  "seg": 783,
+  "key": "quran:4:171",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "ML064",
+  "seg": 903,
+  "key": "quran:20:5",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "ML064",
+  "seg": 905,
+  "key": "quran:67:16",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "ML064",
+  "seg": 957,
+  "key": "quran:5:82",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "ML064",
+  "seg": 959,
+  "key": "quran:98:6",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "ML064",
+  "seg": 970,
+  "key": "quran:4:48",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "ML064",
+  "seg": 972,
+  "key": "quran:4:48",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "ML064",
+  "seg": 982,
+  "key": "quran:30:31",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "ML064",
+  "seg": 1482,
+  "key": "quran:2:78",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "ML064",
+  "seg": 1569,
+  "key": "quran:4:83",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "ML064",
+  "seg": 1585,
+  "key": "quran:30:42",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "ML065",
+  "seg": 762,
+  "key": "quran:3:71",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "ML065",
+  "seg": 766,
+  "key": "quran:2:101",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "ML065",
+  "seg": 772,
+  "key": "quran:6:91",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "ML065",
+  "seg": 778,
+  "key": "quran:2:79",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "ML065",
+  "seg": 785,
+  "key": "quran:3:78",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "ML065",
+  "seg": 860,
+  "key": "quran:48:29",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "ML065",
+  "seg": 865,
+  "key": "quran:9:111",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "ML065",
+  "seg": 869,
+  "key": "quran:5:32",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "ML065",
+  "seg": 985,
+  "key": "quran:3:3",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "ML065",
+  "seg": 1006,
+  "key": "quran:3:3",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "ML065",
+  "seg": 1013,
+  "key": "quran:3:4",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "ML065",
+  "seg": 1019,
+  "key": "quran:5:48",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "ML065",
+  "seg": 1038,
+  "key": "quran:3:50",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "ML065",
+  "seg": 1063,
+  "key": "quran:27:89",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "ML065",
+  "seg": 1074,
+  "key": "quran:16:115",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "ML065",
+  "seg": 1077,
+  "key": "quran:6:114",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "ML065",
+  "seg": 1119,
+  "key": "quran:5:43",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "ML065",
+  "seg": 1223,
+  "key": "quran:7:157",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "ML072",
+  "seg": 108,
+  "key": "quran:23:96",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "ML072",
+  "seg": 110,
+  "key": "quran:41:34",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "ML083",
+  "seg": 407,
+  "key": "quran:54:1-2",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "ML083",
+  "seg": 530,
+  "key": "quran:4:36",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "ML083",
+  "seg": 531,
+  "key": "quran:63:10",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "ML083",
+  "seg": 532,
+  "key": "quran:33:7",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "ML083",
+  "seg": 533,
+  "key": "quran:35:6",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "ML083",
+  "seg": 553,
+  "key": "quran:69:44-47",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "ML083",
+  "seg": 587,
+  "key": "quran:5:3",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "ML084",
+  "seg": 179,
+  "key": "quran:4:19",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "ML084",
+  "seg": 240,
+  "key": "quran:33:52",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "ML084",
+  "seg": 331,
+  "key": "quran:4:3",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "ML084",
+  "seg": 678,
+  "key": "quran:111:1-5",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "ML084",
+  "seg": 728,
+  "key": "quran:21:107",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "ML084",
+  "seg": 729,
+  "key": "quran:7:158",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "ML084",
+  "seg": 768,
+  "key": "quran:2:155",
+  "decision": "add",
+  "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
+ },
+ {
+  "file": "ML084",
+  "seg": 803,
+  "key": "quran:17:15",
   "decision": "add",
   "reason": "labeler ref; surah and verse numbers stated in the host segment; verse exists"
  }

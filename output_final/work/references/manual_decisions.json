@@ -278,5 +278,523 @@
   "key": null,
   "decision": "skip",
   "reason": "modern academic book (S. Nasser), not a classical Islamic book"
+ },
+ {
+  "file": "FR177",
+  "seg": 187,
+  "key": "hadith:ahmad:24868",
+  "decision": "skip",
+  "reason": "collection name garbled in captions ('muslim ahmed'); not locatable with certainty"
+ },
+ {
+  "file": "FR254",
+  "seg": 71,
+  "key": null,
+  "decision": "skip",
+  "reason": "Maqtal al-Husayn (Abu Mikhnaf) p. 70: edition not named; the passage cannot be located on shamela.ws with certainty"
+ },
+ {
+  "file": "FR254",
+  "seg": 82,
+  "key": null,
+  "decision": "skip",
+  "reason": "Maqtal al-Husayn (Abu Mikhnaf) p. 77: edition not named; the passage cannot be located on shamela.ws with certainty"
+ },
+ {
+  "file": "FR254",
+  "seg": 95,
+  "key": null,
+  "decision": "skip",
+  "reason": "al-Bidayah wa al-Nihayah p. 565: volume missing; not locatable"
+ },
+ {
+  "file": "FR273",
+  "seg": 54,
+  "key": null,
+  "decision": "skip",
+  "reason": "book title garbled ('teddy huh buddy'); volume/page read inside a clip; not locatable with certainty"
+ },
+ {
+  "file": "FR276",
+  "seg": 59,
+  "key": "quran:4:34",
+  "decision": "skip",
+  "reason": "surah name garbled in the captions; only 'verse number 34' is clear"
+ },
+ {
+  "file": "FR285",
+  "seg": 160,
+  "key": "quran:16:103",
+  "decision": "skip",
+  "reason": "digits '10316' are ambiguous"
+ },
+ {
+  "file": "FR289",
+  "seg": 452,
+  "key": "quran:3:55",
+  "decision": "skip",
+  "reason": "surah name garbled ('Al Iman') and verse number not in the segment"
+ },
+ {
+  "file": "FR312",
+  "seg": 13,
+  "key": null,
+  "decision": "skip",
+  "reason": "Fath al-Bari volume/page as cited (references of another person, edition not named); cannot be located on shamela.ws with certainty"
+ },
+ {
+  "file": "FR312",
+  "seg": 15,
+  "key": null,
+  "decision": "skip",
+  "reason": "Fath al-Bari volume/page as cited (references of another person, edition not named); cannot be located on shamela.ws with certainty"
+ },
+ {
+  "file": "FR312",
+  "seg": 26,
+  "key": null,
+  "decision": "skip",
+  "reason": "Fath al-Bari volume/page as cited (references of another person, edition not named); cannot be located on shamela.ws with certainty"
+ },
+ {
+  "file": "FR312",
+  "seg": 28,
+  "key": null,
+  "decision": "skip",
+  "reason": "Fath al-Bari volume/page as cited (references of another person, edition not named); cannot be located on shamela.ws with certainty"
+ },
+ {
+  "file": "FR312",
+  "seg": 29,
+  "key": null,
+  "decision": "skip",
+  "reason": "Fath al-Bari volume/page as cited (references of another person, edition not named); cannot be located on shamela.ws with certainty"
+ },
+ {
+  "file": "FR324",
+  "seg": 31,
+  "key": "quran:4:24",
+  "decision": "skip",
+  "reason": "captions read 'for 24'; not an explicit locator"
+ },
+ {
+  "file": "FR324",
+  "seg": 36,
+  "key": "quran:4:24",
+  "decision": "skip",
+  "reason": "captions read 'for 24'; not an explicit locator"
+ },
+ {
+  "file": "FR324",
+  "seg": 57,
+  "key": "quran:4:24",
+  "decision": "skip",
+  "reason": "captions read 'for 24'; not an explicit locator"
+ },
+ {
+  "file": "FR361",
+  "seg": 95,
+  "key": "quran:36:14",
+  "decision": "add",
+  "reason": "digits '3614'; the only valid surah:verse reading is 36:14"
+ },
+ {
+  "file": "FR367",
+  "seg": 1069,
+  "key": null,
+  "decision": "skip",
+  "reason": "al-Tafsir al-Kabir (al-Razi) vol. 19 p. 131: edition not named; cannot be located on shamela.ws with certainty"
+ },
+ {
+  "file": "FR367",
+  "seg": 1070,
+  "key": null,
+  "decision": "skip",
+  "reason": "same citation as segment 1069"
+ },
+ {
+  "file": "FR367",
+  "seg": 1097,
+  "key": "quran:39:5",
+  "decision": "add",
+  "reason": "'surah zumar verse 5' (surah az-Zumar = 39)"
+ },
+ {
+  "file": "FR381",
+  "seg": 50,
+  "key": "quran:8:67",
+  "decision": "skip",
+  "reason": "digits '867, 661, and 81' are ambiguous (e.g. 8:67/86:7, 6:61/66:1)"
+ },
+ {
+  "file": "FR381",
+  "seg": 50,
+  "key": "quran:66:1",
+  "decision": "skip",
+  "reason": "digits '867, 661, and 81' are ambiguous (e.g. 8:67/86:7, 6:61/66:1)"
+ },
+ {
+  "file": "FR381",
+  "seg": 50,
+  "key": "quran:80:1",
+  "decision": "skip",
+  "reason": "digits '867, 661, and 81' are ambiguous (e.g. 8:67/86:7, 6:61/66:1)"
+ },
+ {
+  "file": "FR396",
+  "seg": 105,
+  "key": "quran:15:6",
+  "decision": "add",
+  "reason": "'verse number six from surah number 15' (segments 105-106)"
+ },
+ {
+  "file": "ML003",
+  "seg": 1117,
+  "key": "quran:4:157",
+  "decision": "skip",
+  "reason": "'chapter 4 ... verse 1057': verse 1057 does not exist; correcting it would be a guess"
+ },
+ {
+  "file": "ML007",
+  "seg": 400,
+  "key": "quran:3:7",
+  "decision": "add",
+  "reason": "'chapter three of the Quran, verse seven'"
+ },
+ {
+  "file": "ML007",
+  "seg": 681,
+  "key": "quran:5:46-47",
+  "decision": "add",
+  "reason": "'chapter five of the Quran verse 46 and 47'"
+ },
+ {
+  "file": "ML007",
+  "seg": 683,
+  "key": "quran:5:44",
+  "decision": "add",
+  "reason": "'verse 44 ... chapter five of the Quran'"
+ },
+ {
+  "file": "ML007",
+  "seg": 724,
+  "key": "quran:5:47",
+  "decision": "add",
+  "reason": "'verse 47' continuing the chapter five reference"
+ },
+ {
+  "file": "ML035",
+  "seg": 441,
+  "key": "hadith:muslim:2667",
+  "decision": "add",
+  "reason": "'2667 in Sahih Muslim' stated by the host"
+ },
+ {
+  "file": "ML039",
+  "seg": 22,
+  "key": "quran:4:82",
+  "decision": "add",
+  "reason": "'chapter four of the Quran verse 82'"
+ },
+ {
+  "file": "ML045",
+  "seg": 336,
+  "key": "quran:9:1",
+  "decision": "add",
+  "reason": "verse of chapter 9 listed in sequence after 'First verse of chapter 9'"
+ },
+ {
+  "file": "ML045",
+  "seg": 337,
+  "key": "quran:9:6",
+  "decision": "add",
+  "reason": "verse of chapter 9 listed in sequence after 'First verse of chapter 9'"
+ },
+ {
+  "file": "ML045",
+  "seg": 339,
+  "key": "quran:9:13",
+  "decision": "add",
+  "reason": "verse of chapter 9 listed in sequence after 'First verse of chapter 9'"
+ },
+ {
+  "file": "ML045",
+  "seg": 341,
+  "key": "quran:9:29",
+  "decision": "add",
+  "reason": "verse of chapter 9 listed in sequence after 'First verse of chapter 9'"
+ },
+ {
+  "file": "ML055",
+  "seg": 380,
+  "key": "quran:5:48",
+  "decision": "add",
+  "reason": "'chapter five, verse 48'"
+ },
+ {
+  "file": "ML057",
+  "seg": 455,
+  "key": "quran:4:150",
+  "decision": "add",
+  "reason": "'chapter 4 of the Quran' followed by '4150'"
+ },
+ {
+  "file": "ML060",
+  "seg": 522,
+  "key": "quran:9:100",
+  "decision": "skip",
+  "reason": "surah name garbled ('tba'); the same verse is cited explicitly at segment 508"
+ },
+ {
+  "file": "ML065",
+  "seg": 1099,
+  "key": "quran:5:66",
+  "decision": "add",
+  "reason": "'chapter five of the Quran verse 66 and 68'"
+ },
+ {
+  "file": "ML065",
+  "seg": 1099,
+  "key": "quran:5:68",
+  "decision": "add",
+  "reason": "'chapter five of the Quran verse 66 and 68'"
+ },
+ {
+  "file": "ML065",
+  "seg": 1195,
+  "key": "quran:5:46-47",
+  "decision": "add",
+  "reason": "'chapter five of the Quran verse 46 and 47'"
+ },
+ {
+  "file": "ML065",
+  "seg": 1196,
+  "key": "quran:5:44-45",
+  "decision": "add",
+  "reason": "'verse 44 45' continuing the chapter five reference"
+ },
+ {
+  "file": "ML065",
+  "seg": 1212,
+  "key": "quran:3:3",
+  "decision": "add",
+  "reason": "'chapter three of the Quran verse three'"
+ },
+ {
+  "file": "ML003",
+  "seg": 706,
+  "key": null,
+  "decision": "skip",
+  "reason": "Bible reference: never added"
+ },
+ {
+  "file": "ML003",
+  "seg": 808,
+  "key": null,
+  "decision": "skip",
+  "reason": "Bible reference: never added"
+ },
+ {
+  "file": "ML005",
+  "seg": 1116,
+  "key": null,
+  "decision": "skip",
+  "reason": "Bible reference: never added"
+ },
+ {
+  "file": "ML017",
+  "seg": 26,
+  "key": null,
+  "decision": "skip",
+  "reason": "Bible reference: never added"
+ },
+ {
+  "file": "ML017",
+  "seg": 308,
+  "key": null,
+  "decision": "skip",
+  "reason": "Bible reference: never added"
+ },
+ {
+  "file": "ML019",
+  "seg": 263,
+  "key": null,
+  "decision": "skip",
+  "reason": "Bible reference: never added"
+ },
+ {
+  "file": "ML021",
+  "seg": 38,
+  "key": null,
+  "decision": "skip",
+  "reason": "Bible reference: never added"
+ },
+ {
+  "file": "ML021",
+  "seg": 175,
+  "key": null,
+  "decision": "skip",
+  "reason": "Bible reference: never added"
+ },
+ {
+  "file": "ML021",
+  "seg": 339,
+  "key": null,
+  "decision": "skip",
+  "reason": "Bible reference: never added"
+ },
+ {
+  "file": "ML021",
+  "seg": 346,
+  "key": null,
+  "decision": "skip",
+  "reason": "Bible reference: never added"
+ },
+ {
+  "file": "ML021",
+  "seg": 533,
+  "key": null,
+  "decision": "skip",
+  "reason": "Bible reference: never added"
+ },
+ {
+  "file": "ML021",
+  "seg": 574,
+  "key": null,
+  "decision": "skip",
+  "reason": "Bible reference: never added"
+ },
+ {
+  "file": "ML031",
+  "seg": 578,
+  "key": null,
+  "decision": "skip",
+  "reason": "Bible reference: never added"
+ },
+ {
+  "file": "ML031",
+  "seg": 672,
+  "key": null,
+  "decision": "skip",
+  "reason": "Bible reference: never added"
+ },
+ {
+  "file": "ML032",
+  "seg": 444,
+  "key": null,
+  "decision": "skip",
+  "reason": "Bible reference: never added"
+ },
+ {
+  "file": "ML036",
+  "seg": 368,
+  "key": null,
+  "decision": "skip",
+  "reason": "Bible reference: never added"
+ },
+ {
+  "file": "ML036",
+  "seg": 456,
+  "key": null,
+  "decision": "skip",
+  "reason": "Bible reference: never added"
+ },
+ {
+  "file": "ML040",
+  "seg": 360,
+  "key": null,
+  "decision": "skip",
+  "reason": "Bible reference: never added"
+ },
+ {
+  "file": "ML047",
+  "seg": 182,
+  "key": null,
+  "decision": "skip",
+  "reason": "Bible reference: never added"
+ },
+ {
+  "file": "ML051",
+  "seg": 227,
+  "key": null,
+  "decision": "skip",
+  "reason": "Bible reference: never added"
+ },
+ {
+  "file": "ML055",
+  "seg": 710,
+  "key": null,
+  "decision": "skip",
+  "reason": "Bible reference: never added"
+ },
+ {
+  "file": "ML057",
+  "seg": 707,
+  "key": null,
+  "decision": "skip",
+  "reason": "Bible reference: never added"
+ },
+ {
+  "file": "ML059",
+  "seg": 427,
+  "key": null,
+  "decision": "skip",
+  "reason": "Bible reference: never added"
+ },
+ {
+  "file": "ML059",
+  "seg": 443,
+  "key": null,
+  "decision": "skip",
+  "reason": "Bible reference: never added"
+ },
+ {
+  "file": "ML061",
+  "seg": 298,
+  "key": null,
+  "decision": "skip",
+  "reason": "Bible reference: never added"
+ },
+ {
+  "file": "ML061",
+  "seg": 347,
+  "key": null,
+  "decision": "skip",
+  "reason": "Bible reference: never added"
+ },
+ {
+  "file": "FR351",
+  "seg": 119,
+  "key": null,
+  "decision": "skip",
+  "reason": "page of a non-classical source; not a reference text"
+ },
+ {
+  "file": "ML021",
+  "seg": 822,
+  "key": null,
+  "decision": "skip",
+  "reason": "page of a modern book; not a classical Islamic book reference"
+ },
+ {
+  "file": "ML065",
+  "seg": 220,
+  "key": null,
+  "decision": "skip",
+  "reason": "page of a modern Christian book; not applicable"
+ },
+ {
+  "file": "ML036",
+  "seg": 644,
+  "key": null,
+  "decision": "skip",
+  "reason": "regex duplicate of the accepted Quran 2:136 citation (garbled 'verse 1 136')"
+ },
+ {
+  "file": "ML057",
+  "seg": 408,
+  "key": null,
+  "decision": "skip",
+  "reason": "garbled numbers ('3109 ... chapter 3 verse 1 199'); not locatable with certainty"
  }
 ]

@@ -670,6 +670,16 @@
   "context": "ibn atla he says when speaking of the | on page 40 of transmission of variant | readings their origin was attributed to"
  },
  {
+  "file": "FR177",
+  "seg": 187,
+  "ref": "Musnad Ahmad 24868",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "Farid Responds",
+  "context": "this is of course similar to another | hadith we find in muslim ahmed number | 24868 in which he reports that when the"
+ },
+ {
   "file": "FR240",
   "seg": 45,
   "ref": "Quran 33:4-5",
@@ -690,6 +700,586 @@
   "context": "surah 33 verses 4 to 5 abolishing adoption in islam no | this is incorrect surah 33 verses 4 and 5 | were revealed before this adoption was already abolished"
  },
  {
+  "file": "FR254",
+  "seg": 71,
+  "ref": "Maqtal al-Husayn p. 70",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "Farid Responds",
+  "context": "discarded, without even a shelter over his head, without even money or food or drink. | And um this information is from Maqtal al-Husayn by Abi Mikhnaf, once again, page 70. | Now, this one's quite strange because it conflicts directly with what actually happened according to the authentic Sunni narrative."
+ },
+ {
+  "file": "FR254",
+  "seg": 71,
+  "ref": "[page] page 70",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "Farid Responds",
+  "context": "discarded, without even a shelter over his head, without even money or food or drink. | And um this information is from Maqtal al-Husayn by Abi Mikhnaf, once again, page 70. | Now, this one's quite strange because it conflicts directly with what actually happened according to the authentic Sunni narrative."
+ },
+ {
+  "file": "FR254",
+  "seg": 82,
+  "ref": "Maqtal al-Husayn p. 77",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "Farid Responds",
+  "context": "They deceived us, and they deserted us.\" | Okay, so that's from page 77 in Maqtal al-Husayn li Abi Mikhnaf. | Once again, Yassir Qadhi is quoting the same source that he warns us about, the same source that he says is unreliable, and the same source that he is trying to avoid."
+ },
+ {
+  "file": "FR254",
+  "seg": 82,
+  "ref": "[page] page 77",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "Farid Responds",
+  "context": "They deceived us, and they deserted us.\" | Okay, so that's from page 77 in Maqtal al-Husayn li Abi Mikhnaf. | Once again, Yassir Qadhi is quoting the same source that he warns us about, the same source that he says is unreliable, and the same source that he is trying to avoid."
+ },
+ {
+  "file": "FR254",
+  "seg": 95,
+  "ref": "al-Bidayah wa al-Nihayah p. 565",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "Farid Responds",
+  "context": "You are the sibt al-Nabi wa ibn Rasulillah, ibn Rasulillah meaning yani metaphorically, grandson. | You are you are All right, so this is taken from again al-Bidayah wa al-Nihayah, one of the two main sources that um Yassir mentions in the beginning of his video, page 565. | In this report, um we actually do find ibn Kathir clearly stating, clearly stating that this is taken from Maqtal al-Husayn by Abi Mikhnaf."
+ },
+ {
+  "file": "FR254",
+  "seg": 95,
+  "ref": "[page] page 565",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "Farid Responds",
+  "context": "You are the sibt al-Nabi wa ibn Rasulillah, ibn Rasulillah meaning yani metaphorically, grandson. | You are you are All right, so this is taken from again al-Bidayah wa al-Nihayah, one of the two main sources that um Yassir mentions in the beginning of his video, page 565. | In this report, um we actually do find ibn Kathir clearly stating, clearly stating that this is taken from Maqtal al-Husayn by Abi Mikhnaf."
+ },
+ {
+  "file": "FR273",
+  "seg": 54,
+  "ref": "Tarikh al-Tabari vol. 6 p. 101",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "Farid Responds",
+  "context": "we can see here David is reading from | volume 6 page 101 from teddy huh buddy | if David just flips the page he will"
+ },
+ {
+  "file": "FR273",
+  "seg": 54,
+  "ref": "[volpage] volume 6 page 101",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "Farid Responds",
+  "context": "we can see here David is reading from | volume 6 page 101 from teddy huh buddy | if David just flips the page he will"
+ },
+ {
+  "file": "FR276",
+  "seg": 59,
+  "ref": "Quran 4:34",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "Farid Responds",
+  "context": "have access to the Arabic language which | you don't david under verse number 34 in | certain the south lebanon buses asked"
+ },
+ {
+  "file": "FR283",
+  "seg": 47,
+  "ref": "Quran 85:11",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "Farid Responds",
+  "context": "Quran Allah subhana Allah uses these | exact words in 225 5 1:19 mine 89 and 85 | 11 so like just to show you a few"
+ },
+ {
+  "file": "FR285",
+  "seg": 137,
+  "ref": "Quran 41:44",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "Farid Responds",
+  "context": "verses in the Quran that could be | referring to are verse 44 in chapter 41 | and verse 103 in chapter 16 so let's"
+ },
+ {
+  "file": "FR285",
+  "seg": 137,
+  "ref": "[versechap] verse 44 in chapter 41",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "Farid Responds",
+  "context": "verses in the Quran that could be | referring to are verse 44 in chapter 41 | and verse 103 in chapter 16 so let's"
+ },
+ {
+  "file": "FR285",
+  "seg": 138,
+  "ref": "Quran 16:103",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "Farid Responds",
+  "context": "referring to are verse 44 in chapter 41 | and verse 103 in chapter 16 so let's | quickly check 44:21 and see what it says"
+ },
+ {
+  "file": "FR285",
+  "seg": 138,
+  "ref": "[versechap] verse 103 in chapter 16",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "Farid Responds",
+  "context": "referring to are verse 44 in chapter 41 | and verse 103 in chapter 16 so let's | quickly check 44:21 and see what it says"
+ },
+ {
+  "file": "FR285",
+  "seg": 160,
+  "ref": "Quran 16:103",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "Farid Responds",
+  "context": "that he could be referring to is verse | 10316 and we certainly know that they | say it is only a human being who teaches"
+ },
+ {
+  "file": "FR289",
+  "seg": 452,
+  "ref": "Quran 3:55",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "Farid Responds",
+  "context": "the 20th of January confirming what was | said on Rob's show about Al Iman verse | number"
+ },
+ {
+  "file": "FR308",
+  "seg": 200,
+  "ref": "Quran 15:96",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "Farid Responds",
+  "context": "would be ma which just means with I'll | give you an example so in surah 15 verse | number 96 it says and levena jihad una"
+ },
+ {
+  "file": "FR312",
+  "seg": 13,
+  "ref": "Fath al-Bari vol. 1 p. 379",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "Farid Responds",
+  "context": "video and provided a new reference the | reference is their fat hole berry and | here the automation in different page"
+ },
+ {
+  "file": "FR312",
+  "seg": 15,
+  "ref": "[page] page number 379",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "Farid Responds",
+  "context": "here the automation in different page | variant number 1 page number 379 and not | surprisingly that quote wasn't there"
+ },
+ {
+  "file": "FR312",
+  "seg": 26,
+  "ref": "[volpage] volume 1 page 282",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "Farid Responds",
+  "context": "isn't what your book says your book says | volume 1 page 282 the second reference | that you provided after my initial video"
+ },
+ {
+  "file": "FR312",
+  "seg": 28,
+  "ref": "[volpage] volume 1 page 379",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "Farid Responds",
+  "context": "that you provided after my initial video | was volume 1 page 379 and now you | provide a new reference volume 6 page"
+ },
+ {
+  "file": "FR312",
+  "seg": 29,
+  "ref": "Fath al-Bari vol. 6 p. 533",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "Farid Responds",
+  "context": "was volume 1 page 379 and now you | provide a new reference volume 6 page | number 533 and then listen to what he"
+ },
+ {
+  "file": "FR318",
+  "seg": 34,
+  "ref": "Quran 36:14",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "Farid Responds",
+  "context": "verse number 14 and bingo we are here | chapter 36 verse 14 keep that in mind | guys this is the first that supposedly"
+ },
+ {
+  "file": "FR318",
+  "seg": 34,
+  "ref": "[chapverse] chapter 36 verse 14",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "Farid Responds",
+  "context": "verse number 14 and bingo we are here | chapter 36 verse 14 keep that in mind | guys this is the first that supposedly"
+ },
+ {
+  "file": "FR324",
+  "seg": 19,
+  "ref": "Quran 4:24",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "Farid Responds",
+  "context": "Mata also known as temporary marriages | CP is arguing that spot on chapter 4 | verse 24 is about Mota the as Harry she"
+ },
+ {
+  "file": "FR324",
+  "seg": 31,
+  "ref": "Quran 4:24",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "Farid Responds",
+  "context": "this is see Peas first light he claims | that no scholar said that for 24 is | about mata we will soon see how he is"
+ },
+ {
+  "file": "FR324",
+  "seg": 36,
+  "ref": "Quran 4:24",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "Farid Responds",
+  "context": "an example of a hold on ik commentary | that rejects for 24 as a verse of Mota | he quotes here and a Lucy CP then"
+ },
+ {
+  "file": "FR324",
+  "seg": 57,
+  "ref": "Quran 4:24",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "Farid Responds",
+  "context": "is really Lucy line number two | CP argues that a la Lucy says that for | 24 is about Mata he reads a statement"
+ },
+ {
+  "file": "FR331",
+  "seg": 198,
+  "ref": "Quran 33:50",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "Farid Responds",
+  "context": "number 58 the lie so here is a | screenshot of verse 50 from chapter 33 | CP is arguing that this chapter states"
+ },
+ {
+  "file": "FR331",
+  "seg": 198,
+  "ref": "[versechap] verse 50 from chapter 33",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "Farid Responds",
+  "context": "number 58 the lie so here is a | screenshot of verse 50 from chapter 33 | CP is arguing that this chapter states"
+ },
+ {
+  "file": "FR351",
+  "seg": 119,
+  "ref": "[page] page 231",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "Farid Responds",
+  "context": "go back all right | wait huge mass little page 231 previews | right here when you type in I pull up"
+ },
+ {
+  "file": "FR360",
+  "seg": 5,
+  "ref": "Quran 9:31",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "Farid Responds",
+  "context": "going to share two more and this clip CP | is using chapter 9 verse 31 to argue | that the whole on teaches that Jesus is"
+ },
+ {
+  "file": "FR360",
+  "seg": 5,
+  "ref": "[chapverse] chapter 9 verse 31",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "Farid Responds",
+  "context": "going to share two more and this clip CP | is using chapter 9 verse 31 to argue | that the whole on teaches that Jesus is"
+ },
+ {
+  "file": "FR361",
+  "seg": 30,
+  "ref": "Quran 36:14",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "Farid Responds",
+  "context": "are here | chapter 36 verse 14. | keep that in mind guys this is the verse"
+ },
+ {
+  "file": "FR361",
+  "seg": 30,
+  "ref": "[chapverse] chapter 36 verse 14",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "Farid Responds",
+  "context": "are here | chapter 36 verse 14. | keep that in mind guys this is the verse"
+ },
+ {
+  "file": "FR361",
+  "seg": 95,
+  "ref": "Quran 36:14",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "Farid Responds",
+  "context": "to a quote by ibn ketia that has nothing | to do with 3614 | which i refuted a couple of days ago on"
+ },
+ {
+  "file": "FR361",
+  "seg": 158,
+  "ref": "Quran 5:18",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "Farid Responds",
+  "context": "we are the sons of god and his beloved | because if you return to chapter 5 | verse 18 you will find that allah is"
+ },
+ {
+  "file": "FR367",
+  "seg": 26,
+  "ref": "Quran 3:7",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "Farid Responds",
+  "context": "entirety only to Allah as is in | accordance with verse number 7 in surah | 3 science generally is of a changeable"
+ },
+ {
+  "file": "FR367",
+  "seg": 230,
+  "ref": "Quran 51:47",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "Farid Responds",
+  "context": "it with might and we are la moosian in | surah 51 ayah number 47 | the term Lama see only is usually"
+ },
+ {
+  "file": "FR367",
+  "seg": 230,
+  "ref": "[chapverse] surah 51 ayah number 47",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "Farid Responds",
+  "context": "it with might and we are la moosian in | surah 51 ayah number 47 | the term Lama see only is usually"
+ },
+ {
+  "file": "FR367",
+  "seg": 599,
+  "ref": "Quran 41:16",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "Farid Responds",
+  "context": "wind as a means to destruction one | example can be found in surah 41 verse | 16 also I mean I find it hilarious that"
+ },
+ {
+  "file": "FR367",
+  "seg": 716,
+  "ref": "Quran 16:120",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "Farid Responds",
+  "context": "literally referred to as a one-man oma | in surah 16 verse 120 number 12 | everything in pairs according to the"
+ },
+ {
+  "file": "FR367",
+  "seg": 716,
+  "ref": "[chapverse] surah 16 verse 120",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "Farid Responds",
+  "context": "literally referred to as a one-man oma | in surah 16 verse 120 number 12 | everything in pairs according to the"
+ },
+ {
+  "file": "FR367",
+  "seg": 752,
+  "ref": "Quran 56:7",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "Farid Responds",
+  "context": "sexes it is referring to groups | take for example surah 56 verse number 7 | which refers to three groups of people"
+ },
+ {
+  "file": "FR367",
+  "seg": 752,
+  "ref": "[chapverse] surah 56 verse number 7",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "Farid Responds",
+  "context": "sexes it is referring to groups | take for example surah 56 verse number 7 | which refers to three groups of people"
+ },
+ {
+  "file": "FR367",
+  "seg": 877,
+  "ref": "Quran 76:2",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "Farid Responds",
+  "context": "being was a sperm it merely speaks of | man's humble origin in surah 76 ayah | number 2 the Quran is referring to man"
+ },
+ {
+  "file": "FR367",
+  "seg": 912,
+  "ref": "Quran 53:45-46",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "Farid Responds",
+  "context": "about biological gender determination he | may just refer to surah 53 verses 45 to | 46 which state that gender is determined"
+ },
+ {
+  "file": "FR367",
+  "seg": 912,
+  "ref": "[chapverse] surah 53 verses 45",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "Farid Responds",
+  "context": "about biological gender determination he | may just refer to surah 53 verses 45 to | 46 which state that gender is determined"
+ },
+ {
+  "file": "FR367",
+  "seg": 1069,
+  "ref": "Tafsir al-Kabir vol. 19 p. 131",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "Farid Responds",
+  "context": "is actually spherical for adenine Rossi | says the following in his decir al kabir | vol 19 page 131"
+ },
+ {
+  "file": "FR367",
+  "seg": 1070,
+  "ref": "[volpage] vol 19 page 131",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "Farid Responds",
+  "context": "says the following in his decir al kabir | vol 19 page 131 | quote if it is said do the words and the"
+ },
+ {
+  "file": "FR367",
+  "seg": 1081,
+  "ref": "Quran 78:7",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "Farid Responds",
+  "context": "the verse in which Allah says and the | mountains as pegs in surah naba surah | number 78 verse number 7 he called them"
+ },
+ {
+  "file": "FR367",
+  "seg": 1097,
+  "ref": "Quran 39:5",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "Farid Responds",
+  "context": "example a bin Hasaan uses the word that | you can borrow used in surah zumar verse | 5 in regards to the earth being covered"
+ },
+ {
+  "file": "FR381",
+  "seg": 50,
+  "ref": "Quran 8:67",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "Farid Responds",
+  "context": "If Allah wanted to provide comfort to his link to mankind, then that is his prerogative. | That being said, there are other verses in the Quran that admonish the prophet peace be upon him like 867, 661, and 81. | So it isn't like the Quran is always favorable to him in the first place."
+ },
+ {
+  "file": "FR381",
+  "seg": 50,
+  "ref": "Quran 66:1",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "Farid Responds",
+  "context": "If Allah wanted to provide comfort to his link to mankind, then that is his prerogative. | That being said, there are other verses in the Quran that admonish the prophet peace be upon him like 867, 661, and 81. | So it isn't like the Quran is always favorable to him in the first place."
+ },
+ {
+  "file": "FR381",
+  "seg": 50,
+  "ref": "Quran 80:1",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "Farid Responds",
+  "context": "If Allah wanted to provide comfort to his link to mankind, then that is his prerogative. | That being said, there are other verses in the Quran that admonish the prophet peace be upon him like 867, 661, and 81. | So it isn't like the Quran is always favorable to him in the first place."
+ },
+ {
+  "file": "FR396",
+  "seg": 105,
+  "ref": "Quran 15:6",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "Farid Responds",
+  "context": "an example of sarcasm in regards to | messengers we have ensured a verse | number six from"
+ },
+ {
+  "file": "ML000",
+  "seg": 279,
+  "ref": "Quran 2:256",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Look, Islam says that it's the truth, at the same time it doesn't force anyone to follow it. | Allah says in the Quran, chapter 2, verse 256, there's no compulsion in acceptance of religion. | The truth manifests clearly from falsehood."
+ },
+ {
+  "file": "ML000",
+  "seg": 279,
+  "ref": "[chapverse] chapter 2, verse 256",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Look, Islam says that it's the truth, at the same time it doesn't force anyone to follow it. | Allah says in the Quran, chapter 2, verse 256, there's no compulsion in acceptance of religion. | The truth manifests clearly from falsehood."
+ },
+ {
   "file": "ML001",
   "seg": 362,
   "ref": "Quran 4:59",
@@ -698,6 +1288,636 @@
   ],
   "speaker": "The Muslim Lantern",
   "context": "Is is there a verse? | I just told you the the the verse I told you chapter 4 of the Quran verse 59. | Okay."
+ },
+ {
+  "file": "ML003",
+  "seg": 706,
+  "ref": "[chapverse] chapter 17 verse 21",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "If you like cherries, add you a cherry on the cake. | Can you open the same book of John and go to chapter 17 verse 21 and read? | So here Jesus is telling he's addressing all the disciples."
+ },
+ {
+  "file": "ML003",
+  "seg": 808,
+  "ref": "[chapcolon] Chapter 13:32",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "If you go to Mark, you'd like to open it now. | Chapter 13:32. | What does it say?"
+ },
+ {
+  "file": "ML003",
+  "seg": 1117,
+  "ref": "Quran 4:157",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Uh can you tell me what what is your | The Quran says The Quran says Jesus, it's in chapter 4 of the Quran verse 1057. | Allah says, \"And they're saying and their statement that we killed Jesus the Messiah, the son of Mary.\""
+ },
+ {
+  "file": "ML005",
+  "seg": 641,
+  "ref": "Quran 3:7",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "will pick one verse that they can misinterpret and then because they have | disease on their heart as Allah says in chapter 3:7 they will follow that. | Look, I'm not here to convince you my friend."
+ },
+ {
+  "file": "ML005",
+  "seg": 641,
+  "ref": "[chapcolon] chapter 3:7",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "will pick one verse that they can misinterpret and then because they have | disease on their heart as Allah says in chapter 3:7 they will follow that. | Look, I'm not here to convince you my friend."
+ },
+ {
+  "file": "ML005",
+  "seg": 1116,
+  "ref": "[chapverse] chapter 7 verse 52 [bible-context?]",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "All of it created their beliefs. | You go to this John chapter 7 verse 52 onwards. | It's another 12 verses of corruption."
+ },
+ {
+  "file": "ML006",
+  "seg": 1331,
+  "ref": "Quran 2:10",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Abregation is in the Quran. | Go to the Quran, chapter 2 of the Quran, verse 10. | We do not abregate a verse or cause it to be forgotten except to bring one like it or better."
+ },
+ {
+  "file": "ML007",
+  "seg": 400,
+  "ref": "Quran 3:7",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Quran explains each other. | Allah tells us that in the Quran itself, chapter three of the Quran, verse seven, Allah tells us there are verses that are foundational and verses that have more than one meaning. | You return the ones that have more than one meaning to the foundational verses, and this is how you have the interpretation understanding of the Quran."
+ },
+ {
+  "file": "ML007",
+  "seg": 414,
+  "ref": "Quran 4:157",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "The verse is actually crystal clear. | The verse is in the Quran Yeah, chapter 4 of the Quran, verse 157, which is what I'm saying. | Well, it literally says, \"And their saying or their claim, 'We killed the Messiah, the son of Mary, Jesus.'\""
+ },
+ {
+  "file": "ML007",
+  "seg": 574,
+  "ref": "Quran 3:7",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "So, Allah says This is what the verse says. | Chapter 3 of the Quran verse 7. | He's the one who revealed to you the book."
+ },
+ {
+  "file": "ML007",
+  "seg": 681,
+  "ref": "Quran 5:46-47",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "That's referring to their time. | The verse that you're talking about in the Quran in chapter five of the Quran verse 46 and 47. | I know what you're You open it right now if you'd like."
+ },
+ {
+  "file": "ML007",
+  "seg": 683,
+  "ref": "Quran 5:44",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "I know what you're You open it right now if you'd like. | Start from verse 44 43 or 44 chapter five of the Quran. | Sorry, 44 you said?"
+ },
+ {
+  "file": "ML007",
+  "seg": 724,
+  "ref": "Quran 5:47",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Then you have the next verse. | Then you have verse 47. | Look at verse seven."
+ },
+ {
+  "file": "ML007",
+  "seg": 1300,
+  "ref": "Quran 2:256",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Cuz you don't force anyone. | Allah says that in the Quran chapter 2 verse 256. | No compulsion."
+ },
+ {
+  "file": "ML007",
+  "seg": 1300,
+  "ref": "[chapverse] chapter 2 verse 256",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Cuz you don't force anyone. | Allah says that in the Quran chapter 2 verse 256. | No compulsion."
+ },
+ {
+  "file": "ML007",
+  "seg": 1506,
+  "ref": "Quran 3:7",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "That's not what the verse says. | That's why That's why when you quoted the verse to me wrong in chapter 3 verse 7, I told you it says told you where it is and I said it to you. | You can't You can't This game you cannot play with us."
+ },
+ {
+  "file": "ML007",
+  "seg": 1506,
+  "ref": "[chapverse] chapter 3 verse 7",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "That's not what the verse says. | That's why That's why when you quoted the verse to me wrong in chapter 3 verse 7, I told you it says told you where it is and I said it to you. | You can't You can't This game you cannot play with us."
+ },
+ {
+  "file": "ML007",
+  "seg": 1525,
+  "ref": "Quran 5:44",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Allah told and we read the verse in the Quran. | Chapter 5 of the Quran verse 44. | Allah says in the verse, \"With that which they were entrusted with from the book of Allah.\""
+ },
+ {
+  "file": "ML008",
+  "seg": 317,
+  "ref": "Quran 39:5",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "The Quran describes the earth as a circle, as a round shape. | Allah says in chapter 39 verse 5, \"You cover Yeah, you cover from the from the word cover which means ball.\" | So in a circular motion."
+ },
+ {
+  "file": "ML008",
+  "seg": 317,
+  "ref": "[chapverse] chapter 39 verse 5",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "The Quran describes the earth as a circle, as a round shape. | Allah says in chapter 39 verse 5, \"You cover Yeah, you cover from the from the word cover which means ball.\" | So in a circular motion."
+ },
+ {
+  "file": "ML011",
+  "seg": 432,
+  "ref": "Quran 46:25",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "So can you go in the Quran right now? | Can you go to chapter 46? | 46 46 verse 25."
+ },
+ {
+  "file": "ML012",
+  "seg": 101,
+  "ref": "Quran 33:40",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Explicitly clear. | Chapter 33 of the Quran, verse 40. | But we don't only base it on that."
+ },
+ {
+  "file": "ML012",
+  "seg": 119,
+  "ref": "Quran 33:40",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Chapter 33 yes. | For example, chapter 33 of the Quran verse 40. | But I was giving you the statements of the prophet as well, but this is a a verse in the Quran."
+ },
+ {
+  "file": "ML012",
+  "seg": 138,
+  "ref": "Quran 5:3",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "So Allah says this day that that was towards the the end of the life of prophet Muhammad, right? | Chapter 5 of the Quran verse 3. | This day I have perfected for you your religion."
+ },
+ {
+  "file": "ML015",
+  "seg": 626,
+  "ref": "Quran 2:256",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "So, that's the purpose of of what we're doing. | Allah says in the Quran chapter 2 verse 256 there's no compulsion in religion. | Right?"
+ },
+ {
+  "file": "ML015",
+  "seg": 626,
+  "ref": "[chapverse] chapter 2 verse 256",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "So, that's the purpose of of what we're doing. | Allah says in the Quran chapter 2 verse 256 there's no compulsion in religion. | Right?"
+ },
+ {
+  "file": "ML016",
+  "seg": 249,
+  "ref": "Quran 10:94",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Okay. | So the verse that you're referring to specifically is in chapter 10 of the Quran verse 94 and it does not say what you said. | No, no, I'm not speaking it verbatim."
+ },
+ {
+  "file": "ML017",
+  "seg": 26,
+  "ref": "[chapverse] chapter 18 verse 19 and 20 [bible-context?]",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "You know the Bible says, \"The soul that sin shall die.\" | Ezekiel chapter 18 verse 19 and 20. | It says, \"The soul that sin, the one that committed the sin shall die.\""
+ },
+ {
+  "file": "ML017",
+  "seg": 308,
+  "ref": "[chapverse] chapter 2 verse 22 [bible-context?]",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "You The answer is there to your question. | Acts chapter 2 verse 22. | Can you go to it?"
+ },
+ {
+  "file": "ML018",
+  "seg": 146,
+  "ref": "Quran 60:8",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "We're not talking about random non-Muslims. | Random non-Muslims, Allah tells us in the Quran in chapter 60, verse 8, that you you have to be good to them. | In dealing with them fair and just in dealing with them."
+ },
+ {
+  "file": "ML018",
+  "seg": 146,
+  "ref": "[chapverse] chapter 60, verse 8",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "We're not talking about random non-Muslims. | Random non-Muslims, Allah tells us in the Quran in chapter 60, verse 8, that you you have to be good to them. | In dealing with them fair and just in dealing with them."
+ },
+ {
+  "file": "ML019",
+  "seg": 39,
+  "ref": "Quran 4:157",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Yeah, yeah, sure, sure. | It's chapter 4 of the Quran verse 150 157. | I know I"
+ },
+ {
+  "file": "ML019",
+  "seg": 44,
+  "ref": "Quran 4:157",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "No no worries. | It's the Quran Quran chapter 4 verse 157. | I know it."
+ },
+ {
+  "file": "ML019",
+  "seg": 44,
+  "ref": "[chapverse] chapter 4 verse 157",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "No no worries. | It's the Quran Quran chapter 4 verse 157. | I know it."
+ },
+ {
+  "file": "ML019",
+  "seg": 263,
+  "ref": "[chapverse] chapter 20 verse 7 to 11 [bible-context?]",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Let's read what the Bible says. | Jeremiah chapter 20 verse 7 to 11. | Oh Lord, Jeremiah speaking."
+ },
+ {
+  "file": "ML021",
+  "seg": 38,
+  "ref": "[chapverse] chapter 10 verse 30 [bible-context?]",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Exactly. | John chapter 10 verse 30. | Do you know the context?"
+ },
+ {
+  "file": "ML021",
+  "seg": 175,
+  "ref": "[chapverse] chapter 6 verse 4 [bible-context?]",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "We believe Yeah, we believe in what Jesus said about himself. | Jesus said he was a prophet in Mark chapter 6 verse 4. | He says he's a messenger."
+ },
+ {
+  "file": "ML021",
+  "seg": 339,
+  "ref": "[chapverse] chapter 13 verse 32 [bible-context?]",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Wait, where did he say that? | In Mark chapter 13 verse 32. | Surprised, huh?"
+ },
+ {
+  "file": "ML021",
+  "seg": 346,
+  "ref": "[chapverse] chapter 13 verse 32",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Yeah. | chapter 13 verse 32. | Okay."
+ },
+ {
+  "file": "ML021",
+  "seg": 533,
+  "ref": "[chapverse] chapter 8, verse 58",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "No. | St. John, chapter 8, verse 58. | It's a different story from blind man that says, \"I am.\""
+ },
+ {
+  "file": "ML021",
+  "seg": 574,
+  "ref": "[chapverse] chapter 20, verse 17",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "He says, \"I have a god.\" | In John, chapter 20, verse 17. | You know what He says, \"I go back to my father and your father.\""
+ },
+ {
+  "file": "ML021",
+  "seg": 822,
+  "ref": "[page] page 110",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "If you go to Cambridge, they teach his book, right? | So if you go to his book, page 110, he says a woman can be given in marriage at the age of seven, entitled to dowry, which is marital gift, at the age of nine. | That was the law in the country."
+ },
+ {
+  "file": "ML031",
+  "seg": 578,
+  "ref": "[chapverse] chapter 17 verse 21 and 22 [bible-context?]",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Can you go to John chapter 17 for me please? | John chapter 17 verse 21 and 22. | I pray that they will all be one just as I just as you and I are one just um as"
+ },
+ {
+  "file": "ML031",
+  "seg": 672,
+  "ref": "[chapcolon] chapter 17:3 [bible-context?]",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Do you know Jesus said this | in John chapter 17:3? | So be honest with me."
+ },
+ {
+  "file": "ML032",
+  "seg": 444,
+  "ref": "[chapverse] chapter 20 verse 17",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "You know who where he said my god and your god in your book in | John in chapter 20 verse 17 he says I'm going to my god and your god so he says | worship my god and your god whoever associates with Allah whoever associates with Allah he will"
+ },
+ {
+  "file": "ML033",
+  "seg": 980,
+  "ref": "Quran 4:82",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "So if it is from God it necessitates it cannot have contradictions and the Quran itself says that if this was from other than God you'll find it in many contradictions. | The Quran makes that claim itself in chapter 4:82. | So it's a necessity but it's not proof necessarily because I can write a book without contradictions."
+ },
+ {
+  "file": "ML033",
+  "seg": 980,
+  "ref": "[chapcolon] chapter 4:82",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "So if it is from God it necessitates it cannot have contradictions and the Quran itself says that if this was from other than God you'll find it in many contradictions. | The Quran makes that claim itself in chapter 4:82. | So it's a necessity but it's not proof necessarily because I can write a book without contradictions."
+ },
+ {
+  "file": "ML035",
+  "seg": 374,
+  "ref": "Quran 29:13",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "In chapter 29, Allah says in the Quran I'm Look, I'm going to give you the last chance I'm going to have to remove you because really you're really not letting me speak while I'm trying to speak, okay? | Allah says in the Quran chapter 29 verse 13, here. | They will certainly carry their own burdens as well as other burdens with their burdens."
+ },
+ {
+  "file": "ML035",
+  "seg": 374,
+  "ref": "[chapverse] chapter 29 verse 13",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "In chapter 29, Allah says in the Quran I'm Look, I'm going to give you the last chance I'm going to have to remove you because really you're really not letting me speak while I'm trying to speak, okay? | Allah says in the Quran chapter 29 verse 13, here. | They will certainly carry their own burdens as well as other burdens with their burdens."
+ },
+ {
+  "file": "ML035",
+  "seg": 393,
+  "ref": "Quran 16:25",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Okay. | Allah says in the Quran chapter 16 to verse 25. | Let them bear their burdens in full on the day of judgement."
+ },
+ {
+  "file": "ML035",
+  "seg": 441,
+  "ref": "Sahih Muslim 2667",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Yeah, the translation I brought did not does not say ransom, and I researched the Hadith that you mentioned. | 2667 in Sahih Muslim is is the one I was reading. | It says put on them, it doesn't say ransom."
+ },
+ {
+  "file": "ML036",
+  "seg": 368,
+  "ref": "[chapverse] chapter 10 verse 30 [bible-context?]",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "I'm going to tell you again. | It's in John chapter 10 verse 30 specifically. | You know the context."
+ },
+ {
+  "file": "ML036",
+  "seg": 456,
+  "ref": "[chapverse] chapter 17 verses 21 and 22 [bible-context?]",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "cherry on the cake just because I'm a nice guy right I'm going to add you | another cherry the cake Jesus says in John chapter 17 verses 21 and 22 do you | know what he says he speaks to the the followers disciples with him he says"
+ },
+ {
+  "file": "ML036",
+  "seg": 644,
+  "ref": "Quran 2:136",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "I have to this is an article of faith where you have to believe in all the prophets of | God Quran chapter 2 verse 1 136 say oh believers we're supposed to say right we | believe in Allah and what has been revealed to us which is the Quran and"
+ },
+ {
+  "file": "ML036",
+  "seg": 644,
+  "ref": "[chapverse] chapter 2 verse 1",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "I have to this is an article of faith where you have to believe in all the prophets of | God Quran chapter 2 verse 1 136 say oh believers we're supposed to say right we | believe in Allah and what has been revealed to us which is the Quran and"
+ },
+ {
+  "file": "ML039",
+  "seg": 22,
+  "ref": "Quran 4:82",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "you find a contradiction, someone can leave Islam because the Quran itself in | chapter four of the Quran verse 82 says that if this book was from other than God, you'll find in it many contradictions. | So, the Quran itself makes this as a criteria, right?"
+ },
+ {
+  "file": "ML039",
+  "seg": 389,
+  "ref": "Quran 4:82",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "So if you're a Christian watching this, you should leave Christianity because Christianity and the Bible is full of contradictions. | While the Quran remains as it says itself in the Quran in chapter 4 verse 82. | If it was from other than God, they would find in it many contradictions."
+ },
+ {
+  "file": "ML039",
+  "seg": 389,
+  "ref": "[chapverse] chapter 4 verse 82",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "So if you're a Christian watching this, you should leave Christianity because Christianity and the Bible is full of contradictions. | While the Quran remains as it says itself in the Quran in chapter 4 verse 82. | If it was from other than God, they would find in it many contradictions."
+ },
+ {
+  "file": "ML040",
+  "seg": 99,
+  "ref": "Quran 3:7",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "No worries. | So Allah says in chapter 3 of the Quran verse 7 that you have foundational verses of the Quran and verses which have more than one meaning. | And the people have diseases on their heart."
+ },
+ {
+  "file": "ML040",
+  "seg": 124,
+  "ref": "Quran 9:100",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "the companions of the prophet. | Allah says also again in chapter 9 of the Quran verse 100 that | the first group of companions from the people who migrated and and the"
+ },
+ {
+  "file": "ML040",
+  "seg": 360,
+  "ref": "[chapcolon] chapter 9:9 [bible-context?]",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "example maybe scholars like GB Phillips and and others they highlight this and | they say look you have in the gospel of Matthew chapter 9:9 you have let me read | it for you actually word for it give me one second that would be actually even"
+ },
+ {
+  "file": "ML040",
+  "seg": 1100,
+  "ref": "Quran 60:8",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Allah loves those who who are just Allah only forbids you from those who fight you because of religion. | Chapter 60 of the Quran verse 8 and N. | Okay."
+ },
+ {
+  "file": "ML040",
+  "seg": 1114,
+  "ref": "Quran 4:59",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "The all Muslims have to agree on this whether they like it or not because it's in the Quran. | Chapter 4 of the Quran verse 59. | So they can they can disagree all they want but the Quran itself tells you if you have any issues if you have disagreements over anything the criteria is the Quran and the prophet"
  },
  {
   "file": "ML043",
@@ -1368,5 +2588,1855 @@
   ],
   "speaker": "The Muslim Lantern",
   "context": "(Prophet Muhammad is not bringing anything new) | It's the same Message that came from God from the beginning (ashShura42:13) | – All right, Eric!"
+ },
+ {
+  "file": "ML045",
+  "seg": 334,
+  "ref": "Quran 9:29",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "In that verse, there's There's no word to be found. | The verse that he's referring to is in chapter 9 of the Quran, verse 29. | Of course, you conveniently ignore the verses that came before."
+ },
+ {
+  "file": "ML045",
+  "seg": 336,
+  "ref": "Quran 9:1",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Of course, you conveniently ignore the verses that came before. | First verse of chapter 9 that talks about a treaty being broken. | Verse number six that says, \"Give peace to the people in war."
+ },
+ {
+  "file": "ML045",
+  "seg": 337,
+  "ref": "Quran 9:6",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "First verse of chapter 9 that talks about a treaty being broken. | Verse number six that says, \"Give peace to the people in war. | If they seek peace, give them peace and deliver them to a safe place.\""
+ },
+ {
+  "file": "ML045",
+  "seg": 339,
+  "ref": "Quran 9:13",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "If they seek peace, give them peace and deliver them to a safe place.\" | They ignore verse 13 which talks about them breaking their oath first. | And Allah saying, \"Would you not fight against the people that first broke their oath and started to attack you first?\""
+ },
+ {
+  "file": "ML045",
+  "seg": 341,
+  "ref": "Quran 9:29",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "And Allah saying, \"Would you not fight against the people that first broke their oath and started to attack you first?\" | And then they go to verse 29, okay? | Verse 29 and they say, \"Okay, this We have this verse that says, 'Fight those"
+ },
+ {
+  "file": "ML046",
+  "seg": 307,
+  "ref": "Quran 49:5",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "(when a lying, untrustworthy person comes to you with news, verify it). | (alHujurat49:5) | So until I verify the news that actually somebody did what you said,"
+ },
+ {
+  "file": "ML046",
+  "seg": 307,
+  "ref": "[glued] (alHujurat49:5)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "(when a lying, untrustworthy person comes to you with news, verify it). | (alHujurat49:5) | So until I verify the news that actually somebody did what you said,"
+ },
+ {
+  "file": "ML046",
+  "seg": 343,
+  "ref": "Quran 16:125",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "And yeah, we condemn that if it's true! | If it's true, Islam is very clear on being welcoming to other people (anNahl16:125) | The word دعوة (Da'wa) which you hear a lot, or people hear, dawah means INVITATION, actually"
+ },
+ {
+  "file": "ML046",
+  "seg": 343,
+  "ref": "[glued] (anNahl16:125)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "And yeah, we condemn that if it's true! | If it's true, Islam is very clear on being welcoming to other people (anNahl16:125) | The word دعوة (Da'wa) which you hear a lot, or people hear, dawah means INVITATION, actually"
+ },
+ {
+  "file": "ML046",
+  "seg": 349,
+  "ref": "Quran 29:46",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "The purpose is to invite people with a good attitude and good mannerisms | Allah explicitly tells us in the Quran (alAnkabut29:46) | (And do not argue with the People of the Book except with that which is best)"
+ },
+ {
+  "file": "ML046",
+  "seg": 349,
+  "ref": "[glued] (alAnkabut29:46)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "The purpose is to invite people with a good attitude and good mannerisms | Allah explicitly tells us in the Quran (alAnkabut29:46) | (And do not argue with the People of the Book except with that which is best)"
+ },
+ {
+  "file": "ML046",
+  "seg": 358,
+  "ref": "Quran 4:94",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "There's nothing for you to be proud about or whatever | Allah, in the Quran (anNisa4:94) spoke to the Companions of the Prophet | Muhammadﷺ ('alayhi ssalatu wa sSalam: peace and blessing be upon him)"
+ },
+ {
+  "file": "ML046",
+  "seg": 358,
+  "ref": "[glued] (anNisa4:94)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "There's nothing for you to be proud about or whatever | Allah, in the Quran (anNisa4:94) spoke to the Companions of the Prophet | Muhammadﷺ ('alayhi ssalatu wa sSalam: peace and blessing be upon him)"
+ },
+ {
+  "file": "ML046",
+  "seg": 373,
+  "ref": "Quran 16:125",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "You got be good to them | Allah says, (call to the way of your Lord with wisdom and good speech) (anNahl16:125) | That's what we believe"
+ },
+ {
+  "file": "ML046",
+  "seg": 373,
+  "ref": "[glued] (anNahl16:125)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "You got be good to them | Allah says, (call to the way of your Lord with wisdom and good speech) (anNahl16:125) | That's what we believe"
+ },
+ {
+  "file": "ML047",
+  "seg": 182,
+  "ref": "[chapverse] chapter 9 verse 9 [bible-context?]",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Also, you can see that the the Gospel of Matthew when it talks about Matthew, it speaks in the third person. | So for example, Matthew chapter 9 verse 9 says, \"And and Jesus met a tax collector called Matthew.\" | He didn't say, \"And Jesus met me."
+ },
+ {
+  "file": "ML049",
+  "seg": 98,
+  "ref": "Quran 2:216",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "– Go ahead | – Yeah Allah says in the Quran (alBaqara2:216) | كُتِبَ عَلَيْكُمُ ٱلْقِتَالُ وَهُوَ كُرْهٌۭ لَّكُمْ ۖ (Allah wrote upon you fighting, and you hate it)"
+ },
+ {
+  "file": "ML049",
+  "seg": 98,
+  "ref": "[glued] (alBaqara2:216)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "– Go ahead | – Yeah Allah says in the Quran (alBaqara2:216) | كُتِبَ عَلَيْكُمُ ٱلْقِتَالُ وَهُوَ كُرْهٌۭ لَّكُمْ ۖ (Allah wrote upon you fighting, and you hate it)"
+ },
+ {
+  "file": "ML049",
+  "seg": 109,
+  "ref": "Quran 2:251",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "It's very important. | Allah says (alBaqara2:251) وَلَوْلَا دَفْعُ ٱللَّهِ ٱلنَّاسَ بَعْضَهُم بِبَعْضٍۢ لَّفَسَدَتِ ٱلْأَرْضُ | (If Allah did not use people to deter other people from evil, then the entire earth would be corrupted)"
+ },
+ {
+  "file": "ML049",
+  "seg": 109,
+  "ref": "[glued] (alBaqara2:251)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "It's very important. | Allah says (alBaqara2:251) وَلَوْلَا دَفْعُ ٱللَّهِ ٱلنَّاسَ بَعْضَهُم بِبَعْضٍۢ لَّفَسَدَتِ ٱلْأَرْضُ | (If Allah did not use people to deter other people from evil, then the entire earth would be corrupted)"
+ },
+ {
+  "file": "ML049",
+  "seg": 247,
+  "ref": "Quran 24:2",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "In chapter:24 of the Quran, Surat anNur, in the first few verses, it mentions something important as well | It says, (do not have any mercy for them), (anNur24:2) | Specifically, those people who are being lashed"
+ },
+ {
+  "file": "ML049",
+  "seg": 247,
+  "ref": "[glued] (anNur24:2)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "In chapter:24 of the Quran, Surat anNur, in the first few verses, it mentions something important as well | It says, (do not have any mercy for them), (anNur24:2) | Specifically, those people who are being lashed"
+ },
+ {
+  "file": "ML051",
+  "seg": 141,
+  "ref": "Quran 19:64",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "then we wouldn't rely on an idea, whether it is the sonship of God– | If I were to ask you intuitively: Allah says in the Quran, Allah doesn't forget (Maryam19:64) | God doesn't forget, OK?"
+ },
+ {
+  "file": "ML051",
+  "seg": 141,
+  "ref": "[glued] (Maryam19:64)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "then we wouldn't rely on an idea, whether it is the sonship of God– | If I were to ask you intuitively: Allah says in the Quran, Allah doesn't forget (Maryam19:64) | God doesn't forget, OK?"
+ },
+ {
+  "file": "ML051",
+  "seg": 143,
+  "ref": "Quran 40:22",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "God doesn't forget, OK? | Allah says in the Quran that God is the most powerful, (Ghafir40:22) | God says in the Quran, that there's no tiredness or fatigue, (Qaf50:38) And he doesn't forget anything"
+ },
+ {
+  "file": "ML051",
+  "seg": 143,
+  "ref": "[glued] (Ghafir40:22)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "God doesn't forget, OK? | Allah says in the Quran that God is the most powerful, (Ghafir40:22) | God says in the Quran, that there's no tiredness or fatigue, (Qaf50:38) And he doesn't forget anything"
+ },
+ {
+  "file": "ML051",
+  "seg": 144,
+  "ref": "Quran 50:38",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Allah says in the Quran that God is the most powerful, (Ghafir40:22) | God says in the Quran, that there's no tiredness or fatigue, (Qaf50:38) And he doesn't forget anything | Would you say that is a perfect description of God?"
+ },
+ {
+  "file": "ML051",
+  "seg": 144,
+  "ref": "[glued] (Qaf50:38)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Allah says in the Quran that God is the most powerful, (Ghafir40:22) | God says in the Quran, that there's no tiredness or fatigue, (Qaf50:38) And he doesn't forget anything | Would you say that is a perfect description of God?"
+ },
+ {
+  "file": "ML051",
+  "seg": 227,
+  "ref": "[bare] (6:6-7) [bible-context?]",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Also, the Bible says when God saw the people doing bad, whatever, | The Bible says –I believe it's also in Genesis (6:6-7)– it says, God regrets creating man | OK?"
+ },
+ {
+  "file": "ML053",
+  "seg": 60,
+  "ref": "Quran 39:15",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "it reminded me of a verse of the Quran | Chapter:39 of the Quran (azZumar), verse:15. | So I was bringing the actual verse to read it for you,"
+ },
+ {
+  "file": "ML053",
+  "seg": 97,
+  "ref": "Quran 66:6",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "– (yes) | Or I can first try to save myself, then do as the Quran says (atTahrim66:6) | يَا أَيُّهَا الَّذِينَ آمَنُوا قُوا أَنفُسَكُمْ -yourselves-"
+ },
+ {
+  "file": "ML053",
+  "seg": 97,
+  "ref": "[glued] (atTahrim66:6)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "– (yes) | Or I can first try to save myself, then do as the Quran says (atTahrim66:6) | يَا أَيُّهَا الَّذِينَ آمَنُوا قُوا أَنفُسَكُمْ -yourselves-"
+ },
+ {
+  "file": "ML053",
+  "seg": 114,
+  "ref": "Quran 39:7",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "What does God lose if you don't become Muslim? | (azZumar39:7) | – Nothing"
+ },
+ {
+  "file": "ML053",
+  "seg": 114,
+  "ref": "[glued] (azZumar39:7)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "What does God lose if you don't become Muslim? | (azZumar39:7) | – Nothing"
+ },
+ {
+  "file": "ML053",
+  "seg": 127,
+  "ref": "Quran 2:155",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "That's why it's a test | And that's why you get absolute and eternal paradise in the Afterlife (alBaqara2:155) | So, yeah, if we really truly care about our family,"
+ },
+ {
+  "file": "ML053",
+  "seg": 127,
+  "ref": "[glued] (alBaqara2:155)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "That's why it's a test | And that's why you get absolute and eternal paradise in the Afterlife (alBaqara2:155) | So, yeah, if we really truly care about our family,"
+ },
+ {
+  "file": "ML053",
+  "seg": 147,
+  "ref": "Quran 66:10",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Allah gave us so many examples in the Quran about Prophets | If you read the Quran, the wife of Noah, the wife of Lot, (atTahrim66:10) | The father of Abraham (atTawba9:114),"
+ },
+ {
+  "file": "ML053",
+  "seg": 147,
+  "ref": "[glued] (atTahrim66:10)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Allah gave us so many examples in the Quran about Prophets | If you read the Quran, the wife of Noah, the wife of Lot, (atTahrim66:10) | The father of Abraham (atTawba9:114),"
+ },
+ {
+  "file": "ML053",
+  "seg": 148,
+  "ref": "Quran 9:114",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "If you read the Quran, the wife of Noah, the wife of Lot, (atTahrim66:10) | The father of Abraham (atTawba9:114), | the son of Noah (Hud11:42-46)."
+ },
+ {
+  "file": "ML053",
+  "seg": 148,
+  "ref": "[glued] (atTawba9:114)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "If you read the Quran, the wife of Noah, the wife of Lot, (atTahrim66:10) | The father of Abraham (atTawba9:114), | the son of Noah (Hud11:42-46)."
+ },
+ {
+  "file": "ML053",
+  "seg": 149,
+  "ref": "Quran 11:42-46",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "The father of Abraham (atTawba9:114), | the son of Noah (Hud11:42-46). | All of these.."
+ },
+ {
+  "file": "ML053",
+  "seg": 149,
+  "ref": "[glued] (Hud11:42-46)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "The father of Abraham (atTawba9:114), | the son of Noah (Hud11:42-46). | All of these.."
+ },
+ {
+  "file": "ML053",
+  "seg": 156,
+  "ref": "Quran 28:56",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Family members of the Prophet, family members of the Prophets, and they couldn't guide them! | Because Guidance is not in the hands of us (alQasas28:56) | So we also have to approach this realistically."
+ },
+ {
+  "file": "ML053",
+  "seg": 156,
+  "ref": "[glued] (alQasas28:56)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Family members of the Prophet, family members of the Prophets, and they couldn't guide them! | Because Guidance is not in the hands of us (alQasas28:56) | So we also have to approach this realistically."
+ },
+ {
+  "file": "ML053",
+  "seg": 440,
+  "ref": "Quran 7:145",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "– Of Moses | And the Tablets that God Himself wrote for Moses (alAaraf7:145) | Now even the Bible records it like written with the finger of God (Exodus31:18)"
+ },
+ {
+  "file": "ML053",
+  "seg": 440,
+  "ref": "[glued] (alAaraf7:145)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "– Of Moses | And the Tablets that God Himself wrote for Moses (alAaraf7:145) | Now even the Bible records it like written with the finger of God (Exodus31:18)"
+ },
+ {
+  "file": "ML053",
+  "seg": 456,
+  "ref": "Quran 5:46",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Then, the Injil. | Allah in the Quran says (alMaida5:46) | وَءَاتَیۡنَـٰهُ ٱلۡإِنجِیلَ Who is it in آتَيْنَاهُ?"
+ },
+ {
+  "file": "ML053",
+  "seg": 456,
+  "ref": "[glued] (alMaida5:46)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Then, the Injil. | Allah in the Quran says (alMaida5:46) | وَءَاتَیۡنَـٰهُ ٱلۡإِنجِیلَ Who is it in آتَيْنَاهُ?"
+ },
+ {
+  "file": "ML055",
+  "seg": 380,
+  "ref": "Quran 5:48",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Believe in the Quran, follow the Quran explicitly. | In fact, Allah tells Prophet Muhammad explicitly in the Quran chapter five, verse 48 and and other verses, explicitly that you can only judge with the the people of scriptures with the Quran. | Do not judge with anything else other than the Quran."
+ },
+ {
+  "file": "ML055",
+  "seg": 710,
+  "ref": "[chapcolon] chapter 15:24 [bible-context?]",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "First, that the message, the original message of the Torah and the Gospel was only for their people. | That's why you see Jesus saying to the people that I was only sent to the lost sheep of the house of Israel in Matthew chapter 15:24 when they when the Canaanite woman came asking for healing her child. | And then you have Jesus teaching his disciples in Matthew as well, do not go in the way of the Gentiles but only go to the lost sheep of the house of Israel."
+ },
+ {
+  "file": "ML057",
+  "seg": 404,
+  "ref": "Quran 3:199",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Now I'll give you an example if you want. | Chapter 3 of the Quran versus 199. | Can you read it?"
+ },
+ {
+  "file": "ML057",
+  "seg": 408,
+  "ref": "Quran 3:199",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "3109. | So chapter 3 verse 1 199 | 99"
+ },
+ {
+  "file": "ML057",
+  "seg": 408,
+  "ref": "[chapverse] chapter 3 verse 1",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "3109. | So chapter 3 verse 1 199 | 99"
+ },
+ {
+  "file": "ML057",
+  "seg": 436,
+  "ref": "Quran 98:6",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "can you open chapter Yeah. | Can you open chapter 98 verse 6 or I'll read it for you. | Yeah."
+ },
+ {
+  "file": "ML057",
+  "seg": 436,
+  "ref": "[chapverse] chapter 98 verse 6",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "can you open chapter Yeah. | Can you open chapter 98 verse 6 or I'll read it for you. | Yeah."
+ },
+ {
+  "file": "ML057",
+  "seg": 441,
+  "ref": "Quran 3:199",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "So here Allah tells us there are believers and there are disbelievers. | So the verse the verse in chapter 3 199 it says there's among the people of the book who truly believe in Allah and then uh 98 it says there are those who disbelieve. | So you have groups of the people of the book in the Quran explicitly."
+ },
+ {
+  "file": "ML057",
+  "seg": 444,
+  "ref": "Quran 2:62",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Now when you go to the Quran the chapter that you talked about the verse that you talked about refers to the believers among the people of the book. | So chapter 2 of the Quran that you quoted verse 62 indeed the believers the | Jews and the Christians and the saviors whoever here's the condition truly"
+ },
+ {
+  "file": "ML057",
+  "seg": 455,
+  "ref": "Quran 4:150",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "There's any any of these things. | I'll give you an example in chapter 4 of the Quran where explicitly talks about disbelieving in the messengers and how this is true disbelief. | 4150."
+ },
+ {
+  "file": "ML057",
+  "seg": 484,
+  "ref": "Quran 17:15",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Like you don't need to believe what I say. | You got to just if you read the Quran, Quran answers what Go to chapter 17 of the Quran verse 15. | It will answer what you just said."
+ },
+ {
+  "file": "ML057",
+  "seg": 707,
+  "ref": "[chapcolon] chapter 10:32 [bible-context?]",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Okay. | Can you go to John chapter 10:32? | I have shown you many goods work, many good works from the father."
+ },
+ {
+  "file": "ML059",
+  "seg": 292,
+  "ref": "Quran 47:30",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "So you can see in their speech, their lies. | As Allah tells us in the Quran (Muhammad47:30) | The hypocrites, you always see in their speech."
+ },
+ {
+  "file": "ML059",
+  "seg": 292,
+  "ref": "[glued] (Muhammad47:30)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "So you can see in their speech, their lies. | As Allah tells us in the Quran (Muhammad47:30) | The hypocrites, you always see in their speech."
+ },
+ {
+  "file": "ML059",
+  "seg": 427,
+  "ref": "[bare] (6:5-7) [bible-context?]",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "And the funny thing, you have this same kissing stone story or whatever, | Or you have these stone stories that forgive sins in the Old Testament, in Isaiah (6:5-7) | They don't know this."
+ },
+ {
+  "file": "ML059",
+  "seg": 443,
+  "ref": "[bare] (13:6)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Go to Deuteronomy. | (13:6) | Read yourself."
+ },
+ {
+  "file": "ML060",
+  "seg": 508,
+  "ref": "Quran 9:100",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "all of these people they're talking about right can you bring this verse up on the screen so we can read it? | Chapter 9 of the Quran verse 100 | because you know they believe in the Quran we believe in the Quran we both believe in the same book."
+ },
+ {
+  "file": "ML060",
+  "seg": 522,
+  "ref": "Quran 9:100",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Yeah. | Surah tba verse 100. | Yes."
+ },
+ {
+  "file": "ML060",
+  "seg": 522,
+  "ref": "[surahname] Surah tba verse 100",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Yeah. | Surah tba verse 100. | Yes."
+ },
+ {
+  "file": "ML061",
+  "seg": 298,
+  "ref": "[chapverse] chapter 18 verse 10 [bible-context?]",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "For the forgiveness of Number two, it also highlights repentance as a method of forgiveness from God. | It's clear in Ezekiel chapter 18 verse 10. | Not not not just for forgiveness doesn't only come through sacrifice."
+ },
+ {
+  "file": "ML061",
+  "seg": 347,
+  "ref": "[chapverse] chapter 18 verse 20 [bible-context?]",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "You repent to God for forgiveness. | In Ezekiel chapter 18 verse 20 in Islam you repent to God for forgiveness. | There's a law and commandments that God gives to his prophets in the Old Testament is a law and commandments that God gives to Muslims in the Quran."
+ },
+ {
+  "file": "ML064",
+  "seg": 238,
+  "ref": "Quran 4:171",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "O People of the Book do this, O People of the Book believe, | O People of the Book do not exaggerate in your religion (anNisa4:171) | Because if they already have the Shahada,"
+ },
+ {
+  "file": "ML064",
+  "seg": 238,
+  "ref": "[glued] (anNisa4:171)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "O People of the Book do this, O People of the Book believe, | O People of the Book do not exaggerate in your religion (anNisa4:171) | Because if they already have the Shahada,"
+ },
+ {
+  "file": "ML064",
+  "seg": 590,
+  "ref": "Quran 4:171",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "They are called to their religion | Like I said, in many places, Allah says (alNisa4:171) (O, People of the Book, do not exceed in your religion) | Do not go in exaggeration in your Faith, in your religion"
+ },
+ {
+  "file": "ML064",
+  "seg": 590,
+  "ref": "[glued] (alNisa4:171)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "They are called to their religion | Like I said, in many places, Allah says (alNisa4:171) (O, People of the Book, do not exceed in your religion) | Do not go in exaggeration in your Faith, in your religion"
+ },
+ {
+  "file": "ML064",
+  "seg": 592,
+  "ref": "Quran 5:72",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Do not go in exaggeration in your Faith, in your religion | Allah says (Those who say Jesus is God are disbelievers) (alMaida5:72) | Allah mentions also that those who say that God is one of three"
+ },
+ {
+  "file": "ML064",
+  "seg": 592,
+  "ref": "[glued] (alMaida5:72)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Do not go in exaggeration in your Faith, in your religion | Allah says (Those who say Jesus is God are disbelievers) (alMaida5:72) | Allah mentions also that those who say that God is one of three"
+ },
+ {
+  "file": "ML064",
+  "seg": 594,
+  "ref": "Quran 5:73",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Allah mentions also that those who say that God is one of three | Or third of three are disbelievers as well (alMaida5:73) | All of these are clear verses in The Quran"
+ },
+ {
+  "file": "ML064",
+  "seg": 594,
+  "ref": "[glued] (alMaida5:73)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Allah mentions also that those who say that God is one of three | Or third of three are disbelievers as well (alMaida5:73) | All of these are clear verses in The Quran"
+ },
+ {
+  "file": "ML064",
+  "seg": 596,
+  "ref": "Quran 9:31",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "All of these are clear verses in The Quran | Allah says (atTawba9:31) | (The Jews and Christians took Jesus and the rabbis and priests as gods besides Allah)"
+ },
+ {
+  "file": "ML064",
+  "seg": 596,
+  "ref": "[glued] (atTawba9:31)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "All of these are clear verses in The Quran | Allah says (atTawba9:31) | (The Jews and Christians took Jesus and the rabbis and priests as gods besides Allah)"
+ },
+ {
+  "file": "ML064",
+  "seg": 598,
+  "ref": "Quran 98:6",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "(The Jews and Christians took Jesus and the rabbis and priests as gods besides Allah) | Allah says (alBayyina98:6) | (Those who disbelieve from the People of the Book and the polytheists are in the Hellfire)"
+ },
+ {
+  "file": "ML064",
+  "seg": 598,
+  "ref": "[glued] (alBayyina98:6)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "(The Jews and Christians took Jesus and the rabbis and priests as gods besides Allah) | Allah says (alBayyina98:6) | (Those who disbelieve from the People of the Book and the polytheists are in the Hellfire)"
+ },
+ {
+  "file": "ML064",
+  "seg": 636,
+  "ref": "Quran 9:31",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Islam comes to call people back to Monotheism, because now, like we said, they've left Monotheism | Allah says: (the polytheists are from the People of the Book) (atTawbah9:31) | So Allah is referring to them as being polytheists"
+ },
+ {
+  "file": "ML064",
+  "seg": 636,
+  "ref": "[glued] (atTawbah9:31)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Islam comes to call people back to Monotheism, because now, like we said, they've left Monotheism | Allah says: (the polytheists are from the People of the Book) (atTawbah9:31) | So Allah is referring to them as being polytheists"
+ },
+ {
+  "file": "ML064",
+  "seg": 720,
+  "ref": "Quran 7:157",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Yeah, there was some Jewish people that accepted, | Because the description of Prophet Muhammadﷺ, was actually in their book (alA'raf7:157) | In which they were hiding and concealing and corrupting"
+ },
+ {
+  "file": "ML064",
+  "seg": 720,
+  "ref": "[glued] (alA'raf7:157)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Yeah, there was some Jewish people that accepted, | Because the description of Prophet Muhammadﷺ, was actually in their book (alA'raf7:157) | In which they were hiding and concealing and corrupting"
+ },
+ {
+  "file": "ML064",
+  "seg": 731,
+  "ref": "Quran 4:171",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "It's not like he's trying to bring them in harmony | The Quran explicitly says (anNisa4:171) المَسِيحُ عِيسَى ابنُ مَريَم | (The Messiah, Jesus, the son of Mary)"
+ },
+ {
+  "file": "ML064",
+  "seg": 731,
+  "ref": "[glued] (anNisa4:171)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "It's not like he's trying to bring them in harmony | The Quran explicitly says (anNisa4:171) المَسِيحُ عِيسَى ابنُ مَريَم | (The Messiah, Jesus, the son of Mary)"
+ },
+ {
+  "file": "ML064",
+  "seg": 780,
+  "ref": "Quran 5:73",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "And in fact, The Quran explicitly, like I mentioned before, it talks to the Christians | (Those who say that Allah is third of three are disbelievers) (alMaida5:73) | And (Do not exceed in religion) (anNisa4:171)"
+ },
+ {
+  "file": "ML064",
+  "seg": 780,
+  "ref": "[glued] (alMaida5:73)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "And in fact, The Quran explicitly, like I mentioned before, it talks to the Christians | (Those who say that Allah is third of three are disbelievers) (alMaida5:73) | And (Do not exceed in religion) (anNisa4:171)"
+ },
+ {
+  "file": "ML064",
+  "seg": 781,
+  "ref": "Quran 4:171",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "(Those who say that Allah is third of three are disbelievers) (alMaida5:73) | And (Do not exceed in religion) (anNisa4:171) | And (Do not say that Jesus is God, do not transgress in your religion) (alMaida5:72)"
+ },
+ {
+  "file": "ML064",
+  "seg": 781,
+  "ref": "[glued] (anNisa4:171)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "(Those who say that Allah is third of three are disbelievers) (alMaida5:73) | And (Do not exceed in religion) (anNisa4:171) | And (Do not say that Jesus is God, do not transgress in your religion) (alMaida5:72)"
+ },
+ {
+  "file": "ML064",
+  "seg": 782,
+  "ref": "Quran 5:72",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "And (Do not exceed in religion) (anNisa4:171) | And (Do not say that Jesus is God, do not transgress in your religion) (alMaida5:72) | (Allah is only one God, do not say three) (anNisa4:171)"
+ },
+ {
+  "file": "ML064",
+  "seg": 782,
+  "ref": "[glued] (alMaida5:72)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "And (Do not exceed in religion) (anNisa4:171) | And (Do not say that Jesus is God, do not transgress in your religion) (alMaida5:72) | (Allah is only one God, do not say three) (anNisa4:171)"
+ },
+ {
+  "file": "ML064",
+  "seg": 783,
+  "ref": "Quran 4:171",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "And (Do not say that Jesus is God, do not transgress in your religion) (alMaida5:72) | (Allah is only one God, do not say three) (anNisa4:171) | All of these things were explicitly refuting the idea of the Trinity,"
+ },
+ {
+  "file": "ML064",
+  "seg": 783,
+  "ref": "[glued] (anNisa4:171)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "And (Do not say that Jesus is God, do not transgress in your religion) (alMaida5:72) | (Allah is only one God, do not say three) (anNisa4:171) | All of these things were explicitly refuting the idea of the Trinity,"
+ },
+ {
+  "file": "ML064",
+  "seg": 903,
+  "ref": "Quran 20:5",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "And The Quran is explicit, which says Allah is above His Throne | Allah explicitly mentions that in The Quran (Taha20:5) ٱلرَّحْمَـٰنُ عَلَى ٱلْعَرْشِ ٱسْتَوَىٰ | (And Allah is above everything that we see)"
+ },
+ {
+  "file": "ML064",
+  "seg": 903,
+  "ref": "[glued] (Taha20:5)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "And The Quran is explicit, which says Allah is above His Throne | Allah explicitly mentions that in The Quran (Taha20:5) ٱلرَّحْمَـٰنُ عَلَى ٱلْعَرْشِ ٱسْتَوَىٰ | (And Allah is above everything that we see)"
+ },
+ {
+  "file": "ML064",
+  "seg": 905,
+  "ref": "Quran 67:16",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "(And Allah is above everything that we see) | ءَأَمِنتُم مَّن فِى ٱلسَّمَآءِ (alMulk67:16) | (Do you feel safe or free from The one Who's above everything?)"
+ },
+ {
+  "file": "ML064",
+  "seg": 905,
+  "ref": "[glued] (alMulk67:16)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "(And Allah is above everything that we see) | ءَأَمِنتُم مَّن فِى ٱلسَّمَآءِ (alMulk67:16) | (Do you feel safe or free from The one Who's above everything?)"
+ },
+ {
+  "file": "ML064",
+  "seg": 957,
+  "ref": "Quran 5:82",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "You presented Monotheism and polytheism | Well, like I showed you, explicitly the Quran says (alMaida5:82) | (Those who have the biggest enmity towards the believers are the polytheists)"
+ },
+ {
+  "file": "ML064",
+  "seg": 957,
+  "ref": "[glued] (alMaida5:82)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "You presented Monotheism and polytheism | Well, like I showed you, explicitly the Quran says (alMaida5:82) | (Those who have the biggest enmity towards the believers are the polytheists)"
+ },
+ {
+  "file": "ML064",
+  "seg": 959,
+  "ref": "Quran 98:6",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "(Those who have the biggest enmity towards the believers are the polytheists) | Allah explicitly says in The Quran (alBayyina98:6) (The polytheists are in the hellfire) | Everywhere in the Quran."
+ },
+ {
+  "file": "ML064",
+  "seg": 959,
+  "ref": "[glued] (alBayyina98:6)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "(Those who have the biggest enmity towards the believers are the polytheists) | Allah explicitly says in The Quran (alBayyina98:6) (The polytheists are in the hellfire) | Everywhere in the Quran."
+ },
+ {
+  "file": "ML064",
+  "seg": 970,
+  "ref": "Quran 4:48",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "That there is no sin that God does not forgive, except polytheism. | (anNisa4:48) | Any sin God can forgive, except polytheism"
+ },
+ {
+  "file": "ML064",
+  "seg": 970,
+  "ref": "[glued] (anNisa4:48)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "That there is no sin that God does not forgive, except polytheism. | (anNisa4:48) | Any sin God can forgive, except polytheism"
+ },
+ {
+  "file": "ML064",
+  "seg": 972,
+  "ref": "Quran 4:48",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Any sin God can forgive, except polytheism | Allah says in The Quran explicitly (anNisa4:48) that | إِنَّ ٱللَّهَ لَا يَغْفِرُ أَن يُشْرَكَ بِهِۦ"
+ },
+ {
+  "file": "ML064",
+  "seg": 972,
+  "ref": "[glued] (anNisa4:48)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Any sin God can forgive, except polytheism | Allah says in The Quran explicitly (anNisa4:48) that | إِنَّ ٱللَّهَ لَا يَغْفِرُ أَن يُشْرَكَ بِهِۦ"
+ },
+ {
+  "file": "ML064",
+  "seg": 982,
+  "ref": "Quran 30:31",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "when Islam, all over the Scripture is refuting the idea of polytheism? | Allah says, (arRum30:31) وَلَا تَكُونُوا۟ مِنَ ٱلْمُشْرِكِينَ (Do not be from polytheists) | Explicitly in The Quran"
+ },
+ {
+  "file": "ML064",
+  "seg": 982,
+  "ref": "[glued] (arRum30:31)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "when Islam, all over the Scripture is refuting the idea of polytheism? | Allah says, (arRum30:31) وَلَا تَكُونُوا۟ مِنَ ٱلْمُشْرِكِينَ (Do not be from polytheists) | Explicitly in The Quran"
+ },
+ {
+  "file": "ML064",
+  "seg": 1482,
+  "ref": "Quran 2:78",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Is not true! | Even The Quran itself records, where Allah says (alBaqara2:78) | وَمِنْهُمْ أُمِّيُّونَ لَا يَعْلَمُونَ الْكِتَابَ إِلَّا أَمَانِيَّ (And among the Jewish people are illiterate people)"
+ },
+ {
+  "file": "ML064",
+  "seg": 1482,
+  "ref": "[glued] (alBaqara2:78)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Is not true! | Even The Quran itself records, where Allah says (alBaqara2:78) | وَمِنْهُمْ أُمِّيُّونَ لَا يَعْلَمُونَ الْكِتَابَ إِلَّا أَمَانِيَّ (And among the Jewish people are illiterate people)"
+ },
+ {
+  "file": "ML064",
+  "seg": 1569,
+  "ref": "Quran 4:83",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "But at the same time, Islam says that we have this idea, | Allah says in The Quran (anNisa4:83) (If a news comes to them of safety or fear, that they panic) | (But if they return it to the people of knowledge),"
+ },
+ {
+  "file": "ML064",
+  "seg": 1569,
+  "ref": "[glued] (anNisa4:83)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "But at the same time, Islam says that we have this idea, | Allah says in The Quran (anNisa4:83) (If a news comes to them of safety or fear, that they panic) | (But if they return it to the people of knowledge),"
+ },
+ {
+  "file": "ML064",
+  "seg": 1585,
+  "ref": "Quran 30:42",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "And to say that Islam is outside history is obviously, it makes no sense | Allah tells us in The Quran (arRum30:42) قُلْ سِيرُوا۟ فِى ٱلْأَرْضِ فَٱنظُرُوا۟ | (Walk in the earth and see the outcome of the people who were before you)"
+ },
+ {
+  "file": "ML064",
+  "seg": 1585,
+  "ref": "[glued] (arRum30:42)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "And to say that Islam is outside history is obviously, it makes no sense | Allah tells us in The Quran (arRum30:42) قُلْ سِيرُوا۟ فِى ٱلْأَرْضِ فَٱنظُرُوا۟ | (Walk in the earth and see the outcome of the people who were before you)"
+ },
+ {
+  "file": "ML065",
+  "seg": 220,
+  "ref": "[page] page 110",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "It's called the hunting for the word of God. | If you go to page 110 or 219, he would show you he'll bring the Greek manuscripts and the Greek words. | He'll also bring you the Christian scholar commentary."
+ },
+ {
+  "file": "ML065",
+  "seg": 762,
+  "ref": "Quran 3:71",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "The Quran also talks about omission omitting parts of the text. | So in chapter 3 of the Quran verse 71, Allah says, \"Oh people of the book, why do you mix the truth with falsehood and hide the truth knowingly?\" | So Allah talks about them mixing the truth with the falsehood and Allah talks about them omitting, hiding, concealing the truth knowingly."
+ },
+ {
+  "file": "ML065",
+  "seg": 766,
+  "ref": "Quran 2:101",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "concerning the description of the prophet Muhammad wasallam and his prophethood Allah also says in | the Quran chapter 2 verse 101 and when a messenger came to them confirming that which they already | had with them some among the people of the book threw the book of Allah behind their backs as if"
+ },
+ {
+  "file": "ML065",
+  "seg": 766,
+  "ref": "[chapverse] chapter 2 verse 101",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "concerning the description of the prophet Muhammad wasallam and his prophethood Allah also says in | the Quran chapter 2 verse 101 and when a messenger came to them confirming that which they already | had with them some among the people of the book threw the book of Allah behind their backs as if"
+ },
+ {
+  "file": "ML065",
+  "seg": 772,
+  "ref": "Quran 6:91",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "know but they rejected their knowledge concealed it and denied it now Allah also says in the Quran | in chapter 6 verse 91 say a prophet who then revealed the book that was brought forth to Moses | as a light and guidance for the people which you split into separate scrolls or sheets revealing"
+ },
+ {
+  "file": "ML065",
+  "seg": 772,
+  "ref": "[chapverse] chapter 6 verse 91",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "know but they rejected their knowledge concealed it and denied it now Allah also says in the Quran | in chapter 6 verse 91 say a prophet who then revealed the book that was brought forth to Moses | as a light and guidance for the people which you split into separate scrolls or sheets revealing"
+ },
+ {
+  "file": "ML065",
+  "seg": 778,
+  "ref": "Quran 2:79",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "So we now we talked about alteration we talked about omission we also talk about addition adding to the text. | Allah says in the Quran in chapter 2 verse 79. | So what to those who write the scripture with their own hand then say this is from Allah in order to exchange it for a small price."
+ },
+ {
+  "file": "ML065",
+  "seg": 778,
+  "ref": "[chapverse] chapter 2 verse 79",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "So we now we talked about alteration we talked about omission we also talk about addition adding to the text. | Allah says in the Quran in chapter 2 verse 79. | So what to those who write the scripture with their own hand then say this is from Allah in order to exchange it for a small price."
+ },
+ {
+  "file": "ML065",
+  "seg": 785,
+  "ref": "Quran 3:78",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "And then they say this is from God. | Allah also says in the Quran in chapter 3 verse 78 and indeed there was among them a party who alter the book of Allah with their tongues. | So you may think it's from the book but is not from the book and they say this is from"
+ },
+ {
+  "file": "ML065",
+  "seg": 785,
+  "ref": "[chapverse] chapter 3 verse 78",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "And then they say this is from God. | Allah also says in the Quran in chapter 3 verse 78 and indeed there was among them a party who alter the book of Allah with their tongues. | So you may think it's from the book but is not from the book and they say this is from"
+ },
+ {
+  "file": "ML065",
+  "seg": 860,
+  "ref": "Quran 48:29",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "So let me give a few examples first of uh information that exists in Quran gospel according to the Quran that don't exist in our hands today. | For example, Allah says in the Quran in chapter 48 29 that Allah talks about prophet Muhammad being the messenger of God. | And then Allah talks about his companions and then Allah says the their sign is in their faces from effective prostration."
+ },
+ {
+  "file": "ML065",
+  "seg": 865,
+  "ref": "Quran 9:111",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "produces it offshoot and strength etc. And Allah gives us this description of the companions of the prophet Muhammad that Allah says is in the Tawra original gospel. | We don't have that description in this way today anywhere also Allah tells us in the Quran in chapter 9 verse 111 that Allah indeed has purchased from the believers their lives and their wealth in exchange for paradise. | They fight in the cause of Allah and they kill or they're killed."
+ },
+ {
+  "file": "ML065",
+  "seg": 865,
+  "ref": "[chapverse] chapter 9 verse 111",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "produces it offshoot and strength etc. And Allah gives us this description of the companions of the prophet Muhammad that Allah says is in the Tawra original gospel. | We don't have that description in this way today anywhere also Allah tells us in the Quran in chapter 9 verse 111 that Allah indeed has purchased from the believers their lives and their wealth in exchange for paradise. | They fight in the cause of Allah and they kill or they're killed."
+ },
+ {
+  "file": "ML065",
+  "seg": 869,
+  "ref": "Quran 5:32",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "So when we look at the Torah and the gospel in the Quran and we try to find this promise in this way don't find it. | It's another example also Allah says in the Quran 5:32 that we ordained I like we ruled we commanded we written on the children of Israel | that whoever takes a life unless for punishment or mischief in the land that it's as if he killed"
+ },
+ {
+  "file": "ML065",
+  "seg": 869,
+  "ref": "[quran] Quran 5:32",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "So when we look at the Torah and the gospel in the Quran and we try to find this promise in this way don't find it. | It's another example also Allah says in the Quran 5:32 that we ordained I like we ruled we commanded we written on the children of Israel | that whoever takes a life unless for punishment or mischief in the land that it's as if he killed"
+ },
+ {
+  "file": "ML065",
+  "seg": 985,
+  "ref": "Quran 3:3",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "So let's let's let's have a look because there's many many many verses in the Quran that say that. | Let's have a look for example at the Quran 3:3. | Allah says in the Quran confirming the Tawra and the Gospel confirming that which came before, right?"
+ },
+ {
+  "file": "ML065",
+  "seg": 985,
+  "ref": "[quran] Quran 3:3",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "So let's let's let's have a look because there's many many many verses in the Quran that say that. | Let's have a look for example at the Quran 3:3. | Allah says in the Quran confirming the Tawra and the Gospel confirming that which came before, right?"
+ },
+ {
+  "file": "ML065",
+  "seg": 1006,
+  "ref": "Quran 3:3",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "the book truth regarding that which the people of the Torah and the gospel deferred upon. | So it says when Allah says reveal to you the book and truth in the Quran in chapter 3:3 it is regarding that | which the people of the Torah and the gospel differ by he talks about disagreements between the people of the Torah and the gospel."
+ },
+ {
+  "file": "ML065",
+  "seg": 1006,
+  "ref": "[chapcolon] chapter 3:3",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "the book truth regarding that which the people of the Torah and the gospel deferred upon. | So it says when Allah says reveal to you the book and truth in the Quran in chapter 3:3 it is regarding that | which the people of the Torah and the gospel differ by he talks about disagreements between the people of the Torah and the gospel."
+ },
+ {
+  "file": "ML065",
+  "seg": 1013,
+  "ref": "Quran 3:4",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "revelation is one so it agrees with each other and that's why you see even explicitly by the way | these this verses evidence against the Christians because the next verse Quran 3:4 what does it say | it explicitly says that this gospel as a guidance for people in the past so it's not as guidance for"
+ },
+ {
+  "file": "ML065",
+  "seg": 1013,
+  "ref": "[quran] Quran 3:4",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "revelation is one so it agrees with each other and that's why you see even explicitly by the way | these this verses evidence against the Christians because the next verse Quran 3:4 what does it say | it explicitly says that this gospel as a guidance for people in the past so it's not as guidance for"
+ },
+ {
+  "file": "ML065",
+  "seg": 1019,
+  "ref": "Quran 5:48",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "differentiator of truth and falsehood so it can clarify like we showed all of these examples in the Quran that corrects the false beliefs of Christians today. | Uh another example for about the idea of confirming that which came before is for example Quran 5:48. | So kir what does he say?"
+ },
+ {
+  "file": "ML065",
+  "seg": 1019,
+  "ref": "[quran] Quran 5:48",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "differentiator of truth and falsehood so it can clarify like we showed all of these examples in the Quran that corrects the false beliefs of Christians today. | Uh another example for about the idea of confirming that which came before is for example Quran 5:48. | So kir what does he say?"
+ },
+ {
+  "file": "ML065",
+  "seg": 1038,
+  "ref": "Quran 3:50",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Even though Allah tells us in the Quran that Jesus confirms the Torah, he still follows parts and leaves parts. | So this idea of confirming in the Quran clearly explicitly like the example of this verse chapter 3 of the Quran verse 50 where in the case of Jesus here | confirming the Torah using the gospel doesn't mean following every little thing in in the Tawra but"
+ },
+ {
+  "file": "ML065",
+  "seg": 1063,
+  "ref": "Quran 27:89",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "So let's look at these two verses in the Quran what they actually say. | So first you have the Quran 27:89. | It says recite that which has been revealed to you from the book of your ro."
+ },
+ {
+  "file": "ML065",
+  "seg": 1063,
+  "ref": "[quran] Quran 27:89",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "So let's look at these two verses in the Quran what they actually say. | So first you have the Quran 27:89. | It says recite that which has been revealed to you from the book of your ro."
+ },
+ {
+  "file": "ML065",
+  "seg": 1074,
+  "ref": "Quran 16:115",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "You don't need to go anywhere else to understand this. | The second verse they try and use is chapter 16 verse 115 where it says the word of your Lord have been perfected in truth and justice. | The word of your Lord has been perfected in truth and justice."
+ },
+ {
+  "file": "ML065",
+  "seg": 1074,
+  "ref": "[chapverse] chapter 16 verse 115",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "You don't need to go anywhere else to understand this. | The second verse they try and use is chapter 16 verse 115 where it says the word of your Lord have been perfected in truth and justice. | The word of your Lord has been perfected in truth and justice."
+ },
+ {
+  "file": "ML065",
+  "seg": 1077,
+  "ref": "Quran 6:114",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "None can change his words and he's all hearing all knowing. | Now if you go to the verse before it also the verse before chapter | 6 verse 114 it also talks about the revelation of the Quran again and this verse here is referring"
+ },
+ {
+  "file": "ML065",
+  "seg": 1099,
+  "ref": "Quran 5:66",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "So, we'll just quickly go through these verses that they mention, right? | So the first verses they quote, first example of the verses they quote is chapter five of the Quran verse 66 and 68 which says essentially they say essentially the same thing. | Oh people of the book you have nothing to stand on unless you observe the Tawra and the gospel and that which has been revealed to"
+ },
+ {
+  "file": "ML065",
+  "seg": 1099,
+  "ref": "Quran 5:68",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "So, we'll just quickly go through these verses that they mention, right? | So the first verses they quote, first example of the verses they quote is chapter five of the Quran verse 66 and 68 which says essentially they say essentially the same thing. | Oh people of the book you have nothing to stand on unless you observe the Tawra and the gospel and that which has been revealed to"
+ },
+ {
+  "file": "ML065",
+  "seg": 1119,
+  "ref": "Quran 5:43",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "So if if this verse is evidence is evidence against them. | They also quote chapter 5 of the Quran verse 43. | where it says, \"But how they can come to you?\""
+ },
+ {
+  "file": "ML065",
+  "seg": 1195,
+  "ref": "Quran 5:46-47",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "This is like a Islamic scholarly position. | Now uh they also quote chapter uh five of the Quran verse 46 and 47. | Uh but the problem is that these verses that they're quoting you can read in the Quran chapter uh verse 44 45 then 46 and 47 you can see"
+ },
+ {
+  "file": "ML065",
+  "seg": 1196,
+  "ref": "Quran 5:44-45",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Now uh they also quote chapter uh five of the Quran verse 46 and 47. | Uh but the problem is that these verses that they're quoting you can read in the Quran chapter uh verse 44 45 then 46 and 47 you can see | that they're clearly talking about chronological order of revelation that God sent down the Torah"
+ },
+ {
+  "file": "ML065",
+  "seg": 1212,
+  "ref": "Quran 3:3",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "That's why what he says in the interpretation of these verses he says after mentioning the Tawra which God revealed to Moses and commanded its following when it was permissible to follow. | Remember guys, I also showed you chapter three of the Quran verse three where it says the Torah in as guidance in the past. | So here this is just affirming and confirming the same idea."
+ },
+ {
+  "file": "ML065",
+  "seg": 1223,
+  "ref": "Quran 7:157",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "You can clearly see this is what we believe in and this is what our scholars believe in. | So the last verse I'm going to mention and that they mention is chapter 7 of the Quran verse 157. | And this verse the part that they talk about it talks about those who follow the messenger the unleted prophet"
+ },
+ {
+  "file": "ML072",
+  "seg": 108,
+  "ref": "Quran 23:96",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Because Allahﷻ ('Azza wa jal: Almighty and Majestic is God) says –this is a teaching now in The Quran– | Allahﷻ says in the Quran (alMuminun23:96) ٱدْفَعْ بِٱلَّتِى هِىَ أَحْسَنُ ٱلسَّيِّئَةَ | (Push evil that is coming towards you, repel the evil that is coming towards you with goodness)"
+ },
+ {
+  "file": "ML072",
+  "seg": 108,
+  "ref": "[glued] (alMuminun23:96)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Because Allahﷻ ('Azza wa jal: Almighty and Majestic is God) says –this is a teaching now in The Quran– | Allahﷻ says in the Quran (alMuminun23:96) ٱدْفَعْ بِٱلَّتِى هِىَ أَحْسَنُ ٱلسَّيِّئَةَ | (Push evil that is coming towards you, repel the evil that is coming towards you with goodness)"
+ },
+ {
+  "file": "ML072",
+  "seg": 110,
+  "ref": "Quran 41:34",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "(Push evil that is coming towards you, repel the evil that is coming towards you with goodness) | فَإِذَا ٱلَّذِی بَیۡنَكَ وَبَیۡنَهُۥ عَدَ ٰ⁠وَةٌ كَأَنَّهُۥ وَلِیٌّ حَمِيمٌ (Fussilat41:34) | (You'll find the person that he was as if he's your enemy he will be like your closest friend)"
+ },
+ {
+  "file": "ML072",
+  "seg": 110,
+  "ref": "[glued] (Fussilat41:34)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "(Push evil that is coming towards you, repel the evil that is coming towards you with goodness) | فَإِذَا ٱلَّذِی بَیۡنَكَ وَبَیۡنَهُۥ عَدَ ٰ⁠وَةٌ كَأَنَّهُۥ وَلِیٌّ حَمِيمٌ (Fussilat41:34) | (You'll find the person that he was as if he's your enemy he will be like your closest friend)"
+ },
+ {
+  "file": "ML083",
+  "seg": 407,
+  "ref": "Quran 54:1-2",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "And the Quran mentions that | in سورة ٱلْقَمَرُ in the chapter, alQamar (54:1-2), where it says that | (the Day of Judgment has come near, and the Moon has split)"
+ },
+ {
+  "file": "ML083",
+  "seg": 407,
+  "ref": "[bare] (54:1-2)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "And the Quran mentions that | in سورة ٱلْقَمَرُ in the chapter, alQamar (54:1-2), where it says that | (the Day of Judgment has come near, and the Moon has split)"
+ },
+ {
+  "file": "ML083",
+  "seg": 530,
+  "ref": "Quran 4:36",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "So, if you want to say, he isn't a Messenger of God, and you believe in God | and he came and he told people to worship God alone, (anNisa4:36) | and he told people to give charity (alMunafiqun63:10)"
+ },
+ {
+  "file": "ML083",
+  "seg": 530,
+  "ref": "[glued] (anNisa4:36)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "So, if you want to say, he isn't a Messenger of God, and you believe in God | and he came and he told people to worship God alone, (anNisa4:36) | and he told people to give charity (alMunafiqun63:10)"
+ },
+ {
+  "file": "ML083",
+  "seg": 531,
+  "ref": "Quran 63:10",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "and he came and he told people to worship God alone, (anNisa4:36) | and he told people to give charity (alMunafiqun63:10) | and he told people to believe in Jesus and Moses and Noah, (alAhzab33:7)"
+ },
+ {
+  "file": "ML083",
+  "seg": 531,
+  "ref": "[glued] (alMunafiqun63:10)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "and he came and he told people to worship God alone, (anNisa4:36) | and he told people to give charity (alMunafiqun63:10) | and he told people to believe in Jesus and Moses and Noah, (alAhzab33:7)"
+ },
+ {
+  "file": "ML083",
+  "seg": 532,
+  "ref": "Quran 33:7",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "and he told people to give charity (alMunafiqun63:10) | and he told people to believe in Jesus and Moses and Noah, (alAhzab33:7) | and Satan is your enemy, (Fatir35:6), and all of these things,"
+ },
+ {
+  "file": "ML083",
+  "seg": 532,
+  "ref": "[glued] (alAhzab33:7)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "and he told people to give charity (alMunafiqun63:10) | and he told people to believe in Jesus and Moses and Noah, (alAhzab33:7) | and Satan is your enemy, (Fatir35:6), and all of these things,"
+ },
+ {
+  "file": "ML083",
+  "seg": 533,
+  "ref": "Quran 35:6",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "and he told people to believe in Jesus and Moses and Noah, (alAhzab33:7) | and Satan is your enemy, (Fatir35:6), and all of these things, | you're going to have to tell me, why was he doing that?"
+ },
+ {
+  "file": "ML083",
+  "seg": 533,
+  "ref": "[glued] (Fatir35:6)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "and he told people to believe in Jesus and Moses and Noah, (alAhzab33:7) | and Satan is your enemy, (Fatir35:6), and all of these things, | you're going to have to tell me, why was he doing that?"
+ },
+ {
+  "file": "ML083",
+  "seg": 553,
+  "ref": "Quran 69:44-47",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "I'm going to tell you the verse now, and I'm going to tell you how ridiculous this argument is | Allah says in the Quran (alHaqqa69:44-47), وَلَوۡ تَقَوَّلَ عَلَیۡنَا بَعۡضَ ٱلۡأَقَاوِیلِ | (If the Prophet Muhammadﷺ were to make up some stories about us),"
+ },
+ {
+  "file": "ML083",
+  "seg": 553,
+  "ref": "[glued] (alHaqqa69:44-47)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "I'm going to tell you the verse now, and I'm going to tell you how ridiculous this argument is | Allah says in the Quran (alHaqqa69:44-47), وَلَوۡ تَقَوَّلَ عَلَیۡنَا بَعۡضَ ٱلۡأَقَاوِیلِ | (If the Prophet Muhammadﷺ were to make up some stories about us),"
+ },
+ {
+  "file": "ML083",
+  "seg": 587,
+  "ref": "Quran 5:3",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "After Prophet Muhammadﷺ completed the entire mission of giving his Message, | And the last verse of the Quran was revealed (alMaida5:3) | And the Prophetﷺ told the Muslims that he's going to die,"
+ },
+ {
+  "file": "ML083",
+  "seg": 587,
+  "ref": "[glued] (alMaida5:3)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "After Prophet Muhammadﷺ completed the entire mission of giving his Message, | And the last verse of the Quran was revealed (alMaida5:3) | And the Prophetﷺ told the Muslims that he's going to die,"
+ },
+ {
+  "file": "ML084",
+  "seg": 179,
+  "ref": "Quran 4:19",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "\"Be good to your wife, be good to..\" | The Quran says the same thing, (AnNisa4:19) | The Prophet said: (the best of you are the best to their wives)"
+ },
+ {
+  "file": "ML084",
+  "seg": 179,
+  "ref": "[glued] (AnNisa4:19)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "\"Be good to your wife, be good to..\" | The Quran says the same thing, (AnNisa4:19) | The Prophet said: (the best of you are the best to their wives)"
+ },
+ {
+  "file": "ML084",
+  "seg": 240,
+  "ref": "Quran 33:52",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Yeah, so imagine, why would he do that if he's trying to get married to multiple women? | – It's verse:52, chapter:33, (alAhzab33:52) | – JazakAllah khir"
+ },
+ {
+  "file": "ML084",
+  "seg": 240,
+  "ref": "[glued] (alAhzab33:52)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Yeah, so imagine, why would he do that if he's trying to get married to multiple women? | – It's verse:52, chapter:33, (alAhzab33:52) | – JazakAllah khir"
+ },
+ {
+  "file": "ML084",
+  "seg": 331,
+  "ref": "Quran 4:3",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "But Islam that says you have to treat them equally, | if you don't, you don't get married to more than one wife, (AnNisa4:3) | You have to treat them equally"
+ },
+ {
+  "file": "ML084",
+  "seg": 331,
+  "ref": "[glued] (AnNisa4:3)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "But Islam that says you have to treat them equally, | if you don't, you don't get married to more than one wife, (AnNisa4:3) | You have to treat them equally"
+ },
+ {
+  "file": "ML084",
+  "seg": 678,
+  "ref": "Quran 111:1-5",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Like for example, Abu Lahab, who was an enemy of the Prophetﷺ, he was his uncle, | And the Quran made a prophecy that he will die upon disbelief, (alMasad111:1-5), | And when this verse was revealed, there was 10 years, he could have disproved this prophecy,"
+ },
+ {
+  "file": "ML084",
+  "seg": 678,
+  "ref": "[glued] (alMasad111:1-5)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Like for example, Abu Lahab, who was an enemy of the Prophetﷺ, he was his uncle, | And the Quran made a prophecy that he will die upon disbelief, (alMasad111:1-5), | And when this verse was revealed, there was 10 years, he could have disproved this prophecy,"
+ },
+ {
+  "file": "ML084",
+  "seg": 728,
+  "ref": "Quran 21:107",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "It's definitely not a requirement for you to speak Arabic to become a Muslim | Allah says in the Quran (alAnbiya21:107) (Prophet Muhammad is sent as a MERCY to the mankind), all of mankind, | The Prophet said (alA'raf7:158) إِنِّى رَسُولُ ٱللَّهِ إِلَيْكُمْ جَمِيعًا (I'm the Messenger of God to ALL of you),"
+ },
+ {
+  "file": "ML084",
+  "seg": 728,
+  "ref": "[glued] (alAnbiya21:107)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "It's definitely not a requirement for you to speak Arabic to become a Muslim | Allah says in the Quran (alAnbiya21:107) (Prophet Muhammad is sent as a MERCY to the mankind), all of mankind, | The Prophet said (alA'raf7:158) إِنِّى رَسُولُ ٱللَّهِ إِلَيْكُمْ جَمِيعًا (I'm the Messenger of God to ALL of you),"
+ },
+ {
+  "file": "ML084",
+  "seg": 729,
+  "ref": "Quran 7:158",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Allah says in the Quran (alAnbiya21:107) (Prophet Muhammad is sent as a MERCY to the mankind), all of mankind, | The Prophet said (alA'raf7:158) إِنِّى رَسُولُ ٱللَّهِ إِلَيْكُمْ جَمِيعًا (I'm the Messenger of God to ALL of you), | Not just Arabs or non-Arabs, everyone"
+ },
+ {
+  "file": "ML084",
+  "seg": 729,
+  "ref": "[glued] (alA'raf7:158)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Allah says in the Quran (alAnbiya21:107) (Prophet Muhammad is sent as a MERCY to the mankind), all of mankind, | The Prophet said (alA'raf7:158) إِنِّى رَسُولُ ٱللَّهِ إِلَيْكُمْ جَمِيعًا (I'm the Messenger of God to ALL of you), | Not just Arabs or non-Arabs, everyone"
+ },
+ {
+  "file": "ML084",
+  "seg": 768,
+  "ref": "Quran 2:155",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "The test will happen to you | Allah tells us in the Quran, (alBaqara2:155) | (We will test you with a loss of life, hunger and loss of wealth, and loss of children)"
+ },
+ {
+  "file": "ML084",
+  "seg": 768,
+  "ref": "[glued] (alBaqara2:155)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "The test will happen to you | Allah tells us in the Quran, (alBaqara2:155) | (We will test you with a loss of life, hunger and loss of wealth, and loss of children)"
+ },
+ {
+  "file": "ML084",
+  "seg": 803,
+  "ref": "Quran 17:15",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "that they couldn't figure it out, and they'd be damned for that? | No, if someone doesn't get the Message, Allah says in the Quran, chapter:17 (alisra17:15) | If someone doesn't receive the Message, they have a different test on the Day of Judgment."
+ },
+ {
+  "file": "ML084",
+  "seg": 803,
+  "ref": "[glued] (alisra17:15)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "that they couldn't figure it out, and they'd be damned for that? | No, if someone doesn't get the Message, Allah says in the Quran, chapter:17 (alisra17:15) | If someone doesn't receive the Message, they have a different test on the Day of Judgment."
  }
 ]
