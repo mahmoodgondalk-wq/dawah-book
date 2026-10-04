@@ -19,3 +19,5 @@
 - ML164, ML174, ML176: auto-captions; majority-speaker assignment, many doubts. ML174 has "Guest 2".
 - ML169, ML172, ML177, ML180: auto-captions; majority-speaker assignment. ML172: two sisters (Guest = Christian, Guest 2 = Muslim) told apart by content. ML180: Guest 2 (Muslim man) cuts in at 318-324.
 - ML170: Quran verse numbers occur in the guest's recitation (no refs).
+- ML184, ML186: auto-captions, majority-speaker assignment. ML185: a verse locator (21:23) sits in a caller line (no ref).
+- ML154: long fast exchange; guest never named.
