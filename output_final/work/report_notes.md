@@ -21,3 +21,4 @@
 - ML170: Quran verse numbers occur in the guest's recitation (no refs).
 - ML184, ML186: auto-captions, majority-speaker assignment. ML185: a verse locator (21:23) sits in a caller line (no ref).
 - ML154: long fast exchange; guest never named.
+- ML167: auto-captions; two lads and a bystander all labeled Guest.
