@@ -22,7 +22,7 @@ All scripts are in `work/scripts/`. Run them from the repository root.
 - Each batch is labeled by one subagent with the identical prompt in `work/scripts/agent_prompt.txt` (replace {FILES}).
 - Outputs: `work/labels/<id>.json` (type, confidence, evidence, speaker ranges, doubts), `work/topics/<id>.json` (topic ranges, refs).
 - Pilot (ML043, FR054, FR002, ML001) done and checked.
-- Labeling status: TOTAL 416/774 files labeled; complete batches: 56/152 (as of 2026-10-02 14:18 UTC)
+- Labeling status: TOTAL 420/774 files labeled; complete batches: 57/152 (as of 2026-10-04 05:26 UTC)
 - NOTE: at ~09:30 UTC the API session limit was hit; batches B54, B57-B63 failed mid-way. To resume: run `batches.py todo 10` and relaunch those batches with the same prompt (files already valid are skipped automatically).
 - Remaining stages after labeling: Stage 4 consolidation (CONSOLIDATION_GUIDE.md, consolidate_input.py, check_consolidation.py, build_mapping.py), Stage 5 refs (collect_refs.py, resolve_refs.py auto/final + manual_decisions.json, finalize_refs.py), Stage 6 assemble.py + build_pdf.py, Stage 7 verify.py + check_glyphs.py + render_samples.py.
 - After all batches: run `python3 output_final/work/scripts/fixups.py` (idempotent) and `make_classification.py`.
