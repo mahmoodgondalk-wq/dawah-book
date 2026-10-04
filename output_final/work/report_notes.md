@@ -11,3 +11,6 @@
 - ML137: caller name "Jeong Lee" taken from the host's sign-off.
 - ML139: an agnostic friend labeled "Guest 2" (seg 10; maybe 393-403).
 - ML141: name appears as "Liam" and "Lian"; "Liam" used.
+- ML146, ML149, ML158: unpunctuated auto-captions; speakers split by dialogue logic (medium confidence).
+- ML147: guest written "Dawn" (may be "Don"); kept as written. Host quotes Bible verses in 313-361 (no refs).
+- ML157: fast exchange; short ambiguous turns flagged.
