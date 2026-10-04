@@ -1,0 +1,7 @@
+{"file_id": "ML098",
+ "type": "REACTION",
+ "confidence": "high",
+ "evidence": "Host plays bracketed clips of a claimed ex-Muslim listing reasons he left, then a hijabi interview clip, and rebuts each.",
+ "speakers": [[1, 12, "The Muslim Lantern"], [13, 17, "Clip"], [18, 28, "The Muslim Lantern"], [29, 41, "Clip"], [42, 133, "The Muslim Lantern"], [134, 139, "Clip"], [140, 211, "The Muslim Lantern"], [212, 227, "Clip"], [228, 271, "The Muslim Lantern"], [272, 284, "Clip"], [285, 311, "The Muslim Lantern"], [312, 317, "Clip"], [318, 356, "The Muslim Lantern"], [357, 365, "Clip"], [366, 423, "The Muslim Lantern"], [424, 439, "Clip"], [440, 474, "The Muslim Lantern"], [475, 479, "Clip"], [480, 515, "The Muslim Lantern"], [516, 521, "Clip"], [522, 576, "The Muslim Lantern"], [577, 580, "Clip"], [581, 618, "The Muslim Lantern"], [619, 624, "Clip"], [625, 666, "The Muslim Lantern"], [667, 668, "Clip"], [669, 685, "The Muslim Lantern"], [686, 686, "Clip"], [687, 695, "The Muslim Lantern"], [696, 698, "Clip"], [699, 709, "The Muslim Lantern"], [710, 723, "Clip"], [724, 912, "The Muslim Lantern"]],
+ "doubts": [[13, 13, "segment begins with host's 'Let's have a look' before the clip starts"], [780, 781, "dashed quoted exchange; most likely host re-enacting the clip, not the clip itself"]]
+}

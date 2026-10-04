@@ -1,0 +1,18 @@
+{"file_id": "ML094",
+ "ranges": [[1, 58, "P12.C03", "Claim that Sharia mandates genocide", "response"],
+            [59, 77, "P14.C01", "Justifying the Gaza genocide by Muslim teachings", "response"],
+            [78, 94, "P12.C05", "Non-Muslim minorities in Muslim-majority countries", "response"],
+            [95, 136, "P14.C04", "Claim that Muslim culture is inferior to Western culture", "response"],
+            [137, 190, "P03.C03", "Islam as the religion of all prophets", "response"],
+            [191, 208, "P05.C02", "Illiterate Prophet and the writing of the Quran", "response"],
+            [209, 246, "P15.C03", "Encouraging non-Muslims to read the Quran themselves", "argument"],
+            [247, 294, "P15.C03", "Closed-mindedness toward reading Islamic scripture", "response"],
+            [295, 320, "P15.C03", "Open invitation to Asmongold to discuss Islam", "conclusion"],
+            [321, 364, "P13.C04", "Chunkz on disowning children who leave Islam", "overview"],
+            [365, 405, "P13.C04", "Double standards of non-Muslim critics on disowning", "response"],
+            [406, 435, "P15.C06", "Clipping culture and out-of-context statements", "response"],
+            [436, 492, "P13.C04", "How parents should handle a child leaving Islam", "argument"],
+            [493, 515, "P13.C04", "Noah and his son: faith over blood ties", "illustration"],
+            [516, 545, "P13.C04", "Merciful approach before disowning a child", "conclusion"]],
+ "refs": [[32, "Quran 17:33"], [38, "Quran 5:32"], [41, "Quran 2:190"], [43, "Quran 8:61"], [46, "Quran 6:8"], [461, "Quran 49:10"], [495, "Quran 11:40"], [496, "Quran 11:45-46"]]
+}
