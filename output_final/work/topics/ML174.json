@@ -1,0 +1,16 @@
+{"file_id": "ML174",
+ "ranges": [[1, 30, "P15.C05", "Ex-Muslim's belief in a Creator and reasons for leaving", "overview"],
+            [31, 90, "P03.C01", "Criteria for identifying the true religion", "argument"],
+            [91, 126, "P04.C01", "Prophecies of Muhammad as evidence", "argument"],
+            [127, 197, "P02.C04", "Magic, jinn and knowledge of the unseen", "response"],
+            [198, 258, "P05.C07", "Pharaoh's claim to divinity and Abraham's people", "argument"],
+            [259, 280, "P05.C06", "Quran and science: heavy clouds", "argument"],
+            [281, 354, "P05.C01", "Inimitability and new concepts in Quranic Arabic", "argument"],
+            [355, 438, "P11.C04", "Different sects and the authority of Quran and Sunnah", "response"],
+            [439, 500, "P11.C04", "Judging sects by the Quran: Shia example", "argument"],
+            [501, 510, "P16.C03", "Second passerby asks to join conversation", "other"],
+            [511, 551, "P15.C05", "Morality and purpose after leaving Islam", "argument"],
+            [552, 608, "P15.C04", "Invitation to return to Islam and repentance", "conclusion"],
+            [609, 627, "P13.C04", "Religious upbringing: explaining rather than forcing", "argument"]],
+ "refs": [[419, "Quran 9:100"]]
+}

@@ -14,3 +14,6 @@
 - ML146, ML149, ML158: unpunctuated auto-captions; speakers split by dialogue logic (medium confidence).
 - ML147: guest written "Dawn" (may be "Don"); kept as written. Host quotes Bible verses in 313-361 (no refs).
 - ML157: fast exchange; short ambiguous turns flagged.
+- ML162: host replays earlier stream exchanges (197-198, 239-243, 318-321): host words = host recording doubt; guest replayed = Clip.
+- ML163: shahada led by host and repeated by Del, captions show it once (given to host, doubt).
+- ML164, ML174, ML176: auto-captions; majority-speaker assignment, many doubts. ML174 has "Guest 2".

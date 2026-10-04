@@ -1,0 +1,11 @@
+{"file_id": "ML178",
+ "ranges": [[1, 45, "P02.C07", "Fate of non-Muslims after hearing the message", "response"],
+            [46, 105, "P02.C07", "Quran 2:62 and 5:69 on Jews and Christians", "response"],
+            [106, 185, "P02.C07", "Relatives who die as non-Muslims", "response"],
+            [186, 218, "P02.C01", "Mercy of Allah toward disbelievers", "argument"],
+            [219, 271, "P15.C04", "Caller's beliefs and path toward Islam", "illustration"],
+            [272, 285, "P04.C01", "Prophecy of the Mongol invasion", "argument"],
+            [286, 319, "P15.C04", "Taking the shahada", "illustration"],
+            [320, 384, "P15.C04", "First steps for a new Muslim", "conclusion"]],
+ "refs": [[54, "Quran 5:83"], [61, "Quran 3:199"], [77, "Quran 2:62"], [145, "Quran 28:56"], [179, "Quran 80:34-37"], [239, "Quran 1:3"]]
+}

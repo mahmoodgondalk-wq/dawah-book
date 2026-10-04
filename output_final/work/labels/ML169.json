@@ -1,0 +1,17 @@
+{"file_id": "ML169",
+ "type": "CONVERSATION",
+ "confidence": "high",
+ "evidence": "Host talks in person with an unnamed recent revert from Hong Kong about his conversion, suffering, and travel prayers.",
+ "speakers": [[1, 1, "Guest"], [2, 2, "The Muslim Lantern"], [3, 3, "Guest"], [4, 4, "The Muslim Lantern"], [5, 6, "Guest"], [7, 8, "The Muslim Lantern"], [9, 101, "Guest"], [102, 122, "The Muslim Lantern"], [123, 132, "Guest"], [133, 154, "The Muslim Lantern"], [155, 157, "Guest"], [158, 158, "The Muslim Lantern"], [159, 159, "Guest"], [160, 164, "The Muslim Lantern"], [165, 175, "Guest"], [176, 242, "The Muslim Lantern"], [243, 246, "Guest"], [247, 255, "The Muslim Lantern"], [256, 258, "Guest"], [259, 273, "The Muslim Lantern"], [274, 280, "Guest"], [281, 335, "The Muslim Lantern"], [336, 338, "Guest"], [339, 384, "The Muslim Lantern"], [385, 386, "Guest"], [387, 390, "The Muslim Lantern"], [391, 393, "Guest"], [394, 404, "The Muslim Lantern"], [405, 408, "Guest"], [409, 409, "The Muslim Lantern"], [410, 411, "Guest"], [412, 412, "The Muslim Lantern"], [413, 413, "Guest"], [414, 444, "The Muslim Lantern"], [445, 445, "Guest"]],
+ "doubts": [[1, 8, "unpunctuated auto-captions; opening turns split mid-segment (Hong Kong, London years)"],
+            [123, 123, "turn changes mid-segment after 'unique way'"],
+            [133, 133, "turn changes mid-segment; host takes over at 'excellent place'"],
+            [155, 160, "rapid compliment exchange; turns change mid-segment"],
+            [173, 175, "unclear who says 'let me guess' about the test answer; dialogue suggests guest"],
+            [255, 259, "guest likely adds the point about restraining desire; boundaries uncertain"],
+            [280, 280, "turn changes mid-segment at 'sure again'"],
+            [283, 288, "'even the believer' may be a guest interjection"],
+            [338, 338, "turn changes mid-segment after 'from Allah'"],
+            [409, 413, "quick exchange about flight time; turns change mid-segment"],
+            [441, 445, "goodbye exchange; turns change mid-segment"]]
+}

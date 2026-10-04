@@ -1,0 +1,14 @@
+{"file_id": "ML153",
+ "ranges": [[1, 115, "P01.C02", "Agnostic claim that God is incomprehensible", "response"],
+            [116, 154, "P01.C01", "Universe as evidence for God's attributes", "argument"],
+            [155, 196, "P03.C01", "How prophets prove they are sent by God", "argument"],
+            [197, 253, "P04.C01", "Prophecies of Muhammad as evidence", "argument"],
+            [254, 296, "P05.C08", "Six days of creation: meaning of day", "response"],
+            [297, 331, "P01.C06", "Dinosaurs, age of the earth and creation of man", "response"],
+            [332, 374, "P04.C01", "Prophecies of Muhammad: coincidence objection", "response"],
+            [375, 431, "P05.C02", "Oral transmission and manuscripts of the Quran", "response"],
+            [432, 508, "P04.C01", "Prophecies of Muhammad: coincidence objection", "response"],
+            [509, 560, "P15.C01", "Unanswered questions as reason not to accept", "response"],
+            [561, 581, "P16.C01", "Closing remarks and offer of resources", "other"]],
+ "refs": [[265, "Quran 7:54"], [270, "Quran 2:29"], [281, "Quran 22:47"], [282, "Quran 70:4"], [293, "Quran 41:10"]]
+}
