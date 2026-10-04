@@ -1,0 +1,5 @@
+{"file_id": "ML132", "type": "REACTION", "confidence": "high",
+ "evidence": "Host plays bracketed clips (Christian on concubinage, Ahmadi speaker, Piers Morgan with Tyson) and responds.",
+ "speakers": [[1,3,"The Muslim Lantern"],[4,11,"Clip"],[12,15,"The Muslim Lantern"],[16,17,"Clip"],[18,19,"The Muslim Lantern"],[20,27,"Clip"],[28,33,"The Muslim Lantern"],[34,39,"Clip"],[40,334,"The Muslim Lantern"],[335,343,"Clip"],[344,394,"The Muslim Lantern"],[395,396,"Clip"],[397,454,"The Muslim Lantern"],[455,467,"Clip"],[468,535,"The Muslim Lantern"],[536,548,"Clip"],[549,569,"The Muslim Lantern"]],
+ "doubts": [[17,18,"clip end not bracketed; boundary inferred"],[395,397,"unbracketed clip quote; 397 mixes clip and host"],[536,536,"clip start not bracketed; boundary inferred"]]
+}
