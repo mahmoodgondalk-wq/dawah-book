@@ -25,3 +25,5 @@
 - ML187, ML189, ML191: auto-captions, majority-speaker assignment. ML188 has two guests (Khalid, Amy).
 - ML203: auto-captions (medium).
 - REF REVIEW: ML204 seg 269 locator "(anNoor 24:3)" but the verse spoken is 24:35 -> conflicting locator, skip.
+- ML216: auto-captions. REF REVIEW: seg 159 "chapter 6:8" but the paraphrased verse is 60:8 -> conflicting locator, skip.
+- ML199: auto-captions, 32 doubts, caller unnamed.
