@@ -44,3 +44,4 @@
 - REF REVIEW: ML311 "(Quran7:162-163)" but the verse quoted is 6:162-163 -> conflicting, skip. ML311 shahada lines given to guest (doubt).
 - ML314: opening 1-21 mixes Sandra, her unnamed husband (Guest) and host. REF REVIEW: ML315 'chapter 5 verse 2' and ML314 4:150-151 flagged by labeler as possibly wrong verse -> check content.
 - ML308: compilation of five shahadas (Guest..Guest 4, James); seg 136 verse with translation possibly on-screen text, given to host (doubt). ML306: dashes unreliable.
+- ML324: long heated street exchange with Caroline (medium); ML328 crosstalk 248-322.
