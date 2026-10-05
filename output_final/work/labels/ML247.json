@@ -1,0 +1,7 @@
+{"file_id": "ML247",
+ "type": "CONVERSATION",
+ "confidence": "high",
+ "evidence": "Host talks with guest addressed as Brother Subboor about challenging Professor Dave to debate; no clips played.",
+ "speakers": [[1, 3, "Subboor"], [4, 4, "The Muslim Lantern"], [5, 5, "Subboor"], [6, 7, "The Muslim Lantern"], [8, 8, "Subboor"], [9, 22, "The Muslim Lantern"], [23, 67, "Subboor"], [68, 68, "The Muslim Lantern"], [69, 72, "Subboor"], [73, 73, "The Muslim Lantern"], [74, 102, "Subboor"], [103, 114, "The Muslim Lantern"], [115, 158, "Subboor"], [159, 170, "The Muslim Lantern"], [171, 190, "Subboor"], [191, 195, "The Muslim Lantern"], [196, 209, "Subboor"], [210, 225, "The Muslim Lantern"], [226, 226, "Subboor"], [227, 237, "The Muslim Lantern"], [238, 291, "Subboor"], [292, 292, "The Muslim Lantern"], [293, 293, "Subboor"], [294, 304, "The Muslim Lantern"], [305, 313, "Subboor"], [314, 325, "The Muslim Lantern"], [326, 327, "Subboor"], [328, 331, "The Muslim Lantern"]],
+ "doubts": [[5, 9, "Ramadan greeting exchange order unclear"], [12, 13, "possibly a short guest question"], [294, 294, "lone Yeah could be guest"], [331, 331, "closing fraud remark could be guest"]]
+}

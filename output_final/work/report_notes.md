@@ -35,3 +35,4 @@
 - ML239: 3-session conference lecture; MC = Guest, audience questioners = Guest 2, Ken (shahada) own label; shahada repeated lines given to host (doubt).
 - ML248: no turn markers; guest labeled "Sheikh Uthman" from the video title (only "the sheikh" in speech) -> attribution doubt.
 - ML265: heated call, medium confidence.
+- ML249: street debate, auto-captions; bystander Guest 2 (284-290). ML252: fast interruptions (medium). ML258: only the first clip is in the transcript; other clips summarized by the host.

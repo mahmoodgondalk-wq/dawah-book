@@ -1,0 +1,17 @@
+{"file_id": "ML245",
+ "ranges": [[1, 34, "P02.C08", "Five pillars of Islam", "overview"],
+            [35, 47, "P09.C02", "Gospel of Jesus versus the written Gospels", "argument"],
+            [48, 68, "P02.C03", "Six articles of faith", "overview"],
+            [69, 87, "P12.C05", "Muslim belief in Jesus and closeness to Christians", "argument"],
+            [88, 117, "P08.C01", "Trinity and the Son of God", "response"],
+            [118, 134, "P02.C01", "Allah above the throne and His closeness", "response"],
+            [135, 168, "P01.C07", "Pantheism and the problem of morality", "response"],
+            [169, 193, "P05.C08", "Interpretation through the Prophet and Companions", "response"],
+            [194, 220, "P08.C03", "Return of Jesus in Islam", "response"],
+            [221, 234, "P03.C03", "Completeness of Islam and monotheism of all prophets", "argument"],
+            [235, 241, "P08.C02", "Jesus seated at the right hand", "response"],
+            [242, 276, "P08.C03", "Jesus and Mary in the Quran", "overview"],
+            [277, 287, "P02.C01", "God as loving and just", "response"],
+            [288, 309, "P01.C04", "Golden Rule and subjective morality", "response"]],
+ "refs": [[176, "Quran 9:100"], [186, "Quran 5:3"]]
+}

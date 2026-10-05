@@ -1,0 +1,13 @@
+{"file_id": "ML247",
+ "ranges": [[1, 22, "P15.C06", "Professor Dave's reaction video", "overview"],
+            [23, 49, "P15.C06", "Professor Dave's credentials and conduct", "argument"],
+            [50, 102, "P15.C06", "In-person debate challenge to Professor Dave", "argument"],
+            [103, 122, "P15.C03", "Respect for academics in debate", "response"],
+            [123, 155, "P15.C06", "In-person debate challenge to Professor Dave", "argument"],
+            [156, 170, "P15.C03", "Value of cross-examination in debates", "argument"],
+            [171, 237, "P15.C06", "In-person debate challenge to Professor Dave", "argument"],
+            [238, 294, "P15.C06", "Proposed debate topics and preparation", "argument"],
+            [295, 310, "P01.C06", "Burden of proof for evolution as fact", "argument"],
+            [311, 331, "P15.C06", "Professor Dave's title and the debate challenge", "conclusion"]],
+ "refs": []
+}
