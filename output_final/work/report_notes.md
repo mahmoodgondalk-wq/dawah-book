@@ -42,3 +42,4 @@
 - ML301: highlights edit; interviewer unnamed (Guest), producer off-mic (Guest 2). ML297: caller named once ('Sandra').
 - ML273, ML275 (low), ML291: auto-captions; ML275 three Christian guests all "Guest"; ML291 passersby "Guest 2". ML322: title names guest Jake, never in transcript -> Guest. ML323: both speakers inside segments.
 - REF REVIEW: ML311 "(Quran7:162-163)" but the verse quoted is 6:162-163 -> conflicting, skip. ML311 shahada lines given to guest (doubt).
+- ML314: opening 1-21 mixes Sandra, her unnamed husband (Guest) and host. REF REVIEW: ML315 'chapter 5 verse 2' and ML314 4:150-151 flagged by labeler as possibly wrong verse -> check content.
