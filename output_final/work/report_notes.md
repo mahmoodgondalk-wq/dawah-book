@@ -36,3 +36,6 @@
 - ML248: no turn markers; guest labeled "Sheikh Uthman" from the video title (only "the sheikh" in speech) -> attribution doubt.
 - ML265: heated call, medium confidence.
 - ML249: street debate, auto-captions; bystander Guest 2 (284-290). ML252: fast interruptions (medium). ML258: only the first clip is in the transcript; other clips summarized by the host.
+- REF REVIEW (locator written differently from the verse spoken -> conflicting, skip): ML279 seg 46 "16:24" (meant 16:124?), ML286 seg 333 "4:175" (verse quoted is 4:157), ML294 seg 452 "AlFatiha:1" (verse is 1:4).
+- ML281/ML282/ML287: street talk / sitting with several students, auto-captions; students all "Guest". ML295 fast street exchange (medium). ML302: Fancho + unnamed Muslim woman (Guest), dashes unreliable. ML303: mostly host monologue with two short Peterson clips.
+- ML284: SOLO lecture with one audience word (Guest).
