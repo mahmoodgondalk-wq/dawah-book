@@ -40,3 +40,5 @@
 - ML281/ML282/ML287: street talk / sitting with several students, auto-captions; students all "Guest". ML295 fast street exchange (medium). ML302: Fancho + unnamed Muslim woman (Guest), dashes unreliable. ML303: mostly host monologue with two short Peterson clips.
 - ML284: SOLO lecture with one audience word (Guest).
 - ML301: highlights edit; interviewer unnamed (Guest), producer off-mic (Guest 2). ML297: caller named once ('Sandra').
+- ML273, ML275 (low), ML291: auto-captions; ML275 three Christian guests all "Guest"; ML291 passersby "Guest 2". ML322: title names guest Jake, never in transcript -> Guest. ML323: both speakers inside segments.
+- REF REVIEW: ML311 "(Quran7:162-163)" but the verse quoted is 6:162-163 -> conflicting, skip. ML311 shahada lines given to guest (doubt).
