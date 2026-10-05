@@ -30,3 +30,4 @@
 - ML224, ML226, ML228, ML230, ML232, ML235, ML242 (low), ML240/241/243 (medium): auto-captions or crosstalk; majority-speaker assignment. ML235 couple (one named Max) both "Guest". ML228 atheist couple both "Guest". ML236 lecture + Q&A (Guest, Guest 2, Guest 3).
 - ML229 caller "Jad" (host once says "JK"). ML231 caller nicknamed "Doctor" -> Guest. ML240 "Sneako".
 - REF REVIEW: ML223 a ref captioned 9:101 while the host means "the verse before" (9:100?) -> check; ML226 seg 493 "434" (4:34 or 43:4) -> check context.
+- ML219: five-person stream (Arab, Sneako, Warner, Young Don); 247-302 Muslim side given to Sneako (could be Warner). ML220: street dawah with heckler (Guest 2) and police officer (Guest 3); auto-captions.
