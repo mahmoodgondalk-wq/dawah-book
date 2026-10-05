@@ -45,3 +45,5 @@
 - ML314: opening 1-21 mixes Sandra, her unnamed husband (Guest) and host. REF REVIEW: ML315 'chapter 5 verse 2' and ML314 4:150-151 flagged by labeler as possibly wrong verse -> check content.
 - ML308: compilation of five shahadas (Guest..Guest 4, James); seg 136 verse with translation possibly on-screen text, given to host (doubt). ML306: dashes unreliable.
 - ML324: long heated street exchange with Caroline (medium); ML328 crosstalk 248-322.
+- ML333: two French-speaking passers-by (one named Nareya) both "Guest". ML334: caller "sister B" -> label "B". ML335: caller nicknamed "Potato" -> Guest. ML331: name spelled "Jushua" as in transcript. ML337: Theodora + unnamed husband (Guest). ML338: "Ed" nickname given by host. ML340: audience questions mostly not captioned. ML344 (low): 12 lines of street shouting.
+- REF REVIEW (conflicting locator, skip): ML340 seg 572 "3:94" (verse is 4:94); ML335 seg 658 "4:60" (probably 40:60); ML347 seg 719 "4:155" (4:115 two lines later) and seg 833 "9:45" (recited 9:54).
