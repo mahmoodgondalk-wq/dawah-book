@@ -1,0 +1,16 @@
+{"file_id": "ML196",
+ "ranges": [[1,33,"P16.C03","Call opening and caller driving","other"],
+            [34,51,"P13.C01","Women's education in Islam","overview"],
+            [52,72,"P16.C03","Connection problems during call","other"],
+            [73,148,"P13.C01","Women's education in Islam","response"],
+            [149,221,"P13.C04","Women's career priority and marriage age","argument"],
+            [222,246,"P15.C04","Caller's religious journey background","overview"],
+            [247,309,"P08.C01","Trinity in scripture and the prophets","response"],
+            [310,349,"P08.C01","Rational coherence of the Trinity","response"],
+            [350,388,"P02.C01","God does not resemble creation","argument"],
+            [389,419,"P03.C03","Belief in all the prophets","argument"],
+            [420,450,"P03.C01","Is any other religion like Islam","response"],
+            [451,549,"P15.C04","Taking the shahada","response"],
+            [550,573,"P15.C04","Changing name after accepting Islam","response"]],
+ "refs": [[132,"Quran 20:114"]]
+}

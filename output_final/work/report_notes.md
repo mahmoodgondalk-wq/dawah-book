@@ -27,3 +27,6 @@
 - REF REVIEW: ML204 seg 269 locator "(anNoor 24:3)" but the verse spoken is 24:35 -> conflicting locator, skip.
 - ML216: auto-captions. REF REVIEW: seg 159 "chapter 6:8" but the paraphrased verse is 60:8 -> conflicting locator, skip.
 - ML199: auto-captions, 32 doubts, caller unnamed.
+- ML224, ML226, ML228, ML230, ML232, ML235, ML242 (low), ML240/241/243 (medium): auto-captions or crosstalk; majority-speaker assignment. ML235 couple (one named Max) both "Guest". ML228 atheist couple both "Guest". ML236 lecture + Q&A (Guest, Guest 2, Guest 3).
+- ML229 caller "Jad" (host once says "JK"). ML231 caller nicknamed "Doctor" -> Guest. ML240 "Sneako".
+- REF REVIEW: ML223 a ref captioned 9:101 while the host means "the verse before" (9:100?) -> check; ML226 seg 493 "434" (4:34 or 43:4) -> check context.
