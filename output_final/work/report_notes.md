@@ -55,3 +55,6 @@
 - ML403-ML407, ML414-ML418: fast Speakers Corner exchanges (medium). ML403 bystanders all "Guest". ML412 passers-by all "Guest 3". ML409 (low): 38 lines of heated argument, auto-captions.
 - ML417 "Hayden" and ML418 "Ayden" are the same Christian (Parts 2 and 1); each file keeps its transcript's spelling.
 - REF REVIEW (conflicting, skip): ML403 seg 649 "arRum29:69" (29:69 is al-Ankabut); ML407 seg 623 49:13 for a verse matching 30:22.
+- ML380: 1621-line auto-captioned street session: Christian woman = Guest, Hindu passer-by = Guest 2, Christian companions = Guest 3, Muslim bystanders/hecklers = Guest 4.
+- ML388/ML389: two Christians not distinguishable -> both Guest; ML388 Muslim brother = Guest 2.
+- ML421/ML422: two parts of one talk; Mansoor named only in ML421 (Guest 2 in ML422).

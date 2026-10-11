@@ -1,6 +1,7 @@
 ML330:1-32 | P03.C01 | Absence of contradictions as criterion for revelation | response | 185 | ML | Agnostic Tries To Trap Muslim Live On Stream! Muhammed Ali
 ML107:585-641 | P03.C01 | Absolute truth and the foundation of a faith | response | 604 | ML | Christian Researcher Demands Evidence Against The Crucifixion Of Jesus
 ML006:172-183 | P03.C01 | Accessibility of the true religion | argument | 138 | ML | How Do You Know Which Religion Is From God? A Detailed Comprehensive A
+ML424:376-393 | P03.C01 | Antiquity as a criterion of truth | response | 94 | ML | Can You Call Upon The Dead in Islam?! A Conversation With Shia
 ML268:493-555 | P03.C01 | Are Judaism, Christianity and Islam alike | response | 299 | ML | Two Intelligent Jews Cross-Examine Islam! Muhammed Ali
 ML233:934-997 | P03.C01 | Believing first then seeking evidence | argument | 442 | ML | Eddie @TheDeenShowTV Interviews The Muslim Lantern | Masjid Dar Al-Qur
 ML295:61-161 | P03.C01 | Blind faith versus seeking the truth | argument | 425 | ML | Future Priest Attempts To Convert A Muslim! Muhammed Ali
@@ -15,6 +16,7 @@ ML376:14-35 | P03.C01 | Common sense as criterion for concepts of God | argument
 ML357:241-253 | P03.C01 | Comparing major world religions | argument | 139 | ML | Polish Student Amazed By Islamic Teachings! Muhammed Ali
 ML377:1-41 | P03.C01 | Consistency in following revelation | argument | 293 | ML | Atheist Struggles With Morality! Muhammed Ali
 ML120:40-95 | P03.C01 | Consistent standards when comparing religions | argument | 395 | ML | Romanian Christian Grills Muslim With Difficult Questions! Muhammed Al
+ML412:148-170 | P03.C01 | Contradictions as a criterion for scripture | argument | 174 | ML | 2 Jews Question The Truth of Islam! Muhammed Ali - Speakers Corner
 ML333:513-554 | P03.C01 | Contradictory religions cannot all be true | argument | 392 | ML | Atheists Challenge Muslim On The Existence of God! Muhammed Ali
 ML033:938-989 | P03.C01 | Criteria for a scripture being from God | argument | 499 | ML | Buddhist Gets Defensive After A Muslim Highlights The Problems With Bu
 ML347:63-111 | P03.C01 | Criteria for a scripture from God | argument | 570 | ML | Agnostic Challenges Muslim On God Then This Happens! Muhammed Ali
@@ -23,6 +25,7 @@ ML309:1-59 | P03.C01 | Criteria for accepting a religion | overview | 202 | ML |
 ML337:227-275 | P03.C01 | Criteria for accepting a religion | response | 141 | ML | Christian Lady Skeptical About The Prophet of Islam! Muhammed Ali
 ML201:561-617 | P03.C01 | Criteria for evidence that Islam is true | argument | 462 | ML | Ex-Muslim Claims The Quran Is Full Of Scientific Mistakes?! Muhammed A
 ML325:136-207 | P03.C01 | Criteria for identifying a revealed scripture | argument | 805 | ML | Why Does God Not Communicate With Humans? Muhammed Ali
+ML412:1-27 | P03.C01 | Criteria for identifying a scripture from God | overview | 172 | ML | 2 Jews Question The Truth of Islam! Muhammed Ali - Speakers Corner
 ML058:244-271 | P03.C01 | Criteria for identifying divine revelation | response | 131 | ML | Agnostic Claims That Pantheism Is More Rational Than Monotheism! Muham
 ML096:320-363 | P03.C01 | Criteria for identifying revelation from God | argument | 440 | ML | The Muslim Lantern, Sneako and Arab Debate Religion! Muhammed Ali
 ML174:31-90 | P03.C01 | Criteria for identifying the true religion | argument | 431 | ML | Pakistani Ex-Muslim Confronts A Muslim On Following Islam! Muhammed Al
@@ -49,6 +52,7 @@ ML152:637-749 | P03.C01 | Feelings versus evidence in choosing religion | respon
 ML376:144-167 | P03.C01 | Fitrah and common sense in judging religions | argument | 265 | ML | Why Can't You Mock The Prophet of Islam? Muhammed Ali
 ML122:129-196 | P03.C01 | Following Islam alongside other religions | response | 674 | ML | Rational Thinker Asks A Muslim Thought-Provoking Questions! Muhammed A
 ML122:197-233 | P03.C01 | Following only the true guidance: swimming books analogy | illustration | 394 | ML | Rational Thinker Asks A Muslim Thought-Provoking Questions! Muhammed A
+ML405:1-22 | P03.C01 | Following the religion of one's forefathers | argument | 134 | ML | Sikh Struggles To Justify His Beliefs! Muhammed Ali - Speakers Corner
 ML295:565-611 | P03.C01 | Following the truth and blind following | argument | 322 | ML | Future Priest Attempts To Convert A Muslim! Muhammed Ali
 ML145:621-642 | P03.C01 | Following truth vs selecting what suits | conclusion | 205 | ML | Liberal Woman Debates Muslim On The Need For Religion! Muhammed Ali
 ML228:75-146 | P03.C01 | From a creator to a specific religion | response | 227 | ML | Atheist Couple Challenge A Muslim On Religion! Muhammed Ali
@@ -105,6 +109,7 @@ ML261:1-39 | P03.C01 | Personal experience versus objective evidence for Christi
 ML079:1-52 | P03.C01 | Personal experiences as evidence for religion | response | 216 | ML | This Christian Came To Convert Muslim But He Didn't Expect This! Muham
 ML063:285-307 | P03.C01 | Personal religious experience as evidence | response | 104 | ML | Confident Christian Woman Attempts To Defend Christianity After Encoun
 ML125:1-33 | P03.C01 | Picking and choosing between religions | overview | 180 | ML | Christian Ladies Discover The True Identity Of Jesus! Muhammed Ali
+ML374:598-618 | P03.C01 | Praying to the Creator for guidance | conclusion | 201 | ML | Australian Couple Defend Their Beliefs! Muhammed Ali
 ML338:280-304 | P03.C01 | Predictable prophecies are not evidence | conclusion | 213 | ML | Christian Preacher Attempts To Evangelise Muslim! Muhammed Ali
 ML333:555-607 | P03.C01 | Preservation and consistency as criteria for scripture | argument | 483 | ML | Atheists Challenge Muslim On The Existence of God! Muhammed Ali
 ML317:19-46 | P03.C01 | Preservation as a criterion for scripture | response | 171 | ML | Sikh Challenges Muslim On The Preservation Of The Quran! Muhammed Ali
@@ -117,11 +122,14 @@ ML073:45-91 | P03.C01 | Reasons for choosing Christianity | response | 337 | ML 
 ML368:515-549 | P03.C01 | Reasons for following Christianity | response | 20 | ML | Why Are You A Muslim?! Muhammed Ali
 ML228:244-296 | P03.C01 | Reliability of ancient religious stories | overview | 36 | ML | Atheist Couple Challenge A Muslim On Religion! Muhammed Ali
 ML078:208-237 | P03.C01 | Reliable history versus proof of divine origin | argument | 269 | ML | Agnostic Puts Islam And Christianity To The Test! Muhammed Ali
+ML365:277-299 | P03.C01 | Religion as a means of control | response | 205 | ML | Atheist Challenges Muslim On Evolution! Muhammed Ali
 ML006:46-74 | P03.C01 | Religions without a claim of punishment | argument | 439 | ML | How Do You Know Which Religion Is From God? A Detailed Comprehensive A
 ML314:73-142 | P03.C01 | Religious experience as criterion of truth | response | 507 | ML | Does Jesus Possess The Attributes of God?! Muhammed Ali
 ML316:17-69 | P03.C01 | Religious experience as evidence for Christianity | response | 208 | ML | How To Deal With Christian Missionaries 101! Muhammed Ali
 FR108:107-122 | P03.C01 | Report of Jesus appearing to 200 Muslims | response | 104 | FR | Muslims See Jesus in Dreams
+ML405:23-61 | P03.C01 | Sacrifice as proof of a religion's truth | response | 228 | ML | Sikh Struggles To Justify His Beliefs! Muhammed Ali - Speakers Corner
 ML091:540-597 | P03.C01 | Scriptures reflecting knowledge of their time | argument | 631 | ML | Omnist Left Speechless After Hearing This Muslim's Answer! Muhammed Al
+ML422:1-54 | P03.C01 | Searching for truth among major religions | response | 471 | ML | Ex-Muslims Question Islam P1! Muhammed Ali - Speakers Corner
 ML273:1-71 | P03.C01 | Seeking truth before death | argument | 433 | ML | Truth Seeking Sikh Encounters A Muslim! Muhammed Ali
 ML207:679-692 | P03.C01 | Sincere research and asking God for guidance | conclusion | 154 | ML | Anonymous Atheist Attempts To Outsmart A Muslim! Muhammed Ali
 ML047:809-894 | P03.C01 | Sincerity in following the evidence | response | 664 | ML | Muslim Leaves Confident Christian Speechless After Challenging His Bib
@@ -143,6 +151,7 @@ ML262:229-256 | P03.C01 | What God wants in Christianity and Islam | overview | 
 ML024:254-277 | P03.C01 | What would prove a scripture is from God | overview | 203 | ML | Confident Atheists Put To The Test By Muslim For Blindly Accepting Evo
 ML033:857-937 | P03.C01 | Whether the Quran is from God: need for evidence | argument | 390 | ML | Buddhist Gets Defensive After A Muslim Highlights The Problems With Bu
 ML362:339-368 | P03.C01 | Why believe the Bible is God's word | argument | 361 | ML | Christian Attempts To Convert Muslim! Muhammed Ali
+ML414:1-75 | P03.C01 | Why believe the Bible is God's word | overview | 350 | ML | Christian Preacher Twists His Scripture P1! Muhammed Ali - Speakers Co
 ML386:168-204 | P03.C01 | Why follow a scripture: proving the messenger | argument | 245 | ML | Jainism And The Concept Of God! Muhammed Ali
 ML333:706-737 | P03.C01 | Why it matters which religion is true | argument | 192 | ML | Atheists Challenge Muslim On The Existence of God! Muhammed Ali
 ML015:1-69 | P03.C01 | Why someone should become Muslim | overview | 768 | ML | Muslim Surprises Intelligent Lady With Undeniable Evidence For Islam! 
@@ -167,6 +176,7 @@ ML362:689-753 | P03.C02 | Evidences for Islam versus blind faith | argument | 49
 ML166:180-208 | P03.C02 | Evidences for Islam: prophecies, nature, history | argument | 348 | ML | Heated Atheist Demands Muslim To Prove His Faith! Muhammed Ali
 ML131:490-507 | P03.C02 | Evidences for the truthfulness of Islam | conclusion | 181 | ML | "Enlightened" Athiest Left Speechless After Encountering Muslim! Muham
 ML124:28-131 | P03.C02 | Evidences that the Quran is from God | argument | 1063 | ML | Is God Necessary? Intellectual Atheist Challenges The Muslim Understan
+ML412:449-468 | P03.C02 | Evidences that the Quran is from God | conclusion | 256 | ML | 2 Jews Question The Truth of Islam! Muhammed Ali - Speakers Corner
 ML091:665-759 | P03.C02 | Falsifiability objection to the cumulative case | response | 260 | ML | Omnist Left Speechless After Hearing This Muslim's Answer! Muhammed Al
 ML375:247-277 | P03.C02 | Fitrah and recognizing the truth | illustration | 245 | ML | French Girls Interested In Islam! Muhammed Ali
 ML173:452-477 | P03.C02 | From Unitarianism to accepting Muhammad | argument | 213 | ML | Unitarian Christian Defends The Reliability Of Paul! Muhammed Ali
@@ -178,6 +188,8 @@ FR006:1-14 | P03.C02 | Indirect proofs and skepticism of Muslim reports | overvi
 ML302:505-536 | P03.C02 | Invitation to accept Muhammad as prophet | conclusion | 358 | ML | Christian Visitor Questions Muslim On Hadith! Muhammed Ali
 ML183:91-142 | P03.C02 | Is religion man-made | response | 502 | ML | Tyson Hockley Grills The Muslim Lantern With Difficult Questions! Muha
 ML290:416-451 | P03.C02 | Islam as a religion for everyone | argument | 390 | ML | American Lady Learns The Truth About Palestine! Muhammed Ali
+ML396:638-657 | P03.C02 | Islam as an evidence-based religion | conclusion | 111 | ML | Clever Atheist Challenges Muslim Part 1! Muhammed Ali
+ML397:171-198 | P03.C02 | Islam as an evidence-based religion | argument | 206 | ML | Why Should I Accept Your Religion?! Muhammed Ali
 ML060:1650-1722 | P03.C02 | Islam as main target of evil forces | argument | 632 | ML | Sneako Questions The Muslim Lantern On Shia & Sunni Unity | The Iran W
 ML337:948-983 | P03.C02 | Islam as rational and evidence-based | conclusion | 270 | ML | Christian Lady Skeptical About The Prophet of Islam! Muhammed Ali
 ML263:527-599 | P03.C02 | Islam as the ultimate truth beyond ideologies | argument | 613 | ML | The Muslim Lantern Gets Sneak∅ To Rethink His Views! Muhammed Ali
@@ -210,16 +222,19 @@ ML349:191-203 | P03.C02 | Universality of Islam beyond Arabs | argument | 140 | 
 ML333:608-647 | P03.C02 | Upbringing and the host's reasons for belief | response | 313 | ML | Atheists Challenge Muslim On The Existence of God! Muhammed Ali
 ML150:28-76 | P03.C02 | Why believe in Islam: types of evidence | argument | 408 | ML | Agnostic Refuses To Accept Rational Evidences For Islam! Muhammed Ali
 ML217:1-29 | P03.C02 | Why I am a Muslim | argument | 226 | ML | Muslim Disproves Christianity Using A Single Question! Muhammed Ali
+ML405:273-294 | P03.C02 | Why Muslims believe Muhammad is a messenger | argument | 169 | ML | Sikh Struggles To Justify His Beliefs! Muhammed Ali - Speakers Corner
 ML089:263-407 | P03.C03 | Abraham as a Muslim and meaning of Islam | argument | 719 | ML | Romanian Christian Confronts Muslim On The Teachings Of Jesus! Muhamme
 ML281:242-326 | P03.C03 | Abraham as a Muslim and meaning of submission | argument | 560 | ML | 3 Christian Students Encounter A Muslim! Muhammed Ali
 ML241:292-352 | P03.C03 | Abraham as a Muslim: Islam of all prophets | response | 408 | ML | Curious Lady Grills Muslim With Difficult Questions! Muhammed Ali
 ML347:152-178 | P03.C03 | Abraham neither Jew nor Christian | argument | 316 | ML | Agnostic Challenges Muslim On God Then This Happens! Muhammed Ali
+ML395:37-78 | P03.C03 | Abraham's religion and 'Abrahamic faiths' | response | 320 | ML | Clever Atheist Challenges Muslim Part 2! Muhammed Ali
 ML287:261-292 | P03.C03 | Adam and Eve and the line of prophets | response | 200 | ML | Christian Lady Receives Reality Check From A Muslim! Muhammed Ali
 ML031:743-771 | P03.C03 | Agreeing with Muhammad's core teachings | argument | 169 | ML | Christian Lady In Total Shock After Asking A Muslim Why He's Not Chris
 ML043:480-494 | P03.C03 | All prophets brought the same message | conclusion | 139 | ML | Christian Questions A Muslim On The Return Of Jesus Then This Happens!
 ML064:617-641 | P03.C03 | All prophets taught Islam | response | 205 | ML | Clip-React| Responding To Professor Jiang's Lecture On The Islamic Gol
 ML030:109-141 | P03.C03 | All prophets were Muslims: meaning of Islam | response | 317 | ML | Wise Christian Questions The Consistency Of The Teachings Of Islam! Mu
 ML362:622-688 | P03.C03 | All prophets worshipped one God | argument | 552 | ML | Christian Attempts To Convert Muslim! Muhammed Ali
+ML388:311-330 | P03.C03 | Being Muslim means believing in all prophets | argument | 215 | ML | Sincere Christians Investigate Islam Part 2! Muhammed Ali
 ML309:624-668 | P03.C03 | Belief in all prophets | response | 418 | ML | Intelligent Man Examines The Evidences For Islam! Muhammed Ali
 ML036:630-660 | P03.C03 | Belief in all prophets and accepting Muhammad | argument | 240 | ML | American Christian Surprised By Rational Questions Posed By A Muslim! 
 ML340:111-139 | P03.C03 | Belief in all prophets and universal message | argument | 479 | ML | Non-Muslim Audience Asks Muslim Difficult Questions! Muhammed Ali
@@ -228,6 +243,7 @@ ML196:389-419 | P03.C03 | Belief in all the prophets | argument | 217 | ML | Agn
 ML356:1-23 | P03.C03 | Belief in one God and the prophets | overview | 195 | ML | American Lady Questions Muslim On Hadith Reliability! Muhammed Ali
 ML164:24-74 | P03.C03 | Belief in the prophets as Muslim belief | argument | 355 | ML | Agnostic Presents A Logical Problem With Hellfire In Islam! Muhammed A
 ML152:379-416 | P03.C03 | Believing in all messengers including Muhammad | argument | 353 | ML | Muslim And Educated Christian Debate The Divinity Of Jesus Christ! Muh
+ML389:28-53 | P03.C03 | Commonalities between Islam and Christianity | overview | 228 | ML | Sincere Christians Investigate Islam Part 1! Muhammed Ali
 ML245:221-234 | P03.C03 | Completeness of Islam and monotheism of all prophets | argument | 258 | ML | Pantheist Challenges The Muslim View Of God! Muhammed Ali
 ML061:43-77 | P03.C03 | Continuity between the Old Testament and Islam | response | 461 | ML | Christian Niqabi Challenges the Continuity of Islam with Previous Scri
 ML097:99-171 | P03.C03 | Definition of a prophet; Buddha as prophet | response | 474 | ML | Muslim Surprises Sceptical Chemist With The Evidences For Islam! Muham
@@ -235,6 +251,9 @@ ML005:1-24 | P03.C03 | Did Muhammad contradict previous prophets | response | 23
 ML330:146-161 | P03.C03 | Difference between prophet and messenger | response | 88 | ML | Agnostic Tries To Trap Muslim Live On Stream! Muhammed Ali
 ML278:302-348 | P03.C03 | Different laws for different prophets | response | 507 | ML | Christian Family Grills Muslim On His Beliefs! Muhammed Ali
 ML398:155-286 | P03.C03 | Different messengers with different laws | response | 499 | ML | Rude Christian Gets Triggered! Muhammed Ali
+ML388:433-451 | P03.C03 | Each messenger as the way in his time | response | 169 | ML | Sincere Christians Investigate Islam Part 2! Muhammed Ali
+ML388:197-208 | P03.C03 | Earlier prophets local, Muhammad sent to all | argument | 166 | ML | Sincere Christians Investigate Islam Part 2! Muhammed Ali
+ML401:296-348 | P03.C03 | Every nation was sent a messenger | response | 433 | ML | Native American Learns About Islam! Muhammed Ali
 ML300:435-484 | P03.C03 | Following Jesus and the prophets as a Muslim | conclusion | 268 | ML | Arab Christian Speaks The Truth About The Bible! Muhammed Ali
 ML096:1122-1157 | P03.C03 | Following the preserved revelation of one's time | response | 250 | ML | The Muslim Lantern, Sneako and Arab Debate Religion! Muhammed Ali
 ML030:198-235 | P03.C03 | Following the prophet of one's time; Judaism as a later term | response | 343 | ML | Wise Christian Questions The Consistency Of The Teachings Of Islam! Mu
@@ -256,21 +275,30 @@ ML094:137-190 | P03.C03 | Islam as the religion of all prophets | response | 167
 ML134:44-118 | P03.C03 | Islam as the religion of all prophets | response | 556 | ML | King James Christian Challenges Muslim On Bible Preservation! Muhammed
 ML150:152-182 | P03.C03 | Islam as the religion of all prophets | response | 229 | ML | Agnostic Refuses To Accept Rational Evidences For Islam! Muhammed Ali
 ML172:125-232 | P03.C03 | Islam as the religion of all prophets | response | 727 | ML | Muslim and Christian Sisters Enquire About Hellfire In Islam! Muhammed
+ML416:464-518 | P03.C03 | Islam as the religion of all prophets | response | 159 | ML | Rude Christian Refuses To Leave! Muhammed Ali - Speakers Corner
+ML422:197-226 | P03.C03 | Islam as the religion of all prophets since Adam | response | 264 | ML | Ex-Muslims Question Islam P1! Muhammed Ali - Speakers Corner
 ML031:719-742 | P03.C03 | Islam honours Jesus; Muhammad's same message | argument | 354 | ML | Christian Lady In Total Shock After Asking A Muslim Why He's Not Chris
 ML064:1534-1548 | P03.C03 | Islam not a blend of Judaism and Christianity | response | 130 | ML | Clip-React| Responding To Professor Jiang's Lecture On The Islamic Gol
+ML416:666-681 | P03.C03 | Islam since the time of Adam | response | 70 | ML | Rude Christian Refuses To Leave! Muhammed Ali - Speakers Corner
 ML372:136-170 | P03.C03 | Islam's relation to Judaism and Christianity | response | 140 | ML | Confused Christian Displays His Ignorance! Muhammed Ali
 ML041:23-60 | P03.C03 | Islamic view of Jesus and the prophets | overview | 363 | ML | Curious Couple Ask A Muslim To Explain World Suffering! Muhammed Ali
+ML394:62-113 | P03.C03 | Jesus and earlier prophets as Muslims | response | 292 | ML | Priests Force Their Beliefs?! Muhammed Ali
 ML043:133-166 | P03.C03 | Jesus as a submitter to the One God | argument | 240 | ML | Christian Questions A Muslim On The Return Of Jesus Then This Happens!
 ML295:211-296 | P03.C03 | Jesus as one who submitted to God | argument | 429 | ML | Future Priest Attempts To Convert A Muslim! Muhammed Ali
 ML030:536-549 | P03.C03 | Jesus sent only to Israel; final universal messenger | argument | 137 | ML | Wise Christian Questions The Consistency Of The Teachings Of Islam! Mu
+ML388:137-155 | P03.C03 | Jesus sent only to the Children of Israel | argument | 164 | ML | Sincere Christians Investigate Islam Part 2! Muhammed Ali
 ML302:419-447 | P03.C03 | Jesus worshipped and lived like Muslims | argument | 294 | ML | Christian Visitor Questions Muslim On Hadith! Muhammed Ali
+ML401:372-420 | P03.C03 | Jesus' practices resemble Muslim practice | argument | 385 | ML | Native American Learns About Islam! Muhammed Ali
 ML031:691-718 | P03.C03 | Jewish by lineage, Muslim by faith | response | 193 | ML | Christian Lady In Total Shock After Asking A Muslim Why He's Not Chris
 ML160:198-298 | P03.C03 | Later revelation and progressive revelation | response | 551 | ML | 77 Year Old Christian Veteran Attempts To Convert A Muslim! Muhammed A
 ML283:93-113 | P03.C03 | Living the way Jesus lived | response | 222 | ML | Popular Youtuber Abandons Money And Fame For Christianity?! Muhammed A
 ML125:34-75 | P03.C03 | Loving all prophets, not only Jesus | argument | 197 | ML | Christian Ladies Discover The True Identity Of Jesus! Muhammed Ali
 ML079:350-378 | P03.C03 | Meaning of Islam and its core beliefs | overview | 264 | ML | This Christian Came To Convert Muslim But He Didn't Expect This! Muham
+ML419:133-197 | P03.C03 | Message of Jesus and Muhammad compared: John 14:6 | response | 242 | ML | Inquisitive Christian Learns About Islam P2! Muhammed Ali - Speakers C
 ML089:1-62 | P03.C03 | Messages of Moses, Jesus and Muhammad | overview | 106 | ML | Romanian Christian Confronts Muslim On The Teachings Of Jesus! Muhamme
+ML407:1-27 | P03.C03 | Messengers sent to every nation | overview | 262 | ML | Should We Doubt Everything?! Muhammed Ali - Speakers Corner
 ML347:450-553 | P03.C03 | Minor mistakes of the prophets | response | 978 | ML | Agnostic Challenges Muslim On God Then This Happens! Muhammed Ali
+ML374:444-457 | P03.C03 | Mission of Jesus and all prophets | argument | 286 | ML | Australian Couple Defend Their Beliefs! Muhammed Ali
 ML061:205-279 | P03.C03 | Mosaic teachings contrasted with Christian doctrine | argument | 805 | ML | Christian Niqabi Challenges the Continuity of Islam with Previous Scri
 ML089:899-918 | P03.C03 | Moses, Jesus and Muhammad followed one faith | response | 65 | ML | Romanian Christian Confronts Muslim On The Teachings Of Jesus! Muhamme
 ML157:293-364 | P03.C03 | Muhammad coming 600 years after Jesus | response | 565 | ML | Christian Questions The Reliability Of The Quran Then It Backfires! Mu
@@ -282,12 +310,14 @@ ML281:578-602 | P03.C03 | Muslims following Jesus' practices | argument | 62 | M
 ML180:22-131 | P03.C03 | Need for a new messenger after corruption | argument | 718 | ML | Sincere Lady About To Accept Islam But This Happens! Muhammed Ali
 ML061:99-149 | P03.C03 | Old Testament worship compared with Islam | response | 527 | ML | Christian Niqabi Challenges the Continuity of Islam with Previous Scri
 ML036:513-532 | P03.C03 | One message of all prophets: monotheism | argument | 165 | ML | American Christian Surprised By Rational Questions Posed By A Muslim! 
+ML374:62-78 | P03.C03 | One message of all prophets: worship God alone | argument | 272 | ML | Australian Couple Defend Their Beliefs! Muhammed Ali
 ML139:278-299 | P03.C03 | One message of all the prophets | argument | 177 | ML | Historian Debates Muslim On The Authenticity Of The Bible! Muhammed Al
 ML203:1-58 | P03.C03 | Origin of Islam as religion of all prophets | response | 332 | ML | Agnostic Questions Muslim On Israel & Palestine "Conflict"! Muhammed A
 ML093:560-620 | P03.C03 | Origin of religions and the one message | response | 361 | ML | Hindu Debates Muslim On The Rationality Of Hinduism! Muhammed Ali
 ML030:142-164 | P03.C03 | Origin of the terms Jew and Christian | argument | 251 | ML | Wise Christian Questions The Consistency Of The Teachings Of Islam! Mu
 ML166:84-137 | P03.C03 | Previous prophets and the one message | argument | 674 | ML | Heated Atheist Demands Muslim To Prove His Faith! Muhammed Ali
 ML061:606-631 | P03.C03 | Previous prophets known through the Quran | response | 273 | ML | Christian Niqabi Challenges the Continuity of Islam with Previous Scri
+ML408:353-394 | P03.C03 | Previous revelations and the Quran as final revelation | response | 261 | ML | Iceland Visitors Enquire About Islam! Muhammed Ali - Speakers Corner
 ML297:283-341 | P03.C03 | Prophets and major sins | response | 488 | ML | Sister Cries After Realising Islam Is The Truth! Muhammed Ali
 ML030:19-34 | P03.C03 | Prophets and progressive revelation | argument | 141 | ML | Wise Christian Questions The Consistency Of The Teachings Of Islam! Mu
 ML330:162-184 | P03.C03 | Prophets between Jesus and Muhammad | response | 207 | ML | Agnostic Tries To Trap Muslim Live On Stream! Muhammed Ali

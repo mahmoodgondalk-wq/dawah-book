@@ -35,6 +35,7 @@ ML028:979-1061 | P08.C01 | Diversity of Trinity beliefs among Christians | respo
 ML003:131-203 | P08.C01 | Divine nature of the Son and polytheism | response | 283 | ML | Passionate Christian Challenges Muslim On Jesus & Salvation! Muhammed 
 ML017:405-440 | P08.C01 | Does 'God' mean the Father or the Trinity | argument | 239 | ML | Confident Christians Struggle To Justify Biblical Injustice! Muhammed 
 ML275:429-519 | P08.C01 | Does the Father pray to the Son | response | 459 | ML | 3 Intelligent Christians Attempt To Challenge A Muslim! Muhammed Ali
+ML374:406-425 | P08.C01 | Egg analogy for the Trinity | response | 236 | ML | Australian Couple Defend Their Beliefs! Muhammed Ali
 ML300:99-117 | P08.C01 | Explaining the Trinity: analogies | response | 36 | ML | Arab Christian Speaks The Truth About The Bible! Muhammed Ali
 ML073:516-607 | P08.C01 | Explaining the Trinity: one being, three persons | response | 485 | ML | Christian Convert Attempts To Convince A Muslim Of Christianity! Muham
 ML003:204-272 | P08.C01 | Father and Son as two gods | response | 386 | ML | Passionate Christian Challenges Muslim On Jesus & Salvation! Muhammed 
@@ -46,12 +47,14 @@ ML355:214-270 | P08.C01 | Great Commission baptismal formula | response | 331 | 
 ML171:402-441 | P08.C01 | Historical origin of the Trinity | response | 309 | ML | Mormon Debates Muslim On The Validity Of His Faith! Muhammed Ali
 ML383:98-135 | P08.C01 | Historical origin of the Trinity: Nicaea and Constantinople | argument | 364 | ML | Australian Christians Challenge Muslim On Christianity! Muhammed Ali
 ML314:247-312 | P08.C01 | Holy Spirit and coherence of the Trinity | argument | 309 | ML | Does Jesus Possess The Attributes of God?! Muhammed Ali
+ML416:713-738 | P08.C01 | Holy Spirit in the Bible and Islam | response | 84 | ML | Rude Christian Refuses To Leave! Muhammed Ali - Speakers Corner
 ML017:464-526 | P08.C01 | How many gods died on the cross | argument | 225 | ML | Confident Christians Struggle To Justify Biblical Injustice! Muhammed 
 ML318:470-489 | P08.C01 | Incoherence of the Trinity | argument | 162 | ML | Christian Lady Enquires About Heaven In Islam! Muhammed Ali
 ML301:39-55 | P08.C01 | Interviewer's belief about God and Trinity | response | 52 | ML | Highlights From My Interview With @jlptalk on @TheFallenStateTV | Muha
 ML275:143-244 | P08.C01 | Is the Trinity biblical | response | 396 | ML | 3 Intelligent Christians Attempt To Challenge A Muslim! Muhammed Ali
 ML334:1-65 | P08.C01 | Is the Trinity found in the Bible | overview | 289 | ML | Does The Concept of The Trinity Make Sense?! Muhammed Ali
 ML139:267-277 | P08.C01 | Is the Trinity taught in the Bible | argument | 73 | ML | Historian Debates Muslim On The Authenticity Of The Bible! Muhammed Al
+ML374:79-104 | P08.C01 | Is the Trinity taught in the Bible | argument | 213 | ML | Australian Couple Defend Their Beliefs! Muhammed Ali
 ML280:535-591 | P08.C01 | Jesus' limited knowledge and the Trinity | argument | 499 | ML | Christian Claims The Quran Contains Satanic Verses?! Muhammed Ali
 ML066:1363-1504 | P08.C01 | John 17:3: conjunction and Augustine's rewording | response | 858 | ML | Passionate Christian Argues For The Trinity With A Muslim! Muhammed Al
 ML073:720-839 | P08.C01 | John 1:1 and logos theology | response | 949 | ML | Christian Convert Attempts To Convince A Muslim Of Christianity! Muham
@@ -65,11 +68,13 @@ ML065:403-418 | P08.C01 | Matthew 28:19 baptismal formula and the Trinity | resp
 ML336:183-265 | P08.C01 | Old Testament plural terms and the Trinity | response | 742 | ML | Does The Quran Endorse Following The Bible?! Muhammed Ali
 ML260:409-445 | P08.C01 | Only true God in John 17:3 and the Trinity | argument | 355 | ML | Born Again Christian Attempts To Prove The Divinity Of Jesus! Muhammed
 ML055:801-883 | P08.C01 | Origin of the Trinity doctrine | response | 887 | ML | Christian Becomes Speechless After Being Presented With The Christian 
+ML374:105-115 | P08.C01 | Origin of the Trinity in church councils | argument | 151 | ML | Australian Couple Defend Their Beliefs! Muhammed Ali
 ML010:1010-1030 | P08.C01 | Pagan origins of the Trinity | response | 120 | ML | Confident Catholic In Total Shock After His Views Are Challenged By A 
 ML334:188-301 | P08.C01 | Person and being distinction in the Bible | argument | 748 | ML | Does The Concept of The Trinity Make Sense?! Muhammed Ali
 ML134:618-674 | P08.C01 | Person and being distinction in the Trinity | argument | 266 | ML | King James Christian Challenges Muslim On Bible Preservation! Muhammed
 ML168:128-200 | P08.C01 | Persons versus attributes in the Trinity | argument | 290 | ML | Arab Christian Attempts To Outsmart A Muslim! Muhammed Ali
 ML252:468-510 | P08.C01 | Plural 'us' in Genesis and plural of majesty | response | 249 | ML | Christian Gets Emotional When Questioned About His Beliefs! Muhammed A
+ML389:248-352 | P08.C01 | Plural 'us' in Genesis and the Trinity | response | 635 | ML | Sincere Christians Investigate Islam Part 1! Muhammed Ali
 ML339:385-404 | P08.C01 | Plural Elohim and the majestic plural | response | 218 | ML | Christian Attempts His Best To Disprove Islam! Muhammed Ali
 ML391:206-260 | P08.C01 | Plural of majesty in Genesis | response | 332 | ML | Curious Lady Grills Muslim! Muhammed Ali
 ML005:130-198 | P08.C01 | Progressive revelation of the Trinity | response | 425 | ML | Educated Christian Challenges Muslim On Bible Corruption And Textual C
@@ -89,6 +94,7 @@ ML031:98-137 | P08.C01 | The Trinity is not in the Bible | response | 372 | ML |
 ML066:214-272 | P08.C01 | Three persons sharing one divine nature | response | 295 | ML | Passionate Christian Argues For The Trinity With A Muslim! Muhammed Al
 ML278:779-837 | P08.C01 | Trinity absent from Jesus' words | response | 433 | ML | Christian Family Grills Muslim On His Beliefs! Muhammed Ali
 ML075:1277-1302 | P08.C01 | Trinity absent from scripture | response | 176 | ML | American Jew Debates Muslim On Gaza And The History Of Palestine! Muha
+ML374:426-443 | P08.C01 | Trinity absent from scripture; 1 John 5:7 | conclusion | 234 | ML | Australian Couple Defend Their Beliefs! Muhammed Ali
 ML281:327-423 | P08.C01 | Trinity absent from the Bible | argument | 581 | ML | 3 Christian Students Encounter A Muslim! Muhammed Ali
 ML168:201-245 | P08.C01 | Trinity absent from the Bible; God is one | argument | 284 | ML | Arab Christian Attempts To Outsmart A Muslim! Muhammed Ali
 ML010:876-1009 | P08.C01 | Trinity among pre-Nicene church fathers | argument | 1001 | ML | Confident Catholic In Total Shock After His Views Are Challenged By A 
@@ -103,12 +109,14 @@ ML089:408-490 | P08.C01 | Trinity and the plural of majesty | response | 449 | M
 ML245:88-117 | P08.C01 | Trinity and the Son of God | response | 476 | ML | Pantheist Challenges The Muslim View Of God! Muhammed Ali
 ML218:135-160 | P08.C01 | Trinity as a mystery | response | 48 | ML | Christian Finds Clarity In Christianity Over Islam?! Muhammed Ali
 ML154:622-679 | P08.C01 | Trinity as an inference from scripture | response | 440 | ML | Confident Christian Attempts To Convert Muslim Then Instantly Regrets 
+ML394:134-170 | P08.C01 | Trinity as belief in three gods | response | 219 | ML | Priests Force Their Beliefs?! Muhammed Ali
 ML338:193-279 | P08.C01 | Trinity as compound unity: analogies | response | 582 | ML | Christian Preacher Attempts To Evangelise Muslim! Muhammed Ali
 ML010:463-483 | P08.C01 | Trinity as foundation of Christianity | argument | 272 | ML | Confident Catholic In Total Shock After His Views Are Challenged By A 
 ML066:273-342 | P08.C01 | Trinity as mystery and simplicity of guidance | argument | 699 | ML | Passionate Christian Argues For The Trinity With A Muslim! Muhammed Al
 ML031:163-195 | P08.C01 | Trinity as the foundational disagreement | response | 283 | ML | Christian Lady In Total Shock After Asking A Muslim Why He's Not Chris
 ML198:632-699 | P08.C01 | Trinity based on tradition rather than scripture | response | 488 | ML | Intellectual Catholic Argues For The Divinity Of Jesus! Muhammed Ali
 ML134:937-1011 | P08.C01 | Trinity before the King James Version | argument | 428 | ML | King James Christian Challenges Muslim On Bible Preservation! Muhammed
+ML416:682-712 | P08.C01 | Trinity in Genesis 1 | argument | 120 | ML | Rude Christian Refuses To Leave! Muhammed Ali - Speakers Corner
 ML393:264-338 | P08.C01 | Trinity in Isaiah and Luke | response | 394 | ML | Future Priest Attempts To Rescue A Christian Part1! Muhammed Ali
 ML196:247-309 | P08.C01 | Trinity in scripture and the prophets | response | 348 | ML | Agnostic Questions Muslim On The Education Of Women In Islam! Muhammed
 ML157:1152-1240 | P08.C01 | Trinity in scripture: 1 John 5:7 | response | 509 | ML | Christian Questions The Reliability Of The Quran Then It Backfires! Mu
@@ -118,13 +126,16 @@ ML206:431-504 | P08.C01 | Trinity in scripture: Matthew 28:19 baptism formula | 
 ML134:675-745 | P08.C01 | Trinity in the Bible | argument | 429 | ML | King James Christian Challenges Muslim On Bible Preservation! Muhammed
 ML252:237-317 | P08.C01 | Trinity in the Bible: co-equality and co-eternity | argument | 384 | ML | Christian Gets Emotional When Questioned About His Beliefs! Muhammed A
 ML265:319-399 | P08.C01 | Trinity in the Bible: Father, Son and Spirit | response | 218 | ML | Excited Christian Claims Muslims Need The Bible! Muhammed Ali
+ML400:238-289 | P08.C01 | Trinity in the Bible: request for a verse | argument | 181 | ML | Christian Missionaries Target Hijabies!? Muhammed Ali
 ML066:71-141 | P08.C01 | Trinity in the Old Testament | response | 533 | ML | Passionate Christian Argues For The Trinity With A Muslim! Muhammed Al
 ML005:25-129 | P08.C01 | Trinity in the Old Testament: two Yahweh passages | response | 975 | ML | Educated Christian Challenges Muslim On Bible Corruption And Textual C
 FR246:921-1030 | P08.C01 | Trinity not explicitly taught in the Bible | argument | 40 | FR | David Wood's co-host REVERTS to Islam!! [CL Edwards Interview]
 ML085:609-649 | P08.C01 | Trinity not found in scripture | argument | 269 | ML | Christian in Complete Denial After a Muslim Shows Him This Verse! Muha
 ML085:709-775 | P08.C01 | Trinity not found in scripture | argument | 602 | ML | Christian in Complete Denial After a Muslim Shows Him This Verse! Muha
 ML063:444-457 | P08.C01 | Trinity not stated in the Bible | argument | 173 | ML | Confident Christian Woman Attempts To Defend Christianity After Encoun
+ML389:77-92 | P08.C01 | Trinity not taught by the prophets | argument | 141 | ML | Sincere Christians Investigate Islam Part 1! Muhammed Ali
 ML334:66-187 | P08.C01 | Trinity versus modalism: did God become flesh | response | 489 | ML | Does The Concept of The Trinity Make Sense?! Muhammed Ali
+ML369:154-172 | P08.C01 | Trinity versus oneness of God | response | 136 | ML | If You Answer My QUESTIONS I will Accept Islam! Muhammed Ali
 ML213:459-546 | P08.C01 | Trinity, partialism and polytheism | response | 607 | ML | Deceptive Missionary Attempts To Target Muslim Children! Muhammed Ali
 ML393:167-263 | P08.C01 | Trinity: definition and absence from the Bible | argument | 692 | ML | Future Priest Attempts To Rescue A Christian Part1! Muhammed Ali
 ML129:30-116 | P08.C01 | Trinity: persons versus parts and baptismal formula | response | 573 | ML | Three Confident Christians Attempt To Take On A Muslim! Mohammed Ali
@@ -185,9 +196,11 @@ ML119:341-429 | P08.C02 | Demigod view and the oneness of God | response | 712 |
 ML129:1-29 | P08.C02 | Did God die on the cross; partialism | response | 168 | ML | Three Confident Christians Attempt To Take On A Muslim! Mohammed Ali
 ML314:313-370 | P08.C02 | Did Jesus claim attributes of God | argument | 466 | ML | Does Jesus Possess The Attributes of God?! Muhammed Ali
 ML219:1288-1316 | P08.C02 | Did Jesus claim divinity in his own words | argument | 167 | ML | Muslim Lantern | Arab | Sneak0 | Young Don | Warner | Discuss Religion
+ML406:184-226 | P08.C02 | Did Jesus claim divinity in his own words | argument | 373 | ML | The Injustice In Christian Theology! Muhammed Ali - Speakers Corner
 ML029:20-63 | P08.C02 | Did Jesus claim to be God | overview | 344 | ML | Confident Christian Claims To Have Proof Jesus Is God In The Bible! Mu
 ML286:251-291 | P08.C02 | Did Jesus claim to be God | response | 323 | ML | Orthodox Christian Questions Muslim About Islamic Conquest! Muhammed A
 ML349:55-81 | P08.C02 | Did Jesus claim to be God | argument | 216 | ML | Ex-Christian Lady Curious About Islam! Muhammed Ali
+ML374:116-135 | P08.C02 | Did Jesus claim to be God | response | 195 | ML | Australian Couple Defend Their Beliefs! Muhammed Ali
 ML139:194-266 | P08.C02 | Did Jesus claim to be God or a prophet | argument | 581 | ML | Historian Debates Muslim On The Authenticity Of The Bible! Muhammed Al
 ML281:149-180 | P08.C02 | Did Jesus claim to be God or be worshipped | argument | 223 | ML | 3 Christian Students Encounter A Muslim! Muhammed Ali
 ML165:331-393 | P08.C02 | Did Jesus claim to be God: first and last | response | 529 | ML | Christian Confronts Muslim On Women Treatment But This Happens! Muhamm
@@ -208,6 +221,7 @@ ML036:1-27 | P08.C02 | Differences between Islam and Christianity on Jesus | ove
 FR329:1-24 | P08.C02 | Disciples' reaction to Jesus washing their feet | response | 122 | FR | Christian Prince Lies about Jesus! [Lie #84]
 ML057:946-990 | P08.C02 | Divine attributes and the hypostatic union | argument | 501 | ML | Christian Lady Grills Muslim With Questions Then A Surprise Happens! M
 ML029:332-392 | P08.C02 | Divine titles applied to others in the Bible | argument | 458 | ML | Confident Christian Claims To Have Proof Jesus Is God In The Bible! Mu
+ML369:173-194 | P08.C02 | Divinity and sonship of Jesus | response | 382 | ML | If You Answer My QUESTIONS I will Accept Islam! Muhammed Ali
 ML244:59-81 | P08.C02 | Divinity of Jesus and the Bible | argument | 129 | ML | Catholic Grandfather Examines The Teachings Of Islam! Muhammed Ali
 ML154:1017-1127 | P08.C02 | Do not tempt the Lord your God (Matthew 4:7) | response | 513 | ML | Confident Christian Attempts To Convert Muslim Then Instantly Regrets 
 ML095:450-550 | P08.C02 | Does God die according to the Bible | argument | 760 | ML | Arab Christian Attempts To Convert A Muslim But This Happens! Muhammed
@@ -217,10 +231,13 @@ ML362:213-248 | P08.C02 | Explicit verses for the divinity of Jesus | argument |
 ML047:574-634 | P08.C02 | External sources and the title son of God | response | 526 | ML | Muslim Leaves Confident Christian Speechless After Challenging His Bib
 ML139:1-51 | P08.C02 | Eyewitnesses and miracles as proof of Jesus' divinity | response | 297 | ML | Historian Debates Muslim On The Authenticity Of The Bible! Muhammed Al
 ML021:261-292 | P08.C02 | Father greater than Jesus and authority given to him | argument | 191 | ML | Hate Preacher Attempts To Disrupt Civil Muslim-Christian Dialogue! Muh
+ML417:412-468 | P08.C02 | Father greater than the Son | argument | 397 | ML | A Christian Testimony About Islam Part 2! Muhammed Ali - Speakers Corn
 ML029:204-280 | P08.C02 | First and last: comparison with Melchizedek | response | 500 | ML | Confident Christian Claims To Have Proof Jesus Is God In The Bible! Mu
 ML304:769-828 | P08.C02 | First and the Last title and Melchizedek | response | 395 | ML | Preacher Claims To Have Evidence For Christianity! Muhammed Ali
 ML063:506-532 | P08.C02 | Fully God and fully man objection | response | 162 | ML | Confident Christian Woman Attempts To Defend Christianity After Encoun
 ML085:776-886 | P08.C02 | Fully God and fully man: divine attributes | argument | 699 | ML | Christian in Complete Denial After a Muslim Shows Him This Verse! Muha
+ML416:1-31 | P08.C02 | Fully God and fully man: logical coherence | argument | 116 | ML | Rude Christian Refuses To Leave! Muhammed Ali - Speakers Corner
+ML417:349-411 | P08.C02 | Fully God yet not all-knowing | argument | 291 | ML | A Christian Testimony About Islam Part 2! Muhammed Ali - Speakers Corn
 FR059:156-232 | P08.C02 | Gethsemane prayer and the last words | argument | 547 | FR | Godlogic Explains "Why have you Forsaken me?!"
 ML393:123-155 | P08.C02 | God becoming a baby and divine wisdom | argument | 207 | ML | Future Priest Attempts To Rescue A Christian Part1! Muhammed Ali
 ML287:49-120 | P08.C02 | God cannot be a human being | argument | 425 | ML | Christian Lady Receives Reality Check From A Muslim! Muhammed Ali
@@ -230,6 +247,7 @@ ML391:189-205 | P08.C02 | Holy Spirit and Jesus not knowing the Hour | response 
 ML346:90-131 | P08.C02 | How Jesus prayed according to the Bible | argument | 292 | ML | Christian Challenges Muslim On Biblical Authority! Muhammed Ali
 ML066:687-764 | P08.C02 | Hypostatic union and the two natures | argument | 684 | ML | Passionate Christian Argues For The Trinity With A Muslim! Muhammed Al
 ML154:555-621 | P08.C02 | Hypostatic union and the virgin birth | response | 527 | ML | Confident Christian Attempts To Convert Muslim Then Instantly Regrets 
+ML374:369-405 | P08.C02 | Hypostatic union: fully God and fully man | argument | 413 | ML | Australian Couple Defend Their Beliefs! Muhammed Ali
 ML154:246-301 | P08.C02 | I am the way, the truth and the life (John 14:6) | response | 439 | ML | Confident Christian Attempts To Convert Muslim Then Instantly Regrets 
 ML152:366-378 | P08.C02 | I am the way: John 14:6 | response | 62 | ML | Muslim And Educated Christian Debate The Divinity Of Jesus Christ! Muh
 ML021:500-549 | P08.C02 | I am: Exodus 3:14 and John 8:58 | response | 406 | ML | Hate Preacher Attempts To Disrupt Civil Muslim-Christian Dialogue! Muh
@@ -238,24 +256,30 @@ ML129:710-826 | P08.C02 | I and the Father are one (John 10:30) | response | 912
 ML154:108-245 | P08.C02 | I and the Father are one (John 10:30) | response | 1040 | ML | Confident Christian Attempts To Convert Muslim Then Instantly Regrets 
 ML355:401-551 | P08.C02 | I and the Father are one: John 10 context | response | 1139 | ML | Christian Attempts To Show The Trinity In Scripture! - Muhammed Ali
 ML085:1-72 | P08.C02 | I and the Father are one: John 10:30 | response | 483 | ML | Christian in Complete Denial After a Muslim Shows Him This Verse! Muha
+ML400:110-143 | P08.C02 | If Jesus is God, did God die | argument | 74 | ML | Christian Missionaries Target Hijabies!? Muhammed Ali
 ML017:527-548 | P08.C02 | Immortality of God and the death of Jesus | argument | 133 | ML | Confident Christians Struggle To Justify Biblical Injustice! Muhammed 
 ML066:541-686 | P08.C02 | Immortality of God and the death of Jesus | argument | 658 | ML | Passionate Christian Argues For The Trinity With A Muslim! Muhammed Al
 ML205:186-270 | P08.C02 | Immortality of God and the death of Jesus | argument | 536 | ML | Christian Questions Muslim On The Death Of The Prophet! Muhammed Ali
 ML064:1506-1533 | P08.C02 | Incarnation and consistency of Christianity | response | 187 | ML | Clip-React| Responding To Professor Jiang's Lecture On The Islamic Gol
+ML417:48-155 | P08.C02 | Incarnation and John 1:1 | overview | 134 | ML | A Christian Testimony About Islam Part 2! Muhammed Ali - Speakers Corn
 ML141:320-378 | P08.C02 | Incarnation and the unchanging nature of God | argument | 377 | ML | Orthodox Christian Surprises Muslim With Intelligent Questions! Muhamm
 ML032:91-132 | P08.C02 | Incarnation versus guidance through prophets | response | 220 | ML | Christian Compares Jesus To Prophet Mohammed Then Instantly Regrets It
 ML017:597-614 | P08.C02 | Intercession of Jesus and divinity | response | 120 | ML | Confident Christians Struggle To Justify Biblical Injustice! Muhammed 
 ML003:22-130 | P08.C02 | Is Jesus God or the son of God | response | 411 | ML | Passionate Christian Challenges Muslim On Jesus & Salvation! Muhammed 
+ML400:184-206 | P08.C02 | Is Jesus God within the Trinity | argument | 100 | ML | Christian Missionaries Target Hijabies!? Muhammed Ali
 ML129:546-584 | P08.C02 | Is John 17:3 a parable | response | 249 | ML | Three Confident Christians Attempt To Take On A Muslim! Mohammed Ali
 ML260:292-339 | P08.C02 | Jesus accepting worship and Thomas's confession | response | 361 | ML | Born Again Christian Attempts To Prove The Divinity Of Jesus! Muhammed
 ML257:222-254 | P08.C02 | Jesus and the authority to forgive sins | response | 205 | ML | Hidden Christian Attempts To Trap Muslim But This Happens! Muhammed Al
 ML057:670-810 | P08.C02 | Jesus and the blasphemy charge in John 10 | response | 931 | ML | Christian Lady Grills Muslim With Questions Then A Surprise Happens! M
 ML262:74-118 | P08.C02 | Jesus as a created being, not God | response | 331 | ML | Orthodox Christian Questions Muslim About Violence In The Quran! Muham
+ML406:131-183 | P08.C02 | Jesus as a man approved by God | argument | 296 | ML | The Injustice In Christian Theology! Muhammed Ali - Speakers Corner
 ML021:1-32 | P08.C02 | Jesus as a messenger sent by the Father | overview | 167 | ML | Hate Preacher Attempts To Disrupt Civil Muslim-Christian Dialogue! Muh
 ML202:257-338 | P08.C02 | Jesus as God's consciousness in a body | response | 498 | ML | Christian Attempts To Explain The Concept Of God! Muhammed Ali
 ML157:967-1035 | P08.C02 | Jesus as prophet and messenger in the Gospels | argument | 425 | ML | Christian Questions The Reliability Of The Quran Then It Backfires! Mu
 ML233:882-905 | P08.C02 | Jesus as prophet and servant in the Bible | argument | 117 | ML | Eddie @TheDeenShowTV Interviews The Muslim Lantern | Masjid Dar Al-Qur
+ML388:29-78 | P08.C02 | Jesus as prophet subordinate to the Father | argument | 379 | ML | Sincere Christians Investigate Islam Part 2! Muhammed Ali
 ML003:273-405 | P08.C02 | Jesus as servant of the Father | argument | 755 | ML | Passionate Christian Challenges Muslim On Jesus & Salvation! Muhammed 
+ML420:555-562 | P08.C02 | Jesus as Son of God in the Quran | response | 79 | ML | Inquisitive Christian Learns About Islam P1! Muhammed Ali - Speakers C
 ML075:1303-1337 | P08.C02 | Jesus as the way to the Father | response | 246 | ML | American Jew Debates Muslim On Gaza And The History Of Palestine! Muha
 ML085:100-169 | P08.C02 | Jesus as the way: John 14:6 | argument | 347 | ML | Christian in Complete Denial After a Muslim Shows Him This Verse! Muha
 ML085:330-345 | P08.C02 | Jesus as the way: John 14:6 | conclusion | 197 | ML | Christian in Complete Denial After a Muslim Shows Him This Verse! Muha
@@ -263,6 +287,7 @@ ML152:158-188 | P08.C02 | Jesus called a prophet in the Bible | argument | 225 |
 ML187:1-33 | P08.C02 | Jesus called Lord and divinity | argument | 226 | ML | Arrogant Christian Gets Irritated By Simple Questions! Muhammed Ali
 ML262:170-207 | P08.C02 | Jesus called people to worship God alone | argument | 362 | ML | Orthodox Christian Questions Muslim About Violence In The Quran! Muham
 ML295:297-350 | P08.C02 | Jesus calling on 'My God' on the cross | response | 233 | ML | Future Priest Attempts To Convert A Muslim! Muhammed Ali
+ML374:337-351 | P08.C02 | Jesus calling the Canaanite woman a dog | argument | 266 | ML | Australian Couple Defend Their Beliefs! Muhammed Ali
 ML017:615-636 | P08.C02 | Jesus did not know the Hour | response | 111 | ML | Confident Christians Struggle To Justify Biblical Injustice! Muhammed 
 FR089:466-479 | P08.C02 | Jesus fleeing danger and claimed divinity | illustration | 106 | FR | Sunni Shia Discussion on Imam Mahdi Existence
 ML129:688-697 | P08.C02 | Jesus forgiving sins | response | 72 | ML | Three Confident Christians Attempt To Take On A Muslim! Mohammed Ali
@@ -275,13 +300,17 @@ ML152:321-365 | P08.C02 | Jesus has a God: John 20:17 and 17:3 | argument | 407 
 ML157:1036-1092 | P08.C02 | Jesus having a God: John 20:17 | argument | 366 | ML | Christian Questions The Reliability Of The Quran Then It Backfires! Mu
 ML043:214-232 | P08.C02 | Jesus never claimed divinity in the Bible | argument | 207 | ML | Christian Questions A Muslim On The Return Of Jesus Then This Happens!
 ML154:896-926 | P08.C02 | Jesus never claimed divinity in the Bible | conclusion | 243 | ML | Confident Christian Attempts To Convert Muslim Then Instantly Regrets 
+ML417:199-241 | P08.C02 | Jesus never claimed divinity; witness accounts | argument | 97 | ML | A Christian Testimony About Islam Part 2! Muhammed Ali - Speakers Corn
 ML030:1-18 | P08.C02 | Jesus never claimed to be God; Council of Nicaea | argument | 130 | ML | Wise Christian Questions The Consistency Of The Teachings Of Islam! Mu
 ML165:487-553 | P08.C02 | Jesus never explicitly claimed divinity | argument | 632 | ML | Christian Confronts Muslim On Women Treatment But This Happens! Muhamm
+ML374:352-368 | P08.C02 | Jesus not knowing the Hour | argument | 150 | ML | Australian Couple Defend Their Beliefs! Muhammed Ali
 ML066:765-928 | P08.C02 | Jesus not knowing the hour (Mark 13:32) | argument | 1365 | ML | Passionate Christian Argues For The Trinity With A Muslim! Muhammed Al
 ML104:315-418 | P08.C02 | Jesus not knowing the hour (Mark 13:32) | argument | 791 | ML | Christian Debates Muslim On The Original Sin! Muhammed Ali
 ML129:117-139 | P08.C02 | Jesus not knowing the Hour (Mark 13:32) | argument | 81 | ML | Three Confident Christians Attempt To Take On A Muslim! Mohammed Ali
 ML168:246-328 | P08.C02 | Jesus not knowing the hour (Mark 13:32) | argument | 453 | ML | Arab Christian Attempts To Outsmart A Muslim! Muhammed Ali
 ML260:340-408 | P08.C02 | Jesus not knowing the Hour (Mark 13:32) | argument | 485 | ML | Born Again Christian Attempts To Prove The Divinity Of Jesus! Muhammed
+ML388:1-28 | P08.C02 | Jesus not knowing the Hour (Mark 13:32) | argument | 161 | ML | Sincere Christians Investigate Islam Part 2! Muhammed Ali
+ML416:32-129 | P08.C02 | Jesus not knowing the Hour (Mark 13:32) | argument | 441 | ML | Rude Christian Refuses To Leave! Muhammed Ali - Speakers Corner
 ML205:316-352 | P08.C02 | Jesus not knowing the Hour; the fig tree | response | 271 | ML | Christian Questions Muslim On The Death Of The Prophet! Muhammed Ali
 ML375:178-201 | P08.C02 | Jesus prayed to God | argument | 129 | ML | French Girls Interested In Islam! Muhammed Ali
 ML189:131-150 | P08.C02 | Jesus prayed to God and was sent | argument | 162 | ML | Christian and Muslim Debate Who Deserves Heaven! Muhammed Ali
@@ -289,11 +318,15 @@ ML017:549-596 | P08.C02 | Jesus prayed to God: implications for divinity | argum
 ML281:27-148 | P08.C02 | Jesus praying and limited knowledge | argument | 709 | ML | 3 Christian Students Encounter A Muslim! Muhammed Ali
 ML036:609-629 | P08.C02 | Jesus praying in Gethsemane | argument | 104 | ML | American Christian Surprised By Rational Questions Posed By A Muslim! 
 ML168:763-802 | P08.C02 | Jesus praying to and submitting to the Father | argument | 269 | ML | Arab Christian Attempts To Outsmart A Muslim! Muhammed Ali
+ML406:282-323 | P08.C02 | Jesus praying to God | argument | 254 | ML | The Injustice In Christian Theology! Muhammed Ali - Speakers Corner
+ML394:1-41 | P08.C02 | Jesus praying, not knowing the Hour, having a God | argument | 265 | ML | Priests Force Their Beliefs?! Muhammed Ali
 ML241:230-291 | P08.C02 | Jesus prays, has a God and dies | argument | 433 | ML | Curious Lady Grills Muslim With Difficult Questions! Muhammed Ali
 ML383:322-350 | P08.C02 | Jesus receiving authority from the Father | response | 259 | ML | Australian Christians Challenge Muslim On Christianity! Muhammed Ali
 ML245:235-241 | P08.C02 | Jesus seated at the right hand | response | 77 | ML | Pantheist Challenges The Muslim View Of God! Muhammed Ali
 ML154:746-895 | P08.C02 | Jesus worshipped and prayed to God | argument | 585 | ML | Confident Christian Attempts To Convert Muslim Then Instantly Regrets 
 ML334:302-365 | P08.C02 | Jesus' 'I am he' statements in John | response | 405 | ML | Does The Concept of The Trinity Make Sense?! Muhammed Ali
+ML416:563-604 | P08.C02 | Jesus' 'I am' statements | response | 175 | ML | Rude Christian Refuses To Leave! Muhammed Ali - Speakers Corner
+ML406:324-350 | P08.C02 | Jesus' actions and limited knowledge | response | 222 | ML | The Injustice In Christian Theology! Muhammed Ali - Speakers Corner
 FR048:1-38 | P08.C02 | Jesus' claims to divinity: I and the Father | response | 363 | FR | 276 IQ Christian vs Average Muslim Bro
 ML021:310-337 | P08.C02 | Jesus' dependence on God and the two natures | response | 208 | ML | Hate Preacher Attempts To Disrupt Civil Muslim-Christian Dialogue! Muh
 ML154:680-745 | P08.C02 | Jesus' knowledge and being fully God | argument | 336 | ML | Confident Christian Attempts To Convert Muslim Then Instantly Regrets 
@@ -342,7 +375,10 @@ ML225:27-53 | P08.C02 | John 17:3: the Father as only true God | argument | 84 |
 ML031:667-690 | P08.C02 | John 17:3: the Father as the only true God | argument | 180 | ML | Christian Lady In Total Shock After Asking A Muslim Why He's Not Chris
 ML085:928-1082 | P08.C02 | John 17:3: the only true God | argument | 844 | ML | Christian in Complete Denial After a Muslim Shows Him This Verse! Muha
 ML036:105-142 | P08.C02 | John 1: the Word became flesh | response | 398 | ML | American Christian Surprised By Rational Questions Posed By A Muslim! 
+ML413:24-130 | P08.C02 | John 1:1 and the Word being with God | response | 411 | ML | Christian Preacher Twists His Scripture P2! Muhammed Ali - Speakers Co
+ML417:156-198 | P08.C02 | John 1:1: words of John, not Jesus | response | 355 | ML | A Christian Testimony About Islam Part 2! Muhammed Ali - Speakers Corn
 ML314:210-246 | P08.C02 | John 20:17: Jesus has a God | argument | 206 | ML | Does Jesus Possess The Attributes of God?! Muhammed Ali
+ML416:605-644 | P08.C02 | John 3:16: words of Jesus or of John | response | 153 | ML | Rude Christian Refuses To Leave! Muhammed Ali - Speakers Corner
 ML225:350-396 | P08.C02 | John 5:19 and 5:30: Jesus doing what the Father does | response | 335 | ML | Christian Refuses To Accept The Truth About Jesus! Muhammed Ali
 ML160:122-197 | P08.C02 | John 5:23: judgment and honour given to Jesus | response | 456 | ML | 77 Year Old Christian Veteran Attempts To Convert A Muslim! Muhammed A
 ML063:458-505 | P08.C02 | John 5:30 and Jesus's dependence on God | argument | 451 | ML | Confident Christian Woman Attempts To Defend Christianity After Encoun
@@ -363,6 +399,7 @@ ML066:1063-1110 | P08.C02 | Mark 13:32: knowing versus declaring | response | 36
 ML085:887-927 | P08.C02 | Mark 13:32: knowledge of the Hour | argument | 260 | ML | Christian in Complete Denial After a Muslim Shows Him This Verse! Muha
 ML030:165-178 | P08.C02 | Matthew 7: doing the will of the Father | argument | 172 | ML | Wise Christian Questions The Consistency Of The Teachings Of Islam! Mu
 ML187:34-160 | P08.C02 | Matthew 7:21 and calling Jesus Lord | argument | 608 | ML | Arrogant Christian Gets Irritated By Simple Questions! Muhammed Ali
+ML388:386-432 | P08.C02 | Matthew 7:21-23 and doing the Father's will | argument | 315 | ML | Sincere Christians Investigate Islam Part 2! Muhammed Ali
 ML043:34-70 | P08.C02 | Matthew 7:21-23 and Jesus's return | argument | 282 | ML | Christian Questions A Muslim On The Return Of Jesus Then This Happens!
 ML334:466-540 | P08.C02 | Meaning of 'I and the Father are one' | response | 483 | ML | Does The Concept of The Trinity Make Sense?! Muhammed Ali
 ML243:31-87 | P08.C02 | Meaning of 'son of God'; Jesus and Adam | response | 604 | ML | American Man Changes His Mind After Reading The Quran! Muhammed Ali
@@ -373,6 +410,7 @@ ML125:76-134 | P08.C02 | Meaning of son of God in the Bible | argument | 710 | M
 ML051:83-99 | P08.C02 | Meaning of the term son of God | argument | 186 | ML | Devout Christian Shocked After A Muslim Reveals The Truth About The Bi
 FR358:1-25 | P08.C02 | Meaning of the title Christ | response | 65 | FR | Zakir Hussein Destroys Christian Prince
 ML288:345-386 | P08.C02 | Meaning of the title son of God | response | 601 | ML | Hebrew Israelite Questions Muslim On Pagan Teachings! Muhammed Ali
+ML400:222-237 | P08.C02 | Meanings of the term son of God | argument | 111 | ML | Christian Missionaries Target Hijabies!? Muhammed Ali
 ML182:298-371 | P08.C02 | Megiddo mosaic and early belief in Jesus' divinity | response | 377 | ML | Suspicious "Agnostic" Attempts To Challenge Muslim! Muhammed Ali
 ML129:444-476 | P08.C02 | Melchizedek and miracles done through Jesus | argument | 221 | ML | Three Confident Christians Attempt To Take On A Muslim! Mohammed Ali
 ML168:900-939 | P08.C02 | Melchizedek: eternal yet not God | argument | 207 | ML | Arab Christian Attempts To Outsmart A Muslim! Muhammed Ali
@@ -385,6 +423,7 @@ ML295:502-564 | P08.C02 | Omniscience of God and Jesus' knowledge | argument | 4
 ML021:125-169 | P08.C02 | Oneness with the Father: John 17:21 comparison | response | 370 | ML | Hate Preacher Attempts To Disrupt Civil Muslim-Christian Dialogue! Muh
 FR063:111-158 | P08.C02 | Only God sends messengers argument | response | 159 | FR | Godlogic and the Reliability of Matthew
 ML129:477-545 | P08.C02 | Only true God is the Father (John 17:3) | argument | 566 | ML | Three Confident Christians Attempt To Take On A Muslim! Mohammed Ali
+ML417:469-502 | P08.C02 | Only true God is the Father (John 17:3) | conclusion | 226 | ML | A Christian Testimony About Islam Part 2! Muhammed Ali - Speakers Corn
 ML043:167-213 | P08.C02 | Personal experience as basis for belief in Jesus | response | 321 | ML | Christian Questions A Muslim On The Return Of Jesus Then This Happens!
 ML355:746-818 | P08.C02 | Philippians 2: form of God and equality | response | 387 | ML | Christian Attempts To Show The Trinity In Scripture! - Muhammed Ali
 ML125:262-350 | P08.C02 | Prologue of John and the Word | response | 573 | ML | Christian Ladies Discover The True Identity Of Jesus! Muhammed Ali
@@ -404,6 +443,9 @@ ML154:444-480 | P08.C02 | Seeing Jesus as seeing the Father | response | 216 | M
 ML021:995-1059 | P08.C02 | Sinless people in the Bible: Zechariah and Elizabeth | response | 372 | ML | Hate Preacher Attempts To Disrupt Civil Muslim-Christian Dialogue! Muh
 ML219:914-948 | P08.C02 | Sinlessness of Jesus and Luke 1:6 | response | 315 | ML | Muslim Lantern | Arab | Sneak0 | Young Don | Warner | Discuss Religion
 ML095:639-650 | P08.C02 | Son of God as a title for many in the Bible | conclusion | 154 | ML | Arab Christian Attempts To Convert A Muslim But This Happens! Muhammed
+ML406:227-281 | P08.C02 | Son of God as a title for others | response | 365 | ML | The Injustice In Christian Theology! Muhammed Ali - Speakers Corner
+ML388:209-236 | P08.C02 | Son of God as metaphor in the Bible | argument | 245 | ML | Sincere Christians Investigate Islam Part 2! Muhammed Ali
+ML374:151-171 | P08.C02 | Son of God in biblical usage | response | 141 | ML | Australian Couple Defend Their Beliefs! Muhammed Ali
 ML095:551-609 | P08.C02 | Son of God title and the trial of Jesus | response | 335 | ML | Arab Christian Attempts To Convert A Muslim But This Happens! Muhammed
 ML302:448-504 | P08.C02 | Son of God title in the Bible | argument | 652 | ML | Christian Visitor Questions Muslim On Hadith! Muhammed Ali
 ML304:543-581 | P08.C02 | Son of God title versus claim to divinity | response | 399 | ML | Preacher Claims To Have Evidence For Christianity! Muhammed Ali
@@ -432,6 +474,7 @@ FR052:19-69 | P08.C02 | Two powers in heaven argument | response | 539 | FR | Di
 FR052:80-106 | P08.C02 | Two powers in heaven in Second Temple Judaism | illustration | 67 | FR | Did Jesus Claim to be God? [D. Wood Loses Debate]
 ML225:306-349 | P08.C02 | Vision of John as evidence for divinity | response | 332 | ML | Christian Refuses To Accept The Truth About Jesus! Muhammed Ali
 ML095:120-212 | P08.C02 | Was Jesus sinless | response | 732 | ML | Arab Christian Attempts To Convert A Muslim But This Happens! Muhammed
+ML374:183-250 | P08.C02 | Was Jesus uniquely without sin | response | 439 | ML | Australian Couple Defend Their Beliefs! Muhammed Ali
 ML137:630-703 | P08.C02 | Where did Jesus claim to be God | argument | 419 | ML | Confident Christian Attempts To Educate A Muslim On Islamic History! M
 ML036:28-69 | P08.C02 | Where Jesus claims to be God incarnate | argument | 387 | ML | American Christian Surprised By Rational Questions Posed By A Muslim! 
 ML036:84-104 | P08.C02 | Where Jesus claims to be God incarnate | argument | 122 | ML | American Christian Surprised By Rational Questions Posed By A Muslim! 
@@ -444,7 +487,9 @@ ML032:62-90 | P08.C02 | Why God does not become a human being | argument | 277 |
 ML021:200-238 | P08.C02 | Why Jesus prayed if he was God | response | 164 | ML | Hate Preacher Attempts To Disrupt Civil Muslim-Christian Dialogue! Muh
 FR052:70-79 | P08.C02 | Why Jesus prays to the Father | response | 86 | FR | Did Jesus Claim to be God? [D. Wood Loses Debate]
 ML119:1-26 | P08.C02 | Why Muslims see Jesus as prophet not God | overview | 124 | ML | Muslim Shocks Pentecostal Christian On The Divinity Of Jesus! Muhammed
+ML417:279-348 | P08.C02 | Why no recorded claim of divinity | argument | 403 | ML | A Christian Testimony About Islam Part 2! Muhammed Ali - Speakers Corn
 ML168:940-996 | P08.C02 | Why the Jews sought to stone Jesus | response | 395 | ML | Arab Christian Attempts To Outsmart A Muslim! Muhammed Ali
+ML374:251-319 | P08.C02 | Zechariah's doubt and the biblical definition of sin | response | 583 | ML | Australian Couple Defend Their Beliefs! Muhammed Ali
 ML154:341-363 | P08.C03 | Belief in Jesus as a Messenger in Islam | response | 174 | ML | Confident Christian Attempts To Convert Muslim Then Instantly Regrets 
 ML076:239-352 | P08.C03 | Creation of Jesus by the command Be | response | 475 | ML | "Innocent" Christian Gets Caught Repeatedly Lying On Stream! Muhammed 
 ML067:346-411 | P08.C03 | Disciples in the Quran: 61:14 and 5:112-115 | argument | 575 | ML | Angry Christian Rage Quits After Confronting Muslim On Jesus In The Qu
@@ -452,10 +497,13 @@ ML061:780-801 | P08.C03 | Disciples of Jesus in the Islamic view | response | 25
 ML067:42-82 | P08.C03 | Disciples of Jesus in the Quran | response | 162 | ML | Angry Christian Rage Quits After Confronting Muslim On Jesus In The Qu
 ML067:129-208 | P08.C03 | Disciples of Jesus in the Quran (61:14) | response | 461 | ML | Angry Christian Rage Quits After Confronting Muslim On Jesus In The Qu
 ML375:202-246 | P08.C03 | God as Father and the virgin birth | argument | 465 | ML | French Girls Interested In Islam! Muhammed Ali
+ML380:432-537 | P08.C03 | How often Jesus is mentioned in the Quran | response | 556 | ML | Christian Preachers Ambush Muslim! Muhammed Ali
 ML257:152-221 | P08.C03 | Is Islam anti-Messiah: Jesus as Messiah in Islam | response | 446 | ML | Hidden Christian Attempts To Trap Muslim But This Happens! Muhammed Al
 ML108:204-226 | P08.C03 | Is Jesus described as sinless in the Quran | response | 170 | ML | Clip-React| The Quran Proves Jesus Is God?! Sunnis Don't Pray Like The
+ML419:346-362 | P08.C03 | Is Jesus sinless in the Quran: zakiyya | response | 63 | ML | Inquisitive Christian Learns About Islam P2! Muhammed Ali - Speakers C
 ML021:977-994 | P08.C03 | Is Jesus uniquely sinless in Islam | response | 131 | ML | Hate Preacher Attempts To Disrupt Civil Muslim-Christian Dialogue! Muh
 ML031:138-162 | P08.C03 | Islamic beliefs about Jesus | response | 159 | ML | Christian Lady In Total Shock After Asking A Muslim Why He's Not Chris
+ML374:12-61 | P08.C03 | Islamic view of Jesus compared with Christianity | overview | 518 | ML | Australian Couple Defend Their Beliefs! Muhammed Ali
 ML245:242-276 | P08.C03 | Jesus and Mary in the Quran | overview | 663 | ML | Pantheist Challenges The Muslim View Of God! Muhammed Ali
 ML076:190-238 | P08.C03 | Jesus as a descendant of Adam through Mary | response | 272 | ML | "Innocent" Christian Gets Caught Repeatedly Lying On Stream! Muhammed 
 ML324:685-741 | P08.C03 | Jesus as a messenger of God | argument | 323 | ML | Muslim Dismantles French Nationalism And Racist Ideologies! Muhammed A
@@ -463,6 +511,7 @@ ML095:651-681 | P08.C03 | Jesus as a prophet in Islam | argument | 238 | ML | Ar
 ML212:136-157 | P08.C03 | Jesus as a prophet in Islam | illustration | 4 | ML | Sincere Christian Speaks The Truth About Christianity! Muhammed Ali
 ML182:246-261 | P08.C03 | Jesus as Messiah and his judging at return | response | 91 | ML | Suspicious "Agnostic" Attempts To Challenge Muslim! Muhammed Ali
 ML067:412-425 | P08.C03 | Jesus as Messiah in the Quran | response | 131 | ML | Angry Christian Rage Quits After Confronting Muslim On Jesus In The Qu
+ML400:207-221 | P08.C03 | Jesus as Messiah in the Quran | overview | 92 | ML | Christian Missionaries Target Hijabies!? Muhammed Ali
 FR037:98-110 | P08.C03 | Jesus as Messiah, not deity, in Islam | conclusion | 155 | FR | Nobody died for the Resurrection of Jesus
 ML075:1165-1202 | P08.C03 | Jesus as prophet: truthful or lying dilemma | response | 293 | ML | American Jew Debates Muslim On Gaza And The History Of Palestine! Muha
 ML107:487-531 | P08.C03 | Jesus as the Messiah in Islam | response | 398 | ML | Christian Researcher Demands Evidence Against The Crucifixion Of Jesus
@@ -477,6 +526,7 @@ ML309:276-323 | P08.C03 | Jesus in the Quran | response | 469 | ML | Intelligent
 ML314:497-536 | P08.C03 | Jesus in the Quran versus Christian Jesus | argument | 377 | ML | Does Jesus Possess The Attributes of God?! Muhammed Ali
 ML108:261-306 | P08.C03 | Jesus returning as a judge | response | 367 | ML | Clip-React| The Quran Proves Jesus Is God?! Sunnis Don't Pray Like The
 ML109:274-349 | P08.C03 | Jesus sent only to Israel (Matthew 15:24) | response | 394 | ML | Overconfident Christian Meets The Wrong Muslim! Muhammed Ali
+ML389:54-76 | P08.C03 | Jesus speaking in the cradle | argument | 224 | ML | Sincere Christians Investigate Islam Part 1! Muhammed Ali
 FR227:642-706 | P08.C03 | Jesus speaking in the cradle reinterpreted | response | 170 | FR | The Heresy of Abu Layth
 FR227:154-182 | P08.C03 | Jesus speaking in the cradle: vagueness claim | response | 9 | FR | The Heresy of Abu Layth
 ML139:370-392 | P08.C03 | Jesus' practices compared with Muslims | argument | 162 | ML | Historian Debates Muslim On The Authenticity Of The Bible! Muhammed Al
@@ -484,6 +534,7 @@ ML227:92-118 | P08.C03 | Jesus's ascension and place in heaven | response | 242 
 ML043:291-373 | P08.C03 | Jesus's practices compared with Muslim practices | argument | 548 | ML | Christian Questions A Muslim On The Return Of Jesus Then This Happens!
 ML095:682-715 | P08.C03 | Mary in the Quran | response | 280 | ML | Arab Christian Attempts To Convert A Muslim But This Happens! Muhammed
 ML304:582-622 | P08.C03 | Meaning of Messiah and Jewish rejection of Jesus | response | 558 | ML | Preacher Claims To Have Evidence For Christianity! Muhammed Ali
+ML374:136-150 | P08.C03 | Meaning of the term Messiah | response | 88 | ML | Australian Couple Defend Their Beliefs! Muhammed Ali
 ML085:73-99 | P08.C03 | Meaning of the title Messiah | response | 262 | ML | Christian in Complete Denial After a Muslim Shows Him This Verse! Muha
 ML061:357-396 | P08.C03 | Mission of Jesus and fulfilling the law | response | 297 | ML | Christian Niqabi Challenges the Continuity of Islam with Previous Scri
 ML157:1241-1276 | P08.C03 | Muslim belief about Jesus | conclusion | 321 | ML | Christian Questions The Reliability Of The Quran Then It Backfires! Mu
@@ -494,14 +545,17 @@ ML060:1178-1213 | P08.C03 | Muslim reverence for Jesus | argument | 426 | ML | S
 ML233:809-881 | P08.C03 | Muslims accused of being the Antichrist | response | 312 | ML | Eddie @TheDeenShowTV Interviews The Muslim Lantern | Masjid Dar Al-Qur
 ML241:353-375 | P08.C03 | Muslims follow Jesus' practice more than Christians | argument | 160 | ML | Curious Lady Grills Muslim With Difficult Questions! Muhammed Ali
 ML392:1-40 | P08.C03 | Prophets and Jesus in Islam | response | 234 | ML | Militant Christians Interrogate Muslim Part 2! Muhammed Ali
+ML388:331-385 | P08.C03 | Purpose of Jesus's return and the Antichrist | response | 383 | ML | Sincere Christians Investigate Islam Part 2! Muhammed Ali
 ML095:213-241 | P08.C03 | Quoting the Bible on Jesus is not insulting him | response | 133 | ML | Arab Christian Attempts To Convert A Muslim But This Happens! Muhammed
 ML187:199-240 | P08.C03 | Quran 3:55 and the followers of Jesus | response | 166 | ML | Arrogant Christian Gets Irritated By Simple Questions! Muhammed Ali
 ML067:517-550 | P08.C03 | Quran not a biography: names of disciples | response | 269 | ML | Angry Christian Rage Quits After Confronting Muslim On Jesus In The Qu
 ML021:1106-1122 | P08.C03 | Quran on Jesus' purity: zakiyya | response | 180 | ML | Hate Preacher Attempts To Disrupt Civil Muslim-Christian Dialogue! Muh
+ML416:167-200 | P08.C03 | Quran's denial of Jesus' sonship | response | 67 | ML | Rude Christian Refuses To Leave! Muhammed Ali - Speakers Corner
 ML075:1422-1470 | P08.C03 | Quranic Jesus versus Christian Jesus | conclusion | 420 | ML | American Jew Debates Muslim On Gaza And The History Of Palestine! Muha
 ML265:170-225 | P08.C03 | Quranic view of the Trinity and Jesus | response | 371 | ML | Excited Christian Claims Muslims Need The Bible! Muhammed Ali
 ML095:802-839 | P08.C03 | Return of Jesus and judgment in Islam | response | 196 | ML | Arab Christian Attempts To Convert A Muslim But This Happens! Muhammed
 ML006:1338-1386 | P08.C03 | Return of Jesus and scholarly consensus | response | 462 | ML | How Do You Know Which Religion Is From God? A Detailed Comprehensive A
+ML364:145-160 | P08.C03 | Return of Jesus as follower, not prophet | response | 133 | ML | Muslim Questioned On Sectarianism In Islam! Muhammed Ali
 ML245:194-220 | P08.C03 | Return of Jesus in Islam | response | 463 | ML | Pantheist Challenges The Muslim View Of God! Muhammed Ali
 ML043:1-33 | P08.C03 | Return of Jesus in the Quran and hadith | response | 218 | ML | Christian Questions A Muslim On The Return Of Jesus Then This Happens!
 ML257:37-94 | P08.C03 | Role of Gabriel in Mary's conception | response | 447 | ML | Hidden Christian Attempts To Trap Muslim But This Happens! Muhammed Al
@@ -509,7 +563,9 @@ ML319:89-113 | P08.C03 | Second coming mission of Jesus | response | 215 | ML | 
 ML278:734-750 | P08.C03 | Shared moral teachings of Jesus and Muhammad | response | 97 | ML | Christian Family Grills Muslim On His Beliefs! Muhammed Ali
 ML179:136-180 | P08.C03 | Sources for knowing Jesus in Islam | response | 317 | ML | Curious Canadian Grills Muslim With Difficult Questions! Muhammed Ali
 ML151:406-441 | P08.C03 | Status of Jesus in Islam and Christian overpraise | response | 151 | ML | Agnostic Grills Muslim With Difficult And Inquisitive Questions! Muham
+ML374:172-182 | P08.C03 | Virgin birth and comparison with Adam | response | 176 | ML | Australian Couple Defend Their Beliefs! Muhammed Ali
 ML108:106-126 | P08.C03 | Virgin birth and the example of Adam | response | 142 | ML | Clip-React| The Quran Proves Jesus Is God?! Sunnis Don't Pray Like The
+ML388:237-286 | P08.C03 | Virgin birth and the example of Adam | response | 282 | ML | Sincere Christians Investigate Islam Part 2! Muhammed Ali
 ML262:119-169 | P08.C03 | Virgin birth and uniqueness of Jesus | response | 337 | ML | Orthodox Christian Questions Muslim About Violence In The Quran! Muham
 ML129:398-443 | P08.C03 | Virgin birth compared with Adam | response | 370 | ML | Three Confident Christians Attempt To Take On A Muslim! Mohammed Ali
 ML257:13-36 | P08.C03 | Virgin conception of Jesus in Surah Maryam | overview | 270 | ML | Hidden Christian Attempts To Trap Muslim But This Happens! Muhammed Al
@@ -551,6 +607,9 @@ ML304:183-236 | P08.C04 | Historical evidence for the death of Jesus | response 
 ML144:399-449 | P08.C04 | Historical evidence for the resurrection | response | 420 | ML | Muslim Tactically Turns The Tables On A Christian! Muhammed Ali
 ML078:334-394 | P08.C04 | Historical proof of the resurrection | response | 581 | ML | Agnostic Puts Islam And Christianity To The Test! Muhammed Ali
 ML195:334-363 | P08.C04 | Historical reasons for the crucifixion | response | 69 | ML | Christian Questions Muslim About Quran Preservation! Muhammed Ali
+ML369:212-239 | P08.C04 | Islamic view of the crucifixion | response | 281 | ML | If You Answer My QUESTIONS I will Accept Islam! Muhammed Ali
+ML388:79-116 | P08.C04 | Islamic view of the crucifixion | argument | 358 | ML | Sincere Christians Investigate Islam Part 2! Muhammed Ali
+ML389:93-116 | P08.C04 | Islamic view of the crucifixion | argument | 197 | ML | Sincere Christians Investigate Islam Part 1! Muhammed Ali
 ML195:364-385 | P08.C04 | Islamic view: God saved Jesus | argument | 165 | ML | Christian Questions Muslim About Quran Preservation! Muhammed Ali
 ML157:462-494 | P08.C04 | Jesus' prediction of rising on the third day | response | 201 | ML | Christian Questions The Reliability Of The Quran Then It Backfires! Mu
 FR396:87-119 | P08.C04 | Jews claiming to have killed the Messiah | response | 105 | FR | [DEBUNKED] Muslims love Jesus so much - Apostate Prophet
@@ -608,16 +667,24 @@ ML104:43-131 | P08.C05 | Adam's knowledge of good and evil before the fall | arg
 ML195:196-239 | P08.C05 | Adam's repentance and forgiveness in Islam | argument | 312 | ML | Christian Questions Muslim About Quran Preservation! Muhammed Ali
 ML195:126-195 | P08.C05 | Adam's sin: punishment or warning | response | 275 | ML | Christian Questions Muslim About Quran Preservation! Muhammed Ali
 ML085:170-197 | P08.C05 | Animal sacrifice after Jesus in Acts | response | 227 | ML | Christian in Complete Denial After a Muslim Shows Him This Verse! Muha
+ML406:112-130 | P08.C05 | Animal sacrifice and repentance in the Torah | response | 162 | ML | The Injustice In Christian Theology! Muhammed Ali - Speakers Corner
+ML420:202-284 | P08.C05 | Assurance of salvation: deeds versus sacrifice | response | 71 | ML | Inquisitive Christian Learns About Islam P1! Muhammed Ali - Speakers C
 ML074:683-724 | P08.C05 | Atonement analogy and salvation by grace | response | 42 | ML | Evangelical Pastor Runs Away After Trying to Convert a Muslim! Muhamme
 ML212:158-194 | P08.C05 | Atonement and continuing in sin | response | 150 | ML | Sincere Christian Speaks The Truth About Christianity! Muhammed Ali
+ML394:199-213 | P08.C05 | Atonement and moral accountability | argument | 92 | ML | Priests Force Their Beliefs?! Muhammed Ali
 ML057:112-169 | P08.C05 | Atonement and the need for repentance | argument | 477 | ML | Christian Lady Grills Muslim With Questions Then A Surprise Happens! M
 ML143:1-47 | P08.C05 | Atonement and the relevance of good deeds | response | 245 | ML | Christian Challenges Muslim On The Preservation Of The Bible! Muhammed
+ML369:195-211 | P08.C05 | Atonement versus individual responsibility | response | 226 | ML | If You Answer My QUESTIONS I will Accept Islam! Muhammed Ali
 ML349:1-33 | P08.C05 | Atonement versus personal accountability | response | 254 | ML | Ex-Christian Lady Curious About Islam! Muhammed Ali
 ML152:241-320 | P08.C05 | Atonement, blood sacrifice and justice | response | 574 | ML | Muslim And Educated Christian Debate The Divinity Of Jesus Christ! Muh
+ML374:535-573 | P08.C05 | Atonement, repentance and blood sacrifice | response | 302 | ML | Australian Couple Defend Their Beliefs! Muhammed Ali
+ML416:340-385 | P08.C05 | Atonement: God sacrificing his son | argument | 190 | ML | Rude Christian Refuses To Leave! Muhammed Ali - Speakers Corner
 ML057:1-63 | P08.C05 | Atonement: punishing the innocent | response | 399 | ML | Christian Lady Grills Muslim With Questions Then A Surprise Happens! M
 ML217:436-459 | P08.C05 | Biblical warnings against sin | response | 103 | ML | Muslim Disproves Christianity Using A Single Question! Muhammed Ali
 ML067:444-473 | P08.C05 | Blood sacrifice and atonement claim | overview | 64 | ML | Angry Christian Rage Quits After Confronting Muslim On Jesus In The Qu
+ML379:195-235 | P08.C05 | Christian view of forgiveness on Judgment Day | response | 73 | ML | Christian Preacher Speaks The Truth! Muhammed Ali
 ML219:1201-1252 | P08.C05 | Did Jesus want to die; justice of atonement | argument | 290 | ML | Muslim Lantern | Arab | Sneak0 | Young Don | Warner | Discuss Religion
+ML419:521-579 | P08.C05 | Different tests for different eras: divine justice | response | 110 | ML | Inquisitive Christian Learns About Islam P2! Muhammed Ali - Speakers C
 FR246:735-920 | P08.C05 | Doubts about salvation doctrines in Christianity | argument | 122 | FR | David Wood's co-host REVERTS to Islam!! [CL Edwards Interview]
 ML057:256-291 | P08.C05 | Ezekiel 18 and inherited guilt | argument | 302 | ML | Christian Lady Grills Muslim With Questions Then A Surprise Happens! M
 ML297:415-510 | P08.C05 | Ezekiel 18: no forgiveness without blood claim | argument | 601 | ML | Sister Cries After Realising Islam Is The Truth! Muhammed Ali
@@ -633,8 +700,12 @@ ML074:402-424 | P08.C05 | Inherited sin and individual accountability | argument
 ML003:1-21 | P08.C05 | Is belief in Jesus' death enough for salvation | overview | 46 | ML | Passionate Christian Challenges Muslim On Jesus & Salvation! Muhammed 
 ML089:63-209 | P08.C05 | Jesus and the Law in Matthew 5:17-20 | response | 592 | ML | Romanian Christian Confronts Muslim On The Teachings Of Jesus! Muhamme
 ML085:198-329 | P08.C05 | Jesus and the law: Matthew 5:17-20 | argument | 844 | ML | Christian in Complete Denial After a Muslim Shows Him This Verse! Muha
+ML389:202-247 | P08.C05 | Jesus and the Law; faith with works | argument | 272 | ML | Sincere Christians Investigate Islam Part 1! Muhammed Ali
 ML057:292-339 | P08.C05 | Jesus on keeping the law | argument | 484 | ML | Christian Lady Grills Muslim With Questions Then A Surprise Happens! M
+ML419:430-485 | P08.C05 | Jesus perfecting the law and divine knowledge | response | 119 | ML | Inquisitive Christian Learns About Islam P2! Muhammed Ali - Speakers C
 ML195:259-333 | P08.C05 | Justice of an innocent dying for others' sins | argument | 381 | ML | Christian Questions Muslim About Quran Preservation! Muhammed Ali
+ML406:21-111 | P08.C05 | Justice of punishing an innocent for others' sins | argument | 714 | ML | The Injustice In Christian Theology! Muhammed Ali - Speakers Corner
+ML389:117-162 | P08.C05 | Justice of punishing the innocent for others' sins | response | 438 | ML | Sincere Christians Investigate Islam Part 1! Muhammed Ali
 ML297:511-548 | P08.C05 | Leviticus 5: sin offerings without blood | argument | 261 | ML | Sister Cries After Realising Islam Is The Truth! Muhammed Ali
 ML195:240-258 | P08.C05 | No one bears another's sin | argument | 75 | ML | Christian Questions Muslim About Quran Preservation! Muhammed Ali
 ML314:814-840 | P08.C05 | Original sin and Adam's repentance | response | 262 | ML | Does Jesus Possess The Attributes of God?! Muhammed Ali
@@ -642,16 +713,23 @@ ML286:292-322 | P08.C05 | Original sin and atonement | response | 339 | ML | Ort
 ML180:381-450 | P08.C05 | Original sin and atonement compared with Islam | response | 453 | ML | Sincere Lady About To Accept Islam But This Happens! Muhammed Ali
 ML017:1-108 | P08.C05 | Original sin and inherited guilt | response | 811 | ML | Confident Christians Struggle To Justify Biblical Injustice! Muhammed 
 ML195:80-125 | P08.C05 | Original sin and the innocence of babies | argument | 304 | ML | Christian Questions Muslim About Quran Preservation! Muhammed Ali
+ML406:1-20 | P08.C05 | Original sin versus Adam's repentance | argument | 196 | ML | The Injustice In Christian Theology! Muhammed Ali - Speakers Corner
 ML200:62-99 | P08.C05 | Original sin versus individual accountability | response | 206 | ML | Agnostic Asks Muslim A Very Difficult Question! Muhammed Ali
+ML420:30-119 | P08.C05 | Original sin versus life as a test | response | 521 | ML | Inquisitive Christian Learns About Islam P1! Muhammed Ali - Speakers C
 ML104:1-42 | P08.C05 | Original sin: Islamic account of Adam and Eve | response | 296 | ML | Christian Debates Muslim On The Original Sin! Muhammed Ali
+ML394:42-61 | P08.C05 | Punishing an innocent for others' sins | argument | 121 | ML | Priests Force Their Beliefs?! Muhammed Ali
 ML217:30-106 | P08.C05 | Repentance versus atonement dilemma | argument | 509 | ML | Muslim Disproves Christianity Using A Single Question! Muhammed Ali
 ML083:918-929 | P08.C05 | Resurrection and original sin atonement | response | 85 | ML | Christian Attempts To Prove Christianity After Questioning A Muslim! M
+ML420:491-514 | P08.C05 | Role of deeds in Christianity | argument | 162 | ML | Inquisitive Christian Learns About Islam P1! Muhammed Ali - Speakers C
 ML016:543-566 | P08.C05 | Sacrifice and forgiveness of sins | response | 267 | ML | Inquisitive Christian Challenges The Qur'anic Stance On The Gospel! Mu
 ML279:62-128 | P08.C05 | Sacrifice and forgiveness without blood | response | 694 | ML | Muslim Highlights The Inconsistency Of The Bible! Muhammed Ali
 ML061:280-312 | P08.C05 | Sacrifice and repentance in the Old Testament | response | 272 | ML | Christian Niqabi Challenges the Continuity of Islam with Previous Scri
 ML241:112-144 | P08.C05 | Salvation in Christianity and the Trinity | response | 147 | ML | Curious Lady Grills Muslim With Difficult Questions! Muhammed Ali
+ML419:263-345 | P08.C05 | Salvation in Old and New Testament: divine justice | argument | 289 | ML | Inquisitive Christian Learns About Islam P2! Muhammed Ali - Speakers C
+ML419:363-429 | P08.C05 | Salvation in Old and New Testament: divine justice | argument | 440 | ML | Inquisitive Christian Learns About Islam P2! Muhammed Ali - Speakers C
 ML074:216-401 | P08.C05 | Salvation of people before Jesus | response | 775 | ML | Evangelical Pastor Runs Away After Trying to Convert a Muslim! Muhamme
 FR400:21-39 | P08.C05 | Same argument applied to Jews rejecting Jesus | response | 102 | FR | [HYPOCRISY] Allah is Merciless - Apostate Prophet
+ML388:117-136 | P08.C05 | Same law for all versus belief in Jesus | argument | 227 | ML | Sincere Christians Investigate Islam Part 2! Muhammed Ali
 ML217:107-147 | P08.C05 | Sin after accepting Christ's sacrifice | response | 274 | ML | Muslim Disproves Christianity Using A Single Question! Muhammed Ali
 ML243:88-149 | P08.C05 | Sinner mentality and good deeds in Christianity | response | 339 | ML | American Man Changes His Mind After Reading The Quran! Muhammed Ali
 ML253:179-192 | P08.C05 | Son of man giving his life as ransom | response | 114 | ML | Clip-React| Bible Hasn't Changed? Quranic Evolution? Can't Trust The P
@@ -688,6 +766,7 @@ ML051:124-140 | P08.C06 | Filioque and early creedal disputes | argument | 176 |
 ML043:71-107 | P08.C06 | Following Jesus or Paul on the law | argument | 342 | ML | Christian Questions A Muslim On The Return Of Jesus Then This Happens!
 ML286:1-35 | P08.C06 | Galatians 1:8 and Paul's vision | response | 141 | ML | Orthodox Christian Questions Muslim About Islamic Conquest! Muhammed A
 ML150:207-278 | P08.C06 | Historical development of the Trinity doctrine | response | 604 | ML | Agnostic Refuses To Accept Rational Evidences For Islam! Muhammed Ali
+ML374:512-534 | P08.C06 | Jesus taught the law versus Paul | argument | 327 | ML | Australian Couple Defend Their Beliefs! Muhammed Ali
 ML280:377-497 | P08.C06 | Jesus, the Mosaic law and Paul | response | 931 | ML | Christian Claims The Quran Contains Satanic Verses?! Muhammed Ali
 ML198:385-434 | P08.C06 | Paul and the apostles on Jesus' divinity | response | 196 | ML | Intellectual Catholic Argues For The Divinity Of Jesus! Muhammed Ali
 ML173:145-276 | P08.C06 | Paul and the law in Acts 21 | argument | 735 | ML | Unitarian Christian Defends The Reliability Of Paul! Muhammed Ali
@@ -696,6 +775,8 @@ ML286:74-115 | P08.C06 | Paul contradicting the teachings of Jesus | argument | 
 FR318:17-102 | P08.C06 | Paul in Quran 36:14 and the commentaries | response | 340 | FR | This video will turn Christian Prince into a joke.
 FR319:1-50 | P08.C06 | Paul in the Quran and the commentaries | response | 180 | FR | Christian Prince Attempts to Respond to Lie #1!!
 ML090:121-148 | P08.C06 | Paul on lying and becoming all things | response | 285 | ML | Clip-React| Disproving Islam In 2 Minutes?! The Quran Teaches People T
+ML389:163-201 | P08.C06 | Paul's authority and abolishing the Law | response | 240 | ML | Sincere Christians Investigate Islam Part 1! Muhammed Ali
+ML374:574-597 | P08.C06 | Paul's authority and New Testament inspiration | response | 254 | ML | Australian Couple Defend Their Beliefs! Muhammed Ali
 ML160:362-469 | P08.C06 | Paul's authority on the crucifixion | response | 253 | ML | 77 Year Old Christian Veteran Attempts To Convert A Muslim! Muhammed A
 ML312:154-198 | P08.C06 | Paul's claimed miracles and heavenly vision | response | 264 | ML | Why Do Muslims Reject The Claim Of Paul? Muhammed Ali
 ML173:423-451 | P08.C06 | Paul's Damascus vision and authority | argument | 136 | ML | Unitarian Christian Defends The Reliability Of Paul! Muhammed Ali

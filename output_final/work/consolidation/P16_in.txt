@@ -28,13 +28,18 @@ FR089:480-507 | P16.C01 | Closing and invitation to continue | other | 128 | FR 
 ML224:281-290 | P16.C01 | Closing and invitation to Islam | other | 62 | ML | Agnostic Man Grills Muslim With Difficult Questions! Muhammed Ali
 ML274:314-333 | P16.C01 | Closing and invitation to Islam | other | 162 | ML | American Lady Questions Muslim About Women In Islam! Muhammed Ali
 ML362:782-807 | P16.C01 | Closing and offer of a Quran | other | 212 | ML | Christian Attempts To Convert Muslim! Muhammed Ali
+ML406:351-367 | P16.C01 | Closing and sharing channel details | other | 117 | ML | The Injustice In Christian Theology! Muhammed Ali - Speakers Corner
 ML212:474-515 | P16.C01 | Closing and the Islamic greeting | other | 113 | ML | Sincere Christian Speaks The Truth About Christianity! Muhammed Ali
+ML416:739-786 | P16.C01 | Closing exchange and goodbyes | other | 138 | ML | Rude Christian Refuses To Leave! Muhammed Ali - Speakers Corner
 ML003:1398-1421 | P16.C01 | Closing exchange with the caller's relative | other | 151 | ML | Passionate Christian Challenges Muslim On Jesus & Salvation! Muhammed 
+ML365:653-665 | P16.C01 | Closing farewell and contact | other | 71 | ML | Atheist Challenges Muslim On Evolution! Muhammed Ali
 ML239:1310-1348 | P16.C01 | Closing first lecture and opening second lecture | other | 207 | ML | Aqeedah (Creed) And Its Significance In Islam | AIM Conference 2024 NJ
 ML104:419-431 | P16.C01 | Closing greetings with caller's friend | other | 26 | ML | Christian Debates Muslim On The Original Sin! Muhammed Ali
+ML421:498-524 | P16.C01 | Closing invitation and book on prophecies | other | 181 | ML | Ex-Muslims Question Islam P2! Muhammed Ali - Speakers Corner
 ML107:992-1018 | P16.C01 | Closing invitation and goodbye | other | 122 | ML | Christian Researcher Demands Evidence Against The Crucifixion Of Jesus
 ML202:499-513 | P16.C01 | Closing invitation and goodbye | other | 65 | ML | Christian Attempts To Explain The Concept Of God! Muhammed Ali
 ML288:459-473 | P16.C01 | Closing invitation and goodbye | other | 166 | ML | Hebrew Israelite Questions Muslim On Pagan Teachings! Muhammed Ali
+ML395:155-166 | P16.C01 | Closing invitation and goodbye | other | 56 | ML | Clever Atheist Challenges Muslim Part 2! Muhammed Ali
 ML203:303-323 | P16.C01 | Closing invitation to read the Quran | other | 138 | ML | Agnostic Questions Muslim On Israel & Palestine "Conflict"! Muhammed A
 ML043:509-519 | P16.C01 | Closing of the call | conclusion | 32 | ML | Christian Questions A Muslim On The Return Of Jesus Then This Happens!
 ML001:448-463 | P16.C01 | Closing of the conversation | conclusion | 42 | ML | Confident Agnostic Confronts A Muslim About The Treatment Of Jews In I
@@ -81,6 +86,7 @@ ML066:1662-1687 | P16.C01 | Closing remarks and audience comments | other | 187 
 FR174:1970-2037 | P16.C01 | Closing remarks and audience messages | other | 157 | FR | Full Debate: Farid (Sunni) vs Bayat (Shia)
 FR369:231-260 | P16.C01 | Closing remarks and banter | other | 120 | FR | 10 Reasons to Leave Islam - ft. Ali Dawah
 ML082:332-361 | P16.C01 | Closing remarks and channel information | other | 176 | ML | Non-Hijabi Woman Confronts Muslim On The Hijab Not Being In The Quran!
+ML413:423-454 | P16.C01 | Closing remarks and channel mention | other | 112 | ML | Christian Preacher Twists His Scripture P2! Muhammed Ali - Speakers Co
 ML123:615-647 | P16.C01 | Closing remarks and contact details | other | 173 | ML | Non-Muslim Lady Questions A Muslim On Polygamy Then This Happens! Muha
 ML141:643-683 | P16.C01 | Closing remarks and contact details | other | 218 | ML | Orthodox Christian Surprises Muslim With Intelligent Questions! Muhamm
 ML293:307-338 | P16.C01 | Closing remarks and contact details | other | 234 | ML | Christian Asks God For A Sign Then This Happens! Muhammed Ali
@@ -99,6 +105,7 @@ ML207:693-707 | P16.C01 | Closing remarks and farewell | other | 72 | ML | Anony
 ML302:537-554 | P16.C01 | Closing remarks and farewell | other | 77 | ML | Christian Visitor Questions Muslim On Hadith! Muhammed Ali
 ML305:238-273 | P16.C01 | Closing remarks and farewell | other | 213 | ML | Atheist Philosopher Attempts To Challenge A Muslim! Muhammed Ali
 ML319:531-559 | P16.C01 | Closing remarks and farewell | other | 116 | ML | Sincere Romanian Asks Questions About Islam! Muhammed Ali
+ML401:698-727 | P16.C01 | Closing remarks and farewell | other | 126 | ML | Native American Learns About Islam! Muhammed Ali
 ML216:356-374 | P16.C01 | Closing remarks and free books | other | 105 | ML | Non-Muslim Lady Questions Muslim On Violence In Islam! Muhammed Ali
 ML058:999-1009 | P16.C01 | Closing remarks and goodbye | other | 44 | ML | Agnostic Claims That Pantheism Is More Rational Than Monotheism! Muham
 ML083:930-952 | P16.C01 | Closing remarks and goodbye | other | 175 | ML | Christian Attempts To Prove Christianity After Questioning A Muslim! M
@@ -112,6 +119,8 @@ ML154:1436-1470 | P16.C01 | Closing remarks and goodbyes | other | 111 | ML | Co
 ML183:1115-1130 | P16.C01 | Closing remarks and goodbyes | other | 72 | ML | Tyson Hockley Grills The Muslim Lantern With Difficult Questions! Muha
 ML229:607-618 | P16.C01 | Closing remarks and goodbyes | other | 37 | ML | Lebanese Ex-Muslim Questions The Teachings Of Islam! Muhammed Ali
 ML230:214-226 | P16.C01 | Closing remarks and goodbyes | other | 198 | ML | Atheist Presents Muslim With Difficult Questions! Muhammed Ali
+ML419:580-608 | P16.C01 | Closing remarks and goodbyes | other | 84 | ML | Inquisitive Christian Learns About Islam P2! Muhammed Ali - Speakers C
+ML369:473-499 | P16.C01 | Closing remarks and greeting of peace | other | 188 | ML | If You Answer My QUESTIONS I will Accept Islam! Muhammed Ali
 FR370:349-376 | P16.C01 | Closing remarks and guest's forthcoming article | other | 53 | FR | [DEBUNKED] Mohammed's Rape Culture: Sex Slavery in Islam - ft. Abu Ami
 ML058:962-976 | P16.C01 | Closing remarks and invitation | other | 90 | ML | Agnostic Claims That Pantheism Is More Rational Than Monotheism! Muham
 ML007:1534-1569 | P16.C01 | Closing remarks and invitation to Islam | other | 261 | ML | Confident Agnostic Grills A Muslim On The Quran Copying The Bible! Muh
@@ -127,6 +136,7 @@ FR331:204-217 | P16.C01 | Closing remarks and outtakes | other | 30 | FR | Chris
 ML125:666-734 | P16.C01 | Closing remarks and Quran copies | other | 209 | ML | Christian Ladies Discover The True Identity Of Jesus! Muhammed Ali
 ML295:708-750 | P16.C01 | Closing remarks and Quran gift | other | 191 | ML | Future Priest Attempts To Convert A Muslim! Muhammed Ali
 ML089:1025-1039 | P16.C01 | Closing remarks and Quran translation advice | other | 84 | ML | Romanian Christian Confronts Muslim On The Teachings Of Jesus! Muhamme
+ML412:469-508 | P16.C01 | Closing remarks and resource recommendations | other | 239 | ML | 2 Jews Question The Truth of Islam! Muhammed Ali - Speakers Corner
 ML337:984-1024 | P16.C01 | Closing remarks and stream logistics | other | 220 | ML | Christian Lady Skeptical About The Prophet of Islam! Muhammed Ali
 ML157:1277-1317 | P16.C01 | Closing remarks and stream schedule | other | 179 | ML | Christian Questions The Reliability Of The Quran Then It Backfires! Mu
 ML270:471-491 | P16.C01 | Closing remarks and stream schedule | other | 94 | ML | Christian Questions The Historical Existence Of Prophet Mohammed! Muha
@@ -151,7 +161,10 @@ ML116:464-498 | P16.C01 | Contact details and closing remarks | other | 198 | ML
 ML262:926-946 | P16.C01 | Contact details and goodbye | other | 104 | ML | Orthodox Christian Questions Muslim About Violence In The Quran! Muham
 ML289:661-671 | P16.C01 | Contact details and goodbye | other | 141 | ML | Popular Youtuber Asks Muslim Difficult Questions! Muhammed Ali
 ML356:402-420 | P16.C01 | Contact details and goodbye | other | 147 | ML | American Lady Questions Muslim On Hadith Reliability! Muhammed Ali
+ML403:747-783 | P16.C01 | Earlier meeting and farewell | other | 133 | ML | Emotional Shahada! Brother Accepts Islam! Muhammed Ali
 FR094:1-15 | P16.C01 | Eid greeting and message to Ammar Nakshawani | other | 109 | FR | Eid Message & Gift to Ammar Nakshawani
+ML380:1590-1621 | P16.C01 | Ending the discussion | other | 223 | ML | Christian Preachers Ambush Muslim! Muhammed Ali
+ML403:652-703 | P16.C01 | Exchanging contacts with the new Muslim | other | 186 | ML | Emotional Shahada! Brother Accepts Islam! Muhammed Ali
 ML263:1326-1345 | P16.C01 | Farewell and stream host's remarks | other | 20 | ML | The Muslim Lantern Gets Sneak∅ To Rethink His Views! Muhammed Ali
 ML012:243-255 | P16.C01 | Farewell to Baha'i guests | other | 38 | ML | Muslim Challenges Confident Bahai's On The Prophethood Of Bahaullah! M
 ML074:1-33 | P16.C01 | Filming consent and opening exchange | other | 78 | ML | Evangelical Pastor Runs Away After Trying to Convert a Muslim! Muhamme
@@ -171,6 +184,8 @@ ML183:1-39 | P16.C01 | Greetings and guest background | other | 238 | ML | Tyson
 ML265:1-27 | P16.C01 | Greetings and introduction of caller | other | 51 | ML | Excited Christian Claims Muslims Need The Bible! Muhammed Ali
 ML264:1-20 | P16.C01 | Greetings and introduction of guest | other | 97 | ML | Hindu Monk Confronts Muslim On His Claims! Muhammed Ali
 ML252:1-21 | P16.C01 | Greetings and introductions | other | 50 | ML | Christian Gets Emotional When Questioned About His Beliefs! Muhammed A
+ML389:1-27 | P16.C01 | Greetings and meeting two Christian brothers | other | 88 | ML | Sincere Christians Investigate Islam Part 1! Muhammed Ali
+ML390:1-19 | P16.C01 | Greetings and the guest's background | other | 84 | ML | Friendly Lady Amazed By Islamic Teachings! Muhammed Ali
 ML240:1-13 | P16.C01 | Greetings on Sneako's street stream | other | 38 | ML | The One Minute Podcast | Sneak∅ Interviews The Muslim Lantern | Muhamm
 FR227:83-100 | P16.C01 | Guest introduction banter | other | 16 | FR | The Heresy of Abu Layth
 ML150:1-27 | P16.C01 | Guest's religious background | other | 38 | ML | Agnostic Refuses To Accept Rational Evidences For Islam! Muhammed Ali
@@ -178,6 +193,7 @@ FR027:20-42 | P16.C01 | Introducing the opponent and debate conduct | other | 31
 FR231:130-158 | P16.C01 | Introducing the Shabir Ally compilation | other | 180 | FR | Shocking Views of Shabir Ally
 ML124:1-27 | P16.C01 | Introduction and ground rules | other | 74 | ML | Is God Necessary? Intellectual Atheist Challenges The Muslim Understan
 FR267:1-47 | P16.C01 | Introduction and guest welcome | other | 254 | FR | Who wrote the Gospel of Luke?
+ML369:1-35 | P16.C01 | Introduction of a guest considering Islam | other | 115 | ML | If You Answer My QUESTIONS I will Accept Islam! Muhammed Ali
 FR252:1-18 | P16.C01 | Introduction of Abu Zakariya's video | other | 105 | FR | New Historical Miracle about Ibrahim (peace be upon him) in Quran
 ML262:1-16 | P16.C01 | Introduction of caller | other | 69 | ML | Orthodox Christian Questions Muslim About Violence In The Quran! Muham
 ML244:1-23 | P16.C01 | Introduction of Catholic caller | other | 62 | ML | Catholic Grandfather Examines The Teachings Of Islam! Muhammed Ali
@@ -195,11 +211,13 @@ ML097:1-25 | P16.C01 | Introductions: guest's religious background | other | 16 
 ML021:1202-1270 | P16.C01 | Invitation to research and farewell | other | 382 | ML | Hate Preacher Attempts To Disrupt Civil Muslim-Christian Dialogue! Muh
 FR150:1-29 | P16.C01 | Live stream from a hospital epilepsy event | other | 116 | FR | Epilepsy Awareness Day
 ML381:1-32 | P16.C01 | Meeting Speed: introductions and trolling concern | other | 30 | ML | @IShowSpeed Confronts UK Muslims!
+ML419:234-262 | P16.C01 | Mutual appreciation and continuing the dialogue | other | 60 | ML | Inquisitive Christian Learns About Islam P2! Muhammed Ali - Speakers C
 ML207:1-14 | P16.C01 | Opening and caller introduction | other | 46 | ML | Anonymous Atheist Attempts To Outsmart A Muslim! Muhammed Ali
 FR272:1-20 | P16.C01 | Opening and guest introduction | other | 218 | FR | Who wrote the Gospel of Mark?
 ML138:1-26 | P16.C01 | Opening and guest's religious background | other | 88 | ML | Agnostic Confronts Muslim On The Marriage Of The Prophet! Muhammed Ali
 ML284:1-27 | P16.C01 | Opening and thanks to hosts | other | 392 | ML | The Situation Of The Ummah, The Disease & The Cure | Al Muwahiddeen Mo
 ML010:1-25 | P16.C01 | Opening exchange with Catholic caller | other | 69 | ML | Confident Catholic In Total Shock After His Views Are Challenged By A 
+ML379:1-21 | P16.C01 | Opening greetings and camera remarks | other | 66 | ML | Christian Preacher Speaks The Truth! Muhammed Ali
 ML219:1-141 | P16.C01 | Opening greetings and catching up | other | 71 | ML | Muslim Lantern | Arab | Sneak0 | Young Don | Warner | Discuss Religion
 FR294:1-54 | P16.C01 | Opening greetings and coronavirus remarks | other | 127 | FR | How Subboor schooled CosmicSkeptic! (Human Rights Debate)
 FR270:1-23 | P16.C01 | Opening greetings and guest introduction | other | 66 | FR | Who Wrote the Gospel of Matthew?
@@ -216,9 +234,11 @@ ML051:461-496 | P16.C01 | Recommendation and closing of the call | other | 246 |
 ML025:583-598 | P16.C01 | Thanks and invitation for a last question | other | 107 | ML | Inquisitive Agnostic Grills Muslim On Cousin Marriage And Racism In Is
 ML268:913-929 | P16.C01 | Thanks and livestream remarks | other | 99 | ML | Two Intelligent Jews Cross-Examine Islam! Muhammed Ali
 ML008:371-397 | P16.C01 | Translation question and closing remarks | other | 105 | ML | Confident Atheist Challenges Muslim Then Gets Unexpected Answers! Muha
+ML374:1-11 | P16.C01 | Video opening preview excerpts | other | 136 | ML | Australian Couple Defend Their Beliefs! Muhammed Ali
 ML376:1-13 | P16.C01 | Video preview excerpt | other | 111 | ML | Why Can't You Mock The Prophet of Islam? Muhammed Ali
 ML057:1145-1189 | P16.C01 | Video recommendations and farewell | other | 287 | ML | Christian Lady Grills Muslim With Questions Then A Surprise Happens! M
 FR089:1-28 | P16.C01 | Welcoming a Shia guest | other | 100 | FR | Sunni Shia Discussion on Imam Mahdi Existence
+ML417:503-550 | P16.C01 | Writing down questions and goodbyes | other | 182 | ML | A Christian Testimony About Islam Part 2! Muhammed Ali - Speakers Corn
 ML014:1-11 | P16.C02 | Announcement of new channel projects | other | 140 | ML | It's Finally Here!
 FR012:179-193 | P16.C02 | Book recommendations and closing | other | 208 | FR | The Psychology of Hadith Rejectors and the Solution
 FR239:1-52 | P16.C02 | Channel announcements and introducing a guest video | other | 306 | FR | The Bible Refutes the Crucifixion + Channel Updates!
@@ -293,6 +313,7 @@ ML143:305-330 | P16.C03 | Interruptions and conversation etiquette | other | 77 
 ML143:352-367 | P16.C03 | Interruptions and conversation etiquette | other | 119 | ML | Christian Challenges Muslim On The Preservation Of The Bible! Muhammed
 ML143:415-441 | P16.C03 | Interruptions and conversation etiquette | other | 112 | ML | Christian Challenges Muslim On The Preservation Of The Bible! Muhammed
 ML246:188-204 | P16.C03 | Interruptions and turn-taking | other | 91 | ML | Atheist Confronts Muslim On The Clarity Of The Quran! Muhammed Ali
+ML364:49-59 | P16.C03 | Interruptions by passersby | other | 37 | ML | Muslim Questioned On Sectarianism In Islam! Muhammed Ali
 ML171:605-626 | P16.C03 | Interruptions during the conversation | other | 99 | ML | Mormon Debates Muslim On The Validity Of His Faith! Muhammed Ali
 ML285:1-26 | P16.C03 | Introduction to clip reactions and video style | other | 287 | ML | Clip-React| Quran Scientific Claim Debunked? Bida'ah Is Good? | Muhamm
 ML340:211-222 | P16.C03 | Inviting audience questions | other | 168 | ML | Non-Muslim Audience Asks Muslim Difficult Questions! Muhammed Ali
@@ -327,13 +348,17 @@ ML154:1128-1139 | P16.C03 | Wrapping up and next caller waiting | other | 56 | M
 ML219:480-538 | P16.C03 | Young Don joins; introductions | other | 24 | ML | Muslim Lantern | Arab | Sneak0 | Young Don | Warner | Discuss Religion
 ML300:301-312 | P16.C04 | Arab Christians using Islamic phrases | other | 142 | ML | Arab Christian Speaks The Truth About The Bible! Muhammed Ali
 FR149:40-52 | P16.C04 | Banter about camera quality | other | 20 | FR | Two Christians vs Two Muslims
+ML416:311-339 | P16.C04 | Banter about expressions of love | other | 60 | ML | Rude Christian Refuses To Leave! Muhammed Ali - Speakers Corner
 FR123:220-231 | P16.C04 | Banter about the host in the chat | other | 26 | FR | How BAD are David Wood and Apostate Prophet?
 ML319:439-466 | P16.C04 | Beard and age banter | other | 63 | ML | Sincere Romanian Asks Questions About Islam! Muhammed Ali
 ML265:28-41 | P16.C04 | Caller's claim to speak Aramaic | other | 32 | ML | Excited Christian Claims Muslims Need The Bible! Muhammed Ali
 FR259:1-4 | P16.C04 | Fragmentary captions without recoverable content | other | 4 | FR | The Bible Destroys Christian Prince
+ML401:534-562 | P16.C04 | Guest's travels and respect for cultures | other | 40 | ML | Native American Learns About Islam! Muhammed Ali
 FR047:414-450 | P16.C04 | Mecca, California banter | other | 183 | FR | I had to delete my last video. [Quran-only]
 ML377:257-277 | P16.C04 | Pronouncing Quran and Arabic letters | other | 99 | ML | Atheist Struggles With Morality! Muhammed Ali
+ML401:132-167 | P16.C04 | Recording conversations as a learning tool | other | 113 | ML | Native American Learns About Islam! Muhammed Ali
 ML001:308-318 | P16.C04 | Remarks on the host's speaking speed | overview | 16 | ML | Confident Agnostic Confronts A Muslim About The Treatment Of Jews In I
+ML407:165-183 | P16.C04 | Small talk about hometown and crowds | other | 50 | ML | Should We Doubt Everything?! Muhammed Ali - Speakers Corner
 ML021:437-454 | P16.C04 | Small talk during a street conversation | other | 59 | ML | Hate Preacher Attempts To Disrupt Civil Muslim-Christian Dialogue! Muh
 FR255:1-18 | P16.C04 | Unintelligible captions without recoverable content | other | 25 | FR | How I Destroyed Abu Layth's Career
 FR398:1-40 | P16.C04 | Unintelligible captions without recoverable content | other | 349 | FR | [DEBUNKED] The Origin of the Hijab - Apostate Prophet

@@ -50,6 +50,7 @@ ML294:484-510 | P06.C01 | Same transmitters for Quran and hadith | argument | 40
 ML294:599-628 | P06.C01 | Selective acceptance of hadith by rejecters | argument | 468 | ML | A Complete Annihilation Of Hadith Rejector's Methodology! Muhammed Ali
 ML127:495-534 | P06.C01 | Status of hadith compared to the Quran | overview | 259 | ML | Researcher Confronts Muslim On Extremist Teachings! Muhammed Ali
 FR012:122-146 | P06.C01 | Subjectivity of calling Hadiths problematic | argument | 360 | FR | The Psychology of Hadith Rejectors and the Solution
+ML415:42-68 | P06.C01 | Sunnah as the authority for interpreting the Quran | argument | 304 | ML | English Student Becomes Muslim! Muhammed Ali - Speakers Corner
 FR012:1-13 | P06.C01 | Types of Hadith rejecters and patience with them | overview | 200 | FR | The Psychology of Hadith Rejectors and the Solution
 FR027:714-721 | P06.C01 | Umar and the writing of hadith | response | 108 | FR | Debate: Farid vs MuhammadFromGod - Reliability of Hadith System
 ML294:511-555 | P06.C01 | Which interpretation hadith rejecters should follow | argument | 657 | ML | A Complete Annihilation Of Hadith Rejector's Methodology! Muhammed Ali
@@ -116,6 +117,7 @@ FR046:49-72 | P06.C02 | Harald Motzki and academic attribution of hadith | respo
 FR244:1-46 | P06.C02 | Historical reports versus hadith reports | overview | 255 | FR | Can we be Lenient with Historical Reports?
 FR046:1-31 | P06.C02 | Impact of academic hadith skepticism on Muslims | response | 181 | FR | Yasir Qadhi Doubts Hadith System?
 FR233:100-169 | P06.C02 | Independent versus dependent sources | argument | 410 | FR | Debunking Shia Claim: Abu Bakr and Omar killed Fatima!! [Mahdi Modarre
+ML365:371-400 | P06.C02 | Isnad compared with Western historical method | argument | 238 | ML | Atheist Challenges Muslim On Evolution! Muhammed Ali
 FR046:73-101 | P06.C02 | Isnad-cum-matn analysis and Qadhi's partial retraction | response | 328 | FR | Yasir Qadhi Doubts Hadith System?
 FR101:1-42 | P06.C02 | Joshua Little's twenty-one arguments against hadith | overview | 296 | FR | Refuting Oxford Scholar Dr. Joshua Little on Hadith
 FR244:47-105 | P06.C02 | Leniency with historical reports: narrator weakness | argument | 334 | FR | Can we be Lenient with Historical Reports?
@@ -186,6 +188,7 @@ ML354:474-640 | P06.C03 | Hadith of Ibrahim's three lies | response | 900 | ML |
 ML285:426-475 | P06.C03 | Hadith of initiating a good sunnah | response | 463 | ML | Clip-React| Quran Scientific Claim Debunked? Bida'ah Is Good? | Muhamm
 FR116:1-35 | P06.C03 | Hadith of Jews and Christians as ransom | overview | 116 | FR | Response to David Wood: Who Pays for Your Sins in Islam?
 FR333:27-160 | P06.C03 | Hadith of seventy-two wives inherited from Hell | response | 649 | FR | Christian Prince Responded to Me... BIG MISTAKE!!
+ML380:1117-1230 | P06.C03 | Hadith of sins replaced with good deeds | response | 296 | ML | Christian Preachers Ambush Muslim! Muhammed Ali
 FR378:39-70 | P06.C03 | Hadith of the fly in the drink | response | 293 | FR | [DEBUNKED] Mohammed: The First Medical Doctor
 FR374:149-158 | P06.C03 | Hadith of the Prophet returning to Zaynab | response | 17 | FR | [DEBUNKED] Islam vs Women - Apostate Prophet
 FR394:77-112 | P06.C03 | Hadith of the Prophet seeing a woman | response | 184 | FR | [DEBUNKED] The Prophet’s Desire - Muhammad Marries Adopted Son’s Wife 

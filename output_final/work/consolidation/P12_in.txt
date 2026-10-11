@@ -1,10 +1,13 @@
 ML233:1235-1362 | P12.C01 | Amputation for theft: conditions and rarity | response | 706 | ML | Eddie @TheDeenShowTV Interviews The Muslim Lantern | Masjid Dar Al-Qur
 FR231:159-228 | P12.C01 | Applicability of hudud punishments today | response | 73 | FR | Shocking Views of Shabir Ally
+ML421:301-394 | P12.C01 | Capital punishment and stoning in Sharia | response | 632 | ML | Ex-Muslims Question Islam P2! Muhammed Ali - Speakers Corner
 ML236:1082-1113 | P12.C01 | Comprehensiveness of Islamic guidance | argument | 319 | ML | Islam Unveiled: Compelling Evidence For The Truthfulness Of Islam | Ch
 ML221:333-370 | P12.C01 | Deriving rulings for new matters | response | 215 | ML | University Students Surprise Muslim With Difficult Questions! Muhammed
 ML049:339-422 | P12.C01 | Deterrence and confession in the hudud for adultery | argument | 719 | ML | Agnostic Lady Questions Muslim On Outdated Laws In Islam! Muhammed Ali
 ML233:1060-1144 | P12.C01 | Deterrent wisdom of the adultery punishment | argument | 617 | ML | Eddie @TheDeenShowTV Interviews The Muslim Lantern | Masjid Dar Al-Qur
+ML401:61-90 | P12.C01 | Divine law versus man-made law | response | 154 | ML | Native American Learns About Islam! Muhammed Ali
 ML049:1-15 | P12.C01 | Eternal Quran and laws for today | overview | 11 | ML | Agnostic Lady Questions Muslim On Outdated Laws In Islam! Muhammed Ali
+ML421:395-468 | P12.C01 | Evidentiary criteria for stoning adulterers | response | 542 | ML | Ex-Muslims Question Islam P2! Muhammed Ali - Speakers Corner
 ML235:393-501 | P12.C01 | Evidentiary standards for hudud punishments | response | 653 | ML | Agnostic Couple Challenge The Islamic Paradigm! Muhammed Ali
 ML171:1-31 | P12.C01 | Five categories of Islamic rulings | overview | 199 | ML | Mormon Debates Muslim On The Validity Of His Faith! Muhammed Ali
 ML064:1566-1618 | P12.C01 | Flexibility of Islamic rulings and fixed beliefs | response | 657 | ML | Clip-React| Responding To Professor Jiang's Lecture On The Islamic Gol
@@ -16,6 +19,7 @@ FR231:273-363 | P12.C01 | Hudud as deterrent: wisdom of Sharia punishments | arg
 ML133:247-282 | P12.C01 | Is the Quran outdated: timeless rulings | response | 367 | ML | Non-Muslim Students Get Introduced To The Miracles Of The Quran! Muham
 ML049:536-581 | P12.C01 | Islam as submission; are its laws outdated | conclusion | 341 | ML | Agnostic Lady Questions Muslim On Outdated Laws In Islam! Muhammed Ali
 ML263:732-816 | P12.C01 | Meaning of Sharia and God's law | response | 735 | ML | The Muslim Lantern Gets Sneak∅ To Rethink His Views! Muhammed Ali
+ML411:38-77 | P12.C01 | Meaning of Sharia and punitive laws | response | 273 | ML | Sharia Law is Corruption?! Muhammed Ali - Speaker Corner
 ML233:1170-1234 | P12.C01 | Meaning of the word Sharia | response | 400 | ML | Eddie @TheDeenShowTV Interviews The Muslim Lantern | Masjid Dar Al-Qur
 ML130:316-339 | P12.C01 | Muslim countries and applying God's law | response | 176 | ML | Tran$gender Challenges Muslim On His Comments About LGTBQ Community! M
 ML250:291-351 | P12.C01 | Muslim population growth and Sharia takeover claims | response | 600 | ML | Responding To @PBDPodcast Absurd Comments On The Bishop Incident! Muha
@@ -36,6 +40,7 @@ ML206:781-808 | P12.C01 | Timeless applicability of Quranic law | response | 134
 FR369:64-106 | P12.C01 | Unchanging revelation and modernity | response | 22 | FR | 10 Reasons to Leave Islam - ft. Ali Dawah
 ML130:248-315 | P12.C01 | Who applies Islamic punitive laws | response | 536 | ML | Tran$gender Challenges Muslim On His Comments About LGTBQ Community! M
 ML049:423-486 | P12.C01 | Why legislate a rarely applied punishment | response | 428 | ML | Agnostic Lady Questions Muslim On Outdated Laws In Islam! Muhammed Ali
+ML421:469-497 | P12.C01 | Wisdom behind the punishment for adultery | response | 214 | ML | Ex-Muslims Question Islam P2! Muhammed Ali - Speakers Corner
 ML025:436-458 | P12.C01 | Would a caliphate change Muslim governance | response | 248 | ML | Inquisitive Agnostic Grills Muslim On Cousin Marriage And Racism In Is
 FR346:28-49 | P12.C02 | Apostasy and the early Meccan Muslims | response | 234 | FR | Christian Prince: Moon split was Eclipse [Lies #39-41]
 ML199:698-776 | P12.C02 | Apostasy compared to treason laws | response | 511 | ML | Atheist Confronts Muslim On Apostasy Laws In Islam! Muhammed Ali
@@ -82,6 +87,7 @@ ML045:323-361 | P12.C03 | Context of Quran 9:29 | response | 421 | ML | Clip-Rea
 ML335:700-749 | P12.C03 | Context of Quran 9:5 (sword verse) | response | 510 | ML | Tunisian Girl Questions Muslim On Women's Rights! Muhammed Ali
 FR389:28-71 | P12.C03 | Context of the sword verse | response | 276 | FR | [DEBUNKED] The Most Violent Quran Verse (Sword Verse) - Apostate Proph
 ML210:437-501 | P12.C03 | Extremism and interpreting the Quran | response | 566 | ML | Agnostic Lady Questions Muslim On Evidence Of God! Muhammed Ali
+ML401:506-533 | P12.C03 | Extremist groups and mainstream Islam | response | 149 | ML | Native American Learns About Islam! Muhammed Ali
 ML216:157-221 | P12.C03 | Fighting only those who fight you | response | 448 | ML | Non-Muslim Lady Questions Muslim On Violence In Islam! Muhammed Ali
 ML127:130-253 | P12.C03 | Is Islam responsible for extremists' actions | response | 999 | ML | Researcher Confronts Muslim On Extremist Teachings! Muhammed Ali
 ML090:149-186 | P12.C03 | Islam as a religion of the sword | response | 314 | ML | Clip-React| Disproving Islam In 2 Minutes?! The Quran Teaches People T
@@ -94,6 +100,7 @@ ML007:1313-1361 | P12.C03 | Modern states, colonization and Islamic rules of war
 ML032:177-249 | P12.C03 | Muhammad's battles compared with 1 Samuel 15 | response | 360 | ML | Christian Compares Jesus To Prophet Mohammed Then Instantly Regrets It
 ML090:465-507 | P12.C03 | No compulsion in religion and Quran 9:5 | response | 349 | ML | Clip-React| Disproving Islam In 2 Minutes?! The Quran Teaches People T
 ML322:1-49 | P12.C03 | Origins of ISIS | response | 541 | ML | Jake @rattlesnaketv Questions Muslim On Terrorism!
+ML401:607-627 | P12.C03 | Political causes of modern extremism | response | 201 | ML | Native American Learns About Islam! Muhammed Ali
 FR273:51-118 | P12.C03 | Prophet openly warned Quraysh of slaughter in Mecca | response | 409 | FR | David Wood Exposes his own Lie!
 ML079:153-184 | P12.C03 | Prophet's rules of war protecting non-combatants | argument | 255 | ML | This Christian Came To Convert Muslim But He Didn't Expect This! Muham
 ML127:380-409 | P12.C03 | Prophetic rules of conduct in war | argument | 317 | ML | Researcher Confronts Muslim On Extremist Teachings! Muhammed Ali
@@ -102,6 +109,7 @@ ML108:782-810 | P12.C03 | Quran 5:33 and punishment for waging war | response | 
 FR369:1-47 | P12.C03 | Quran 9:29 and the context of fighting | response | 83 | FR | 10 Reasons to Leave Islam - ft. Ali Dawah
 ML108:692-781 | P12.C03 | Quran 9:29 and the context of war | response | 694 | ML | Clip-React| The Quran Proves Jesus Is God?! Sunnis Don't Pray Like The
 ML262:330-420 | P12.C03 | Quran 9:5 sword verse in context | response | 658 | ML | Orthodox Christian Questions Muslim About Violence In The Quran! Muham
+ML401:628-665 | P12.C03 | Quranic rules of warfare and non-combatants | argument | 370 | ML | Native American Learns About Islam! Muhammed Ali
 ML127:254-379 | P12.C03 | Quranic verses prohibiting killing innocents | argument | 1002 | ML | Researcher Confronts Muslim On Extremist Teachings! Muhammed Ali
 ML286:431-534 | P12.C03 | Reasons for the early Islamic conquests | response | 1103 | ML | Orthodox Christian Questions Muslim About Islamic Conquest! Muhammed A
 ML216:99-156 | P12.C03 | Religion not responsible for followers' violence | response | 372 | ML | Non-Muslim Lady Questions Muslim On Violence In Islam! Muhammed Ali
@@ -169,6 +177,7 @@ ML113:1-32 | P12.C05 | Christians preaching in Muslim countries | response | 184
 FR388:45-67 | P12.C05 | Claim of abrogation of the no compulsion verse | response | 105 | FR | [DEBUNKED] The "No Compulsion in Islam" Lie - Apostate Prophet
 ML004:255-291 | P12.C05 | Claim Quran forbids sitting with non-Muslims | response | 191 | ML | Christian Woman Attempts To Throw A Jab At Muslims But Gets Confronted
 ML301:101-146 | P12.C05 | Claim that Islam permits deceiving non-Muslims | response | 284 | ML | Highlights From My Interview With @jlptalk on @TheFallenStateTV | Muha
+ML419:198-233 | P12.C05 | Conflict between Muslims and Christians: political or religious | argument | 170 | ML | Inquisitive Christian Learns About Islam P2! Muhammed Ali - Speakers C
 ML059:327-349 | P12.C05 | Copts under Muslim rule in Egypt | argument | 211 | ML | Clip-React| Famous Hollywood Actor Terrence Howard Claims That Islam I
 ML060:1214-1258 | P12.C05 | Disagreement versus insult between faiths | argument | 280 | ML | Sneako Questions The Muslim Lantern On Shia & Sunni Unity | The Iran W
 FR388:103-144 | P12.C05 | Forced conversion and dhimmi status | response | 107 | FR | [DEBUNKED] The "No Compulsion in Islam" Lie - Apostate Prophet
@@ -186,13 +195,17 @@ ML361:251-305 | P12.C05 | Meaning of awliya in Quran 5:51 | response | 276 | ML 
 ML167:25-39 | P12.C05 | Meaning of the term kafir | response | 110 | ML | English Lads Shock Muslim With Their Knowledge Of Islam! Muhammed Ali
 ML245:69-87 | P12.C05 | Muslim belief in Jesus and closeness to Christians | argument | 334 | ML | Pantheist Challenges The Muslim View Of God! Muhammed Ali
 ML137:466-629 | P12.C05 | Muslim conquest of Egypt and the Coptic Christians | response | 980 | ML | Confident Christian Attempts To Educate A Muslim On Islamic History! M
+ML378:91-102 | P12.C05 | No compulsion in religion | response | 75 | ML | Lesbian Speaks The Truth About LGTBQ! Muhammed Ali
+ML401:421-479 | P12.C05 | No compulsion in religion | response | 244 | ML | Native American Learns About Islam! Muhammed Ali
 ML240:254-288 | P12.C05 | No compulsion in religion and jizya | argument | 376 | ML | The One Minute Podcast | Sneak∅ Interviews The Muslim Lantern | Muhamm
 FR388:1-44 | P12.C05 | No compulsion in religion verse | overview | 99 | FR | [DEBUNKED] The "No Compulsion in Islam" Lie - Apostate Prophet
 ML094:78-94 | P12.C05 | Non-Muslim minorities in Muslim-majority countries | response | 131 | ML | Clip-React| Asmongold Wants To Read The Quran?! Chunkz Will Disown His
 ML093:432-498 | P12.C05 | Non-Muslims barred from entering Mecca | response | 489 | ML | Hindu Debates Muslim On The Rationality Of Hinduism! Muhammed Ali
 ML033:299-328 | P12.C05 | Non-Muslims entering Mecca | response | 348 | ML | Buddhist Gets Defensive After A Muslim Highlights The Problems With Bu
+ML401:480-505 | P12.C05 | Non-Muslims under Islamic rule | argument | 288 | ML | Native American Learns About Islam! Muhammed Ali
 ML167:40-67 | P12.C05 | Non-Muslims using Islamic expressions | response | 111 | ML | English Lads Shock Muslim With Their Knowledge Of Islam! Muhammed Ali
 ML137:422-465 | P12.C05 | Protection of dhimmis under Islamic rule | response | 357 | ML | Confident Christian Attempts To Educate A Muslim On Islamic History! M
+ML424:418-445 | P12.C05 | Respecting other religions versus endorsing them | response | 170 | ML | Can You Call Upon The Dead in Islam?! A Conversation With Shia
 ML006:1461-1475 | P12.C05 | Supporting a Muslim over a non-Muslim | response | 188 | ML | How Do You Know Which Religion Is From God? A Detailed Comprehensive A
 ML064:1248-1267 | P12.C05 | Survival of Jews and Christians under Muslim rule | response | 132 | ML | Clip-React| Responding To Professor Jiang's Lecture On The Islamic Gol
 ML152:505-583 | P12.C05 | Treatment of Christians in Muslim countries | response | 703 | ML | Muslim And Educated Christian Debate The Divinity Of Jesus Christ! Muh
@@ -209,21 +222,25 @@ ML200:100-140 | P12.C06 | Do animals have souls | response | 253 | ML | Agnostic
 ML289:215-267 | P12.C06 | Eating meat in Western countries | response | 757 | ML | Popular Youtuber Asks Muslim Difficult Questions! Muhammed Ali
 ML071:182-233 | P12.C06 | Eating meat when it is not necessary | response | 490 | ML | Vegan Activist Questions A Muslim On Animal Cruelty In Islam! Muhammed
 ML221:233-302 | P12.C06 | Excess and harm in eating | response | 426 | ML | University Students Surprise Muslim With Difficult Questions! Muhammed
+ML404:1-81 | P12.C06 | Factory farming statistics and burden of proof | response | 345 | ML | Vegan Gets Emotional! Muhammed Ali - Speakers Corner
 ML210:502-561 | P12.C06 | Forbidden foods and harming the body | response | 309 | ML | Agnostic Lady Questions Muslim On Evidence Of God! Muhammed Ali
 ML122:44-79 | P12.C06 | Gradual prohibition of alcohol | response | 430 | ML | Rational Thinker Asks A Muslim Thought-Provoking Questions! Muhammed A
 ML155:310-345 | P12.C06 | Gradual prohibition of alcohol | illustration | 240 | ML | Intelligent Students Ask Curious Questions About Islam! Muhammed Ali
 ML071:394-466 | P12.C06 | Halal slaughter and animal pain | response | 378 | ML | Vegan Activist Questions A Muslim On Animal Cruelty In Islam! Muhammed
 ML359:364-413 | P12.C06 | Halal slaughter and its benefits | response | 385 | ML | University Student Challenges Muslim On Religion! Muhammed Ali
+ML394:237-276 | P12.C06 | Harms and prohibition of alcohol | argument | 268 | ML | Priests Force Their Beliefs?! Muhammed Ali
 ML071:525-554 | P12.C06 | Human honour over other creation and closing | conclusion | 170 | ML | Vegan Activist Questions A Muslim On Animal Cruelty In Islam! Muhammed
 ML071:1-44 | P12.C06 | Islamic teachings on kindness to animals | argument | 388 | ML | Vegan Activist Questions A Muslim On Animal Cruelty In Islam! Muhammed
 ML141:379-396 | P12.C06 | Keeping dogs in Islam | response | 152 | ML | Orthodox Christian Surprises Muslim With Intelligent Questions! Muhamm
 ML387:109-160 | P12.C06 | Meat of the People of the Book today | response | 422 | ML | American Revert Asks Questions! Muhammed Ali
+ML404:82-122 | P12.C06 | Moral basis for eating animals | argument | 175 | ML | Vegan Gets Emotional! Muhammed Ali - Speakers Corner
 ML221:619-643 | P12.C06 | Pork versus chicken diet | response | 121 | ML | University Students Surprise Muslim With Difficult Questions! Muhammed
 ML071:345-393 | P12.C06 | Prohibited animals and slaughter rules in Islam | response | 539 | ML | Vegan Activist Questions A Muslim On Animal Cruelty In Islam! Muhammed
 ML236:1042-1067 | P12.C06 | Prohibition of alcohol | argument | 266 | ML | Islam Unveiled: Compelling Evidence For The Truthfulness Of Islam | Ch
 ML044:393-443 | P12.C06 | Prohibition of alcohol and gambling | argument | 399 | ML | Atheist Questions A Muslim On The Number Of Wives Allowed In Islam! Mu
 ML147:33-109 | P12.C06 | Prohibition of alcohol and its harms | argument | 724 | ML | Christian Left In Utter Shock After Attempting To Criticise Islam! Muh
 ML179:207-336 | P12.C06 | Prohibition of alcohol and its harms | response | 1016 | ML | Curious Canadian Grills Muslim With Difficult Questions! Muhammed Ali
+ML401:91-131 | P12.C06 | Prohibition of alcohol and its social harms | illustration | 256 | ML | Native American Learns About Islam! Muhammed Ali
 ML357:341-377 | P12.C06 | Prohibition of alcohol and social harm | argument | 271 | ML | Polish Student Amazed By Islamic Teachings! Muhammed Ali
 ML004:54-167 | P12.C06 | Prohibition of alcohol in Islam and Christianity | response | 575 | ML | Christian Woman Attempts To Throw A Jab At Muslims But Gets Confronted
 ML221:150-232 | P12.C06 | Prohibition of pork: reasons | response | 409 | ML | University Students Surprise Muslim With Difficult Questions! Muhammed
@@ -264,6 +281,7 @@ ML188:190-218 | P12.C07 | Photography and image-making in Islam | response | 241
 ML169:405-445 | P12.C07 | Prayer while traveling: combining and shortening | response | 237 | ML | Chinese Revert Shares His Conversion Story To Islam! Muhammed Ali
 ML236:1068-1081 | P12.C07 | Prohibition of gambling | argument | 162 | ML | Islam Unveiled: Compelling Evidence For The Truthfulness Of Islam | Ch
 ML315:83-147 | P12.C07 | Prohibition of interest and its wisdom | response | 885 | ML | A Message To Brother Sneak∅ - Muhammed Ali
+ML418:399-490 | P12.C07 | Prohibition of interest and necessity | response | 649 | ML | A Christian Testimony About Islam Part 1! Muhammed Ali - Speakers Corn
 ML197:221-243 | P12.C07 | Prohibition of music and drawing images | response | 197 | ML | Ziônist Settler Reveals The Truth About Palestinian Occupation! Muhamm
 FR232:207-236 | P12.C07 | Prophet's guidance to fast instead | argument | 39 | FR | Reacting to Zakir Naik on Masturbation
 ML227:348-394 | P12.C07 | Reciting Quran for the deceased | response | 565 | ML | Agnostic Compares Islam And Christianity! Muhammed Ali
@@ -280,6 +298,7 @@ ML188:110-140 | P12.C07 | Scholars' rulings on new technology | response | 214 |
 ML340:468-529 | P12.C07 | Shaking hands with the opposite gender | response | 925 | ML | Non-Muslim Audience Asks Muslim Difficult Questions! Muhammed Ali
 ML274:268-313 | P12.C07 | Shaving a newborn's hair and wisdom of commands | response | 513 | ML | American Lady Questions Muslim About Women In Islam! Muhammed Ali
 ML025:840-884 | P12.C07 | Tayammum when water is unavailable or harmful | response | 398 | ML | Inquisitive Agnostic Grills Muslim On Cousin Marriage And Racism In Is
+ML411:517-553 | P12.C07 | Touching the Arabic Quran without ablution | response | 308 | ML | Sharia Law is Corruption?! Muhammed Ali - Speaker Corner
 ML030:499-513 | P12.C07 | Trade permitted, interest forbidden | response | 135 | ML | Wise Christian Questions The Consistency Of The Teachings Of Islam! Mu
 ML090:21-98 | P12.C07 | Truthfulness and taqiyya in Islam | response | 870 | ML | Clip-React| Disproving Islam In 2 Minutes?! The Quran Teaches People T
 ML060:69-120 | P12.C07 | Wearing red and not imitating other religions | response | 544 | ML | Sneako Questions The Muslim Lantern On Shia & Sunni Unity | The Iran W

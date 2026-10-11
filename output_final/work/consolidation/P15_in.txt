@@ -30,6 +30,7 @@ ML128:107-150 | P15.C02 | Asking AI religious questions | argument | 430 | ML | 
 ML300:416-434 | P15.C02 | Asking people of knowledge | response | 134 | ML | Arab Christian Speaks The Truth About The Bible! Muhammed Ali
 FR232:62-82 | P15.C02 | Asking popular figures instead of scholars | argument | 17 | FR | Reacting to Zakir Naik on Masturbation
 ML263:1086-1137 | P15.C02 | Asking qualified people about Islam | response | 477 | ML | The Muslim Lantern Gets Sneak∅ To Rethink His Views! Muhammed Ali
+ML402:533-566 | P15.C02 | Asking qualified people about religion | response | 234 | ML | The Truth About Philosophy! Muhammed Ali
 FR231:690-795 | P15.C02 | Avoid taking knowledge from polemicists | argument | 598 | FR | Shocking Views of Shabir Ally
 FR081:157-192 | P15.C02 | Benefits of learning about the religion | response | 263 | FR | A Major Problem in the Muslim Ummah... and a Solution
 ML330:287-304 | P15.C02 | Books on the Prophet's biography | response | 145 | ML | Agnostic Tries To Trap Muslim Live On Stream! Muhammed Ali
@@ -63,6 +64,7 @@ ML231:312-373 | P15.C02 | Language barrier and primary source research | respons
 ML278:667-733 | P15.C02 | Learning about Islam from its primary sources | response | 571 | ML | Christian Family Grills Muslim On His Beliefs! Muhammed Ali
 ML054:1-47 | P15.C02 | Learning about Islam from knowledgeable people | response | 528 | ML | Clip-React| Asmongold Responds - Women Are Oppressed In Islam? | Muham
 ML054:379-389 | P15.C02 | Learning about Islam from knowledgeable people | response | 122 | ML | Clip-React| Asmongold Responds - Women Are Oppressed In Islam? | Muham
+ML418:50-90 | P15.C02 | Learning about Islam from reliable sources | response | 135 | ML | A Christian Testimony About Islam Part 1! Muhammed Ali - Speakers Corn
 FR192:61-92 | P15.C02 | Learning Arabic to read untranslated works | response | 179 | FR | Proofs of Prophethood 29: Final
 ML239:220-269 | P15.C02 | Learning creed requires time and effort | argument | 384 | ML | Aqeedah (Creed) And Its Significance In Islam | AIM Conference 2024 NJ
 FR231:42-82 | P15.C02 | Learning Islam from qualified believers, not orientalists | argument | 11 | FR | Shocking Views of Shabir Ally
@@ -80,6 +82,7 @@ FR148:117-159 | P15.C02 | Recommended Seerah book in English: Mahdi Rizqullah | 
 ML255:14-29 | P15.C02 | Recommended sources to study Islam | response | 135 | ML | Atheist Attempts To Challenge Muslim Then It Backfires! Muhammed Ali
 ML387:263-315 | P15.C02 | Recommended teachers and closing | conclusion | 318 | ML | American Revert Asks Questions! Muhammed Ali
 ML078:877-890 | P15.C02 | Recommended video on evidences for Islam | response | 59 | ML | Agnostic Puts Islam And Christianity To The Test! Muhammed Ali
+ML365:599-634 | P15.C02 | Recommended videos on prophecy and evolution | conclusion | 213 | ML | Atheist Challenges Muslim On Evolution! Muhammed Ali
 FR170:61-132 | P15.C02 | Red flags in teachers: mujaddid complex | argument | 153 | FR | Exposing Hany Atchan (Marvelous Quran)
 FR170:732-762 | P15.C02 | Red flags when taking religious knowledge | conclusion | 207 | FR | Exposing Hany Atchan (Marvelous Quran)
 FR148:160-224 | P15.C02 | Referencing in The Sealed Nectar versus Mahdi Rizqullah | conclusion | 353 | FR | What is the Best Book of Seerah in English?
@@ -91,6 +94,7 @@ ML057:1117-1144 | P15.C02 | Starting with the Quran before hadith | response | 3
 ML270:256-286 | P15.C02 | Starting with the Quran before hadith | response | 198 | ML | Christian Questions The Historical Existence Of Prophet Mohammed! Muha
 FR092:123-147 | P15.C02 | Taking notes with page numbers | argument | 195 | FR | How to become Knowledgeable
 ML214:363-376 | P15.C02 | Using tafsir to study abrogation | response | 117 | ML | Agnostic Enquires About Qur'an Contradictions! Muhammed Ali
+ML380:76-250 | P15.C03 | Abuse incident and discussion ground rules | response | 926 | ML | Christian Preachers Ambush Muslim! Muhammed Ali
 ML213:159-239 | P15.C03 | Account of the encounter with the children | response | 394 | ML | Deceptive Missionary Attempts To Target Muslim Children! Muhammed Ali
 ML392:119-147 | P15.C03 | Accusations of mockery during discussion | other | 140 | ML | Militant Christians Interrogate Muslim Part 2! Muhammed Ali
 ML108:811-826 | P15.C03 | Advice against rage-bait street debates | other | 128 | ML | Clip-React| The Quran Proves Jesus Is God?! Sunnis Don't Pray Like The
@@ -104,6 +108,7 @@ ML327:133-191 | P15.C03 | Advice to preachers on handling disagreements | argume
 ML351:232-275 | P15.C03 | Advice to read the Quran | conclusion | 277 | ML | Muslim Unveils The Reality Of Atheism! Muhammed Ali
 ML327:192-236 | P15.C03 | Advice to viewers on dawah drama | conclusion | 531 | ML | "Dawah Drama" A Message To Brothers Involved In Dawah! Muhammed Ali
 FR120:1-77 | P15.C03 | Anecdote of a Christian preaching in a store | illustration | 799 | FR | Unexpected Exchange in South Carolina
+ML419:486-520 | P15.C03 | Answering questions directly in dialogue | argument | 198 | ML | Inquisitive Christian Learns About Islam P2! Muhammed Ali - Speakers C
 ML218:311-360 | P15.C03 | Appeal to authority in debates | response | 271 | ML | Christian Finds Clarity In Christianity Over Islam?! Muhammed Ali
 FR313:130-212 | P15.C03 | Appeal to non-Muslims not to hate Islam | conclusion | 569 | FR | Christian Prince Challenged Me to Refute This!
 ML263:1-53 | P15.C03 | Approach to dawah: not being pushy | overview | 202 | ML | The Muslim Lantern Gets Sneak∅ To Rethink His Views! Muhammed Ali
@@ -117,11 +122,13 @@ ML037:220-241 | P15.C03 | Calling out wrongdoing within Muslim ranks | argument 
 ML327:1-41 | P15.C03 | Causes of infighting among dawah carriers | overview | 835 | ML | "Dawah Drama" A Message To Brothers Involved In Dawah! Muhammed Ali
 FR163:837-870 | P15.C03 | Checking counter-refutations against the original | argument | 207 | FR | Refutations 101 [Crash Course]
 ML060:325-362 | P15.C03 | Choosing allies among content creators | argument | 236 | ML | Sneako Questions The Muslim Lantern On Shia & Sunni Unity | The Iran W
+ML400:71-109 | P15.C03 | Christian love and peaceful conduct in dialogue | response | 178 | ML | Christian Missionaries Target Hijabies!? Muhammed Ali
 ML367:63-150 | P15.C03 | Claim of studying Islam for twelve years | response | 558 | ML | Christian Claims He Studied Islam For 12 Years?! Muhammed Ali
 ML094:247-294 | P15.C03 | Closed-mindedness toward reading Islamic scripture | response | 328 | ML | Clip-React| Asmongold Wants To Read The Quran?! Chunkz Will Disown His
 ML037:437-452 | P15.C03 | Closing advice to young preachers | conclusion | 227 | ML | This Trend NEEDS To Stop Now!
 ML085:1198-1240 | P15.C03 | Closing statements of the conversation | conclusion | 349 | ML | Christian in Complete Denial After a Muslim Shows Him This Verse! Muha
 ML018:161-179 | P15.C03 | Conditions for permissible debates | argument | 274 | ML | These Debates Are A Complete Disaster!
+ML416:130-166 | P15.C03 | Conduct in discussion and talking over | response | 121 | ML | Rude Christian Refuses To Leave! Muhammed Ali - Speakers Corner
 ML231:374-402 | P15.C03 | Conduct of a fruitful discussion | conclusion | 247 | ML | Christian Confronts Muslim On Quran Preservation! Muhammed Ali
 ML248:559-620 | P15.C03 | Conduct of duat and avoiding haram in content | response | 53 | ML | Amazing Collab| The Muslim Lantern & Sheikh Uthman Meet For The First 
 ML220:110-199 | P15.C03 | Confrontation with an ex-Muslim heckler | illustration | 509 | ML | Unstable Apostate Threatens Peaceful Muslims!? Muhammed Ali
@@ -140,6 +147,7 @@ ML342:314-385 | P15.C03 | Debate etiquette and ending the call | other | 459 | M
 ML035:159-231 | P15.C03 | Debate etiquette: interruptions and mocking accusations | response | 468 | ML | Confident Christian Attempts To Trap A Muslim But This Happens! Muhamm
 ML023:149-191 | P15.C03 | Debate etiquette: restating the other's argument | response | 421 | ML | Arrogant Christian Insults Muslim After Failing To Prove The Gospels! 
 FR174:661-694 | P15.C03 | Debate versus dialogue format | argument | 154 | FR | Full Debate: Farid (Sunni) vs Bayat (Shia)
+ML379:22-58 | P15.C03 | Debating at Speakers' Corner as competition | response | 111 | ML | Christian Preacher Speaks The Truth! Muhammed Ali
 ML018:80-128 | P15.C03 | Debating side issues and chasing views | argument | 695 | ML | These Debates Are A Complete Disaster!
 FR163:80-161 | P15.C03 | Demanding primary sources | argument | 497 | FR | Refutations 101 [Crash Course]
 ML248:353-520 | P15.C03 | Difference between dawah and debate | response | 127 | ML | Amazing Collab| The Muslim Lantern & Sheikh Uthman Meet For The First 
@@ -155,6 +163,7 @@ ML094:209-246 | P15.C03 | Encouraging non-Muslims to read the Quran themselves |
 ML329:356-373 | P15.C03 | Ending a discussion over sincerity | conclusion | 238 | ML | Christian Claims The Bible Is Perfectly Preserved! Muhammed Ali
 ML052:284-319 | P15.C03 | Ending a discussion without a direct answer | conclusion | 388 | ML | Unhinged Preacher Confronts A Muslim Then This Happens! Muhammed Ali
 ML162:322-343 | P15.C03 | Ending an unproductive discussion | response | 170 | ML | Heated Atheist Challenges A Muslim To Prove The Existence Of God! Muha
+ML380:977-1036 | P15.C03 | Etiquette of asking questions | response | 224 | ML | Christian Preachers Ambush Muslim! Muhammed Ali
 ML265:400-433 | P15.C03 | Etiquette of dialogue and interruptions | conclusion | 303 | ML | Excited Christian Claims Muslims Need The Bible! Muhammed Ali
 ML248:659-806 | P15.C03 | Every Muslim's role in dawah according to skills | response | 161 | ML | Amazing Collab| The Muslim Lantern & Sheikh Uthman Meet For The First 
 ML193:127-162 | P15.C03 | Explaining Islam versus trying to win arguments | response | 197 | ML | English Lady Confronts Muslims On The Treatment Of Women In Islam! Muh
@@ -171,12 +180,14 @@ FR294:153-228 | P15.C03 | Guest's path to specializing in evolution | illustrati
 ML145:454-473 | P15.C03 | Guidance belongs to God, no compulsion | argument | 195 | ML | Liberal Woman Debates Muslim On The Need For Religion! Muhammed Ali
 ML248:224-352 | P15.C03 | Harms of doing dawah without knowledge | response | 289 | ML | Amazing Collab| The Muslim Lantern & Sheikh Uthman Meet For The First 
 ML327:80-132 | P15.C03 | Harms of public infighting among preachers | argument | 710 | ML | "Dawah Drama" A Message To Brothers Involved In Dawah! Muhammed Ali
+ML380:761-820 | P15.C03 | Heckling and conduct in street discussions | response | 275 | ML | Christian Preachers Ambush Muslim! Muhammed Ali
 ML021:251-260 | P15.C03 | Heckling of street dawah conversations | argument | 70 | ML | Hate Preacher Attempts To Disrupt Civil Muslim-Christian Dialogue! Muh
 ML021:293-309 | P15.C03 | Heckling of street dawah conversations | argument | 116 | ML | Hate Preacher Attempts To Disrupt Civil Muslim-Christian Dialogue! Muh
 ML021:364-388 | P15.C03 | Heckling versus respectful dialogue | argument | 230 | ML | Hate Preacher Attempts To Disrupt Civil Muslim-Christian Dialogue! Muh
 ML236:1256-1337 | P15.C03 | How to give dawah to colleagues and neighbours | response | 847 | ML | Islam Unveiled: Compelling Evidence For The Truthfulness Of Islam | Ch
 ML037:46-93 | P15.C03 | Humiliation-driven dawah and insulting language | argument | 620 | ML | This Trend NEEDS To Stop Now!
 ML018:180-254 | P15.C03 | Ibn Abbas debating the Khawarij | illustration | 964 | ML | These Debates Are A Complete Disaster!
+ML416:519-562 | P15.C03 | Imposing religion versus respectful dialogue | argument | 236 | ML | Rude Christian Refuses To Leave! Muhammed Ali - Speakers Corner
 ML156:437-484 | P15.C03 | Interruption claim and debate mentality | response | 251 | ML | Emotional Atheist Receives A Reality Check From A Muslim! Muhammed Ali
 ML215:529-563 | P15.C03 | Interruptions and conduct in discussion | conclusion | 319 | ML | Masked Philosophiser Attempts To Falsify Islam?! Muhammed Ali
 ML283:266-306 | P15.C03 | Invitation to discuss the true concept of God | conclusion | 706 | ML | Popular Youtuber Abandons Money And Fame For Christianity?! Muhammed A
@@ -189,23 +200,27 @@ ML117:370-394 | P15.C03 | Listening during a discussion | argument | 124 | ML | 
 ML334:541-572 | P15.C03 | Listening in interfaith dialogue; decline of Christianity | conclusion | 432 | ML | Does The Concept of The Trinity Make Sense?! Muhammed Ali
 FR163:1-79 | P15.C03 | Method for answering anti-Islam arguments | overview | 479 | FR | Refutations 101 [Crash Course]
 ML213:261-347 | P15.C03 | Minors, guardians and turn-taking | response | 264 | ML | Deceptive Missionary Attempts To Target Muslim Children! Muhammed Ali
+ML400:144-183 | P15.C03 | Missionaries' purpose in leafleting Muslims | illustration | 159 | ML | Christian Missionaries Target Hijabies!? Muhammed Ali
 FR191:1-26 | P15.C03 | Motivation for producing refutation content | response | 158 | FR | am i going to regret doing this interview?
 ML298:1-15 | P15.C03 | Motive for doing dawah and reward | response | 74 | ML | "Really Smart" Atheist Encounters A Muslim! Muhammed Ali
 ML233:1-119 | P15.C03 | Muhammad Ali the boxer as a dawah example | illustration | 583 | ML | Eddie @TheDeenShowTV Interviews The Muslim Lantern | Masjid Dar Al-Qur
 ML372:72-135 | P15.C03 | Muslims' knowledge of the first caliph | response | 595 | ML | Confused Christian Displays His Ignorance! Muhammed Ali
 FR277:53-72 | P15.C03 | Need for answers to critics of Islam | argument | 235 | FR | Dear Dawah Channel
 ML000:271-320 | P15.C03 | No compulsion in religion and dawah approach | conclusion | 287 | ML | Skeptical Atheist Rethinks Islam After A Rational Dialogue With A Musl
+ML418:630-688 | P15.C03 | Non-judgmental dawah and empathy | argument | 336 | ML | A Christian Testimony About Islam Part 1! Muhammed Ali - Speakers Corn
 ML340:570-587 | P15.C03 | Not being offended by questions about Islam | response | 207 | ML | Non-Muslim Audience Asks Muslim Difficult Questions! Muhammed Ali
 ML219:615-756 | P15.C03 | Objection to a three-on-one religious discussion | overview | 207 | ML | Muslim Lantern | Arab | Sneak0 | Young Don | Warner | Discuss Religion
 ML236:43-88 | P15.C03 | Obligation to present the evidence for Islam | argument | 432 | ML | Islam Unveiled: Compelling Evidence For The Truthfulness Of Islam | Ch
 ML248:1962-2101 | P15.C03 | Online drama between duat | response | 105 | ML | Amazing Collab| The Muslim Lantern & Sheikh Uthman Meet For The First 
 ML094:295-320 | P15.C03 | Open invitation to Asmongold to discuss Islam | conclusion | 262 | ML | Clip-React| Asmongold Wants To Read The Quran?! Chunkz Will Disown His
 ML060:121-217 | P15.C03 | Out-of-context clips and engagement culture | argument | 712 | ML | Sneako Questions The Muslim Lantern On Shia & Sunni Unity | The Iran W
+ML380:1-75 | P15.C03 | Passerby confronts Christian evangelists | response | 350 | ML | Christian Preachers Ambush Muslim! Muhammed Ali
 ML070:392-419 | P15.C03 | Patience when giving dawah | conclusion | 213 | ML | Christian Attempts To Trap A Muslim Using The Quran But It Backfires! 
 ML006:1230-1294 | P15.C03 | People who accept the evidence but refuse Islam | response | 615 | ML | How Do You Know Which Religion Is From God? A Detailed Comprehensive A
 ML327:42-79 | P15.C03 | Personal disputes and rejecting criticism | argument | 752 | ML | "Dawah Drama" A Message To Brothers Involved In Dawah! Muhammed Ali
 FR226:118-170 | P15.C03 | Platforming Abu Layth gives him legitimacy | conclusion | 297 | FR | A Message to Dawah Men
 FR277:73-88 | P15.C03 | Plea to viewers about dawah priorities | conclusion | 199 | FR | Dear Dawah Channel
+ML418:528-574 | P15.C03 | Preaching during the Pride parade | illustration | 190 | ML | A Christian Testimony About Islam Part 1! Muhammed Ali - Speakers Corn
 ML213:36-104 | P15.C03 | Preaching to minors without parental consent | response | 316 | ML | Deceptive Missionary Attempts To Target Muslim Children! Muhammed Ali
 ML213:651-731 | P15.C03 | Preaching to minors without parental consent | response | 436 | ML | Deceptive Missionary Attempts To Target Muslim Children! Muhammed Ali
 ML006:1209-1229 | P15.C03 | Presenting the criteria to atheists | response | 317 | ML | How Do You Know Which Religion Is From God? A Detailed Comprehensive A
@@ -220,7 +235,9 @@ ML053:174-210 | P15.C03 | Religion as identity; conveying rather than convincing
 ML018:12-50 | P15.C03 | Repeated debates with anti-Islam critics | argument | 418 | ML | These Debates Are A Complete Disaster!
 ML263:669-697 | P15.C03 | Research rather than comment debates | response | 298 | ML | The Muslim Lantern Gets Sneak∅ To Rethink His Views! Muhammed Ali
 ML247:103-122 | P15.C03 | Respect for academics in debate | response | 155 | ML | Direct Challenge To "Professor" Dave Explains On YouTube Ft. @SubboorA
+ML379:236-318 | P15.C03 | Respectful critique and conduct at Speakers' Corner | argument | 371 | ML | Christian Preacher Speaks The Truth! Muhammed Ali
 ML016:567-598 | P15.C03 | Respectful dialogue and closing remarks | conclusion | 289 | ML | Inquisitive Christian Challenges The Qur'anic Stance On The Gospel! Mu
+ML379:59-111 | P15.C03 | Respectful dialogue versus mocking the Prophet | response | 147 | ML | Christian Preacher Speaks The Truth! Muhammed Ali
 ML021:1123-1186 | P15.C03 | Respectful dialogue with People of the Book | argument | 414 | ML | Hate Preacher Attempts To Disrupt Civil Muslim-Christian Dialogue! Muh
 FR054:1-46 | P15.C03 | Responding to accusations from a fellow Muslim | overview | 324 | FR | The Lies of Haqiqatjou
 FR042:52-92 | P15.C03 | Responding to critics without retaliatory insults | argument | 395 | FR | The Face of Christian Apologetics
@@ -235,8 +252,10 @@ FR226:1-72 | P15.C03 | Sitting with deviant preachers: alcohol analogy | argumen
 FR251:1-27 | P15.C03 | Starting a dawah channel on a budget | argument | 150 | FR | No More Excuses
 ML060:1099-1177 | P15.C03 | Stating other faiths' beliefs without insult | argument | 338 | ML | Sneako Questions The Muslim Lantern On Shia & Sunni Unity | The Iran W
 ML048:220-276 | P15.C03 | Street dawah: conversation versus selling | response | 279 | ML | Englishman And Muslim Have An Honest Conversation About Immigration In
+ML400:1-70 | P15.C03 | Street missionaries confronting a dawah stall | response | 274 | ML | Christian Missionaries Target Hijabies!? Muhammed Ali
 ML344:1-12 | P15.C03 | Street preachers confrontation | illustration | 6 | ML | Catholic Woman Shocked By Christian Preachers! Muhammed Ali
 FR163:962-985 | P15.C03 | Summary of tips for researching arguments | conclusion | 169 | FR | Refutations 101 [Crash Course]
+ML416:259-310 | P15.C03 | Talking over and ending the discussion | response | 175 | ML | Rude Christian Refuses To Leave! Muhammed Ali - Speakers Corner
 FR294:1614-1669 | P15.C03 | Technical language in debates and dawah content | response | 15 | FR | How Subboor schooled CosmicSkeptic! (Human Rights Debate)
 ML018:51-79 | P15.C03 | The never-ending debate challenge loop | argument | 301 | ML | These Debates Are A Complete Disaster!
 ML131:508-536 | P15.C03 | Truth versus debating skill | conclusion | 194 | ML | "Enlightened" Athiest Left Speechless After Encountering Muslim! Muham
@@ -245,15 +264,19 @@ ML247:156-170 | P15.C03 | Value of cross-examination in debates | argument | 149
 ML018:1-11 | P15.C03 | Viewer responsibility for promoting debates | overview | 188 | ML | These Debates Are A Complete Disaster!
 ML105:23-45 | P15.C03 | Why Muslims do dawah in Western countries | response | 191 | ML | Clip-React| PBD Calls Me An Islamist?! Five Reasons To Debunk Islam?! 
 ML263:108-231 | P15.C03 | Wisdom in conveying the truth | argument | 1048 | ML | The Muslim Lantern Gets Sneak∅ To Rethink His Views! Muhammed Ali
+ML388:513-557 | P15.C04 | A born Muslim's search for purpose | illustration | 62 | ML | Sincere Christians Investigate Islam Part 2! Muhammed Ali
 ML150:429-482 | P15.C04 | Abandoning inherited beliefs after evidence | response | 405 | ML | Agnostic Refuses To Accept Rational Evidences For Islam! Muhammed Ali
 ML147:464-528 | P15.C04 | Accepting Islam and taking the shahada | illustration | 463 | ML | Christian Left In Utter Shock After Attempting To Criticise Islam! Muh
+ML397:226-257 | P15.C04 | Accepting Islam and taking the shahada | conclusion | 214 | ML | Why Should I Accept Your Religion?! Muhammed Ali
 ML038:884-937 | P15.C04 | Accepting Islam before inviting family | response | 503 | ML | Agnostic Lady Grills Muslims On Equality Between Genders In Islam! Muh
 FR294:2049-2103 | P15.C04 | Accepting Islam before resolving all questions | argument | 37 | FR | How Subboor schooled CosmicSkeptic! (Human Rights Debate)
+ML403:609-651 | P15.C04 | Accepting Islam lifts the burden of sins | conclusion | 291 | ML | Emotional Shahada! Brother Accepts Islam! Muhammed Ali
 ML015:723-809 | P15.C04 | Accepting Islam on conviction; praying for guidance | conclusion | 810 | ML | Muslim Surprises Intelligent Lady With Undeniable Evidence For Islam! 
 ML222:103-147 | P15.C04 | Accepting Islam without knowing everything | response | 251 | ML | Muslim Surprises A French Man Looking For Answers! Muhammed Ali
 ML212:285-305 | P15.C04 | Accepting the message of all the prophets | argument | 190 | ML | Sincere Christian Speaks The Truth About Christianity! Muhammed Ali
 FR246:1404-1455 | P15.C04 | Admitting error and returning to truth | conclusion | 58 | FR | David Wood's co-host REVERTS to Islam!! [CL Edwards Interview]
 ML347:1052-1097 | P15.C04 | Advice for a new Muslim | conclusion | 517 | ML | Agnostic Challenges Muslim On God Then This Happens! Muhammed Ali
+ML397:288-316 | P15.C04 | Advice for a new Muslim | conclusion | 304 | ML | Why Should I Accept Your Religion?! Muhammed Ali
 ML087:328-366 | P15.C04 | Advice for new Muslims | conclusion | 302 | ML | Truth Seeker Presents Muslim With Genuine Questions About Islam! Muham
 ML099:647-710 | P15.C04 | Advice to a new Muslim | conclusion | 553 | ML | Muslim Shockingly Describes Life After Death Like You Are Witnessing I
 ML271:351-403 | P15.C04 | Advice to a new Muslim | response | 390 | ML | IDF Soldier Confronted A Muslim Live Then THIS HAPPENED! Muhammed Ali
@@ -265,6 +288,7 @@ ML297:684-809 | P15.C04 | After conversion: husband, support, reflections | conc
 FR246:1247-1304 | P15.C04 | Allah's mercy and the search for truth | illustration | 73 | FR | David Wood's co-host REVERTS to Islam!! [CL Edwards Interview]
 ML311:1-26 | P15.C04 | Background and beliefs of a seeker | overview | 123 | ML | Sincere Man Realises The Contradictions In Christianity! Muhammed Ali
 ML318:605-620 | P15.C04 | Barriers to accepting Islam | response | 80 | ML | Christian Lady Enquires About Heaven In Islam! Muhammed Ali
+ML369:415-450 | P15.C04 | Basics for new Muslims: pillars and articles | overview | 478 | ML | If You Answer My QUESTIONS I will Accept Islam! Muhammed Ali
 ML221:1-18 | P15.C04 | Being born Muslim and conversion rates | response | 103 | ML | University Students Surprise Muslim With Difficult Questions! Muhammed
 ML279:358-390 | P15.C04 | Belief in Muhammad and becoming Muslim | response | 317 | ML | Muslim Highlights The Inconsistency Of The Bible! Muhammed Ali
 ML180:523-559 | P15.C04 | Belief versus taking the shahada | conclusion | 231 | ML | Sincere Lady About To Accept Islam But This Happens! Muhammed Ali
@@ -291,9 +315,11 @@ ML031:772-799 | P15.C04 | Closing call to ask God for guidance | conclusion | 19
 ML175:973-993 | P15.C04 | Closing invitation to Islam | conclusion | 120 | ML | Muslim Gets Questioned On The Treatment Of Women In Islam! Muhammed Al
 ML006:898-967 | P15.C04 | Common misconceptions of new Muslims | response | 753 | ML | How Do You Know Which Religion Is From God? A Detailed Comprehensive A
 ML163:537-556 | P15.C04 | Concealing Islam from family | response | 136 | ML | Baha'i Lady Questions Muslim On The Last Prophet! Muhammed Ali
+ML403:170-213 | P15.C04 | Conversion as repentance and forgiveness of sins | response | 253 | ML | Emotional Shahada! Brother Accepts Islam! Muhammed Ali
 ML026:356-399 | P15.C04 | Conversion story after deliverance from nightmares | illustration | 605 | ML | How To Protect Yourself From Jinn, Possession, Magic & The Evil Eye In
 ML169:1-101 | P15.C04 | Conversion story of a Hong Kong revert | illustration | 35 | ML | Chinese Revert Shares His Conversion Story To Islam! Muhammed Ali
 ML387:206-262 | P15.C04 | Conversion story of an American revert | illustration | 223 | ML | American Revert Asks Questions! Muhammed Ali
+ML419:107-132 | P15.C04 | Conversion testimonies and religious switching statistics | response | 111 | ML | Inquisitive Christian Learns About Islam P2! Muhammed Ali - Speakers C
 ML027:325-347 | P15.C04 | Convert's fear of family and friends' reactions | overview | 47 | ML | New Convert Questions Muslim On Lack Of Connection With God In Islam! 
 ML363:1-205 | P15.C04 | Convert's life before Islam: army service | illustration | 670 | ML | Ex-British Soldier Accepts Islam! Muhammed Ali
 ML237:333-356 | P15.C04 | Convert's year of study and Christian family | conclusion | 97 | ML | Christian Surprises Muslim With Unusual Questions! Muhammed Ali
@@ -302,15 +328,19 @@ ML241:513-550 | P15.C04 | Converting for convenience and the shahada | response 
 ML300:118-150 | P15.C04 | Converting in a sectarian society | response | 87 | ML | Arab Christian Speaks The Truth About The Bible! Muhammed Ali
 ML318:723-837 | P15.C04 | Converts and family opposition | response | 1552 | ML | Christian Lady Enquires About Heaven In Islam! Muhammed Ali
 ML357:254-283 | P15.C04 | Culture as a barrier to accepting Islam | response | 128 | ML | Polish Student Amazed By Islamic Teachings! Muhammed Ali
+ML394:314-341 | P15.C04 | Delaying acceptance of Islam | response | 188 | ML | Priests Force Their Beliefs?! Muhammed Ali
 ML123:404-471 | P15.C04 | Delaying conversion for more research | argument | 611 | ML | Non-Muslim Lady Questions A Muslim On Polygamy Then This Happens! Muha
+ML403:1-108 | P15.C04 | Delaying conversion until one stops sinning | response | 694 | ML | Emotional Shahada! Brother Accepts Islam! Muhammed Ali
 ML293:168-250 | P15.C04 | Delaying shahada to learn more first | response | 968 | ML | Christian Asks God For A Sign Then This Happens! Muhammed Ali
 ML311:348-384 | P15.C04 | Delaying the Shahada and acceptance of deeds | response | 338 | ML | Sincere Man Realises The Contradictions In Christianity! Muhammed Ali
 ML053:756-812 | P15.C04 | Delaying the Shahada and invitation to return | conclusion | 230 | ML | Arab Christian Shares His Experience With Islam And Christianity! Muha
 ML368:313-342 | P15.C04 | Distraction and guidance in finding faith | illustration | 372 | ML | Why Are You A Muslim?! Muhammed Ali
 ML224:199-221 | P15.C04 | Diversity of converts and conversion growth | response | 275 | ML | Agnostic Man Grills Muslim With Difficult Questions! Muhammed Ali
+ML397:258-287 | P15.C04 | Divine guidance and why people reject the truth | argument | 282 | ML | Why Should I Accept Your Religion?! Muhammed Ali
 ML347:792-813 | P15.C04 | Encouragement to accept Islam | argument | 144 | ML | Agnostic Challenges Muslim On God Then This Happens! Muhammed Ali
 ML259:128-179 | P15.C04 | Encouragement to accept Islam despite family | response | 409 | ML | Non-Muslim Niqabi Shocks Muslim Live On Stream!? Muhammed Ali
 ML087:216-300 | P15.C04 | Encouragement to take the shahada now | argument | 476 | ML | Truth Seeker Presents Muslim With Genuine Questions About Islam! Muham
+ML403:323-441 | P15.C04 | Every Muslim sins: hesitation to take shahada | response | 702 | ML | Emotional Shahada! Brother Accepts Islam! Muhammed Ali
 ML053:254-292 | P15.C04 | Family noticing interest in another religion | illustration | 205 | ML | Arab Christian Shares His Experience With Islam And Christianity! Muha
 ML120:601-663 | P15.C04 | Family obstacles to conversion | response | 252 | ML | Romanian Christian Grills Muslim With Difficult Questions! Muhammed Al
 ML163:395-424 | P15.C04 | Family opposition and hiding one's faith | response | 310 | ML | Baha'i Lady Questions Muslim On The Last Prophet! Muhammed Ali
@@ -337,6 +367,7 @@ ML099:557-599 | P15.C04 | Gradual practice after conversion | response | 233 | M
 ML314:785-813 | P15.C04 | Gradual practice and repentance for new Muslims | response | 273 | ML | Does Jesus Possess The Attributes of God?! Muhammed Ali
 ML155:286-309 | P15.C04 | Gradualism for new Muslims: hijab | response | 136 | ML | Intelligent Students Ask Curious Questions About Islam! Muhammed Ali
 ML306:1-31 | P15.C04 | Growth of Islam and conversion numbers | overview | 125 | ML | Deceptive Apostate Challenged On His Claims! Muhammed Ali
+ML395:124-154 | P15.C04 | Growth of Islam through conversion | argument | 172 | ML | Clever Atheist Challenges Muslim Part 2! Muhammed Ali
 ML293:275-306 | P15.C04 | Guest takes the shahada | illustration | 244 | ML | Christian Asks God For A Sign Then This Happens! Muhammed Ali
 ML289:1-46 | P15.C04 | Guest's background and return towards Islam | illustration | 57 | ML | Popular Youtuber Asks Muslim Difficult Questions! Muhammed Ali
 ML123:218-259 | P15.C04 | Guest's Christian background and doubts | overview | 18 | ML | Non-Muslim Lady Questions A Muslim On Polygamy Then This Happens! Muha
@@ -381,11 +412,15 @@ ML241:870-882 | P15.C04 | Invitation to accept Islam | conclusion | 81 | ML | Cu
 ML271:236-290 | P15.C04 | Invitation to accept Islam | argument | 439 | ML | IDF Soldier Confronted A Muslim Live Then THIS HAPPENED! Muhammed Ali
 ML326:244-289 | P15.C04 | Invitation to accept Islam | conclusion | 149 | ML | Coptic Christian Questions Muslim On Hadith! Muhammed Ali
 ML358:624-695 | P15.C04 | Invitation to accept Islam | argument | 422 | ML | Arab Christian Introduced To The Challenge Of The Quran! Muhammed Ali
+ML364:342-394 | P15.C04 | Invitation to accept Islam | conclusion | 437 | ML | Muslim Questioned On Sectarianism In Islam! Muhammed Ali
 ML375:479-532 | P15.C04 | Invitation to accept Islam | conclusion | 485 | ML | French Girls Interested In Islam! Muhammed Ali
+ML388:558-595 | P15.C04 | Invitation to accept Islam | conclusion | 308 | ML | Sincere Christians Investigate Islam Part 2! Muhammed Ali
+ML402:567-610 | P15.C04 | Invitation to accept Islam without pressure | conclusion | 293 | ML | The Truth About Philosophy! Muhammed Ali
 ML120:564-600 | P15.C04 | Invitation to accept Islam; wisdom of prophetic sayings | argument | 409 | ML | Romanian Christian Grills Muslim With Difficult Questions! Muhammed Al
 ML015:599-632 | P15.C04 | Invitation to Islam and no compulsion | argument | 313 | ML | Muslim Surprises Intelligent Lady With Undeniable Evidence For Islam! 
 ML079:379-445 | P15.C04 | Invitation to Islam and taking the shahada | response | 532 | ML | This Christian Came To Convert Muslim But He Didn't Expect This! Muham
 ML357:378-415 | P15.C04 | Invitation to Islam and visiting a mosque | conclusion | 192 | ML | Polish Student Amazed By Islamic Teachings! Muhammed Ali
+ML405:422-463 | P15.C04 | Invitation to read the Quran | conclusion | 218 | ML | Sikh Struggles To Justify His Beliefs! Muhammed Ali - Speakers Corner
 ML041:648-672 | P15.C04 | Invitation to read the Quran and accept Islam | conclusion | 172 | ML | Curious Couple Ask A Muslim To Explain World Suffering! Muhammed Ali
 ML164:319-344 | P15.C04 | Invitation to read the Quran and accept Islam | conclusion | 186 | ML | Agnostic Presents A Logical Problem With Hellfire In Islam! Muhammed A
 ML141:629-642 | P15.C04 | Invitation to research and accept Islam | conclusion | 127 | ML | Orthodox Christian Surprises Muslim With Intelligent Questions! Muhamm
@@ -420,12 +455,14 @@ ML107:548-584 | P15.C04 | Obstacles to accepting Islam | overview | 185 | ML | C
 ML053:598-640 | P15.C04 | Obstacles to accepting Islam and certainty | overview | 202 | ML | Arab Christian Shares His Experience With Islam And Christianity! Muha
 ML311:461-480 | P15.C04 | Past good deeds after conversion | response | 156 | ML | Sincere Man Realises The Contradictions In Christianity! Muhammed Ali
 ML155:257-285 | P15.C04 | Past sins forgiven upon accepting Islam | response | 197 | ML | Intelligent Students Ask Curious Questions About Islam! Muhammed Ali
+ML403:442-481 | P15.C04 | Postponing the shahada to another day | response | 217 | ML | Emotional Shahada! Brother Accepts Islam! Muhammed Ali
 ML222:440-464 | P15.C04 | Practicing Islam after conversion | conclusion | 173 | ML | Muslim Surprises A French Man Looking For Answers! Muhammed Ali
 ML099:314-355 | P15.C04 | Practising Islam under family constraints | response | 262 | ML | Muslim Shockingly Describes Life After Death Like You Are Witnessing I
 ML057:1290-1342 | P15.C04 | Priorities for a new Muslim | response | 506 | ML | Christian Lady Grills Muslim With Questions Then A Surprise Happens! M
 ML053:144-173 | P15.C04 | Prophets' family members who rejected guidance | illustration | 273 | ML | Arab Christian Shares His Experience With Islam And Christianity! Muha
 FR069:1-27 | P15.C04 | Quranic inimitability in Hamza Tzortzis's conversion | overview | 41 | FR | I found out why Hamza Tzortzis converted to Islam
 ML116:308-369 | P15.C04 | Readiness for shahada and new Muslim community | response | 392 | ML | Emotional Shahada | Peruvian Sister Discovers The Truth Of Islam! Muha
+ML369:335-350 | P15.C04 | Readiness to accept Islam | argument | 209 | ML | If You Answer My QUESTIONS I will Accept Islam! Muhammed Ali
 ML287:332-405 | P15.C04 | Readiness to accept Islam despite sins | response | 513 | ML | Christian Lady Receives Reality Check From A Muslim! Muhammed Ali
 ML391:1-32 | P15.C04 | Relative's conversion and freedom in submission | overview | 153 | ML | Curious Lady Grills Muslim! Muhammed Ali
 ML180:132-199 | P15.C04 | Requirements for becoming a Muslim | response | 465 | ML | Sincere Lady About To Accept Islam But This Happens! Muhammed Ali
@@ -450,10 +487,13 @@ ML308:100-136 | P15.C04 | Shahada of a distant Christian | illustration | 214 | 
 ML309:669-714 | P15.C04 | Shahada of a distant Christian | illustration | 445 | ML | Intelligent Man Examines The Evidences For Islam! Muhammed Ali
 ML239:4331-4363 | P15.C04 | Shahada of a new Muslim | illustration | 231 | ML | Aqeedah (Creed) And Its Significance In Islam | AIM Conference 2024 NJ
 ML308:1-28 | P15.C04 | Shahada of a regular viewer | illustration | 129 | ML | 5 People Accept Islam Live In One Stream! Muhammed Ali
+ML403:109-169 | P15.C04 | Sins after conversion and gradual change | response | 455 | ML | Emotional Shahada! Brother Accepts Islam! Muhammed Ali
 ML240:14-38 | P15.C04 | Street dawah conversions: who accepts Islam | illustration | 98 | ML | The One Minute Podcast | Sneak∅ Interviews The Muslim Lantern | Muhamm
 ML359:414-467 | P15.C04 | Student takes the shahada | illustration | 212 | ML | University Student Challenges Muslim On Religion! Muhammed Ali
+ML403:704-746 | P15.C04 | Supplication and sincerity after conversion | conclusion | 195 | ML | Emotional Shahada! Brother Accepts Islam! Muhammed Ali
 ML099:404-442 | P15.C04 | Support and mentoring for new Muslims | response | 237 | ML | Muslim Shockingly Describes Life After Death Like You Are Witnessing I
 ML262:884-925 | P15.C04 | Support and next steps for those considering Islam | conclusion | 429 | ML | Orthodox Christian Questions Muslim About Violence In The Quran! Muham
+ML369:451-472 | P15.C04 | Support offered to a new Muslim | conclusion | 241 | ML | If You Answer My QUESTIONS I will Accept Islam! Muhammed Ali
 ML087:301-327 | P15.C04 | Taking the shahada | illustration | 132 | ML | Truth Seeker Presents Muslim With Genuine Questions About Islam! Muham
 ML099:600-646 | P15.C04 | Taking the shahada | illustration | 274 | ML | Muslim Shockingly Describes Life After Death Like You Are Witnessing I
 ML116:370-431 | P15.C04 | Taking the shahada | illustration | 322 | ML | Emotional Shahada | Peruvian Sister Discovers The Truth Of Islam! Muha
@@ -473,16 +513,24 @@ ML319:393-438 | P15.C04 | Taking the shahada | illustration | 323 | ML | Sincere
 ML347:907-979 | P15.C04 | Taking the shahada | conclusion | 344 | ML | Agnostic Challenges Muslim On God Then This Happens! Muhammed Ali
 ML356:310-381 | P15.C04 | Taking the shahada | other | 708 | ML | American Lady Questions Muslim On Hadith Reliability! Muhammed Ali
 ML358:696-747 | P15.C04 | Taking the shahada | conclusion | 315 | ML | Arab Christian Introduced To The Challenge Of The Quran! Muhammed Ali
+ML403:536-608 | P15.C04 | Taking the shahada | conclusion | 389 | ML | Emotional Shahada! Brother Accepts Islam! Muhammed Ali
+ML415:151-194 | P15.C04 | Taking the shahada and first steps | conclusion | 396 | ML | English Student Becomes Muslim! Muhammed Ali - Speakers Corner
 ML190:587-608 | P15.C04 | Taking the shahada and keeping in contact | response | 114 | ML | Unitarian Christian Questions The Similarities Between The Quran & The
+ML369:351-414 | P15.C04 | Taking the shahada and welcome | conclusion | 307 | ML | If You Answer My QUESTIONS I will Accept Islam! Muhammed Ali
 ML370:1-51 | P15.C04 | Taking the shahada live | illustration | 435 | ML | Surprise Shahada! Jack Accepts Islam! | Muhammed Ali - Speakers Corner
 ML078:740-804 | P15.C04 | Taking the step to accept Islam | response | 660 | ML | Agnostic Puts Islam And Christianity To The Test! Muhammed Ali
 ML006:1476-1490 | P15.C04 | Telling a friend about one's conversion | response | 183 | ML | How Do You Know Which Religion Is From God? A Detailed Comprehensive A
+ML394:342-381 | P15.C04 | Telling non-Muslim parents about conversion | response | 325 | ML | Priests Force Their Beliefs?! Muhammed Ali
+ML365:635-652 | P15.C04 | Threshold of evidence for accepting Islam | conclusion | 139 | ML | Atheist Challenges Muslim On Evolution! Muhammed Ali
 ML046:290-331 | P15.C04 | Treatment of new Muslims by born Muslims | response | 159 | ML | Christian 'Ex-Muzlim" Claims He Left Islam Because Of The Behaviour Of
+ML394:382-417 | P15.C04 | Uncertainty of death and invitation to Islam | conclusion | 254 | ML | Priests Force Their Beliefs?! Muhammed Ali
+ML403:214-322 | P15.C04 | Urgency of accepting Islam before death | argument | 731 | ML | Emotional Shahada! Brother Accepts Islam! Muhammed Ali
 ML281:525-555 | P15.C04 | Visiting a mosque as a non-Muslim | response | 229 | ML | 3 Christian Students Encounter A Muslim! Muhammed Ali
 ML167:114-143 | P15.C04 | Waiting to be perfect before accepting Islam | response | 225 | ML | English Lads Shock Muslim With Their Knowledge Of Islam! Muhammed Ali
 ML222:148-195 | P15.C04 | Waiting to be perfect before converting | response | 286 | ML | Muslim Surprises A French Man Looking For Answers! Muhammed Ali
 ML053:689-705 | P15.C04 | Wanting full knowledge before conversion | response | 138 | ML | Arab Christian Shares His Experience With Islam And Christianity! Muha
 ML356:382-401 | P15.C04 | Welcome to Islam and universality of the message | conclusion | 221 | ML | American Lady Questions Muslim On Hadith Reliability! Muhammed Ali
+ML402:509-532 | P15.C04 | What makes someone a Muslim | overview | 223 | ML | The Truth About Philosophy! Muhammed Ali
 ML057:618-669 | P15.C04 | What prevents accepting Islam | response | 397 | ML | Christian Lady Grills Muslim With Questions Then A Surprise Happens! M
 ML066:1623-1661 | P15.C04 | What prevents accepting Islam | argument | 323 | ML | Passionate Christian Argues For The Trinity With A Muslim! Muhammed Al
 ML190:380-430 | P15.C04 | What prevents accepting Islam | response | 116 | ML | Unitarian Christian Questions The Similarities Between The Quran & The
@@ -490,18 +538,21 @@ ML350:316-364 | P15.C04 | What prevents accepting Islam | response | 540 | ML | 
 ML335:827-869 | P15.C04 | What prevents the caller from accepting Islam | conclusion | 307 | ML | Tunisian Girl Questions Muslim On Women's Rights! Muhammed Ali
 ML347:179-223 | P15.C04 | What stops a convinced person from converting | response | 254 | ML | Agnostic Challenges Muslim On God Then This Happens! Muhammed Ali
 ML375:278-326 | P15.C04 | What stops someone from accepting Islam | response | 375 | ML | French Girls Interested In Islam! Muhammed Ali
+ML401:563-606 | P15.C04 | Why Islam is the fastest growing religion | argument | 319 | ML | Native American Learns About Islam! Muhammed Ali
 ML063:617-640 | P15.C04 | Why most converts to Islam are women | response | 196 | ML | Confident Christian Woman Attempts To Defend Christianity After Encoun
 ML357:136-208 | P15.C04 | Why people convert to Islam; fitrah | response | 357 | ML | Polish Student Amazed By Islamic Teachings! Muhammed Ali
 ML240:39-55 | P15.C04 | Why some men resist Islam: desires and fun | response | 142 | ML | The One Minute Podcast | Sneak∅ Interviews The Muslim Lantern | Muhamm
 ML243:284-301 | P15.C04 | Wish to accept Islam and family obstacles | illustration | 17 | ML | American Man Changes His Mind After Reading The Quran! Muhammed Ali
 ML270:385-417 | P15.C04 | Women converting to Islam | argument | 303 | ML | Christian Questions The Historical Existence Of Prophet Mohammed! Muha
 ML227:577-615 | P15.C04 | Wording variants of the shahada | response | 278 | ML | Agnostic Compares Islam And Christianity! Muhammed Ali
+ML410:647-671 | P15.C05 | Advice to someone who left Islam | conclusion | 291 | ML | Agnostic Questions The Quran! Muhammed Ali - Speakers Corner
 ML238:541-606 | P15.C05 | Bad experiences with Muslims and leaving Islam | response | 382 | ML | Ex-Muslim Transgender Confronts Muslim On LGTBQ! Muhammed Ali
 ML170:63-99 | P15.C05 | Basic practice questions to a claimed ex-Muslim | argument | 111 | ML | Fake "Ex-Muslim" Gets Examined Live On Stream! Muhammed Ali
 ML046:388-410 | P15.C05 | Basing faith on truth, not experiences | conclusion | 134 | ML | Christian 'Ex-Muzlim" Claims He Left Islam Because Of The Behaviour Of
 ML059:255-326 | P15.C05 | Cairo-born ex-Muslim claim and pronunciation | response | 404 | ML | Clip-React| Famous Hollywood Actor Terrence Howard Claims That Islam I
 ML269:1-40 | P15.C05 | Caller left Islam over sexuality | overview | 72 | ML | Ex-Muslim Girl Leaves Islam For LGBTQ!? Muhammed Ali
 ML185:84-174 | P15.C05 | Caller's reasons for leaving Islam | overview | 287 | ML | Masked Apostate Confronts Muslim On Slavery In Islam! Muhammed Ali
+ML379:319-376 | P15.C05 | Christian from a Muslim family background | illustration | 91 | ML | Christian Preacher Speaks The Truth! Muhammed Ali
 ML046:61-99 | P15.C05 | Claims of mistreatment of reverts | response | 245 | ML | Christian 'Ex-Muzlim" Claims He Left Islam Because Of The Behaviour Of
 ML262:842-883 | P15.C05 | Credibility of ex-Muslim conversion claims | response | 265 | ML | Orthodox Christian Questions Muslim About Violence In The Quran! Muham
 FR246:657-734 | P15.C05 | Declining the role of prominent ex-Muslim | illustration | 102 | FR | David Wood's co-host REVERTS to Islam!! [CL Edwards Interview]
@@ -657,6 +708,7 @@ ML250:487-508 | P15.C06 | Debate challenge to podcast critics | argument | 281 |
 FR224:1-40 | P15.C06 | Debate context: Sheikh Uthman and David Wood | overview | 130 | FR | David Wood Gives Up on Age of Aisha Argument!
 FR166:34-123 | P15.C06 | Debate opponent's request to remove a video | response | 478 | FR | He's trying to REMOVE my videos!
 FR057:1-56 | P15.C06 | Dispute with Daniel Haqiqatjou | overview | 238 | FR | Haqiqatjou is a Shirk Apologist
+ML419:47-106 | P15.C06 | Disrespectful conduct of critics at Speakers Corner | response | 193 | ML | Inquisitive Christian Learns About Islam P2! Muhammed Ali - Speakers C
 ML328:278-330 | P15.C06 | Double standard in demanding sources | response | 297 | ML | Arab Christian Confronts Muslim On Bukhari! Muhammed Ali
 FR151:112-196 | P15.C06 | Edited clip and the 'general truth' wording | response | 221 | FR | Apostate Prophet Damage Control
 ML102:729-746 | P15.C06 | Engaging with critics' followers | conclusion | 202 | ML | Christian Gets Busted By Muslim After Misquoting Islamic Sources! Muha

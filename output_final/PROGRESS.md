@@ -15,20 +15,25 @@ All scripts are in `work/scripts/`. Run them from the repository root.
   Each article is labeled `Farid Responds:` with `Source: Farid Responds, article "<title>"` and placed by topic.
   Typst root = repository root (the PDFs are referenced in place as "/Farid Responds/<file>").
 
-## Stage 3: LABEL (classification + speakers + topic ranges) — IN PROGRESS
+## Stage 3: LABEL (classification + speakers + topic ranges) — DONE (2026-10-11)
 - Guide: `work/LABELING_GUIDE.md`; seed chapter codes: `work/seed_taxonomy.json`; validator: `work/scripts/validate_labels.py`
 - Batches: `work/batches.json` (152 batches of ~25k words). Status: `python3 output_final/work/scripts/batches.py status`;
   next incomplete batches: `python3 output_final/work/scripts/batches.py todo 8` (a file is done when its labels+topics validate).
 - Each batch is labeled by one subagent with the identical prompt in `work/scripts/agent_prompt.txt` (replace {FILES}).
 - Outputs: `work/labels/<id>.json` (type, confidence, evidence, speaker ranges, doubts), `work/topics/<id>.json` (topic ranges, refs).
 - Pilot (ML043, FR054, FR002, ML001) done and checked.
-- Labeling status: TOTAL 769/774 files labeled; complete batches: 150/152 (as of 2026-10-11 08:53 UTC)
+- Labeling status: TOTAL 774/774 files labeled; complete batches: 152/152 (as of 2026-10-11 08:57 UTC)
 - NOTE: at ~09:30 UTC the API session limit was hit; batches B54, B57-B63 failed mid-way. To resume: run `batches.py todo 10` and relaunch those batches with the same prompt (files already valid are skipped automatically).
 - USER INSTRUCTION (2026-10-04): labeling subagents must run on the default model (Opus 5.5); do NOT switch them to Sonnet.
 - Oct 2: the weekly usage limit was hit around B57-B64; resumed Oct 4.
 - Remaining stages after labeling: Stage 4 consolidation (CONSOLIDATION_GUIDE.md, consolidate_input.py, check_consolidation.py, build_mapping.py), Stage 5 refs (collect_refs.py, resolve_refs.py auto/final + manual_decisions.json, finalize_refs.py), Stage 6 assemble.py + build_pdf.py, Stage 7 verify.py + check_glyphs.py + render_samples.py.
 - After all batches: run `python3 output_final/work/scripts/fixups.py` (idempotent) and `make_classification.py`.
-## Stage 4: TAXONOMY + MAPPING — NOT STARTED
+## Stage 4: TAXONOMY + MAPPING — IN PROGRESS
+- `python3 output_final/work/scripts/consolidate_input.py` -> work/consolidation/Pxx_in.txt + work/topic_ranges.json
+- One Opus subagent per part with the prompt in `work/scripts/consolidation_prompt.txt` ({PART}, {N}) and CONSOLIDATION_GUIDE.md
+  -> work/consolidation/Pxx_out.json; check: `python3 output_final/work/scripts/check_consolidation.py P01 ... P16`
+- Then: place the 'moves' (work/consolidation/moves_out.json), `build_mapping.py` -> work/taxonomy.json + work/mapping.json
+- Reference review notes collected during labeling: work/report_notes.md (manual decisions already in references/manual_decisions.json)
 ## Stage 5: REFERENCE TEXTS — NOT STARTED
 ## Stage 6: ASSEMBLE + PDF — NOT STARTED
 ## Stage 7: VERIFY (A-F) — NOT STARTED

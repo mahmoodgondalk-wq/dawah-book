@@ -38,10 +38,13 @@ ML168:1226-1281 | P02.C01 | Divine immutability and the meaning of change | resp
 ML171:32-94 | P02.C01 | Divine mercy and divine justice | response | 372 | ML | Mormon Debates Muslim On The Validity Of His Faith! Muhammed Ali
 ML214:297-350 | P02.C01 | Divine mercy and divine justice | response | 362 | ML | Agnostic Enquires About Qur'an Contradictions! Muhammed Ali
 ML233:482-520 | P02.C01 | Divine mercy and the universal call of Islam | argument | 103 | ML | Eddie @TheDeenShowTV Interviews The Muslim Lantern | Masjid Dar Al-Qur
+ML410:558-615 | P02.C01 | Divine will versus human will | response | 405 | ML | Agnostic Questions The Quran! Muhammed Ali - Speakers Corner
 ML107:1-46 | P02.C01 | Do Muslims and Christians worship the same God | response | 323 | ML | Christian Researcher Demands Evidence Against The Crucifixion Of Jesus
 ML265:42-169 | P02.C01 | Do Muslims and Christians worship the same God | response | 616 | ML | Excited Christian Claims Muslims Need The Bible! Muhammed Ali
 ML301:1-38 | P02.C01 | Does Allah love all people | response | 93 | ML | Highlights From My Interview With @jlptalk on @TheFallenStateTV | Muha
 ML098:515-576 | P02.C01 | Does God need or demand worship | response | 581 | ML | Clip-React| 5 Reasons I Left Islam?! Hijabi Says Christians Will Go To
+ML407:379-409 | P02.C01 | Feeling a piece of God within oneself | response | 129 | ML | Should We Doubt Everything?! Muhammed Ali - Speakers Corner
+ML388:488-512 | P02.C01 | Focus on God alone; God is near | argument | 262 | ML | Sincere Christians Investigate Islam Part 2! Muhammed Ali
 ML239:498-548 | P02.C01 | Four components of belief in Allah | overview | 357 | ML | Aqeedah (Creed) And Its Significance In Islam | AIM Conference 2024 NJ
 ML188:219-270 | P02.C01 | God as Father versus Rabb | response | 351 | ML | Ex-Muslim Questions The Rationality Behind Islamic Laws! Muhammed Ali
 ML245:277-287 | P02.C01 | God as loving and just | response | 172 | ML | Pantheist Challenges The Muslim View Of God! Muhammed Ali
@@ -52,11 +55,14 @@ ML196:350-388 | P02.C01 | God does not resemble creation | argument | 137 | ML |
 ML381:33-98 | P02.C01 | God does not resemble His creation | argument | 310 | ML | @IShowSpeed Confronts UK Muslims!
 ML112:181-225 | P02.C01 | God gains no benefit from worship | response | 243 | ML | Emotional Apostate Attempts To Blame God For Disbelief! Muhammed Ali
 ML216:267-336 | P02.C01 | God is love versus God is loving | response | 477 | ML | Non-Muslim Lady Questions Muslim On Violence In Islam! Muhammed Ali
+ML397:1-24 | P02.C01 | God is not a human being | overview | 173 | ML | Why Should I Accept Your Religion?! Muhammed Ali
 ML375:44-125 | P02.C01 | God is not male and beyond comprehension | argument | 532 | ML | French Girls Interested In Islam! Muhammed Ali
+ML402:93-118 | P02.C01 | God is unlike His creation | argument | 202 | ML | The Truth About Philosophy! Muhammed Ali
 ML211:346-418 | P02.C01 | God unlike creation: Surah al-Ikhlas | response | 462 | ML | Atheist Examines The Muslim Belief In God! Muhammed Ali
 ML383:417-490 | P02.C01 | God's essential attributes: what God is and does | response | 441 | ML | Australian Christians Challenge Muslim On Christianity! Muhammed Ali
 ML060:909-925 | P02.C01 | God's knowledge and presence, not indwelling | response | 133 | ML | Sneako Questions The Muslim Lantern On Shia & Sunni Unity | The Iran W
 ML063:308-386 | P02.C01 | God's omniscience in Christian and Islamic belief | argument | 454 | ML | Confident Christian Woman Attempts To Defend Christianity After Encoun
+ML396:279-310 | P02.C01 | God's power versus magic | response | 163 | ML | Clever Atheist Challenges Muslim Part 1! Muhammed Ali
 ML202:116-164 | P02.C01 | God's transcendence and eternal knowledge | response | 306 | ML | Christian Attempts To Explain The Concept Of God! Muhammed Ali
 ML064:1013-1028 | P02.C01 | God's transcendence versus incarnation | response | 109 | ML | Clip-React| Responding To Professor Jiang's Lecture On The Islamic Gol
 ML204:229-303 | P02.C01 | How Muslims conceive of God | response | 559 | ML | Atheist Challenges Muslim On The Need For The Existence of God! Muhamm
@@ -66,9 +72,11 @@ ML342:272-313 | P02.C01 | Innate belief in God and Islamic description of God | 
 ML064:880-925 | P02.C01 | Is God everywhere: Allah above the Throne | response | 343 | ML | Clip-React| Responding To Professor Jiang's Lecture On The Islamic Gol
 ML209:265-366 | P02.C01 | Is God love: attributes need a bearer | response | 433 | ML | Philosophers Challenge The Muslim Understanding Of God! Muhammed Ali
 ML334:573-623 | P02.C01 | Is Yahweh the same God as Allah | response | 354 | ML | Does The Concept of The Trinity Make Sense?! Muhammed Ali
+ML413:455-478 | P02.C01 | Islamic concept of God and invitation to Islam | conclusion | 195 | ML | Christian Preacher Twists His Scripture P2! Muhammed Ali - Speakers Co
 ML232:167-186 | P02.C01 | Islamic concept of God and the soul | overview | 168 | ML | Buddhist Monk Surprises Muslim With His Beliefs! Muhammed Ali
 ML386:137-167 | P02.C01 | Islamic concept of God compared with Jainism | overview | 105 | ML | Jainism And The Concept Of God! Muhammed Ali
 ML033:459-507 | P02.C01 | Islamic concept of God versus anthropomorphism | response | 451 | ML | Buddhist Gets Defensive After A Muslim Highlights The Problems With Bu
+ML390:20-33 | P02.C01 | Islamic concept of God versus Christianity | overview | 145 | ML | Friendly Lady Amazed By Islamic Teachings! Muhammed Ali
 ML349:34-54 | P02.C01 | Islamic concept of God's oneness | argument | 205 | ML | Ex-Christian Lady Curious About Islam! Muhammed Ali
 ML359:1-64 | P02.C01 | Islamic concept of God: oneness and transcendence | argument | 383 | ML | University Student Challenges Muslim On Religion! Muhammed Ali
 ML376:168-197 | P02.C01 | Islamic description of God: Surah al-Ikhlas and Ayat al-Kursi | argument | 279 | ML | Why Can't You Mock The Prophet of Islam? Muhammed Ali
@@ -104,6 +112,7 @@ ML177:39-109 | P02.C01 | Quranic definition of God and why it matters | argument
 ML320:184-197 | P02.C01 | Quranic definition of God in Surah al-Ikhlas | overview | 166 | ML | Atheist Irrational Criteria For God's Existence! Muhammed Ali
 ML239:1349-1422 | P02.C01 | Recap: four components of belief in Allah | overview | 524 | ML | Aqeedah (Creed) And Its Significance In Islam | AIM Conference 2024 NJ
 ML239:2729-2823 | P02.C01 | Summary of principles on names and attributes | conclusion | 647 | ML | Aqeedah (Creed) And Its Significance In Islam | AIM Conference 2024 NJ
+ML417:1-32 | P02.C01 | Surah al-Ikhlas and the oneness of God | argument | 265 | ML | A Christian Testimony About Islam Part 2! Muhammed Ali - Speakers Corn
 ML239:2400-2552 | P02.C01 | Taking divine attributes upon apparent meaning | argument | 1048 | ML | Aqeedah (Creed) And Its Significance In Islam | AIM Conference 2024 NJ
 ML145:595-620 | P02.C01 | Tawheed: no human being is God | argument | 275 | ML | Liberal Woman Debates Muslim On The Need For Religion! Muhammed Ali
 ML287:230-260 | P02.C01 | Tawheed: only God knows the unseen | argument | 225 | ML | Christian Lady Receives Reality Check From A Muslim! Muhammed Ali
@@ -115,12 +124,16 @@ FR334:209-257 | P02.C01 | Whether Allah is spirit or physical | response | 143 |
 ML204:304-326 | P02.C01 | Whether God has consciousness | response | 194 | ML | Atheist Challenges Muslim On The Need For The Existence of God! Muhamm
 ML112:1-84 | P02.C01 | Why a self-sufficient God deserves worship | response | 600 | ML | Emotional Apostate Attempts To Blame God For Disbelief! Muhammed Ali
 ML206:411-430 | P02.C01 | Why God does not have a son | response | 130 | ML | Christians Challenge Muslim On Evidences For Christianity! Muhammed Al
+ML388:287-310 | P02.C01 | Why God does not take a son | argument | 206 | ML | Sincere Christians Investigate Islam Part 2! Muhammed Ali
 ML209:236-264 | P02.C01 | Why humans cannot be called God | response | 209 | ML | Philosophers Challenge The Muslim Understanding Of God! Muhammed Ali
 ML210:657-718 | P02.C01 | Worshipping God alone | argument | 449 | ML | Agnostic Lady Questions Muslim On Evidence Of God! Muhammed Ali
 FR054:270-279 | P02.C02 | Accusation about seeking help from jinn | response | 69 | FR | The Lies of Haqiqatjou
+ML424:106-133 | P02.C02 | Antiquity of a sect and following forefathers | response | 208 | ML | Can You Call Upon The Dead in Islam?! A Conversation With Shia
+ML424:310-348 | P02.C02 | Asking the dead for provision and children | argument | 383 | ML | Can You Call Upon The Dead in Islam?! A Conversation With Shia
 FR057:57-122 | P02.C02 | Belief that imams control all atoms | overview | 458 | FR | Haqiqatjou is a Shirk Apologist
 FR049:139-191 | P02.C02 | Belief that imams control the universe | response | 238 | FR | My Reaction to Wahhabism Video + Debate Challenge
 ML060:606-659 | P02.C02 | Calling upon Ali and martyrs being alive | response | 572 | ML | Sneako Questions The Muslim Lantern On Shia & Sunni Unity | The Iran W
+ML424:34-105 | P02.C02 | Calling upon Ali and the dead | argument | 636 | ML | Can You Call Upon The Dead in Islam?! A Conversation With Shia
 ML291:87-127 | P02.C02 | Calling upon Ali for help | response | 246 | ML | Afghan Shia Questions Muslim On Sunnism! Muhammed Ali
 ML002:1-42 | P02.C02 | Calling upon Ali in times of crisis | overview | 464 | ML | Clip-React| Jewish Rabbi Gives Shia A Lesson In Tawheed | Muhammed Ali
 FR057:123-148 | P02.C02 | Calling upon Jesus as a saint | response | 10 | FR | Haqiqatjou is a Shirk Apologist
@@ -131,9 +144,13 @@ ML323:1-58 | P02.C02 | Claim that most Muslims commit shirk | response | 251 | M
 ML227:307-347 | P02.C02 | Definition of major and minor shirk | overview | 225 | ML | Agnostic Compares Islam And Christianity! Muhammed Ali
 ML323:59-69 | P02.C02 | Definition of major shirk | overview | 133 | ML | Atheist Attempts To Mock Muslims Then Gets Caught! Muhammed Ali
 ML239:1576-1711 | P02.C02 | Definitions of major and minor shirk | overview | 859 | ML | Aqeedah (Creed) And Its Significance In Islam | AIM Conference 2024 NJ
+ML424:234-263 | P02.C02 | Direct supplication to Allah without intermediaries | argument | 245 | ML | Can You Call Upon The Dead in Islam?! A Conversation With Shia
 FR057:149-185 | P02.C02 | Downplaying the severity of shirk | argument | 104 | FR | Haqiqatjou is a Shirk Apologist
+ML424:264-309 | P02.C02 | Dua is worship | argument | 257 | ML | Can You Call Upon The Dead in Islam?! A Conversation With Shia
+ML424:349-375 | P02.C02 | Dua is worship | response | 109 | ML | Can You Call Upon The Dead in Islam?! A Conversation With Shia
 ML323:158-255 | P02.C02 | Evidence for claims of widespread shirk | response | 569 | ML | Atheist Attempts To Mock Muslims Then Gets Caught! Muhammed Ali
 ML002:127-163 | P02.C02 | Exclusivity of worship and seeking help | argument | 293 | ML | Clip-React| Jewish Rabbi Gives Shia A Lesson In Tawheed | Muhammed Ali
+ML424:194-233 | P02.C02 | Forefathers will not benefit on Judgment Day | argument | 358 | ML | Can You Call Upon The Dead in Islam?! A Conversation With Shia
 FR057:247-287 | P02.C02 | Independent versus delegated power of imams | response | 153 | FR | Haqiqatjou is a Shirk Apologist
 ML064:926-991 | P02.C02 | Islam's rejection of polytheism | response | 363 | ML | Clip-React| Responding To Professor Jiang's Lecture On The Islamic Gol
 FR024:26-70 | P02.C02 | Living martyrs verse and calling upon the dead | response | 359 | FR | Sneakos asks a Sunni, Shia, and an Imposter about SHIRK
@@ -145,6 +162,7 @@ ML125:167-186 | P02.C02 | Praying to Mary and saints | argument | 253 | ML | Chr
 ML223:526-669 | P02.C02 | Quran on calling upon other than Allah | argument | 1035 | ML | Muslim Fully Dismantles The Shia Position! Muhammed Ali
 ML002:164-215 | P02.C02 | Quranic evidence that supplication is worship | argument | 494 | ML | Clip-React| Jewish Rabbi Gives Shia A Lesson In Tawheed | Muhammed Ali
 ML141:160-255 | P02.C02 | Saints in Christianity and awliya in Islam | response | 752 | ML | Orthodox Christian Surprises Muslim With Intelligent Questions! Muhamm
+ML424:134-170 | P02.C02 | Seeking guidance through Ali | response | 266 | ML | Can You Call Upon The Dead in Islam?! A Conversation With Shia
 FR057:588-686 | P02.C02 | Shia scholar on atoms humbling before imams | illustration | 38 | FR | Haqiqatjou is a Shirk Apologist
 FR057:687-715 | P02.C02 | Shifting defenses of wilayah takwiniyyah | conclusion | 189 | FR | Haqiqatjou is a Shirk Apologist
 ML219:188-215 | P02.C02 | Shirk as the gravest sin | response | 306 | ML | Muslim Lantern | Arab | Sneak0 | Young Don | Warner | Discuss Religion
@@ -166,6 +184,7 @@ ML239:1191-1217 | P02.C03 | Asking for evidence for religious claims | argument 
 ML239:4255-4318 | P02.C03 | Claim that Ash'aris are the Ummah's majority | response | 428 | ML | Aqeedah (Creed) And Its Significance In Islam | AIM Conference 2024 NJ
 ML168:1120-1167 | P02.C03 | Creed labels and the Mu'tazilah | response | 217 | ML | Arab Christian Attempts To Outsmart A Muslim! Muhammed Ali
 ML284:1095-1145 | P02.C03 | Definition of Iman includes actions | argument | 525 | ML | The Situation Of The Ummah, The Disease & The Cure | Al Muwahiddeen Mo
+ML418:1-49 | P02.C03 | Definition of iman: statement, belief, action | argument | 353 | ML | A Christian Testimony About Islam Part 1! Muhammed Ali - Speakers Corn
 ML312:257-324 | P02.C03 | Divine attributes and the Mu'tazila | response | 519 | ML | Why Do Muslims Reject The Claim Of Paul? Muhammed Ali
 ML237:168-190 | P02.C03 | Faith as belief, speech and action | response | 117 | ML | Christian Surprises Muslim With Unusual Questions! Muhammed Ali
 FR231:83-129 | P02.C03 | Following revelation and the Companions' understanding | argument | 18 | FR | Shocking Views of Shabir Ally
@@ -179,6 +198,7 @@ ML239:128-219 | P02.C03 | Meaning of aqeedah and six articles of faith | overvie
 ML064:128-164 | P02.C03 | Meaning of Islam and Iman: technical definitions | response | 392 | ML | Clip-React| Responding To Professor Jiang's Lecture On The Islamic Gol
 FR134:821-929 | P02.C03 | Qualities of the people of hadith | argument | 623 | FR | The Hadith of the 73 Sects - 2nd AIM Conference (2022)
 ML274:1-20 | P02.C03 | Rejecting parts of revelation and being Muslim | response | 129 | ML | American Lady Questions Muslim About Women In Islam! Muhammed Ali
+ML424:171-193 | P02.C03 | Shirk as a nullifier of Islam | response | 134 | ML | Can You Call Upon The Dead in Islam?! A Conversation With Shia
 ML245:48-68 | P02.C03 | Six articles of faith | overview | 294 | ML | Pantheist Challenges The Muslim View Of God! Muhammed Ali
 ML239:270-340 | P02.C03 | Sources of religious knowledge and whose understanding | overview | 500 | ML | Aqeedah (Creed) And Its Significance In Islam | AIM Conference 2024 NJ
 ML239:2870-3009 | P02.C03 | The Jahmiyyah and denial of divine attributes | overview | 944 | ML | Aqeedah (Creed) And Its Significance In Islam | AIM Conference 2024 NJ
@@ -187,6 +207,7 @@ ML354:641-685 | P02.C03 | Was Ibn Hajar an Ash'ari | response | 455 | ML | Aggre
 ML239:3844-3891 | P02.C03 | Why tawhid is divided into categories | response | 295 | ML | Aqeedah (Creed) And Its Significance In Islam | AIM Conference 2024 NJ
 ML026:608-633 | P02.C04 | Accusing relatives of sihr through visions | response | 355 | ML | How To Protect Yourself From Jinn, Possession, Magic & The Evil Eye In
 ML279:244-283 | P02.C04 | Angels cannot disobey God | argument | 446 | ML | Muslim Highlights The Inconsistency Of The Bible! Muhammed Ali
+ML408:106-124 | P02.C04 | Angels compared to humans | overview | 110 | ML | Iceland Visitors Enquire About Islam! Muhammed Ali - Speakers Corner
 ML323:256-270 | P02.C04 | Belief in magic in Islam | response | 139 | ML | Atheist Attempts To Mock Muslims Then Gets Caught! Muhammed Ali
 ML026:910-925 | P02.C04 | Closing advice to implement protections | conclusion | 187 | ML | How To Protect Yourself From Jinn, Possession, Magic & The Evil Eye In
 ML026:634-676 | P02.C04 | Correct way to perform ruqyah | argument | 598 | ML | How To Protect Yourself From Jinn, Possession, Magic & The Evil Eye In
@@ -196,6 +217,7 @@ ML026:468-509 | P02.C04 | Difference between evil eye and envy | argument | 549 
 ML289:398-444 | P02.C04 | Evidence for the existence of jinn | response | 431 | ML | Popular Youtuber Asks Muslim Difficult Questions! Muhammed Ali
 ML026:86-167 | P02.C04 | Hidden harms of jinn in the home and food | argument | 1282 | ML | How To Protect Yourself From Jinn, Possession, Magic & The Evil Eye In
 ML183:398-445 | P02.C04 | How Satan diverts people from Islam | response | 267 | ML | Tyson Hockley Grills The Muslim Lantern With Difficult Questions! Muha
+ML407:53-68 | P02.C04 | Iblis and Satan's whispering | response | 119 | ML | Should We Doubt Everything?! Muhammed Ali - Speakers Corner
 ML087:24-88 | P02.C04 | Iblis was a jinn, not an angel | response | 450 | ML | Truth Seeker Presents Muslim With Genuine Questions About Islam! Muham
 FR383:1-37 | P02.C04 | Jinn in Islam and absence from the Bible | overview | 40 | FR | [DEBUNKED] The Jinn Delusion - Apostate Prophet
 ML026:168-228 | P02.C04 | Jinn possession versus psychological illness | argument | 850 | ML | How To Protect Yourself From Jinn, Possession, Magic & The Evil Eye In
@@ -232,8 +254,10 @@ ML149:109-160 | P02.C05 | Certainty of death and urgency of faith | argument | 6
 ML099:214-277 | P02.C05 | Concern for one's own fate on Judgment Day | argument | 553 | ML | Muslim Shockingly Describes Life After Death Like You Are Witnessing I
 ML224:239-251 | P02.C05 | Cremation and resurrection | response | 154 | ML | Agnostic Man Grills Muslim With Difficult Questions! Muhammed Ali
 ML067:561-593 | P02.C05 | Dajjal compared with Jesus | response | 305 | ML | Angry Christian Rage Quits After Confronting Muslim On Jesus In The Qu
+ML394:418-471 | P02.C05 | Death, the grave and Judgment Day | response | 452 | ML | Priests Force Their Beliefs?! Muhammed Ali
 ML067:426-443 | P02.C05 | Description of the Dajjal | response | 65 | ML | Angry Christian Rage Quits After Confronting Muslim On Jesus In The Qu
 ML151:97-155 | P02.C05 | Events after death and the Barzakh | overview | 517 | ML | Agnostic Grills Muslim With Difficult And Inquisitive Questions! Muham
+ML416:645-665 | P02.C05 | Judgment for worshipping other than God | argument | 110 | ML | Rude Christian Refuses To Leave! Muhammed Ali - Speakers Corner
 ML091:207-243 | P02.C05 | Justice for the wronged in the afterlife | argument | 528 | ML | Omnist Left Speechless After Hearing This Muslim's Answer! Muhammed Al
 ML041:418-447 | P02.C05 | Life as a test and the moment of death | argument | 348 | ML | Curious Couple Ask A Muslim To Explain World Suffering! Muhammed Ali
 ML258:344-382 | P02.C05 | Mahdi, Dajjal and the return of Jesus | response | 426 | ML | Clip-React| No Bible Contradictions? Following Mazhab? Mahdi Is Dajjal
@@ -249,6 +273,7 @@ ML241:844-857 | P02.C05 | Role of Muhammad on the Day of Judgment | response | 1
 ML274:64-80 | P02.C05 | Shock and fear on the Day of Judgment | response | 170 | ML | American Lady Questions Muslim About Women In Islam! Muhammed Ali
 ML041:364-417 | P02.C05 | Signs of the Hour and the Antichrist | response | 598 | ML | Curious Couple Ask A Muslim To Explain World Suffering! Muhammed Ali
 FR395:48-65 | P02.C05 | Sirat bridge absent from the Bible | response | 60 | FR | [DEBUNKED] The Islamic Bridge to Heaven - Apostate Prophet
+ML380:1537-1589 | P02.C05 | The scale on the Day of Judgment | response | 176 | ML | Christian Preachers Ambush Muslim! Muhammed Ali
 ML058:437-469 | P02.C05 | Universal message and signs of the Hour | response | 327 | ML | Agnostic Claims That Pantheism Is More Rational Than Monotheism! Muham
 ML283:204-248 | P02.C05 | Wealth does not benefit after death | illustration | 267 | ML | Popular Youtuber Abandons Money And Fame For Christianity?! Muhammed A
 ML237:117-167 | P02.C05 | Weighing of good and bad deeds | response | 546 | ML | Christian Surprises Muslim With Unusual Questions! Muhammed Ali
@@ -299,6 +324,7 @@ ML073:1036-1073 | P02.C06 | Wine of paradise and alcohol prohibition | response 
 ML393:89-122 | P02.C07 | Accountability according to circumstances | response | 394 | ML | Future Priest Attempts To Rescue A Christian Part1! Muhammed Ali
 ML172:424-484 | P02.C07 | Asking for relatives in Paradise | response | 401 | ML | Muslim and Christian Sisters Enquire About Hellfire In Islam! Muhammed
 ML098:784-840 | P02.C07 | Believers and Muslims in Quranic usage | response | 561 | ML | Clip-React| 5 Reasons I Left Islam?! Hijabi Says Christians Will Go To
+ML374:493-511 | P02.C07 | Can Christians enter Paradise: shirk | response | 297 | ML | Australian Couple Defend Their Beliefs! Muhammed Ali
 ML198:777-808 | P02.C07 | Catholic view of Muslims' salvation | argument | 294 | ML | Intellectual Catholic Argues For The Divinity Of Jesus! Muhammed Ali
 ML100:1-60 | P02.C07 | Conditions for non-Muslims entering Hell | response | 560 | ML | Doubtful Muslim Learns the Secret to Overcoming Doubts! Muhammed Ali
 ML227:239-277 | P02.C07 | Conveying the message and the test of non-receivers | response | 313 | ML | Agnostic Compares Islam And Christianity! Muhammed Ali
@@ -306,11 +332,17 @@ ML057:340-372 | P02.C07 | Criteria for entering Paradise in Islam | response | 3
 ML099:278-313 | P02.C07 | Divine mercy and the fate of loved ones | response | 328 | ML | Muslim Shockingly Describes Life After Death Like You Are Witnessing I
 ML098:709-783 | P02.C07 | Do Christians enter Paradise | response | 578 | ML | Clip-React| 5 Reasons I Left Islam?! Hijabi Says Christians Will Go To
 ML040:1343-1386 | P02.C07 | Duty to investigate and who is punished | conclusion | 365 | ML | Confident Catholic Attempts To Disprove Islam Using Catholicism! Muham
+ML401:666-697 | P02.C07 | Entering Paradise by deeds or mercy | response | 188 | ML | Native American Learns About Islam! Muhammed Ali
 ML314:863-929 | P02.C07 | Entering Paradise by God's mercy and deeds | response | 599 | ML | Does Jesus Possess The Attributes of God?! Muhammed Ali
+ML420:313-473 | P02.C07 | Entering Paradise by God's mercy, not deeds | response | 934 | ML | Inquisitive Christian Learns About Islam P1! Muhammed Ali - Speakers C
+ML380:1386-1490 | P02.C07 | Entering Paradise by mercy, not deeds | response | 505 | ML | Christian Preachers Ambush Muslim! Muhammed Ali
+ML374:320-336 | P02.C07 | Entering Paradise: faith, works and God's mercy | response | 96 | ML | Australian Couple Defend Their Beliefs! Muhammed Ali
+ML374:458-492 | P02.C07 | Entering Paradise: mercy and punishment of sinful Muslims | response | 396 | ML | Australian Couple Defend Their Beliefs! Muhammed Ali
 ML333:802-844 | P02.C07 | Eternal Hellfire and the need to find the truth | conclusion | 342 | ML | Atheists Challenge Muslim On The Existence of God! Muhammed Ali
 ML167:144-158 | P02.C07 | Eternal punishment only for dying in disbelief | response | 102 | ML | English Lads Shock Muslim With Their Knowledge Of Islam! Muhammed Ali
 ML347:314-337 | P02.C07 | Fairness of unequal circumstances in life | response | 193 | ML | Agnostic Challenges Muslim On God Then This Happens! Muhammed Ali
 ML116:177-218 | P02.C07 | Fate of a parent who died non-Muslim | response | 311 | ML | Emotional Shahada | Peruvian Sister Discovers The Truth Of Islam! Muha
+ML394:214-236 | P02.C07 | Fate of Christians who reject Islam | response | 167 | ML | Priests Force Their Beliefs?! Muhammed Ali
 ML150:296-369 | P02.C07 | Fate of good non-Muslims who reject Islam | response | 471 | ML | Agnostic Refuses To Accept Rational Evidences For Islam! Muhammed Ali
 ML035:614-668 | P02.C07 | Fate of Jews and Christians dying in disbelief | response | 387 | ML | Confident Christian Attempts To Trap A Muslim But This Happens! Muhamm
 ML387:41-108 | P02.C07 | Fate of non-Muslim family and Quran 2:62 | response | 589 | ML | American Revert Asks Questions! Muhammed Ali
@@ -322,12 +354,16 @@ ML314:537-561 | P02.C07 | Fate of those who associate partners | response | 322 
 ML221:526-618 | P02.C07 | Fate of those who die without the message | response | 534 | ML | University Students Surprise Muslim With Difficult Questions! Muhammed
 ML084:799-814 | P02.C07 | Fate of those who never received the message | response | 103 | ML | Christian Wife Grills A Muslim With Difficult Questions! Muhammed Ali
 ML164:157-180 | P02.C07 | Fate of those who never received the message | response | 167 | ML | Agnostic Presents A Logical Problem With Hellfire In Islam! Muhammed A
+ML379:377-440 | P02.C07 | Fate of those who reject the message | response | 121 | ML | Christian Preacher Speaks The Truth! Muhammed Ali
+ML420:515-554 | P02.C07 | Fitrah and those the message never reached | response | 309 | ML | Inquisitive Christian Learns About Islam P1! Muhammed Ali - Speakers C
 ML141:94-159 | P02.C07 | Forgiveness for those who die as disbelievers | response | 493 | ML | Orthodox Christian Surprises Muslim With Intelligent Questions! Muhamm
 ML333:738-801 | P02.C07 | God's justice, punishment and forgiveness | response | 484 | ML | Atheists Challenge Muslim On The Existence of God! Muhammed Ali
 ML274:21-63 | P02.C07 | Good deeds of disbelievers in the Hereafter | response | 388 | ML | American Lady Questions Muslim About Women In Islam! Muhammed Ali
 ML172:358-382 | P02.C07 | Good deeds without faith in God | response | 158 | ML | Muslim and Christian Sisters Enquire About Hellfire In Islam! Muhammed
 ML219:1359-1448 | P02.C07 | Good deeds, rewards and entering Paradise by mercy | response | 683 | ML | Muslim Lantern | Arab | Sneak0 | Young Don | Warner | Discuss Religion
+ML420:474-490 | P02.C07 | Hadith of the man and the blessing of eyesight | illustration | 168 | ML | Inquisitive Christian Learns About Islam P1! Muhammed Ali - Speakers C
 ML112:85-138 | P02.C07 | Hell for disbelievers who live morally | response | 498 | ML | Emotional Apostate Attempts To Blame God For Disbelief! Muhammed Ali
+ML420:120-201 | P02.C07 | How to attain salvation in Islam: shahada and iman | response | 432 | ML | Inquisitive Christian Learns About Islam P1! Muhammed Ali - Speakers C
 ML172:383-423 | P02.C07 | Intercession for non-Muslim relatives | response | 288 | ML | Muslim and Christian Sisters Enquire About Hellfire In Islam! Muhammed
 ML060:710-813 | P02.C07 | Judging who is a martyr | illustration | 870 | ML | Sneako Questions The Muslim Lantern On Shia & Sunni Unity | The Iran W
 ML219:1449-1487 | P02.C07 | Late converts and levels of Paradise | response | 273 | ML | Muslim Lantern | Arab | Sneak0 | Young Don | Warner | Discuss Religion
@@ -356,8 +392,10 @@ ML311:385-460 | P02.C07 | Salvation of Jews and Christians | response | 854 | ML
 ML237:81-116 | P02.C07 | Salvation of Muslims and punishment for sins | response | 273 | ML | Christian Surprises Muslim With Unusual Questions! Muhammed Ali
 ML189:198-249 | P02.C07 | Salvation through following the messenger | argument | 378 | ML | Christian and Muslim Debate Who Deserves Heaven! Muhammed Ali
 ML003:725-796 | P02.C07 | Salvation: one true God and his messengers | response | 784 | ML | Passionate Christian Challenges Muslim On Jesus & Salvation! Muhammed 
+ML379:139-194 | P02.C07 | Scales of deeds, God's mercy and entering Paradise | response | 149 | ML | Christian Preacher Speaks The Truth! Muhammed Ali
 ML116:263-307 | P02.C07 | Shahada in another language and hope for mother | response | 329 | ML | Emotional Shahada | Peruvian Sister Discovers The Truth Of Islam! Muha
 ML112:226-276 | P02.C07 | Sinful believers versus moral disbelievers | response | 355 | ML | Emotional Apostate Attempts To Blame God For Disbelief! Muhammed Ali
+ML403:482-535 | P02.C07 | Tattoos, sins and entering Paradise | response | 269 | ML | Emotional Shahada! Brother Accepts Islam! Muhammed Ali
 ML297:64-92 | P02.C07 | Testimony of faith and entering Paradise | response | 127 | ML | Sister Cries After Realising Islam Is The Truth! Muhammed Ali
 ML057:476-512 | P02.C07 | Those who never received the message | response | 421 | ML | Christian Lady Grills Muslim With Questions Then A Surprise Happens! M
 ML172:333-357 | P02.C07 | Those who never received the message | response | 165 | ML | Muslim and Christian Sisters Enquire About Hellfire In Islam! Muhammed
@@ -379,6 +417,7 @@ ML357:284-340 | P02.C08 | Benefits and wisdom of prayer | argument | 491 | ML | 
 ML254:37-110 | P02.C08 | Change of the Qibla from Jerusalem to the Ka'ba | response | 532 | ML | Agnostic "Confused" By Simple Islamic Concepts?! Muhammed Ali
 ML335:652-699 | P02.C08 | Conditions for answered supplication | response | 559 | ML | Tunisian Girl Questions Muslim On Women's Rights! Muhammed Ali
 ML172:564-640 | P02.C08 | Conditions of repentance | response | 515 | ML | Muslim and Christian Sisters Enquire About Hellfire In Islam! Muhammed
+ML418:182-290 | P02.C08 | Conditions of repentance in Islam | response | 569 | ML | A Christian Testimony About Islam Part 1! Muhammed Ali - Speakers Corn
 ML210:306-329 | P02.C08 | Covering the head in prayer | response | 151 | ML | Agnostic Lady Questions Muslim On Evidence Of God! Muhammed Ali
 ML091:179-206 | P02.C08 | Deathbed repentance in Islam | response | 307 | ML | Omnist Left Speechless After Hearing This Muslim's Answer! Muhammed Al
 ML285:27-131 | P02.C08 | Definition of bid'ah: linguistic and legal senses | response | 1410 | ML | Clip-React| Quran Scientific Claim Debunked? Bida'ah Is Good? | Muhamm
@@ -393,14 +432,19 @@ ML183:348-397 | P02.C08 | Feeling the presence of God | response | 373 | ML | Ty
 ML027:102-121 | P02.C08 | Five daily prayers and the Night Journey | illustration | 283 | ML | New Convert Questions Muslim On Lack Of Connection With God In Islam! 
 ML245:1-34 | P02.C08 | Five pillars of Islam | overview | 577 | ML | Pantheist Challenges The Muslim View Of God! Muhammed Ali
 ML387:1-40 | P02.C08 | Forgiveness in Ramadan narration | response | 186 | ML | American Revert Asks Questions! Muhammed Ali
+ML403:784-810 | P02.C08 | Ghusl after accepting Islam | response | 131 | ML | Emotional Shahada! Brother Accepts Islam! Muhammed Ali
+ML418:351-398 | P02.C08 | Giving for the sake of Allah | argument | 272 | ML | A Christian Testimony About Islam Part 1! Muhammed Ali - Speakers Corn
 ML283:59-71 | P02.C08 | Gratitude by looking at those less fortunate | illustration | 83 | ML | Popular Youtuber Abandons Money And Fame For Christianity?! Muhammed A
 ML180:249-317 | P02.C08 | Gratitude to God and prayer | argument | 508 | ML | Sincere Lady About To Accept Islam But This Happens! Muhammed Ali
 ML340:255-325 | P02.C08 | Importance and lessons of the daily prayer | response | 983 | ML | Non-Muslim Audience Asks Muslim Difficult Questions! Muhammed Ali
 ML303:113-123 | P02.C08 | Importance of dua for the oppressed | conclusion | 201 | ML | The Situation In Palestine, Jordan Peterson And A Lesson For Muslims! 
 ML254:251-312 | P02.C08 | Importance of Hajj and circling the Ka'ba | response | 394 | ML | Agnostic "Confused" By Simple Islamic Concepts?! Muhammed Ali
 ML100:258-299 | P02.C08 | Importance of prayer and abandoning prayer | argument | 557 | ML | Doubtful Muslim Learns the Secret to Overcoming Doubts! Muhammed Ali
+ML380:1231-1385 | P02.C08 | Justice of forgiving a repentant sinner | response | 576 | ML | Christian Preachers Ambush Muslim! Muhammed Ali
 ML233:1798-1877 | P02.C08 | Keeping intentions sincere in dawah | response | 521 | ML | Eddie @TheDeenShowTV Interviews The Muslim Lantern | Masjid Dar Al-Qur
 ML027:1-43 | P02.C08 | Lack of spiritual connection in prayer | overview | 179 | ML | New Convert Questions Muslim On Lack Of Connection With God In Islam! 
+ML369:300-334 | P02.C08 | Learning to pray and benefits of prayer | response | 407 | ML | If You Answer My QUESTIONS I will Accept Islam! Muhammed Ali
+ML369:96-153 | P02.C08 | Leaving sins gradually through increasing faith | response | 671 | ML | If You Answer My QUESTIONS I will Accept Islam! Muhammed Ali
 ML340:413-467 | P02.C08 | Lessons of fasting and the five pillars | response | 713 | ML | Non-Muslim Audience Asks Muslim Difficult Questions! Muhammed Ali
 ML347:837-872 | P02.C08 | Levels of faith and certainty | response | 439 | ML | Agnostic Challenges Muslim On God Then This Happens! Muhammed Ali
 ML222:394-439 | P02.C08 | Love of money and wealth as a test | response | 296 | ML | Muslim Surprises A French Man Looking For Answers! Muhammed Ali
@@ -414,6 +458,8 @@ ML285:189-221 | P02.C08 | Minarets as means, not worship | response | 363 | ML |
 ML227:182-238 | P02.C08 | Missing Fajr prayer and its virtues | response | 547 | ML | Agnostic Compares Islam And Christianity! Muhammed Ali
 ML289:530-587 | P02.C08 | Missing the Fajr prayer through sleep | response | 576 | ML | Popular Youtuber Asks Muslim Difficult Questions! Muhammed Ali
 ML219:1524-1618 | P02.C08 | Motive for good deeds: reward or feeling good | argument | 239 | ML | Muslim Lantern | Arab | Sneak0 | Young Don | Warner | Discuss Religion
+ML418:291-350 | P02.C08 | Muslim charity and generosity | illustration | 28 | ML | A Christian Testimony About Islam Part 1! Muhammed Ali - Speakers Corn
+ML422:298-314 | P02.C08 | Muslims who commit sins: still Muslim | response | 139 | ML | Ex-Muslims Question Islam P1! Muhammed Ali - Speakers Corner
 ML244:280-340 | P02.C08 | Mysticism and spirituality in Islam | response | 518 | ML | Catholic Grandfather Examines The Teachings Of Islam! Muhammed Ali
 ML027:348-397 | P02.C08 | Nominal Muslims and abandoning prayer | argument | 511 | ML | New Convert Questions Muslim On Lack Of Connection With God In Islam! 
 ML033:843-856 | P02.C08 | Obeying God's commands | argument | 160 | ML | Buddhist Gets Defensive After A Muslim Highlights The Problems With Bu
@@ -424,19 +470,23 @@ ML079:252-275 | P02.C08 | Prayer and closeness to God in Islam | argument | 206 
 ML289:588-599 | P02.C08 | Prayer stones and religious innovation | response | 107 | ML | Popular Youtuber Asks Muslim Difficult Questions! Muhammed Ali
 ML084:692-731 | P02.C08 | Praying in Arabic and non-Arab Muslims | response | 423 | ML | Christian Wife Grills A Muslim With Difficult Questions! Muhammed Ali
 ML293:22-48 | P02.C08 | Praying in Arabic as a new Muslim | response | 318 | ML | Christian Asks God For A Sign Then This Happens! Muhammed Ali
+ML380:352-372 | P02.C08 | Praying in public; earth made a mosque | response | 126 | ML | Christian Preachers Ambush Muslim! Muhammed Ali
 ML152:778-801 | P02.C08 | Praying to God alone for guidance | conclusion | 178 | ML | Muslim And Educated Christian Debate The Divinity Of Jesus Christ! Muh
 ML222:313-362 | P02.C08 | Provision, gratitude and obedience | response | 309 | ML | Muslim Surprises A French Man Looking For Answers! Muhammed Ali
 ML208:406-481 | P02.C08 | Purpose and wisdom of fasting in Ramadan | response | 436 | ML | Hindu Questions Muslim On Polytheism! Muhammed Ali
+ML380:1037-1079 | P02.C08 | Quran 25:70: evil deeds replaced with good | response | 148 | ML | Christian Preachers Ambush Muslim! Muhammed Ali
 ML263:1212-1248 | P02.C08 | Remembering death and lawful wealth | illustration | 491 | ML | The Muslim Lantern Gets Sneak∅ To Rethink His Views! Muhammed Ali
 ML233:1614-1689 | P02.C08 | Repeating verses in recitation and sincerity | response | 487 | ML | Eddie @TheDeenShowTV Interviews The Muslim Lantern | Masjid Dar Al-Qur
 ML217:230-261 | P02.C08 | Repentance and accountability in Islam | response | 212 | ML | Muslim Disproves Christianity Using A Single Question! Muhammed Ali
 ML271:214-235 | P02.C08 | Repentance and God's forgiveness | argument | 274 | ML | IDF Soldier Confronted A Muslim Live Then THIS HAPPENED! Muhammed Ali
+ML379:112-138 | P02.C08 | Repentance and past sins turned into good deeds | response | 113 | ML | Christian Preacher Speaks The Truth! Muhammed Ali
 ML309:194-242 | P02.C08 | Repentance for grave sins | response | 441 | ML | Intelligent Man Examines The Evidences For Islam! Muhammed Ali
 ML269:195-226 | P02.C08 | Repentance for sins committed after apostasy | response | 268 | ML | Ex-Muslim Girl Leaves Islam For LGBTQ!? Muhammed Ali
 ML248:926-1040 | P02.C08 | Ruling on abandoning the prayer | argument | 671 | ML | Amazing Collab| The Muslim Lantern & Sheikh Uthman Meet For The First 
 ML285:132-188 | P02.C08 | Second Friday adhan of Uthman | response | 662 | ML | Clip-React| Quran Scientific Claim Debunked? Bida'ah Is Good? | Muhamm
 ML240:135-152 | P02.C08 | Self-reflection and the influence of social media | response | 197 | ML | The One Minute Podcast | Sneak∅ Interviews The Muslim Lantern | Muhamm
 ML233:2189-2215 | P02.C08 | Showing off versus satanic whispers | response | 173 | ML | Eddie @TheDeenShowTV Interviews The Muslim Lantern | Masjid Dar Al-Qur
+ML369:36-95 | P02.C08 | Sin, human imperfection and God's forgiveness | response | 295 | ML | If You Answer My QUESTIONS I will Accept Islam! Muhammed Ali
 ML027:225-263 | P02.C08 | Sins, patience and building connection with God | response | 369 | ML | New Convert Questions Muslim On Lack Of Connection With God In Islam! 
 ML096:1-55 | P02.C08 | Spiritual growth and seeking knowledge | response | 459 | ML | The Muslim Lantern, Sneako and Arab Debate Religion! Muhammed Ali
 ML027:501-528 | P02.C08 | Story of the man who killed ninety-nine | illustration | 240 | ML | New Convert Questions Muslim On Lack Of Connection With God In Islam! 

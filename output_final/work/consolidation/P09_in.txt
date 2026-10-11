@@ -16,6 +16,7 @@ FR266:498-639 | P09.C01 | Argument from silence on Gospel authorship | response 
 FR267:1206-1242 | P09.C01 | Assessment of Lukan authorship | conclusion | 237 | FR | Who wrote the Gospel of Luke?
 FR267:48-141 | P09.C01 | Attribution of Luke to a non-apostle | response | 49 | FR | Who wrote the Gospel of Luke?
 FR266:1407-1451 | P09.C01 | Authorship of Acts and Petrine traditions | response | 8 | FR | The Real Reason Colin doesn't want to do Responses
+ML417:242-278 | P09.C01 | Authorship of Paul's letters and scribes | response | 32 | ML | A Christian Testimony About Islam Part 2! Muhammed Ali - Speakers Corn
 ML211:56-80 | P09.C01 | Authorship of the books of the Bible | response | 163 | ML | Atheist Examines The Muslim Belief In God! Muhammed Ali
 ML085:497-512 | P09.C01 | Authorship of the Gospel of John | argument | 40 | ML | Christian in Complete Denial After a Muslim Shows Him This Verse! Muha
 ML061:802-876 | P09.C01 | Authorship of the Gospels | argument | 697 | ML | Christian Niqabi Challenges the Continuity of Islam with Previous Scri
@@ -114,6 +115,7 @@ ML252:96-154 | P09.C02 | Athanasius and the New Testament canon | argument | 382
 ML085:1083-1197 | P09.C02 | Augustine on the word order of John 17:3 | argument | 637 | ML | Christian in Complete Denial After a Muslim Shows Him This Verse! Muha
 ML109:350-409 | P09.C02 | Authenticity of Matthew 28:19 baptism formula | response | 261 | ML | Overconfident Christian Meets The Wrong Muslim! Muhammed Ali
 ML109:669-709 | P09.C02 | Authenticity of Matthew 28:19 baptism formula | argument | 479 | ML | Overconfident Christian Meets The Wrong Muslim! Muhammed Ali
+ML388:156-196 | P09.C02 | Authenticity of the Great Commission | argument | 287 | ML | Sincere Christians Investigate Islam Part 2! Muhammed Ali
 ML252:342-378 | P09.C02 | Authenticity of the Matthew 28:19 baptismal formula | response | 212 | ML | Christian Gets Emotional When Questioned About His Beliefs! Muhammed A
 ML313:126-165 | P09.C02 | Baptismal formula of Matthew 28 | response | 433 | ML | Christian Preacher Regrets Quoting The Bible! Muhammed Ali
 ML362:559-621 | P09.C02 | Bible additions and early manuscripts | argument | 459 | ML | Christian Attempts To Convert Muslim! Muhammed Ali
@@ -229,9 +231,11 @@ ML065:419-454 | P09.C02 | Pericope adulterae and the longer ending of Mark | arg
 ML326:110-176 | P09.C02 | Pericope of the adulteress and stoning | response | 405 | ML | Coptic Christian Questions Muslim On Hadith! Muhammed Ali
 ML326:177-243 | P09.C02 | Portrayal of prophets in the Bible | response | 642 | ML | Coptic Christian Questions Muslim On Hadith! Muhammed Ali
 ML061:78-98 | P09.C02 | Preservation and corruption of the Mosaic law | response | 238 | ML | Christian Niqabi Challenges the Continuity of Islam with Previous Scri
+ML378:121-143 | P09.C02 | Preservation of the Bible manuscripts | response | 175 | ML | Lesbian Speaks The Truth About LGTBQ! Muhammed Ali
 ML287:169-229 | P09.C02 | Preservation of the Bible versus the Quran | argument | 458 | ML | Christian Lady Receives Reality Check From A Muslim! Muhammed Ali
 ML055:414-443 | P09.C02 | Preservation of the Bible's theology | response | 205 | ML | Christian Becomes Speechless After Being Presented With The Christian 
 ML336:1-52 | P09.C02 | Preservation of the Old Testament and Dead Sea Scrolls | response | 442 | ML | Does The Quran Endorse Following The Bible?! Muhammed Ali
+ML412:28-117 | P09.C02 | Preservation of the Torah and the Dead Sea Scrolls | argument | 565 | ML | 2 Jews Question The Truth of Islam! Muhammed Ali - Speakers Corner
 ML016:74-155 | P09.C02 | Proving corruption without the original text | argument | 589 | ML | Inquisitive Christian Challenges The Qur'anic Stance On The Gospel! Mu
 ML260:1-35 | P09.C02 | Reasons the Bible is considered corrupted | response | 291 | ML | Born Again Christian Attempts To Prove The Divinity Of Jesus! Muhammed
 ML005:979-1050 | P09.C02 | Recovering the original text without originals | response | 577 | ML | Educated Christian Challenges Muslim On Bible Corruption And Textual C
@@ -256,6 +260,8 @@ ML065:88-135 | P09.C02 | Types of textual variants | argument | 464 | ML | The C
 ML065:261-283 | P09.C02 | Variation among the earliest manuscripts | response | 244 | ML | The Christian Dilemma: Do Muslims Believe The Bible Is Corrupted? Muha
 ML391:81-101 | P09.C02 | Was the Bible preserved | argument | 195 | ML | Curious Lady Grills Muslim! Muhammed Ali
 ML016:412-467 | P09.C02 | When the Bible was corrupted | response | 614 | ML | Inquisitive Christian Challenges The Qur'anic Stance On The Gospel! Mu
+ML420:285-312 | P09.C02 | Where is the original Bible | overview | 53 | ML | Inquisitive Christian Learns About Islam P1! Muhammed Ali - Speakers C
+ML420:563-570 | P09.C02 | Where is the original Bible | response | 91 | ML | Inquisitive Christian Learns About Islam P1! Muhammed Ali - Speakers C
 ML336:91-116 | P09.C02 | Why God allowed earlier scriptures to be corrupted | response | 253 | ML | Does The Quran Endorse Following The Bible?! Muhammed Ali
 ML251:712-738 | P09.C02 | Why scripture does not mention its own corruption | response | 208 | ML | Ex-Jew Claims Rational Problems With Islam?! Muhammed Ali
 ML382:54-135 | P09.C02 | Why the Bible is a source of authority | response | 253 | ML | Insincere Christian Embarrasses Himself! Muhammed Ali
@@ -287,6 +293,9 @@ FR103:259-291 | P09.C03 | Condemning Jews for rejecting parts of their book | re
 ML117:262-347 | P09.C03 | Context of Quran 18:27 on unchangeable words | response | 552 | ML | Misinformed Christian Embarrasses Himself In Discussion With A Muslim!
 FR084:1-24 | P09.C03 | Definition of the Islamic dilemma | overview | 126 | FR | The Dumbest Argument against Islam EVER!
 ML217:460-535 | P09.C03 | Does the Quran affirm the Bible | response | 624 | ML | Muslim Disproves Christianity Using A Single Question! Muhammed Ali
+ML416:386-411 | P09.C03 | Does the Quran command following the Gospel | response | 74 | ML | Rude Christian Refuses To Leave! Muhammed Ali - Speakers Corner
+ML419:1-46 | P09.C03 | Does the Quran command reading the Torah | response | 211 | ML | Inquisitive Christian Learns About Islam P2! Muhammed Ali - Speakers C
+ML420:571-606 | P09.C03 | Does the Quran command reading the Torah | response | 131 | ML | Inquisitive Christian Learns About Islam P1! Muhammed Ali - Speakers C
 ML095:242-252 | P09.C03 | Does the Quran refer Muslims to the Bible | response | 74 | ML | Arab Christian Attempts To Convert A Muslim But This Happens! Muhammed
 FR103:146-173 | P09.C03 | Early scholars' position on Bible preservation | response | 142 | FR | The Return of the Islamic Dilemma
 ML117:121-169 | P09.C03 | Evidence that the Gospel was corrupted | argument | 478 | ML | Misinformed Christian Embarrasses Himself In Discussion With A Muslim!
@@ -363,6 +372,7 @@ ML197:183-220 | P09.C03 | Quran as corrector of previous scriptures | response |
 ML280:1-40 | P09.C03 | Quran as criterion for judging the Bible | response | 271 | ML | Christian Claims The Quran Contains Satanic Verses?! Muhammed Ali
 ML061:464-513 | P09.C03 | Quran as criterion over previous scriptures | response | 378 | ML | Christian Niqabi Challenges the Continuity of Islam with Previous Scri
 ML118:383-455 | P09.C03 | Quran as criterion over previous scriptures | response | 537 | ML | Atheist Attempts To Use A Christian Argument Against Muslim But Fails 
+ML415:28-41 | P09.C03 | Quran as criterion over previous scriptures | argument | 212 | ML | English Student Becomes Muslim! Muhammed Ali - Speakers Corner
 ML005:649-677 | P09.C03 | Quran confirming previous scriptures | response | 224 | ML | Educated Christian Challenges Muslim On Bible Corruption And Textual C
 ML006:1176-1208 | P09.C03 | Quran confirming previous scriptures | response | 388 | ML | How Do You Know Which Religion Is From God? A Detailed Comprehensive A
 ML065:929-973 | P09.C03 | Quran correcting Biblical beliefs | argument | 767 | ML | The Christian Dilemma: Do Muslims Believe The Bible Is Corrupted? Muha
@@ -388,9 +398,11 @@ ML065:1258-1272 | P09.C03 | Summary: Islamic position on Bible corruption | conc
 ML102:37-132 | P09.C03 | Tafsir of Quran 2:79 on scripture corruption | response | 616 | ML | Christian Gets Busted By Muslim After Misquoting Islamic Sources! Muha
 ML102:513-542 | P09.C03 | Tafsir report of a separate distorted book | response | 77 | ML | Christian Gets Busted By Muslim After Misquoting Islamic Sources! Muha
 ML065:677-705 | P09.C03 | Tawrah and Injil are not the present Bible | argument | 587 | ML | The Christian Dilemma: Do Muslims Believe The Bible Is Corrupted? Muha
+ML380:373-431 | P09.C03 | The Gospel of Jesus versus the four Gospels | response | 343 | ML | Christian Preachers Ambush Muslim! Muhammed Ali
 FR253:750-810 | P09.C03 | The Islamic dilemma | response | 17 | FR | David Wood's Top Ten Arguments Debunked!
 ML117:1-32 | P09.C03 | The Islamic dilemma claim | overview | 94 | ML | Misinformed Christian Embarrasses Himself In Discussion With A Muslim!
 FR070:1-44 | P09.C03 | The Islamic dilemma: summary of the argument | overview | 299 | FR | Sam Shamoun Ruins David Wood's Favorite Argument
+ML412:118-147 | P09.C03 | The Quran's view of the Torah and Gospel | response | 239 | ML | 2 Jews Question The Truth of Islam! Muhammed Ali - Speakers Corner
 ML053:440-477 | P09.C03 | Torah and Injil in the Quranic definition | argument | 283 | ML | Arab Christian Shares His Experience With Islam And Christianity! Muha
 ML231:63-104 | P09.C03 | Torah and Injil versus the Bible | response | 372 | ML | Christian Confronts Muslim On Quran Preservation! Muhammed Ali
 FR086:1-38 | P09.C03 | Torah cushion hadith in the Islamic dilemma | overview | 73 | FR | [Debunked] The Prophet Accepted the Torah
@@ -401,9 +413,11 @@ ML065:1237-1257 | P09.C03 | Verbal versus textual corruption objection | respons
 ML066:24-70 | P09.C03 | What is the Injil | response | 602 | ML | Passionate Christian Argues For The Trinity With A Muslim! Muhammed Al
 ML016:1-36 | P09.C03 | Whether the lost Injil still needs to be known | response | 413 | ML | Inquisitive Christian Challenges The Qur'anic Stance On The Gospel! Mu
 ML007:1523-1533 | P09.C03 | Why earlier scriptures were not preserved | response | 98 | ML | Confident Agnostic Grills A Muslim On The Quran Copying The Bible! Muh
+ML413:229-272 | P09.C04 | 1 Peter's use of Isaiah 53 | response | 197 | ML | Christian Preacher Twists His Scripture P2! Muhammed Ali - Speakers Co
 FR066:316-346 | P09.C04 | Assessment of Avery's prophecy arguments | conclusion | 218 | FR | Godlogic's Top Proofs for Christianity Examined
 ML362:369-428 | P09.C04 | Bethlehem and virgin birth prophecies | response | 363 | ML | Christian Attempts To Convert Muslim! Muhammed Ali
 ML288:210-306 | P09.C04 | Biblical prophecies written after the fact | response | 728 | ML | Hebrew Israelite Questions Muslim On Pagan Teachings! Muhammed Ali
+ML416:412-463 | P09.C04 | Biblical signs of Jesus' return | response | 171 | ML | Rude Christian Refuses To Leave! Muhammed Ali - Speakers Corner
 ML166:209-291 | P09.C04 | Christian end-times prophecy claims | response | 315 | ML | Heated Atheist Demands Muslim To Prove His Faith! Muhammed Ali
 ML280:339-376 | P09.C04 | Daniel 9 seventy weeks prophecy | response | 232 | ML | Christian Claims The Quran Contains Satanic Verses?! Muhammed Ali
 FR017:79-93 | P09.C04 | Dead Sea Scrolls reading of Psalm 22 | argument | 145 | FR | Debunking the Strongest Messianic Prophecy [Response to Godlogic]
@@ -412,16 +426,23 @@ FR066:217-268 | P09.C04 | Genesis 3:15 seed of the woman | response | 148 | FR |
 FR018:1-39 | P09.C04 | Godlogic's response on messianic prophecies: context | overview | 287 | FR | Godlogic Responds to Farid Responds on Prophecies
 ML074:504-600 | P09.C04 | Hosea 11:1 in Matthew and reading into scripture | response | 406 | ML | Evangelical Pastor Runs Away After Trying to Convert a Muslim! Muhamme
 ML362:508-558 | P09.C04 | Isaiah 53 and the suffering servant | response | 351 | ML | Christian Attempts To Convert Muslim! Muhammed Ali
+ML413:131-228 | P09.C04 | Isaiah 53 and the suffering servant | response | 435 | ML | Christian Preacher Twists His Scripture P2! Muhammed Ali - Speakers Co
 FR066:30-180 | P09.C04 | Isaiah 53 as prophecy of Jesus | response | 840 | FR | Godlogic's Top Proofs for Christianity Examined
 ML175:495-529 | P09.C04 | Isaiah 53 as prophecy of Jesus | response | 259 | ML | Muslim Gets Questioned On The Treatment Of Women In Islam! Muhammed Al
 ML261:517-646 | P09.C04 | Isaiah 53 suffering servant | response | 1053 | ML | Muslim Shocks Christian Using Old Testament Prophecy! Muhammed Ali
 ML278:650-666 | P09.C04 | Isaiah 53 suffering servant | response | 175 | ML | Christian Family Grills Muslim On His Beliefs! Muhammed Ali
 ML074:425-503 | P09.C04 | Isaiah 53 suffering servant identity | response | 479 | ML | Evangelical Pastor Runs Away After Trying to Convert a Muslim! Muhamme
+ML414:342-447 | P09.C04 | Isaiah 53: guilt offering and Israel's suffering | argument | 619 | ML | Christian Preacher Twists His Scripture P1! Muhammed Ali - Speakers Co
+ML414:76-158 | P09.C04 | Isaiah 53: offspring and prolonged days | argument | 367 | ML | Christian Preacher Twists His Scripture P1! Muhammed Ali - Speakers Co
 FR018:152-187 | P09.C04 | Isaiah 53: pierced for transgressions | response | 298 | FR | Godlogic Responds to Farid Responds on Prophecies
+ML414:247-341 | P09.C04 | Isaiah 53: spiritual offspring interpretation | response | 473 | ML | Christian Preacher Twists His Scripture P1! Muhammed Ali - Speakers Co
+ML414:159-246 | P09.C04 | Isaiah 53: Suffering Servant as Israel | argument | 545 | ML | Christian Preacher Twists His Scripture P1! Muhammed Ali - Speakers Co
 ML175:530-548 | P09.C04 | Isaiah 7:14 Immanuel prophecy | response | 108 | ML | Muslim Gets Questioned On The Treatment Of Women In Islam! Muhammed Al
 ML280:498-514 | P09.C04 | Isaiah 9:6 and Isaiah 53 prophecies | response | 244 | ML | Christian Claims The Quran Contains Satanic Verses?! Muhammed Ali
 ML362:429-507 | P09.C04 | Isaiah 9:6 and the throne of David | response | 593 | ML | Christian Attempts To Convert Muslim! Muhammed Ali
+ML413:1-23 | P09.C04 | Isaiah 9:6 as a prophecy of Jesus | response | 199 | ML | Christian Preacher Twists His Scripture P2! Muhammed Ali - Speakers Co
 ML175:549-579 | P09.C04 | Isaiah 9:6 prophecy and throne of David | response | 279 | ML | Muslim Gets Questioned On The Treatment Of Women In Islam! Muhammed Al
+ML414:448-537 | P09.C04 | Isaiah 9:6-7 messianic titles | argument | 531 | ML | Christian Preacher Twists His Scripture P1! Muhammed Ali - Speakers Co
 ML304:623-742 | P09.C04 | Jeremiah 23:5-6 as messianic prophecy | response | 709 | ML | Preacher Claims To Have Evidence For Christianity! Muhammed Ali
 ML081:126-153 | P09.C04 | Jewish Messiah expectation versus redemption theme | argument | 292 | ML | Dishonest Christian Insults Muslim After Getting Thoroughly Refuted! M
 FR017:46-78 | P09.C04 | Like a lion reading: spelling and context | argument | 572 | FR | Debunking the Strongest Messianic Prophecy [Response to Godlogic]
@@ -476,6 +497,7 @@ ML079:94-152 | P09.C05 | Command to slaughter the Amalekites | response | 270 | 
 ML073:165-216 | P09.C05 | Contradiction in the empty tomb accounts | response | 421 | ML | Christian Convert Attempts To Convince A Muslim Of Christianity! Muham
 ML039:336-390 | P09.C05 | Contradictions in the Bible | argument | 679 | ML | Clip-React| Christian Finds Five Contradictions In The Quran? | Muhamm
 ML006:252-287 | P09.C05 | Death of Judas: Matthew and Acts | argument | 377 | ML | How Do You Know Which Religion Is From God? A Detailed Comprehensive A
+ML413:273-422 | P09.C05 | Death of Judas: Matthew versus Acts | argument | 827 | ML | Christian Preacher Twists His Scripture P2! Muhammed Ali - Speakers Co
 ML073:441-515 | P09.C05 | Did Jesus love his enemies | response | 570 | ML | Christian Convert Attempts To Convince A Muslim Of Christianity! Muham
 ML165:284-315 | P09.C05 | Divorce and remarriage in the Bible | argument | 261 | ML | Christian Confronts Muslim On Women Treatment But This Happens! Muhamm
 ML175:790-873 | P09.C05 | Divorce and remarriage in the Bible | argument | 584 | ML | Muslim Gets Questioned On The Treatment Of Women In Islam! Muhammed Al
@@ -535,6 +557,9 @@ ML318:1015-1038 | P09.C05 | Women and divorce in the Bible | argument | 241 | ML
 ML013:294-311 | P09.C05 | Women in Christianity and Judaism | argument | 182 | ML | Is Islam A Religion Made For The Men?
 ML191:251-338 | P09.C05 | Women in the Bible | argument | 726 | ML | Christian Lady Questions Muslim On Polygamy! Muhammed Ali
 ML191:359-376 | P09.C05 | Women in the Bible: equality claim | response | 127 | ML | Christian Lady Questions Muslim On Polygamy! Muhammed Ali
+ML380:251-304 | P09.C05 | Women teaching in the Bible | argument | 207 | ML | Christian Preachers Ambush Muslim! Muhammed Ali
+ML380:611-665 | P09.C05 | Women teaching in the Bible | response | 311 | ML | Christian Preachers Ambush Muslim! Muhammed Ali
+ML380:876-942 | P09.C05 | Women teaching: context of 1 Timothy | response | 248 | ML | Christian Preachers Ambush Muslim! Muhammed Ali
 ML175:889-944 | P09.C05 | Women's silence in 1 Timothy 2 | argument | 405 | ML | Muslim Gets Questioned On The Treatment Of Women In Islam! Muhammed Al
 ML226:557-586 | P09.C05 | Women's submission in 1 Timothy 2 | argument | 211 | ML | Feminist Confronts A Muslim On Gender Equality! Muhammed Ali
 ML079:334-349 | P09.C06 | Caller's experience in a Pentecostal church | illustration | 3 | ML | This Christian Came To Convert Muslim But He Didn't Expect This! Muham
@@ -542,6 +567,7 @@ ML101:867-899 | P09.C06 | Catholic and Protestant differences | response | 265 |
 ML125:187-261 | P09.C06 | Catholicism, Orthodoxy and church changes | argument | 340 | ML | Christian Ladies Discover The True Identity Of Jesus! Muhammed Ali
 FR149:298-376 | P09.C06 | Christian avoidance of the divine name | argument | 4 | FR | Two Christians vs Two Muslims
 ML095:340-401 | P09.C06 | Christian denominations versus Sunni-Shia differences | response | 315 | ML | Arab Christian Attempts To Convert A Muslim But This Happens! Muhammed
+ML417:33-47 | P09.C06 | Christian denominations' views on God | overview | 118 | ML | A Christian Testimony About Islam Part 2! Muhammed Ali - Speakers Corn
 ML133:230-246 | P09.C06 | Christians not following their scripture | argument | 133 | ML | Non-Muslim Students Get Introduced To The Miracles Of The Quran! Muham
 ML280:300-338 | P09.C06 | Church and Bible authority: circular reasoning | argument | 313 | ML | Christian Claims The Quran Contains Satanic Verses?! Muhammed Ali
 ML275:637-687 | P09.C06 | Church authority and Christians leaving Christianity | argument | 331 | ML | 3 Intelligent Christians Attempt To Challenge A Muslim! Muhammed Ali

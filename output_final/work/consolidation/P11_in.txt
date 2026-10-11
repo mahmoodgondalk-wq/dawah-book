@@ -99,6 +99,8 @@ FR087:23-93 | P11.C02 | Saqifa and the sincerity of the Ansar | argument | 469 |
 ML291:42-86 | P11.C02 | Shia teachings about the companions | overview | 163 | ML | Afghan Shia Questions Muslim On Sunnism! Muhammed Ali
 ML347:755-781 | P11.C02 | Shia view of the Companions and Aisha | argument | 481 | ML | Agnostic Challenges Muslim On God Then This Happens! Muhammed Ali
 ML060:458-546 | P11.C02 | Shia view of the companions and Quran 9:100 | argument | 900 | ML | Sneako Questions The Muslim Lantern On Shia & Sunni Unity | The Iran W
+ML364:200-229 | P11.C02 | Shia view of the Companions and Quran 9:100 | argument | 282 | ML | Muslim Questioned On Sectarianism In Islam! Muhammed Ali
+ML424:1-33 | P11.C02 | Status of Ali in Sunni belief | argument | 355 | ML | Can You Call Upon The Dead in Islam?! A Conversation With Shia
 ML291:278-344 | P11.C02 | Status of the companions: righteous or not | argument | 239 | ML | Afghan Shia Questions Muslim On Sunnism! Muhammed Ali
 ML291:859-905 | P11.C02 | Sunni view of Ahl al-Bayt and the companions | response | 216 | ML | Afghan Shia Questions Muslim On Sunnism! Muhammed Ali
 FR100:62-164 | P11.C02 | Surah al-Tahrim and the honey incident | response | 369 | FR | Response to Ammar Nakshawani on A'isha and Hafsa Conspiracy (may Allah
@@ -156,6 +158,7 @@ FR130:592-693 | P11.C03 | Later Shia rijal works compared with Sunni works | arg
 FR124:1149-1291 | P11.C03 | Manuscripts of Basa'ir al-Darajat | response | 255 | FR | Discussion with a Shi'i
 FR174:547-660 | P11.C03 | Mustad'af reports and the fate of Sunnis | argument | 393 | FR | Full Debate: Farid (Sunni) vs Bayat (Shia)
 FR174:1065-1259 | P11.C03 | Mutawatir reports in Shia hadith | argument | 533 | FR | Full Debate: Farid (Sunni) vs Bayat (Shia)
+ML364:183-199 | P11.C03 | Origin of Shia beliefs and the twelve imams | argument | 212 | ML | Muslim Questioned On Sectarianism In Islam! Muhammed Ali
 FR124:851-1097 | P11.C03 | Parallel versions and chains of the report | argument | 636 | FR | Discussion with a Shi'i
 ML223:988-1014 | P11.C03 | Prayer method and reliability of Shia narrations | response | 213 | ML | Muslim Fully Dismantles The Shia Position! Muhammed Ali
 FR094:16-49 | P11.C03 | Primary sources behind Sunni and Shia beliefs | argument | 225 | FR | Eid Message & Gift to Ammar Nakshawani
@@ -202,7 +205,9 @@ FR134:173-242 | P11.C04 | Authentic report from Ali on sects | argument | 456 | 
 ML260:36-55 | P11.C04 | Authority of Quran and Sunnah over scholars | response | 203 | ML | Born Again Christian Attempts To Prove The Divinity Of Jesus! Muhammed
 ML060:660-709 | P11.C04 | Basis of unity: worship of Allah alone | argument | 409 | ML | Sneako Questions The Muslim Lantern On Shia & Sunni Unity | The Iran W
 ML167:91-113 | P11.C04 | Being simply Muslim rather than a sect | response | 146 | ML | English Lads Shock Muslim With Their Knowledge Of Islam! Muhammed Ali
+ML412:401-414 | P11.C04 | Calling oneself only Muslim, not Sunni or Shia | response | 64 | ML | 2 Jews Question The Truth of Islam! Muhammed Ali - Speakers Corner
 FR134:297-319 | P11.C04 | Companions were not divided into sects | response | 146 | FR | The Hadith of the 73 Sects - 2nd AIM Conference (2022)
+ML422:55-93 | P11.C04 | Conflicts among Muslims: separating people from religion | response | 315 | ML | Ex-Muslims Question Islam P1! Muhammed Ali - Speakers Corner
 ML091:853-877 | P11.C04 | Core beliefs shared by Sunni and Shia | response | 164 | ML | Omnist Left Speechless After Hearing This Muslim's Answer! Muhammed Al
 ML064:69-102 | P11.C04 | Differences between Sunni and Shia | response | 336 | ML | Clip-React| Responding To Professor Jiang's Lecture On The Islamic Gol
 ML174:355-438 | P11.C04 | Different sects and the authority of Quran and Sunnah | response | 537 | ML | Pakistani Ex-Muslim Confronts A Muslim On Following Islam! Muhammed Al
@@ -220,6 +225,9 @@ ML248:2702-2744 | P11.C04 | Group labels versus actual beliefs | argument | 321 
 ML291:1-41 | P11.C04 | Guest's background between Shia and Sunni views | overview | 28 | ML | Afghan Shia Questions Muslim On Sunnism! Muhammed Ali
 FR134:1-69 | P11.C04 | Hadith of 73 sects: Abu Hurayrah's chain | argument | 406 | FR | The Hadith of the 73 Sects - 2nd AIM Conference (2022)
 FR134:70-172 | P11.C04 | Hadith of 73 sects: other companions' chains | argument | 578 | FR | The Hadith of the 73 Sects - 2nd AIM Conference (2022)
+ML364:260-290 | P11.C04 | Hadith of Hudhayfah and following the Companions | response | 321 | ML | Muslim Questioned On Sectarianism In Islam! Muhammed Ali
+ML364:230-259 | P11.C04 | Holding to the rope of Allah against division | argument | 333 | ML | Muslim Questioned On Sectarianism In Islam! Muhammed Ali
+ML364:161-182 | P11.C04 | How sects arise from rejecting clear texts | response | 203 | ML | Muslim Questioned On Sectarianism In Islam! Muhammed Ali
 ML174:439-500 | P11.C04 | Judging sects by the Quran: Shia example | argument | 426 | ML | Pakistani Ex-Muslim Confronts A Muslim On Following Islam! Muhammed Al
 ML246:276-340 | P11.C04 | Juristic disagreement and evidence: witnesses in marriage | response | 658 | ML | Atheist Confronts Muslim On The Clarity Of The Quran! Muhammed Ali
 ML233:2425-2434 | P11.C04 | Laymen following a madhhab | response | 63 | ML | Eddie @TheDeenShowTV Interviews The Muslim Lantern | Masjid Dar Al-Qur
@@ -235,6 +243,7 @@ ML246:177-187 | P11.C04 | Scholarly works versus revelation | response | 55 | ML
 ML246:205-253 | P11.C04 | Scholarly works versus revelation | response | 357 | ML | Atheist Confronts Muslim On The Clarity Of The Quran! Muhammed Ali
 FR134:320-381 | P11.C04 | Scholars' differing lists of the 73 sects | response | 357 | FR | The Hadith of the 73 Sects - 2nd AIM Conference (2022)
 FR134:527-552 | P11.C04 | Sectarian division as a test; size of main body | argument | 176 | FR | The Hadith of the 73 Sects - 2nd AIM Conference (2022)
+ML364:82-113 | P11.C04 | Sects and returning disputes to Quran and Sunnah | response | 345 | ML | Muslim Questioned On Sectarianism In Islam! Muhammed Ali
 ML337:703-819 | P11.C04 | Sects in Islam compared with Christian denominations | response | 1124 | ML | Christian Lady Skeptical About The Prophet of Islam! Muhammed Ali
 ML060:579-605 | P11.C04 | Shiism as cultural inheritance | response | 70 | ML | Sneako Questions The Muslim Lantern On Shia & Sunni Unity | The Iran W
 ML060:404-457 | P11.C04 | Status of Shia laypeople, scholars and governments | argument | 712 | ML | Sneako Questions The Muslim Lantern On Shia & Sunni Unity | The Iran W
@@ -252,6 +261,7 @@ ML002:73-93 | P11.C04 | Unity with Shia and their beliefs about Ali | response |
 ML248:1780-1870 | P11.C04 | Valid and invalid differences of opinion | response | 68 | ML | Amazing Collab| The Muslim Lantern & Sheikh Uthman Meet For The First 
 FR134:553-598 | P11.C04 | Whether the 72 sects are in Hellfire | response | 299 | FR | The Hadith of the 73 Sects - 2nd AIM Conference (2022)
 ML001:255-307 | P11.C04 | Which madhab to follow | response | 313 | ML | Confident Agnostic Confronts A Muslim About The Treatment Of Jews In I
+ML364:1-23 | P11.C04 | Which Muslim sect is right | overview | 153 | ML | Muslim Questioned On Sectarianism In Islam! Muhammed Ali
 ML246:341-362 | P11.C04 | Why Muslims still disagree | response | 231 | ML | Atheist Confronts Muslim On The Clarity Of The Quran! Muhammed Ali
 ML347:698-754 | P11.C04 | Why there are many Muslim sects | response | 663 | ML | Agnostic Challenges Muslim On God Then This Happens! Muhammed Ali
 FR222:190-253 | P11.C05 | Abu Mikhnaf's narrative of al-Jamal | argument | 373 | FR | The Battle of al-Jamal (the Camel)
@@ -274,6 +284,8 @@ FR254:36-110 | P11.C05 | Karbala lecture reports traced to Abu Mikhnaf | respons
 FR223:962-1018 | P11.C05 | Link between Uthman's killing and al-Jamal | conclusion | 324 | FR | The Martyrdom of Uthman
 FR223:1019-1044 | P11.C05 | Muhammad ibn Abi Bakr's role in the killing | response | 107 | FR | The Martyrdom of Uthman
 FR222:704-812 | P11.C05 | Negotiations and the unintended start of battle | argument | 634 | FR | The Battle of al-Jamal (the Camel)
+ML408:260-275 | P11.C05 | Origin of the Sunni-Shia split | overview | 92 | ML | Iceland Visitors Enquire About Islam! Muhammed Ali - Speakers Corner
+ML408:304-352 | P11.C05 | Origin of the Sunni-Shia split | response | 563 | ML | Iceland Visitors Enquire About Islam! Muhammed Ali - Speakers Corner
 ML040:1116-1175 | P11.C05 | Origins of the Sunni-Shia split | response | 600 | ML | Confident Catholic Attempts To Disprove Islam Using Catholicism! Muham
 FR222:1038-1073 | P11.C05 | Participants' reactions after al-Jamal | argument | 198 | FR | The Battle of al-Jamal (the Camel)
 FR223:578-762 | P11.C05 | Personal motives of the rebels: Kufan exiles | argument | 1079 | FR | The Martyrdom of Uthman

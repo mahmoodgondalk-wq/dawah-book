@@ -16,9 +16,11 @@ ML129:1181-1229 | P04.C01 | Bedouins competing in tall buildings and greening of
 FR365:1-29 | P04.C01 | Conquest of Constantinople prophecy | response | 334 | FR | [DEBUNKED] Muhammad's Failed End Time Prophecy - Apostate Prophet
 ML080:821-872 | P04.C01 | Conquest prophecies and self-fulfilment objection | response | 626 | ML | Apostate "Philosopher" Challenges Muslim On The Existence Of God! Muha
 ML144:79-115 | P04.C01 | Criteria for genuine prophecy | response | 318 | ML | Muslim Tactically Turns The Tables On A Christian! Muhammed Ali
+ML421:1-73 | P04.C01 | Criteria for prophecy as proof of prophethood | argument | 676 | ML | Ex-Muslims Question Islam P2! Muhammed Ali - Speakers Corner
 ML166:352-394 | P04.C01 | Criteria that make Islamic prophecies unique | argument | 336 | ML | Heated Atheist Demands Muslim To Prove His Faith! Muhammed Ali
 ML078:805-876 | P04.C01 | Cumulative force of the prophecies | response | 656 | ML | Agnostic Puts Islam And Christianity To The Test! Muhammed Ali
 FR058:108-136 | P04.C01 | Did Muhammad make prophecies | response | 153 | FR | [Season Finale] Godlogic: "No Proof for Muhammad"
+ML374:619-632 | P04.C01 | Elevation of the Prophet's name | illustration | 126 | ML | Australian Couple Defend Their Beliefs! Muhammed Ali
 ML215:381-431 | P04.C01 | Euphrates gold prophecy and signs of the Hour | response | 368 | ML | Masked Philosophiser Attempts To Falsify Islam?! Muhammed Ali
 ML207:445-476 | P04.C01 | Examples of the Prophet's prophecies | response | 224 | ML | Anonymous Atheist Attempts To Outsmart A Muslim! Muhammed Ali
 ML243:256-283 | P04.C01 | Explaining the Romans prophecy: revelation or not | conclusion | 143 | ML | American Man Changes His Mind After Reading The Quran! Muhammed Ali
@@ -31,7 +33,10 @@ FR412:100-148 | P04.C01 | Ghazwa-e-Hind propaganda and later predictions | respo
 FR134:468-526 | P04.C01 | Hadith of 73 sects as a fulfilled prophecy | argument | 350 | FR | The Hadith of the 73 Sects - 2nd AIM Conference (2022)
 FR365:30-67 | P04.C01 | Hadith of the boy and the last hour | response | 345 | FR | [DEBUNKED] Muhammad's Failed End Time Prophecy - Apostate Prophet
 FR365:68-110 | P04.C01 | Hadith that none will survive 100 years | response | 409 | FR | [DEBUNKED] Muhammad's Failed End Time Prophecy - Apostate Prophet
+ML396:417-473 | P04.C01 | Knowledge of the future as proof of prophethood | overview | 339 | ML | Clever Atheist Challenges Muslim Part 1! Muhammed Ali
+ML397:63-93 | P04.C01 | Knowledge of the future as proof of prophethood | overview | 182 | ML | Why Should I Accept Your Religion?! Muhammed Ali
 ML306:186-221 | P04.C01 | Perceived impact of prophecies on newcomers | response | 219 | ML | Deceptive Apostate Challenged On His Claims! Muhammed Ali
+ML422:386-419 | P04.C01 | Predictors of the future compared with prophets | overview | 74 | ML | Ex-Muslims Question Islam P1! Muhammed Ali - Speakers Corner
 FR202:1-60 | P04.C01 | Promise of one of the two groups at Badr | argument | 344 | FR | Proofs of Prophethood 19: Battle of Badr
 ML309:557-623 | P04.C01 | Prophecies about modern times | argument | 891 | ML | Intelligent Man Examines The Evidences For Islam! Muhammed Ali
 ML159:262-282 | P04.C01 | Prophecies about nations and the Mongols | argument | 234 | ML | Muslim Surprises Truth Seeker With Evidences Of Prophethood! Muhammed 
@@ -39,6 +44,7 @@ ML159:229-261 | P04.C01 | Prophecies about Suraqa and the Companions | argument 
 ML078:395-461 | P04.C01 | Prophecies and the back-projected hadith hypothesis | response | 637 | ML | Agnostic Puts Islam And Christianity To The Test! Muhammed Ali
 ML033:990-1024 | P04.C01 | Prophecies as evidence for Islam | argument | 313 | ML | Buddhist Gets Defensive After A Muslim Highlights The Problems With Bu
 ML078:510-547 | P04.C01 | Prophecies of Badr and Suraqah's bracelets | argument | 468 | ML | Agnostic Puts Islam And Christianity To The Test! Muhammed Ali
+ML365:300-340 | P04.C01 | Prophecies of conquests and the Trench | argument | 367 | ML | Atheist Challenges Muslim On Evolution! Muhammed Ali
 ML078:589-646 | P04.C01 | Prophecies of interest, time and green Arabia | argument | 679 | ML | Agnostic Puts Islam And Christianity To The Test! Muhammed Ali
 ML236:794-815 | P04.C01 | Prophecies of Islam's expansion and the empires | argument | 177 | ML | Islam Unveiled: Compelling Evidence For The Truthfulness Of Islam | Ch
 ML041:333-363 | P04.C01 | Prophecies of Islam's spread and modern trends | argument | 343 | ML | Curious Couple Ask A Muslim To Explain World Suffering! Muhammed Ali
@@ -51,9 +57,11 @@ ML153:332-374 | P04.C01 | Prophecies of Muhammad: coincidence objection | respon
 ML153:432-508 | P04.C01 | Prophecies of Muhammad: coincidence objection | response | 343 | ML | Muslim Rationally Gets Atheist To Switch His Position! Muhammed Ali
 ML041:264-306 | P04.C01 | Prophecies of Muslim division and weakness | response | 479 | ML | Curious Couple Ask A Muslim To Explain World Suffering! Muhammed Ali
 ML133:142-167 | P04.C01 | Prophecies of new diseases and green Arabia | argument | 315 | ML | Non-Muslim Students Get Introduced To The Miracles Of The Quran! Muham
+ML402:309-370 | P04.C01 | Prophecies of tall buildings and Arab wealth | argument | 434 | ML | The Truth About Philosophy! Muhammed Ali
 ML262:752-772 | P04.C01 | Prophecies of tall buildings and usury | argument | 244 | ML | Orthodox Christian Questions Muslim About Violence In The Quran! Muham
 ML158:280-301 | P04.C01 | Prophecies of the Prophet | argument | 275 | ML | Atheist And Muslim Debate The Consequences Of Following Religion! Muha
 ML312:219-256 | P04.C01 | Prophecies of the Prophet | argument | 463 | ML | Why Do Muslims Reject The Claim Of Paul? Muhammed Ali
+ML412:219-251 | P04.C01 | Prophecies of the Prophet | argument | 397 | ML | 2 Jews Question The Truth of Islam! Muhammed Ali - Speakers Corner
 ML100:96-154 | P04.C01 | Prophecies of the Prophet as evidence | argument | 621 | ML | Doubtful Muslim Learns the Secret to Overcoming Doubts! Muhammed Ali
 ML210:123-200 | P04.C01 | Prophecies of the Prophet as evidence | argument | 676 | ML | Agnostic Lady Questions Muslim On Evidence Of God! Muhammed Ali
 ML024:305-328 | P04.C01 | Prophecies of the Prophet Muhammad | argument | 209 | ML | Confident Atheists Put To The Test By Muslim For Blindly Accepting Evo
@@ -63,18 +71,22 @@ ML352:268-299 | P04.C01 | Prophecies of the spread of Islam | argument | 295 | M
 ML309:493-518 | P04.C01 | Prophecies stake the whole religion | response | 384 | ML | Intelligent Man Examines The Evidences For Islam! Muhammed Ali
 ML166:434-566 | P04.C01 | Prophecies versus lucky guesses | response | 1020 | ML | Heated Atheist Demands Muslim To Prove His Faith! Muhammed Ali
 FR250:349-406 | P04.C01 | Prophecies witnessed and narrated by Aisha | argument | 762 | FR | Proofs of Prophethood - A'isha
+ML421:74-129 | P04.C01 | Prophecies: barefoot Bedouins and conquest of Rome and Persia | argument | 475 | ML | Ex-Muslims Question Islam P2! Muhammed Ali - Speakers Corner
 ML080:873-919 | P04.C01 | Prophecies: greening of Arabia, usury, new diseases | argument | 707 | ML | Apostate "Philosopher" Challenges Muslim On The Existence Of God! Muha
 ML208:296-365 | P04.C01 | Prophecies: tall buildings and green Arabia | argument | 493 | ML | Hindu Questions Muslim On Polytheism! Muhammed Ali
 ML186:433-524 | P04.C01 | Prophecies: tall buildings and greening of Arabia | argument | 597 | ML | Atheist Pushes Back Against Muslim! Muhammed Ali
 ML268:607-714 | P04.C01 | Prophecies: tall buildings, green Arabia, Romans | argument | 681 | ML | Two Intelligent Jews Cross-Examine Islam! Muhammed Ali
 ML277:336-365 | P04.C01 | Prophecies: tall buildings, oil, green Arabia, usury | argument | 446 | ML | Afghan Girl Claims That Muslims Are Blind Followers?! Muhammed Ali
 ML241:577-622 | P04.C01 | Prophecies: tall buildings, treasures, green Arabia | argument | 446 | ML | Curious Lady Grills Muslim With Difficult Questions! Muhammed Ali
+ML396:474-518 | P04.C01 | Prophecies: tall buildings, wealth, C-section | argument | 258 | ML | Clever Atheist Challenges Muslim Part 1! Muhammed Ali
+ML397:94-170 | P04.C01 | Prophecies: tall buildings, wealth, C-section, obesity | argument | 644 | ML | Why Should I Accept Your Religion?! Muhammed Ali
 ML186:525-598 | P04.C01 | Prophecies: usury, conquests and the Mongols | argument | 469 | ML | Atheist Pushes Back Against Muslim! Muhammed Ali
 ML159:207-228 | P04.C01 | Prophecy about Abu Lahab | argument | 241 | ML | Muslim Surprises Truth Seeker With Evidences Of Prophethood! Muhammed 
 ML350:142-171 | P04.C01 | Prophecy about Abu Lahab | argument | 416 | ML | American Asks Muslim Why He Believes In Prophet Mohammed! - Muhammed A
 FR193:1-54 | P04.C01 | Prophecy about the hypocrites and Banu Nadir | argument | 276 | FR | Proofs of Prophethood 28: Challenge to Hypocrites
 ML309:381-428 | P04.C01 | Prophecy as a criterion of prophethood | argument | 598 | ML | Intelligent Man Examines The Evidences For Islam! Muhammed Ali
 FR200:1-57 | P04.C01 | Prophecy of apostasy and the Ridda wars | argument | 328 | FR | Proofs of Prophethood 21: Ridda Wars
+ML396:519-597 | P04.C01 | Prophecy of Arabia becoming green again | argument | 390 | ML | Clever Atheist Challenges Muslim Part 1! Muhammed Ali
 ML236:680-719 | P04.C01 | Prophecy of Arabia returning to greenery | argument | 458 | ML | Islam Unveiled: Compelling Evidence For The Truthfulness Of Islam | Ch
 ML366:280-389 | P04.C01 | Prophecy of barefoot Bedouins building tall buildings | argument | 793 | ML | Atheist Questions Muslim On The Existence Of Evil! Muhammed Ali
 ML382:524-597 | P04.C01 | Prophecy of Bedouins competing in tall buildings | response | 428 | ML | Insincere Christian Embarrasses Himself! Muhammed Ali
@@ -105,6 +117,7 @@ FR005:83-90 | P04.C01 | Prophet's supplication for Anas fulfilled | argument | 1
 ML306:280-313 | P04.C01 | Roman and Persian prophecy | response | 290 | ML | Deceptive Apostate Challenged On His Claims! Muhammed Ali
 ML309:429-492 | P04.C01 | Roman and Persian prophecy | argument | 1069 | ML | Intelligent Man Examines The Evidences For Islam! Muhammed Ali
 ML144:116-171 | P04.C01 | Roman victory prophecy in Surah ar-Rum | argument | 662 | ML | Muslim Tactically Turns The Tables On A Christian! Muhammed Ali
+ML365:429-487 | P04.C01 | Roman victory prophecy in Surah ar-Rum | argument | 517 | ML | Atheist Challenges Muslim On Evolution! Muhammed Ali
 FR139:155-208 | P04.C01 | Roman victory prophecy: improbability and significance | conclusion | 353 | FR | The Riskiest Prophecy by the Prophet (peace be upon him)
 FR139:105-154 | P04.C01 | Roman victory prophecy: revelation and fulfilment | argument | 330 | FR | The Riskiest Prophecy by the Prophet (peace be upon him)
 FR139:21-104 | P04.C01 | Roman-Persian war: historical background before the prophecy | argument | 529 | FR | The Riskiest Prophecy by the Prophet (peace be upon him)
@@ -113,6 +126,10 @@ ML144:274-322 | P04.C01 | Self-fulfilling prophecy objection | response | 392 | 
 ML083:284-385 | P04.C01 | Specific prophecies of Muhammad fulfilled | argument | 1094 | ML | Christian Attempts To Prove Christianity After Questioning A Muslim! M
 ML129:1298-1330 | P04.C01 | Specificity of the Bedouin prophecy | response | 371 | ML | Three Confident Christians Attempt To Take On A Muslim! Mohammed Ali
 ML144:172-207 | P04.C01 | Suraqa and the bracelets of Khosrow | argument | 396 | ML | Muslim Tactically Turns The Tables On A Christian! Muhammed Ali
+ML365:341-370 | P04.C01 | Suraqa and the bracelets of Kisra | argument | 255 | ML | Atheist Challenges Muslim On Evolution! Muhammed Ali
+ML412:305-338 | P04.C01 | Suraqa and the bracelets of Kisra | illustration | 283 | ML | 2 Jews Question The Truth of Islam! Muhammed Ali - Speakers Corner
+ML365:401-428 | P04.C01 | Suraqa prophecy: witnesses and fulfilment | response | 218 | ML | Atheist Challenges Muslim On Evolution! Muhammed Ali
+ML365:488-548 | P04.C01 | Unfulfilled prophecies: Euphrates and wild animals | response | 404 | ML | Atheist Challenges Muslim On Evolution! Muhammed Ali
 ML078:462-509 | P04.C01 | Vague versus clear prophecies | response | 215 | ML | Agnostic Puts Islam And Christianity To The Test! Muhammed Ali
 FR391:43-91 | P04.C02 | Absence of external records of the moon splitting | response | 240 | FR | [DEBUNKED] The Moon Splitting Fairy Tale - Apostate Prophet
 FR391:92-124 | P04.C02 | Arab reception of the moon splitting | conclusion | 172 | FR | [DEBUNKED] The Moon Splitting Fairy Tale - Apostate Prophet
@@ -130,6 +147,7 @@ FR199:1-42 | P04.C02 | Drowsiness sent down at Badr and Uhud | argument | 252 | 
 FR135:36-91 | P04.C02 | Hadith as evidence for the Prophet's miracles | response | 324 | FR | Refuting Deniers of Muhammad's ﷺ Miracles
 ML224:85-100 | P04.C02 | Isra and Mi'raj: the Buraq | response | 207 | ML | Agnostic Man Grills Muslim With Difficult Questions! Muhammed Ali
 FR118:228-314 | P04.C02 | Jesus refusing a sign in Mark 8 | response | 369 | FR | Did Muhammad ﷺ Perform Miracles? [Response to David Wood and Apostate 
+ML396:374-416 | P04.C02 | Miracles as proof of messengership | argument | 277 | ML | Clever Atheist Challenges Muslim Part 1! Muhammed Ali
 FR118:1-43 | P04.C02 | Miracles of Muhammad: background of the exchange | overview | 256 | FR | Did Muhammad ﷺ Perform Miracles? [Response to David Wood and Apostate 
 ML159:190-206 | P04.C02 | Miracles witnessed by the Companions | argument | 184 | ML | Muslim Surprises Truth Seeker With Evidences Of Prophethood! Muhammed 
 FR185:47-59 | P04.C02 | Moon splitting and people asleep at night | response | 92 | FR | "They were asleep at night" / "Parental Consent" - short response
@@ -233,8 +251,10 @@ FR208:1-35 | P04.C03 | Prophet's risky claim about the identity of Jesus | argum
 FR208:83-93 | P04.C03 | Prophet's risky claim about the identity of Jesus | conclusion | 61 | FR | Proofs of Prophethood 13: Identity of Jesus
 FR016:90-115 | P04.C03 | Prophet's sincerity: madman or prophet argument | argument | 319 | FR | Two Indirect Proofs of Prophethood from One Hadith
 ML062:445-491 | P04.C03 | Prophet's treatment of the head of the hypocrites | illustration | 621 | ML | Open-Minded Atheist Shifts His Entire Worldview After Encountering A M
+ML412:252-304 | P04.C03 | Prophet's truthfulness and Meccan persecution | response | 456 | ML | 2 Jews Question The Truth of Islam! Muhammed Ali - Speakers Corner
 ML062:195-251 | P04.C03 | Prophethood claims and the need for evidence | overview | 481 | ML | Open-Minded Atheist Shifts His Entire Worldview After Encountering A M
 ML058:365-381 | P04.C03 | Prophetic infallibility in conveying the message | argument | 178 | ML | Agnostic Claims That Pantheism Is More Rational Than Monotheism! Muham
+ML415:69-81 | P04.C03 | Prophets bring signs as evidence | overview | 151 | ML | English Student Becomes Muslim! Muhammed Ali - Speakers Corner
 ML236:254-268 | P04.C03 | Reforming society as a motive | argument | 153 | ML | Islam Unveiled: Compelling Evidence For The Truthfulness Of Islam | Ch
 FR152:43-95 | P04.C03 | Reports of Jibril instructing the Prophet in human form | argument | 381 | FR | The "’Man" that taught Muhammad ﷺ the Quran
 ML152:417-457 | P04.C03 | Sacrifices of the Prophet as evidence | argument | 246 | ML | Muslim And Educated Christian Debate The Divinity Of Jesus Christ! Muh
@@ -293,7 +313,9 @@ FR066:347-389 | P04.C04 | Name of Muhammad in the Bible: double standards | resp
 ML152:458-504 | P04.C04 | Prophet after Jesus: Deuteronomy 18 and Isaiah 42 | response | 458 | ML | Muslim And Educated Christian Debate The Divinity Of Jesus Christ! Muh
 FR061:1-50 | P04.C04 | Prophets after Jesus in the Bible | overview | 107 | FR | Godlogic vs Hamza - Prophets after Jesus
 ML118:181-264 | P04.C04 | Quran 7:157 description in previous scriptures | response | 688 | ML | Atheist Attempts To Use A Christian Argument Against Muslim But Fails 
+ML389:428-477 | P04.C04 | That Prophet in John 1:21 and Deuteronomy 18:18 | argument | 372 | ML | Sincere Christians Investigate Islam Part 1! Muhammed Ali
 FR061:149-192 | P04.C04 | The law and the prophets until John | response | 233 | FR | Godlogic vs Hamza - Prophets after Jesus
+ML389:353-427 | P04.C04 | The Paraclete in John 14 and 16 | argument | 535 | ML | Sincere Christians Investigate Islam Part 1! Muhammed Ali
 FR377:85-120 | P04.C04 | Valley of Baca: Jerusalem or Mecca | response | 402 | FR | [DEBUNKED] The Truth about the Kaaba - Apostate Prophet
 ML064:1324-1333 | P04.C05 | Arab oral culture and written records | response | 69 | ML | Clip-React| Responding To Professor Jiang's Lecture On The Islamic Gol
 ML064:540-616 | P04.C05 | Believers movement thesis and People of the Book | response | 396 | ML | Clip-React| Responding To Professor Jiang's Lecture On The Islamic Gol
@@ -306,6 +328,7 @@ FR047:451-470 | P04.C05 | Crucifixion analogy for a Mecca conspiracy | response 
 FR297:1-45 | P04.C05 | Doubting the existence of the Prophet and Aisha | response | 211 | FR | Are Hadiths Reliable?
 FR128:142-163 | P04.C05 | Earliest works of tafsir | response | 86 | FR | "Prophet Muhammad Didn't Exist!" [Response Video]
 ML064:1165-1247 | P04.C05 | Early written sources of Islam | response | 963 | ML | Clip-React| Responding To Professor Jiang's Lecture On The Islamic Gol
+ML416:231-258 | P04.C05 | Evidence for the historical existence of Muhammad | response | 181 | ML | Rude Christian Refuses To Leave! Muhammed Ali - Speakers Corner
 FR047:358-413 | P04.C05 | Geographical identification of Mecca | response | 323 | FR | I had to delete my last video. [Quran-only]
 ML270:27-93 | P04.C05 | Historical evidence for Muhammad's existence | response | 659 | ML | Christian Questions The Historical Existence Of Prophet Mohammed! Muha
 FR128:27-106 | P04.C05 | Ibn Ishaq's Sira and its transmission | response | 311 | FR | "Prophet Muhammad Didn't Exist!" [Response Video]
@@ -319,7 +342,10 @@ ML064:1053-1105 | P04.C05 | Was Muhammad portrayed as a revolutionary | response
 ML060:881-908 | P04.C05 | Written sources from Islam's first century | response | 331 | ML | Sneako Questions The Muslim Lantern On Shia & Sunni Unity | The Iran W
 FR074:147-228 | P04.C05 | Wustenfeld and the Sirah of Ibn Hisham | response | 287 | FR | Jay Smith: The Germans Created the History of Muhammad!
 ML096:1364-1423 | P04.C06 | Accepting Muhammad but denying finality | conclusion | 460 | ML | The Muslim Lantern, Sneako and Arab Debate Religion! Muhammed Ali
+ML364:60-81 | P04.C06 | Ahmadi beliefs about Ghulam Ahmad and Quran 33:40 | argument | 157 | ML | Muslim Questioned On Sectarianism In Islam! Muhammed Ali
+ML364:24-48 | P04.C06 | Ahmadi claim of non-law-bearing prophets | response | 117 | ML | Muslim Questioned On Sectarianism In Islam! Muhammed Ali
 FR132:36-97 | P04.C06 | Ahmadi claim that prophets misread revelation | response | 431 | FR | If Mirza Ghulam Ahmad made a World Cup prophecy
+ML364:291-311 | P04.C06 | Ahmadi interpretation of Quran 61:6 Ahmad | argument | 233 | ML | Muslim Questioned On Sectarianism In Islam! Muhammed Ali
 ML347:782-791 | P04.C06 | Ahmadiyya and finality of prophethood | argument | 154 | ML | Agnostic Challenges Muslim On God Then This Happens! Muhammed Ali
 ML132:393-444 | P04.C06 | Aisha's statement on the seal of prophets | response | 721 | ML | Clip-React| Does Islam Allow $ex Slavery? The God Of The Gaps Debunked
 FR115:428-454 | P04.C06 | Ambiguous prophecies and Mirza Ahmad's truthfulness | response | 31 | FR | Destroying Qadianis with ONE Question
@@ -339,6 +365,7 @@ FR132:98-175 | P04.C06 | Hudaybiyyah vision versus Mirza's Mecca-Medina revelati
 ML272:205-238 | P04.C06 | Mahdi in Islamic tradition versus claimant | response | 350 | ML | Western Man Claims To Be Imam Al Mahdi?! Muhammed Ali
 ML132:334-392 | P04.C06 | Meaning of khatam an-nabiyyin | response | 583 | ML | Clip-React| Does Islam Allow $ex Slavery? The God Of The Gaps Debunked
 FR133:424-463 | P04.C06 | Message to Ahmadis and finality of prophethood | conclusion | 282 | FR | Failed Prophecies of Mirza Ghulam Ahmad
+ML364:312-341 | P04.C06 | Messenger versus prophet: non-law-bearing claim | response | 265 | ML | Muslim Questioned On Sectarianism In Islam! Muhammed Ali
 FR133:391-404 | P04.C06 | Mirza's dream of travelling to Delhi | argument | 93 | FR | Failed Prophecies of Mirza Ghulam Ahmad
 FR133:248-332 | P04.C06 | Mirza's Muhammadi Begum marriage prophecy | argument | 545 | FR | Failed Prophecies of Mirza Ghulam Ahmad
 FR133:185-247 | P04.C06 | Mirza's promised son prophecy | argument | 415 | FR | Failed Prophecies of Mirza Ghulam Ahmad
@@ -350,6 +377,7 @@ FR133:405-423 | P04.C06 | Mirza's prophecy of Manzoor Muhammad's son | argument 
 FR133:116-148 | P04.C06 | Mirza's prophecy of marrying a widow | argument | 213 | FR | Failed Prophecies of Mirza Ghulam Ahmad
 FR133:71-115 | P04.C06 | Mirza's revelations on the return of Jesus | argument | 277 | FR | Failed Prophecies of Mirza Ghulam Ahmad
 ML163:183-236 | P04.C06 | Motives of false prophethood claimants | response | 462 | ML | Baha'i Lady Questions Muslim On The Last Prophet! Muhammed Ali
+ML388:452-487 | P04.C06 | Muhammad as final messenger sent to all | response | 327 | ML | Sincere Christians Investigate Islam Part 2! Muhammed Ali
 ML135:127-155 | P04.C06 | Perfection of religion and no new revelation | argument | 261 | ML | Sacred Treasurey Follower Challenges Muslim On The Final Revelation! M
 FR115:50-89 | P04.C06 | Prophecy of abandoned camels | response | 123 | FR | Destroying Qadianis with ONE Question
 ML163:35-83 | P04.C06 | Prophet and Messenger distinction | response | 381 | ML | Baha'i Lady Questions Muslim On The Last Prophet! Muhammed Ali
@@ -358,6 +386,7 @@ FR115:1-49 | P04.C06 | Request for evidence of Ahmadi claims | overview | 93 | F
 ML135:188-224 | P04.C06 | Restoration versus new revelation | response | 137 | ML | Sacred Treasurey Follower Challenges Muslim On The Final Revelation! M
 FR047:516-593 | P04.C06 | Seal of prophets versus seal of messengers | response | 314 | FR | I had to delete my last video. [Quran-only]
 ML163:84-124 | P04.C06 | Seal of the prophets in Quran and hadith | argument | 385 | ML | Baha'i Lady Questions Muslim On The Last Prophet! Muhammed Ali
+ML364:114-144 | P04.C06 | Seal of the prophets: verse and last brick hadith | argument | 373 | ML | Muslim Questioned On Sectarianism In Islam! Muhammed Ali
 FR115:90-182 | P04.C06 | Son of Mary in hadith: literal or likeness | argument | 211 | FR | Destroying Qadianis with ONE Question
 FR047:471-515 | P04.C06 | Ta'wil verse and messengers after Muhammad | response | 99 | FR | I had to delete my last video. [Quran-only]
 ML272:1-91 | P04.C06 | Western man claiming to be the Mahdi | response | 480 | ML | Western Man Claims To Be Imam Al Mahdi?! Muhammed Ali

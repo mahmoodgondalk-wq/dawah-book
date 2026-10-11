@@ -1,4 +1,5 @@
 ML075:269-367 | P14.C01 | Balfour Declaration, Jewish immigration and the Nakba | argument | 1125 | ML | American Jew Debates Muslim On Gaza And The History Of Palestine! Muha
+ML423:1-61 | P14.C01 | Biblical history of the Israelites in Canaan | argument | 931 | ML | Who Has A Historical Right To The Land of Palestine?
 ML075:167-218 | P14.C01 | Canaanites and the indigenous people of the land | argument | 533 | ML | American Jew Debates Muslim On Gaza And The History Of Palestine! Muha
 ML249:1-57 | P14.C01 | Canaanites as original inhabitants of Palestine | argument | 414 | ML | Jewish Lady Confronts Muslim On The Land Of Palestine! Muhammed Ali
 ML075:1-78 | P14.C01 | Casualty numbers in Gaza and Israel | response | 394 | ML | American Jew Debates Muslim On Gaza And The History Of Palestine! Muha
@@ -15,6 +16,8 @@ ML075:497-540 | P14.C01 | Guest's allegiance and defence of Israel | response | 
 ML075:482-496 | P14.C01 | Hannibal directive on October 7 | argument | 134 | ML | American Jew Debates Muslim On Gaza And The History Of Palestine! Muha
 ML249:121-198 | P14.C01 | Herzl, British promises and Jewish immigration | argument | 560 | ML | Jewish Lady Confronts Muslim On The Land Of Palestine! Muhammed Ali
 ML075:122-166 | P14.C01 | Herzl, Zionism and the name Palestine | argument | 321 | ML | American Jew Debates Muslim On Gaza And The History Of Palestine! Muha
+ML423:118-134 | P14.C01 | Historical right to the land of Palestine | conclusion | 215 | ML | Who Has A Historical Right To The Land of Palestine?
+ML423:62-103 | P14.C01 | Historical rulership and inhabitants of Palestine | argument | 642 | ML | Who Has A Historical Right To The Land of Palestine?
 ML249:58-120 | P14.C01 | History of the conflict before October 7 | response | 301 | ML | Jewish Lady Confronts Muslim On The Land Of Palestine! Muhammed Ali
 ML290:159-220 | P14.C01 | History of the Palestine conflict before October 7 | argument | 807 | ML | American Lady Learns The Truth About Palestine! Muhammed Ali
 ML203:240-302 | P14.C01 | History since 1948 and Western support for Israel | response | 388 | ML | Agnostic Questions Muslim On Israel & Palestine "Conflict"! Muhammed A
@@ -59,6 +62,7 @@ ML075:420-481 | P14.C01 | Violence against Palestinians before October 7 | respo
 ML203:114-194 | P14.C01 | Whether 'conflict' describes Israel and Palestine | response | 507 | ML | Agnostic Questions Muslim On Israel & Palestine "Conflict"! Muhammed A
 ML075:664-721 | P14.C01 | Why world opinion turned against Israel | response | 490 | ML | American Jew Debates Muslim On Gaza And The History Of Palestine! Muha
 ML268:991-1016 | P14.C01 | Zionist aims: land of Canaan and Temple | response | 140 | ML | Two Intelligent Jews Cross-Examine Islam! Muhammed Ali
+ML423:104-117 | P14.C01 | Zionist movement and Jewish immigration to Palestine | argument | 193 | ML | Who Has A Historical Right To The Land of Palestine?
 ML324:210-262 | P14.C02 | Allegiance to Islam versus the nation | response | 380 | ML | Muslim Dismantles French Nationalism And Racist Ideologies! Muhammed A
 ML103:1-18 | P14.C02 | Anti-immigration protests in the UK | overview | 230 | ML | Clip-React| Islam Should Be Banned?! The Quran CAN Be Replicated?! | M
 ML101:748-795 | P14.C02 | Are Muslim Americans guests in America | response | 274 | ML | Myron Gets Demolished In Sneako Debate After Ducking 1 on 1 Discussion
@@ -74,6 +78,7 @@ ML048:43-94 | P14.C02 | Feeling unwelcome and living under a country's law | res
 ML030:692-725 | P14.C02 | Funding of anti-Muslim activists and sowing division | argument | 280 | ML | Wise Christian Questions The Consistency Of The Teachings Of Islam! Mu
 ML048:561-604 | P14.C02 | Hospitality and welcoming foreigners | response | 249 | ML | Englishman And Muslim Have An Honest Conversation About Immigration In
 ML103:316-364 | P14.C02 | Hostility toward Muslims at UK protests | response | 198 | ML | Clip-React| Islam Should Be Banned?! The Quran CAN Be Replicated?! | M
+ML409:1-38 | P14.C02 | Hostility toward Muslims in a Christian country | illustration | 26 | ML | Racist English Man Turns Aggressive! Muhammed Ali - Speakers Corner
 ML324:311-402 | P14.C02 | Immigrants in France and conditions in Morocco | response | 348 | ML | Muslim Dismantles French Nationalism And Racist Ideologies! Muhammed A
 ML103:403-421 | P14.C02 | Incitement to violence at UK rally | response | 205 | ML | Clip-React| Islam Should Be Banned?! The Quran CAN Be Replicated?! | M
 ML103:79-118 | P14.C02 | Islamophobia and racism at UK protests | response | 256 | ML | Clip-React| Islam Should Be Banned?! The Quran CAN Be Replicated?! | M
@@ -112,12 +117,15 @@ ML064:1144-1164 | P14.C03 | Historical records of the early conquests | response
 ML064:480-518 | P14.C03 | Hospitals and universities in Islamic civilization | argument | 271 | ML | Clip-React| Responding To Professor Jiang's Lecture On The Islamic Gol
 ML064:354-388 | P14.C03 | House of Wisdom and the translation movement | argument | 166 | ML | Clip-React| Responding To Professor Jiang's Lecture On The Islamic Gol
 ML064:457-479 | P14.C03 | Ibn al-Haytham and the scientific method | argument | 217 | ML | Clip-React| Responding To Professor Jiang's Lecture On The Islamic Gol
+ML421:130-246 | P14.C03 | Islamic conquests and claims of ethnic cleansing | response | 836 | ML | Ex-Muslims Question Islam P2! Muhammed Ali - Speakers Corner
 FR411:187-235 | P14.C03 | Islamic empire versus the spread of the religion | conclusion | 190 | FR | [DEBUNKED] The Bloody Spread of Islam - Apostate Prophet
 ML045:1-20 | P14.C03 | Muslim conquest of Egypt | overview | 249 | ML | Clip-React| Coptic Christian Warns The Western World From Islam And Mu
 ML025:203-237 | P14.C03 | Muslim conquest of Egypt and Coptic Christians | illustration | 374 | ML | Inquisitive Agnostic Grills Muslim On Cousin Marriage And Racism In Is
 ML000:240-270 | P14.C03 | Muslim contributions to science | argument | 354 | ML | Skeptical Atheist Rethinks Islam After A Rational Dialogue With A Musl
 ML325:208-231 | P14.C03 | Muslim contributions to science | response | 208 | ML | Why Does God Not Communicate With Humans? Muhammed Ali
+ML411:97-117 | P14.C03 | Muslim contributions to science | argument | 294 | ML | Sharia Law is Corruption?! Muhammed Ali - Speaker Corner
 ML161:204-225 | P14.C03 | Muslim contributions to the scientific method | argument | 149 | ML | Muslim Challenges Science Believer On The Existence Of God! Muhammed A
+ML401:241-265 | P14.C03 | Muslim scholars and the scientific method | argument | 170 | ML | Native American Learns About Islam! Muhammed Ali
 ML064:389-456 | P14.C03 | Muslim scholars and their Latinised names | argument | 513 | ML | Clip-React| Responding To Professor Jiang's Lecture On The Islamic Gol
 ML033:1118-1222 | P14.C03 | Muslim scientific achievements and their decline | response | 770 | ML | Buddhist Gets Defensive After A Muslim Highlights The Problems With Bu
 FR411:115-133 | P14.C03 | Peaceful conquests and converted rulers | response | 71 | FR | [DEBUNKED] The Bloody Spread of Islam - Apostate Prophet
@@ -144,6 +152,7 @@ ML105:88-111 | P14.C04 | Free speech and Muslim dawah in the West | response | 2
 ML101:524-589 | P14.C04 | Free speech limits and nationalism | response | 405 | ML | Myron Gets Demolished In Sneako Debate After Ducking 1 on 1 Discussion
 ML324:403-462 | P14.C04 | French secularism and hijab restrictions | argument | 419 | ML | Muslim Dismantles French Nationalism And Racist Ideologies! Muhammed A
 ML324:544-579 | P14.C04 | Harassment of women in Morocco and France | response | 239 | ML | Muslim Dismantles French Nationalism And Racist Ideologies! Muhammed A
+ML407:184-234 | P14.C04 | Has religion failed in the modern world | response | 315 | ML | Should We Doubt Everything?! Muhammed Ali - Speakers Corner
 ML128:25-106 | P14.C04 | How AI works and its biases | argument | 880 | ML | Can Muslims Really Trust Artificial Intelligence?! Muhammed Ali
 ML128:269-342 | P14.C04 | How Muslims should deal with AI | conclusion | 857 | ML | Can Muslims Really Trust Artificial Intelligence?! Muhammed Ali
 ML101:284-355 | P14.C04 | Is the US a Christian country: founding fathers | response | 442 | ML | Myron Gets Demolished In Sneako Debate After Ducking 1 on 1 Discussion
@@ -151,6 +160,7 @@ ML101:796-835 | P14.C04 | Is the US a Christian country: founding fathers | resp
 ML025:599-621 | P14.C04 | Islam and the modern Western world | response | 159 | ML | Inquisitive Agnostic Grills Muslim On Cousin Marriage And Racism In Is
 ML240:170-227 | P14.C04 | Islam going viral on social media | response | 579 | ML | The One Minute Podcast | Sneak∅ Interviews The Muslim Lantern | Muhamm
 ML025:526-582 | P14.C04 | Lack of mass protest over Epstein files | argument | 468 | ML | Inquisitive Agnostic Grills Muslim On Cousin Marriage And Racism In Is
+ML394:114-133 | P14.C04 | Liberalism and decline of Christian practice | argument | 138 | ML | Priests Force Their Beliefs?! Muhammed Ali
 ML263:698-731 | P14.C04 | Limits of absolute free speech | argument | 430 | ML | The Muslim Lantern Gets Sneak∅ To Rethink His Views! Muhammed Ali
 ML048:95-121 | P14.C04 | Media and the roots of hostility to Islam | response | 129 | ML | Englishman And Muslim Have An Honest Conversation About Immigration In
 ML263:969-1005 | P14.C04 | Media portrayal and shallow critiques of Islam | argument | 452 | ML | The Muslim Lantern Gets Sneak∅ To Rethink His Views! Muhammed Ali
@@ -163,6 +173,7 @@ ML277:243-326 | P14.C04 | Muslim countries compared with the West | response | 8
 ML128:1-24 | P14.C04 | Muslim reliance on artificial intelligence | overview | 289 | ML | Can Muslims Really Trust Artificial Intelligence?! Muhammed Ali
 ML340:545-569 | P14.C04 | Peer pressure on Muslims in the workplace | response | 451 | ML | Non-Muslim Audience Asks Muslim Difficult Questions! Muhammed Ali
 ML263:54-107 | P14.C04 | Practising Islam in the online influencer world | response | 422 | ML | The Muslim Lantern Gets Sneak∅ To Rethink His Views! Muhammed Ali
+ML378:1-17 | P14.C04 | Religion as private matter versus enjoining good | response | 105 | ML | Lesbian Speaks The Truth About LGTBQ! Muhammed Ali
 ML060:1409-1500 | P14.C04 | Religion used to justify war | argument | 556 | ML | Sneako Questions The Muslim Lantern On Shia & Sunni Unity | The Iran W
 ML041:467-517 | P14.C04 | Responsibility to act and campaign funding | argument | 578 | ML | Curious Couple Ask A Muslim To Explain World Suffering! Muhammed Ali
 ML199:777-808 | P14.C04 | Sacred limits on speech in liberal societies | argument | 213 | ML | Atheist Confronts Muslim On Apostasy Laws In Islam! Muhammed Ali
@@ -176,6 +187,7 @@ ML277:187-242 | P14.C04 | Western advancement and its moral state | response | 7
 ML368:550-615 | P14.C04 | Western attitudes and politics toward Muslims | response | 159 | ML | Why Are You A Muslim?! Muhammed Ali
 ML130:340-459 | P14.C04 | Western imposition of values on Muslim nations | argument | 880 | ML | Tran$gender Challenges Muslim On His Comments About LGTBQ Community! M
 ML030:35-52 | P14.C04 | Western moral decline and Muslim values | argument | 169 | ML | Wise Christian Questions The Consistency Of The Teachings Of Islam! Mu
+ML422:133-164 | P14.C04 | Western portrayal of Islam as violent | response | 238 | ML | Ex-Muslims Question Islam P1! Muhammed Ali - Speakers Corner
 ML130:736-903 | P14.C04 | Women in Afghanistan and Western reporting | response | 1298 | ML | Tran$gender Challenges Muslim On His Comments About LGTBQ Community! M
 ML103:422-446 | P14.C05 | Advice to Muslims facing anti-Muslim hostility | conclusion | 298 | ML | Clip-React| Islam Should Be Banned?! The Quran CAN Be Replicated?! | M
 ML324:580-684 | P14.C05 | Colonialism and poverty in Muslim countries | response | 656 | ML | Muslim Dismantles French Nationalism And Racist Ideologies! Muhammed A

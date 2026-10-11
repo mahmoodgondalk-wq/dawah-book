@@ -77,6 +77,7 @@ ML256:33-65 | P05.C02 | First revelation in the cave of Hira | overview | 454 | 
 ML256:66-99 | P05.C02 | Gradual revelation and the scribes of revelation | overview | 486 | ML | The History Of The Quranic Text| A Breakdown From Revelation To Compil
 ML088:341-423 | P05.C02 | Hafsa's manuscripts and Uthman's compilation | response | 405 | ML | Arrogant Christian Insults Muslim And Rage-Quits After Being Exposed! 
 ML256:1-32 | P05.C02 | History of the Quranic text: introduction and outline | overview | 457 | ML | The History Of The Quranic Text| A Breakdown From Revelation To Compil
+ML408:88-105 | P05.C02 | How the Quran was revealed | overview | 132 | ML | Iceland Visitors Enquire About Islam! Muhammed Ali - Speakers Corner
 ML211:81-150 | P05.C02 | How the Quran was written down and compiled | response | 506 | ML | Atheist Examines The Muslim Belief In God! Muhammed Ali
 ML300:209-246 | P05.C02 | Identical Qurans versus Bible variants | argument | 170 | ML | Arab Christian Speaks The Truth About The Bible! Muhammed Ali
 ML094:191-208 | P05.C02 | Illiterate Prophet and the writing of the Quran | response | 169 | ML | Clip-React| Asmongold Wants To Read The Quran?! Chunkz Will Disown His
@@ -88,8 +89,11 @@ ML007:1489-1522 | P05.C02 | Memorization and preservation of the Quran | argumen
 ML143:102-132 | P05.C02 | Memorization as preservation of the Quran | argument | 148 | ML | Christian Challenges Muslim On The Preservation Of The Bible! Muhammed
 ML143:276-304 | P05.C02 | Memorization as preservation of the Quran | response | 243 | ML | Christian Challenges Muslim On The Preservation Of The Bible! Muhammed
 ML341:1-44 | P05.C02 | Memorization of the Quran by children | illustration | 264 | ML | Non-Muslims Shocked By Muslim Child Reciting Quran From Memory! - Muha
+ML380:1491-1536 | P05.C02 | Memorizing the Quran and understanding it | response | 227 | ML | Christian Preachers Ambush Muslim! Muhammed Ali
 ML088:177-203 | P05.C02 | Oral and written preservation of the Quran | argument | 322 | ML | Arrogant Christian Insults Muslim And Rage-Quits After Being Exposed! 
 ML317:233-255 | P05.C02 | Oral and written preservation of the Quran | response | 322 | ML | Sikh Challenges Muslim On The Preservation Of The Quran! Muhammed Ali
+ML378:144-193 | P05.C02 | Oral and written preservation of the Quran | argument | 594 | ML | Lesbian Speaks The Truth About LGTBQ! Muhammed Ali
+ML411:286-346 | P05.C02 | Oral and written transmission of the Quran | overview | 409 | ML | Sharia Law is Corruption?! Muhammed Ali - Speaker Corner
 ML015:440-521 | P05.C02 | Oral preservation of the Quran | response | 940 | ML | Muslim Surprises Intelligent Lady With Undeniable Evidence For Islam! 
 ML212:16-79 | P05.C02 | Oral preservation of the Quran | response | 418 | ML | Sincere Christian Speaks The Truth About Christianity! Muhammed Ali
 ML139:476-507 | P05.C02 | Oral preservation of the Quran and scholarly views | argument | 423 | ML | Historian Debates Muslim On The Authenticity Of The Bible! Muhammed Al
@@ -100,10 +104,14 @@ ML189:187-197 | P05.C02 | Preservation of the Quran by memorization | argument |
 ML006:416-441 | P05.C02 | Preservation of the Quran by memorization and writing | argument | 351 | ML | How Do You Know Which Religion Is From God? A Detailed Comprehensive A
 ML051:100-123 | P05.C02 | Preservation of the Quran compared to the Bible | argument | 234 | ML | Devout Christian Shocked After A Muslim Reveals The Truth About The Bi
 ML244:387-405 | P05.C02 | Preservation of the Quran compared to the Bible | argument | 188 | ML | Catholic Grandfather Examines The Teachings Of Islam! Muhammed Ali
+ML408:276-303 | P05.C02 | Preservation of the Quran compared to the Bible | response | 272 | ML | Iceland Visitors Enquire About Islam! Muhammed Ali - Speakers Corner
+ML401:349-371 | P05.C02 | Preservation of the Quran through memorisation | argument | 174 | ML | Native American Learns About Islam! Muhammed Ali
 ML340:140-168 | P05.C02 | Preservation of the Quran through memorization | argument | 415 | ML | Non-Muslim Audience Asks Muslim Difficult Questions! Muhammed Ali
 ML158:241-260 | P05.C02 | Preservation of the Quran versus the Old Testament | argument | 153 | ML | Atheist And Muslim Debate The Consequences Of Following Religion! Muha
 ML144:520-549 | P05.C02 | Preservation of the Quran: memorisation and manuscripts | argument | 360 | ML | Muslim Tactically Turns The Tables On A Christian! Muhammed Ali
 ML151:1-79 | P05.C02 | Preservation of the Quran: memorization and manuscripts | response | 487 | ML | Agnostic Grills Muslim With Difficult And Inquisitive Questions! Muham
+ML395:79-123 | P05.C02 | Preservation of the Quran: memorization and manuscripts | response | 321 | ML | Clever Atheist Challenges Muslim Part 2! Muhammed Ali
+ML415:1-27 | P05.C02 | Preservation of the Quran: memorization and manuscripts | argument | 316 | ML | English Student Becomes Muslim! Muhammed Ali - Speakers Corner
 ML337:1-118 | P05.C02 | Preservation of the Quran: oral transmission and manuscripts | response | 902 | ML | Christian Lady Skeptical About The Prophet of Islam! Muhammed Ali
 ML057:1037-1092 | P05.C02 | Quran as God's word and its preservation | argument | 553 | ML | Christian Lady Grills Muslim With Questions Then A Surprise Happens! M
 ML088:55-88 | P05.C02 | Quran as the only preserved revelation | response | 255 | ML | Arrogant Christian Insults Muslim And Rage-Quits After Being Exposed! 
@@ -363,6 +371,7 @@ FR336:1-26 | P05.C06 | Colored streaks in mountains in the Quran | response | 76
 FR367:140-215 | P05.C06 | Conditions for disproving the Quran with science | argument | 477 | FR | [DEBUNKED] The Science Mistakes of the Quran - Apostate Prophet
 ML136:495-543 | P05.C06 | Construction and expansion of the heavens | response | 362 | ML | Clip-React| The Quran Has Multiple Errors?! Omar And The Pen & Paper I
 FR367:883-913 | P05.C06 | Determination of sex in embryology | response | 134 | FR | [DEBUNKED] The Science Mistakes of the Quran - Apostate Prophet
+ML411:1-37 | P05.C06 | Dinosaurs and unknown creations in the Quran | response | 480 | ML | Sharia Law is Corruption?! Muhammed Ali - Speaker Corner
 FR367:943-974 | P05.C06 | Eight kinds of livestock | response | 128 | FR | [DEBUNKED] The Science Mistakes of the Quran - Apostate Prophet
 ML236:946-962 | P05.C06 | Embryology in the Quran | argument | 200 | ML | Islam Unveiled: Compelling Evidence For The Truthfulness Of Islam | Ch
 ML330:33-67 | P05.C06 | Embryology in the Quran | response | 383 | ML | Agnostic Tries To Trap Muslim Live On Stream! Muhammed Ali
@@ -376,6 +385,7 @@ FR367:216-271 | P05.C06 | Expanding universe verse and scientific miracle claims
 ML258:97-144 | P05.C06 | Expanding universe verse: grammar and tafsir | response | 632 | ML | Clip-React| No Bible Contradictions? Following Mazhab? Mahdi Is Dajjal
 ML258:1-65 | P05.C06 | Expanding universe verse: meaning of sama' | response | 699 | ML | Clip-React| No Bible Contradictions? Following Mazhab? Mahdi Is Dajjal
 ML277:366-386 | P05.C06 | Expanding universe, heavy clouds and mountains as pegs | argument | 284 | ML | Afghan Girl Claims That Muslims Are Blind Followers?! Muhammed Ali
+ML396:598-637 | P05.C06 | Expanding universe, water and mountains in the Quran | argument | 244 | ML | Clever Atheist Challenges Muslim Part 1! Muhammed Ali
 ML236:904-945 | P05.C06 | Expansion of the universe and life from water | argument | 494 | ML | Islam Unveiled: Compelling Evidence For The Truthfulness Of Islam | Ch
 ML121:636-778 | P05.C06 | Flat earth claim and scholars on round earth | response | 859 | ML | Atheist Confronts Muslim On Mistakes Found In The Quran! Muhammed Ali
 ML136:265-338 | P05.C06 | Flat earth claim and shape of the earth | response | 703 | ML | Clip-React| The Quran Has Multiple Errors?! Omar And The Pen & Paper I
@@ -397,6 +407,7 @@ FR367:788-827 | P05.C06 | Milk from livestock between filth and blood | response
 ML136:1-120 | P05.C06 | Milk production in Quran 16:66 | response | 1458 | ML | Clip-React| The Quran Has Multiple Errors?! Omar And The Pen & Paper I
 ML330:257-276 | P05.C06 | Mixing of salt and fresh water | response | 229 | ML | Agnostic Tries To Trap Muslim Live On Stream! Muhammed Ali
 FR367:508-539 | P05.C06 | Mountains and the earth's shaking | response | 140 | FR | [DEBUNKED] The Science Mistakes of the Quran - Apostate Prophet
+ML415:108-138 | P05.C06 | Mountains as pegs | argument | 303 | ML | English Student Becomes Muslim! Muhammed Ali - Speakers Corner
 ML236:875-903 | P05.C06 | Mountains as pegs and stabilizers | argument | 304 | ML | Islam Unveiled: Compelling Evidence For The Truthfulness Of Islam | Ch
 FR151:218-268 | P05.C06 | Muddy spring verse and the hadith of Abu Dharr | conclusion | 221 | FR | Apostate Prophet Damage Control
 ML201:446-560 | P05.C06 | Objection of stretching word meanings | response | 740 | ML | Ex-Muslim Claims The Quran Is Full Of Scientific Mistakes?! Muhammed A
@@ -410,9 +421,12 @@ ML103:682-750 | P05.C06 | Quran 101:4, moths and resurrection from coccyx | argu
 ML091:645-664 | P05.C06 | Quran and modern scientific knowledge | argument | 197 | ML | Omnist Left Speechless After Hearing This Muslim's Answer! Muhammed Al
 ML312:199-218 | P05.C06 | Quran and natural phenomena | argument | 271 | ML | Why Do Muslims Reject The Claim Of Paul? Muhammed Ali
 ML174:259-280 | P05.C06 | Quran and science: heavy clouds | argument | 155 | ML | Pakistani Ex-Muslim Confronts A Muslim On Following Islam! Muhammed Al
+ML415:82-107 | P05.C06 | Quran and the expanding universe | argument | 268 | ML | English Student Becomes Muslim! Muhammed Ali - Speakers Corner
 ML006:591-675 | P05.C06 | Quran free of the misconceptions of its time | argument | 1100 | ML | How Do You Know Which Religion Is From God? A Detailed Comprehensive A
 ML068:1-49 | P05.C06 | Quran on the motion of the sun and heavy clouds | argument | 356 | ML | Atheist Abandons Logic And Rationality To Deny God! Muhammed Ali
+ML365:549-558 | P05.C06 | Quran on water and embryology | argument | 104 | ML | Atheist Challenges Muslim On Evolution! Muhammed Ali
 ML133:114-141 | P05.C06 | Quran versus ancient Greek and Hindu beliefs | argument | 409 | ML | Non-Muslim Students Get Introduced To The Miracles Of The Quran! Muham
+ML415:139-150 | P05.C06 | Quranic embryology | argument | 190 | ML | English Student Becomes Muslim! Muhammed Ali - Speakers Corner
 ML207:568-678 | P05.C06 | Quranic embryology and Galen | response | 587 | ML | Anonymous Atheist Attempts To Outsmart A Muslim! Muhammed Ali
 ML268:837-860 | P05.C06 | Quranic statements on the natural world | argument | 134 | ML | Two Intelligent Jews Cross-Examine Islam! Muhammed Ali
 ML006:720-802 | P05.C06 | Resurrection simile of butterflies and the tailbone | argument | 774 | ML | How Do You Know Which Religion Is From God? A Detailed Comprehensive A
@@ -422,12 +436,16 @@ ML262:714-751 | P05.C06 | Scientific descriptions in the Quran | argument | 367 
 ML000:212-239 | P05.C06 | Scientific facts in the Quran: expansion and embryology | argument | 362 | ML | Skeptical Atheist Rethinks Islam After A Rational Dialogue With A Musl
 ML024:278-304 | P05.C06 | Scientific information in the Quran | argument | 296 | ML | Confident Atheists Put To The Test By Muslim For Blindly Accepting Evo
 ML158:214-240 | P05.C06 | Scientific information in the Quran | argument | 314 | ML | Atheist And Muslim Debate The Consequences Of Following Religion! Muha
+ML390:73-90 | P05.C06 | Scientific information in the Quran | argument | 184 | ML | Friendly Lady Amazed By Islamic Teachings! Muhammed Ali
+ML412:171-218 | P05.C06 | Scientific information in the Quran | argument | 488 | ML | 2 Jews Question The Truth of Islam! Muhammed Ali - Speakers Corner
 ML008:359-370 | P05.C06 | Scientific knowledge as proof of prophethood | conclusion | 97 | ML | Confident Atheist Challenges Muslim Then Gets Unexpected Answers! Muha
 ML033:1223-1302 | P05.C06 | Scientific knowledge in seventh-century Arabia | response | 582 | ML | Buddhist Gets Defensive After A Muslim Highlights The Problems With Bu
+ML407:336-378 | P05.C06 | Scientific knowledge in the Quran | argument | 544 | ML | Should We Doubt Everything?! Muhammed Ali - Speakers Corner
 ML100:155-193 | P05.C06 | Scientific statements in the Quran | argument | 378 | ML | Doubtful Muslim Learns the Secret to Overcoming Doubts! Muhammed Ali
 ML133:69-113 | P05.C06 | Scientific statements in the Quran | argument | 495 | ML | Non-Muslim Students Get Introduced To The Miracles Of The Quran! Muham
 ML210:375-436 | P05.C06 | Scientific statements in the Quran | argument | 556 | ML | Agnostic Lady Questions Muslim On Evidence Of God! Muhammed Ali
 ML211:462-526 | P05.C06 | Scientific statements in the Quran | argument | 464 | ML | Atheist Examines The Muslim Belief In God! Muhammed Ali
+ML402:237-308 | P05.C06 | Scientific statements in the Quran | argument | 634 | ML | The Truth About Philosophy! Muhammed Ali
 FR367:272-347 | P05.C06 | Seven heavens, stars and seven earths | response | 345 | FR | [DEBUNKED] The Science Mistakes of the Quran - Apostate Prophet
 ML008:280-336 | P05.C06 | Shape of the earth and expanding universe | argument | 538 | ML | Confident Atheist Challenges Muslim Then Gets Unexpected Answers! Muha
 ML183:820-878 | P05.C06 | Shape of the Earth in Islam | response | 449 | ML | Tyson Hockley Grills The Muslim Lantern With Difficult Questions! Muha
@@ -463,8 +481,10 @@ FR308:271-367 | P05.C07 | Historicity of the Seven Sleepers story | response | 5
 ML343:123-143 | P05.C07 | Identity and drowning of the Pharaoh of Moses | overview | 32 | ML | Christian Claims The Quran Is Historically Plagiarised! Muhammed Ali
 ARTICLE:FA06 | P05.C07 | Identity of Dhu al-Qarnayn and Alexander parallels | overview | 14 pages | FR | article: The Identity of Dhū al-Qarnayn and a Response to Alleged Alex
 ML276:38-88 | P05.C07 | Ishmael or Isaac as the sacrificed son | response | 504 | ML | Mormon Questions Muslim On His Beliefs! Muhammed Ali
+ML380:666-760 | P05.C07 | Joseph in the Quran versus Genesis | response | 324 | ML | Christian Preachers Ambush Muslim! Muhammed Ali
 ML190:189-226 | P05.C07 | King and Pharaoh in Joseph and Moses stories | argument | 381 | ML | Unitarian Christian Questions The Similarities Between The Quran & The
 ML236:603-641 | P05.C07 | King in Joseph's time, Pharaoh in Moses' time | argument | 423 | ML | Islam Unveiled: Compelling Evidence For The Truthfulness Of Islam | Ch
+ML380:821-875 | P05.C07 | Later short account versus earlier detailed accounts | response | 127 | ML | Christian Preachers Ambush Muslim! Muhammed Ali
 FR368:48-64 | P05.C07 | Mary called sister of Aaron: naming practice | response | 164 | FR | [DEBUNKED] One Mistake Destroys Islam? - Challenge Accepted!
 FR368:1-14 | P05.C07 | Mary sister of Aaron and daughter of Imran | overview | 18 | FR | [DEBUNKED] One Mistake Destroys Islam? - Challenge Accepted!
 FR368:15-47 | P05.C07 | Name of Mary's father: Imran or Joachim | response | 226 | FR | [DEBUNKED] One Mistake Destroys Islam? - Challenge Accepted!
@@ -475,6 +495,7 @@ ML262:773-802 | P05.C07 | Pharaoh's claim of divinity and Abraham's people | arg
 ML078:662-700 | P05.C07 | Pharaoh's claim to divinity | argument | 390 | ML | Agnostic Puts Islam And Christianity To The Test! Muhammed Ali
 ML236:642-679 | P05.C07 | Pharaoh's claim to divinity | argument | 420 | ML | Islam Unveiled: Compelling Evidence For The Truthfulness Of Islam | Ch
 ML174:198-258 | P05.C07 | Pharaoh's claim to divinity and Abraham's people | argument | 447 | ML | Pakistani Ex-Muslim Confronts A Muslim On Following Islam! Muhammed Al
+ML365:559-598 | P05.C07 | Pharaoh's claim to divinity and Ramses II | argument | 254 | ML | Atheist Challenges Muslim On Evolution! Muhammed Ali
 FR368:65-93 | P05.C07 | Quran distinguishing Mary and Miriam | argument | 559 | FR | [DEBUNKED] One Mistake Destroys Islam? - Challenge Accepted!
 ML091:608-644 | P05.C07 | Quran on ancient Egypt and the Rosetta Stone | argument | 312 | ML | Omnist Left Speechless After Hearing This Muslim's Answer! Muhammed Al
 FR011:21-68 | P05.C07 | Quran's consistent avoidance of the title Pharaoh | response | 606 | FR | Quran Fixes the Bible's Historical Error AGAIN!
@@ -482,6 +503,7 @@ ML190:131-188 | P05.C07 | Quranic details absent from the Bible | argument | 641
 ML007:202-300 | P05.C07 | Quranic historical details absent from the Bible | argument | 1029 | ML | Confident Agnostic Grills A Muslim On The Quran Copying The Bible! Muh
 ML275:688-751 | P05.C07 | Reliability of the Quran on earlier history | response | 339 | ML | 3 Intelligent Christians Attempt To Challenge A Muslim! Muhammed Ali
 FR308:164-235 | P05.C07 | Romans taking gods besides Allah | response | 401 | FR | The Men who Slept 300 Years (Seven Sleepers) [DEBUNKED] - Apostate Pro
+ML380:538-610 | P05.C07 | Shorter Quranic accounts of the prophets | response | 205 | ML | Christian Preachers Ambush Muslim! Muhammed Ali
 ML236:556-602 | P05.C07 | Sky and earth not weeping for Pharaoh's people | argument | 503 | ML | Islam Unveiled: Compelling Evidence For The Truthfulness Of Islam | Ch
 ML039:46-130 | P05.C07 | The Samiri and the Samaritans | response | 1168 | ML | Clip-React| Christian Finds Five Contradictions In The Quran? | Muhamm
 ML050:246-282 | P05.C07 | Title of Egypt's ruler in Joseph's time | argument | 466 | ML | Clip-React| Wess Huff Claims The Quran Was Copied From The Bible | Muh
@@ -586,9 +608,11 @@ FR107:35-133 | P05.C08 | Quran 9:31: Arabic grammar of the verse | response | 63
 ML186:272-317 | P05.C08 | Quran as guidance, not entertainment | response | 238 | ML | Atheist Pushes Back Against Muslim! Muhammed Ali
 ML339:322-337 | P05.C08 | Quran on following forefathers and questioning | response | 200 | ML | Christian Attempts His Best To Disprove Islam! Muhammed Ali
 ML064:816-879 | P05.C08 | Quranic verses addressing the People of the Book | response | 275 | ML | Clip-React| Responding To Professor Jiang's Lecture On The Islamic Gol
+ML380:1080-1116 | P05.C08 | Reading texts in the original Arabic | response | 185 | ML | Christian Preachers Ambush Muslim! Muhammed Ali
 ML260:76-86 | P05.C08 | Reading the Quran in Arabic versus translations | response | 121 | ML | Born Again Christian Attempts To Prove The Divinity Of Jesus! Muhammed
 ML050:73-84 | P05.C08 | Reading the Quran in translation | response | 195 | ML | Clip-React| Wess Huff Claims The Quran Was Copied From The Bible | Muh
 FR182:1-19 | P05.C08 | Reading the Quran with contemplation | overview | 116 | FR | A Quranic Verse that Nobody Understood!
+ML395:1-36 | P05.C08 | Reading the Quran without understanding it | response | 191 | ML | Clever Atheist Challenges Muslim Part 2! Muhammed Ali
 FR170:639-704 | P05.C08 | Reinterpretation of Quranic words such as mahd | response | 126 | FR | Exposing Hany Atchan (Marvelous Quran)
 FR170:297-382 | P05.C08 | Reinterpretation of the story of Adam | response | 326 | FR | Exposing Hany Atchan (Marvelous Quran)
 FR170:410-481 | P05.C08 | Reinterpretation of the story of Musa | response | 177 | FR | Exposing Hany Atchan (Marvelous Quran)
@@ -601,6 +625,7 @@ FR227:483-537 | P05.C08 | Solomon, the birds and the hoopoe | response | 68 | FR
 ML040:65-133 | P05.C08 | Sources for interpreting the Quran | response | 732 | ML | Confident Catholic Attempts To Disprove Islam Using Catholicism! Muham
 ML197:140-182 | P05.C08 | Structure of the Quran and its opening chapter | response | 222 | ML | Ziônist Settler Reveals The Truth About Palestinian Occupation! Muhamm
 ML096:398-487 | P05.C08 | Subjective interpretation versus prophetic explanation | response | 697 | ML | The Muslim Lantern, Sneako and Arab Debate Religion! Muhammed Ali
+ML408:125-139 | P05.C08 | Surah Abasa and the Prophet's human errors | illustration | 181 | ML | Iceland Visitors Enquire About Islam! Muhammed Ali - Speakers Corner
 ML341:45-74 | P05.C08 | Tajweed rules in Quran recitation | response | 213 | ML | Non-Muslims Shocked By Muslim Child Reciting Quran From Memory! - Muha
 ML291:345-404 | P05.C08 | Translation and objective meaning of the Quran | response | 330 | ML | Afghan Shia Questions Muslim On Sunnism! Muhammed Ali
 ML209:619-660 | P05.C08 | Translation and the language of revelation | response | 117 | ML | Philosophers Challenge The Muslim Understanding Of God! Muhammed Ali

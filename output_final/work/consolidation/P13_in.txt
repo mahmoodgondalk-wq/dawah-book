@@ -12,14 +12,18 @@ FR407:18-48 | P13.C01 | Female circumcision in Islam | response | 142 | FR | [DE
 ML348:168-198 | P13.C01 | Gender differences: equity versus equality | response | 326 | ML | English Lady Questions Muslim On Women's Rights! Muhammed Ali
 ML147:248-279 | P13.C01 | Gender equality and distinct roles in Islam | argument | 302 | ML | Christian Left In Utter Shock After Attempting To Criticise Islam! Muh
 ML244:462-547 | P13.C01 | Gender interaction and women teaching | response | 584 | ML | Catholic Grandfather Examines The Teachings Of Islam! Muhammed Ali
+ML401:168-240 | P13.C01 | Gender separation in prayer | response | 552 | ML | Native American Learns About Islam! Muhammed Ali
 ML175:92-150 | P13.C01 | Hadith on women as rulers | response | 578 | ML | Muslim Gets Questioned On The Treatment Of Women In Islam! Muhammed Al
 ML175:201-239 | P13.C01 | Hadith on women as rulers: exceptions | response | 322 | ML | Muslim Gets Questioned On The Treatment Of Women In Islam! Muhammed Al
 ML226:413-484 | P13.C01 | Household role of women as work | response | 301 | ML | Feminist Confronts A Muslim On Gender Equality! Muhammed Ali
 ML348:149-167 | P13.C01 | Human rights and women driving in Saudi Arabia | response | 159 | ML | English Lady Questions Muslim On Women's Rights! Muhammed Ali
 ML191:123-157 | P13.C01 | Husband's financial obligations in marriage | argument | 241 | ML | Christian Lady Questions Muslim On Polygamy! Muhammed Ali
 FR276:54-74 | P13.C01 | Ibn Abbas on light beating with a miswak | response | 152 | FR | You will lose faith in David Wood after watching this video. (Wife-bea
+ML410:110-172 | P13.C01 | Inheritance example and the father's accountability | response | 520 | ML | Agnostic Questions The Quran! Muhammed Ali - Speakers Corner
 FR374:72-81 | P13.C01 | Inheritance share of women | response | 71 | FR | [DEBUNKED] Islam vs Women - Apostate Prophet
+ML410:58-109 | P13.C01 | Inheritance shares and male financial obligations | response | 338 | ML | Agnostic Questions The Quran! Muhammed Ali - Speakers Corner
 ML013:155-180 | P13.C01 | Inheritance shares of men and women | response | 364 | ML | Is Islam A Religion Made For The Men?
+ML410:1-57 | P13.C01 | Inheritance shares of sons and daughters | overview | 213 | ML | Agnostic Questions The Quran! Muhammed Ali - Speakers Corner
 ML013:312-327 | P13.C01 | Islam honouring the nature of women | conclusion | 205 | ML | Is Islam A Religion Made For The Men?
 ML321:263-272 | P13.C01 | Islamic teachings on women as revelation | conclusion | 147 | ML | What Does The Bible Actually Say About Women? Muhammed Ali
 ML156:639-663 | P13.C01 | Leadership preferences in relationships | argument | 247 | ML | Emotional Atheist Receives A Reality Check From A Muslim! Muhammed Ali
@@ -30,6 +34,7 @@ ML226:151-209 | P13.C01 | Man as head of the household | response | 298 | ML | F
 ML335:381-499 | P13.C01 | Meaning and limits of daraba in Quran 4:34 | response | 1092 | ML | Tunisian Girl Questions Muslim On Women's Rights! Muhammed Ali
 ML004:292-373 | P13.C01 | Meaning of daraba in the wife-beating verse | response | 738 | ML | Christian Woman Attempts To Throw A Jab At Muslims But Gets Confronted
 FR374:118-136 | P13.C01 | Men a degree above women | response | 197 | FR | [DEBUNKED] Islam vs Women - Apostate Prophet
+ML380:305-351 | P13.C01 | Men and women in the mosque | response | 244 | ML | Christian Preachers Ambush Muslim! Muhammed Ali
 FR369:107-114 | P13.C01 | Misogyny claim against Islam | response | 32 | FR | 10 Reasons to Leave Islam - ft. Ali Dawah
 ML324:118-209 | P13.C01 | Misogyny claim and gender roles | response | 574 | ML | Muslim Dismantles French Nationalism And Racist Ideologies! Muhammed A
 ML013:70-125 | P13.C01 | Privileges given to women in Islam | argument | 912 | ML | Is Islam A Religion Made For The Men?
@@ -56,6 +61,7 @@ ML241:689-717 | P13.C01 | Status of women in Islam and the Bible | response | 15
 ML321:137-204 | P13.C01 | Status of women in Islam as mother, wife, daughter | argument | 811 | ML | What Does The Bible Actually Say About Women? Muhammed Ali
 ML324:67-117 | P13.C01 | Stoning and equal punishment for both genders | response | 216 | ML | Muslim Dismantles French Nationalism And Racist Ideologies! Muhammed A
 ML175:29-71 | P13.C01 | Testimony of two women | response | 401 | ML | Muslim Gets Questioned On The Treatment Of Women In Islam! Muhammed Al
+ML378:78-90 | P13.C01 | Traditional gender roles as a middle ground | argument | 150 | ML | Lesbian Speaks The Truth About LGTBQ! Muhammed Ali
 ML147:110-172 | P13.C01 | Violence against women in Muslim countries | response | 457 | ML | Christian Left In Utter Shock After Attempting To Criticise Islam! Muh
 ML054:164-240 | P13.C01 | Violence against women: Muslim countries and the West | response | 764 | ML | Clip-React| Asmongold Responds - Women Are Oppressed In Islam? | Muham
 FR374:185-212 | P13.C01 | Whether gender inequality means oppression | argument | 333 | FR | [DEBUNKED] Islam vs Women - Apostate Prophet
@@ -66,6 +72,8 @@ ML037:296-345 | P13.C01 | Women in public dawah: the Prophet's wives | argument 
 ML125:454-502 | P13.C01 | Women in the Bible and Islam | argument | 315 | ML | Christian Ladies Discover The True Identity Of Jesus! Muhammed Ali
 ML191:339-358 | P13.C01 | Women speaking in public in Muslim countries | response | 170 | ML | Christian Lady Questions Muslim On Polygamy! Muhammed Ali
 ML332:105-160 | P13.C01 | Women working versus staying home | response | 671 | ML | Muslim vs Woke | What Islam Actually Says - Muhammed Ali
+ML411:78-96 | P13.C01 | Women's education and Afghanistan | response | 169 | ML | Sharia Law is Corruption?! Muhammed Ali - Speaker Corner
+ML378:43-77 | P13.C01 | Women's education and extremism in religions | response | 89 | ML | Lesbian Speaks The Truth About LGTBQ! Muhammed Ali
 ML054:272-329 | P13.C01 | Women's education and work in Iran | response | 385 | ML | Clip-React| Asmongold Responds - Women Are Oppressed In Islam? | Muham
 ML196:73-148 | P13.C01 | Women's education in Islam | response | 722 | ML | Agnostic Questions Muslim On The Education Of Women In Islam! Muhammed
 ML191:377-393 | P13.C01 | Women's rights in Islam and pre-Islamic Arabia | argument | 239 | ML | Christian Lady Questions Muslim On Polygamy! Muhammed Ali
@@ -83,6 +91,7 @@ ML314:1021-1068 | P13.C02 | Head covering in 1 Corinthians 11 | argument | 286 |
 ML314:841-862 | P13.C02 | Hijab and becoming Muslim | response | 236 | ML | Does Jesus Possess The Attributes of God?! Muhammed Ali
 ML033:570-711 | P13.C02 | Hijab and differences in attraction | response | 928 | ML | Buddhist Gets Defensive After A Muslim Highlights The Problems With Bu
 ML086:180-254 | P13.C02 | Hijab and female captives | response | 755 | ML | Emotional Apostate Reveals Her True Colours After Getting Exposed! Muh
+ML411:185-206 | P13.C02 | Hijab and mahram relatives | overview | 137 | ML | Sharia Law is Corruption?! Muhammed Ali - Speaker Corner
 ML013:141-154 | P13.C02 | Hijab and male desire | response | 230 | ML | Is Islam A Religion Made For The Men?
 ML033:712-787 | P13.C02 | Hijab as divine command and personal choice | response | 722 | ML | Buddhist Gets Defensive After A Muslim Highlights The Problems With Bu
 ML248:1292-1429 | P13.C02 | Hijab as honour, not male authority | response | 131 | ML | Amazing Collab| The Muslim Lantern & Sheikh Uthman Meet For The First 
@@ -94,6 +103,7 @@ ML243:302-360 | P13.C02 | Meaning of hijab and awrah for men and women | respons
 ML037:369-424 | P13.C02 | Modesty, voice and women in public dawah | argument | 782 | ML | This Trend NEEDS To Stop Now!
 ML332:48-63 | P13.C02 | Neglect of hijab and awrah | argument | 318 | ML | Muslim vs Woke | What Islam Actually Says - Muhammed Ali
 ML061:1-42 | P13.C02 | Non-Muslim woman wearing the niqab | overview | 301 | ML | Christian Niqabi Challenges the Continuity of Islam with Previous Scri
+ML411:347-373 | P13.C02 | Quran 24:31 on hijab | argument | 91 | ML | Sharia Law is Corruption?! Muhammed Ali - Speaker Corner
 ML259:86-101 | P13.C02 | Value of the niqab for Muslim women | argument | 152 | ML | Non-Muslim Niqabi Shocks Muslim Live On Stream!? Muhammed Ali
 ML082:1-15 | P13.C02 | Whether hijab is religious or political | overview | 16 | ML | Non-Hijabi Woman Confronts Muslim On The Hijab Not Being In The Quran!
 ML175:1-28 | P13.C02 | Why covering rules differ for men and women | response | 191 | ML | Muslim Gets Questioned On The Treatment Of Women In Islam! Muhammed Al
@@ -136,6 +146,7 @@ ML060:32-68 | P13.C03 | Marriage age today and brain development research | argu
 ML115:239-277 | P13.C03 | Marriage contract versus consummation | response | 387 | ML | Arab Apostate Confronts Muslim On The Age Of Marriage In Islam! Muhamm
 ML274:222-267 | P13.C03 | Marriage to Jewish and Christian women | response | 693 | ML | American Lady Questions Muslim About Women In Islam! Muhammed Ali
 ML284:579-697 | P13.C03 | Marriage to non-Muslims and its conditions | argument | 1058 | ML | The Situation Of The Ummah, The Disease & The Cure | Al Muwahiddeen Mo
+ML369:282-299 | P13.C03 | Marrying Christian and Jewish women | response | 257 | ML | If You Answer My QUESTIONS I will Accept Islam! Muhammed Ali
 ML038:445-562 | P13.C03 | Men marrying younger second wives | response | 795 | ML | Agnostic Lady Grills Muslims On Equality Between Genders In Islam! Muh
 ML381:99-148 | P13.C03 | Misconception that Muslims must marry four wives | response | 129 | ML | @IShowSpeed Confronts UK Muslims!
 ML353:121-169 | P13.C03 | Modern age of consent laws | argument | 463 | ML | Muslim Questioned About The Prophet's Marriage! Muhammed Ali
@@ -231,18 +242,24 @@ ML399:361-386 | P13.C05 | Being born in the wrong body as a test | response | 10
 ML385:149-189 | P13.C05 | Brain chemistry, love and correlation | response | 300 | ML | Gay Student Confronts Muslim! Muhammed Ali
 ML130:27-137 | P13.C05 | Changing sexual orientation: Spitzer study | argument | 967 | ML | Tran$gender Challenges Muslim On His Comments About LGTBQ Community! M
 ML238:203-270 | P13.C05 | Childhood abuse and LGBTQ identity | argument | 471 | ML | Ex-Muslim Transgender Confronts Muslim On LGTBQ! Muhammed Ali
+ML378:395-421 | P13.C05 | Coming out as a teenager | illustration | 56 | ML | Lesbian Speaks The Truth About LGTBQ! Muhammed Ali
 ML238:369-436 | P13.C05 | Definition of a man and law of identity | argument | 366 | ML | Ex-Muslim Transgender Confronts Muslim On LGTBQ! Muhammed Ali
+ML378:450-468 | P13.C05 | Evidence required for innateness claims | conclusion | 203 | ML | Lesbian Speaks The Truth About LGTBQ! Muhammed Ali
 ML130:572-601 | P13.C05 | Form of the punishment and divine authority | response | 243 | ML | Tran$gender Challenges Muslim On His Comments About LGTBQ Community! M
 ML347:1020-1051 | P13.C05 | Gender identity and innate knowledge | response | 249 | ML | Agnostic Challenges Muslim On God Then This Happens! Muhammed Ali
 ML130:138-227 | P13.C05 | Genetic basis of homosexuality and twin studies | argument | 723 | ML | Tran$gender Challenges Muslim On His Comments About LGTBQ Community! M
 FR235:67-112 | P13.C05 | Hadith and scholarly consensus on homosexual acts | argument | 251 | FR | send this video to pro-LGBT Muslims
+ML378:18-42 | P13.C05 | Holding homosexuality sinful versus imposing beliefs | response | 189 | ML | Lesbian Speaks The Truth About LGTBQ! Muhammed Ali
 ML151:156-208 | P13.C05 | Homosexual attraction versus action in Islam | response | 354 | ML | Agnostic Grills Muslim With Difficult And Inquisitive Questions! Muham
 ML385:289-338 | P13.C05 | Homosexual feelings versus actions in Islam | response | 352 | ML | Gay Student Confronts Muslim! Muhammed Ali
 ML340:400-412 | P13.C05 | Homosexual tendencies and being Muslim | response | 196 | ML | Non-Muslim Audience Asks Muslim Difficult Questions! Muhammed Ali
 ML250:264-290 | P13.C05 | Homosexuality and Sharia in Gaza | response | 157 | ML | Responding To @PBDPodcast Absurd Comments On The Bishop Incident! Muha
 ML235:329-392 | P13.C05 | Homosexuality and shifting Western moral standards | response | 384 | ML | Agnostic Couple Challenge The Islamic Paradigm! Muhammed Ali
+ML418:575-629 | P13.C05 | Homosexuality and the people of Lot | argument | 452 | ML | A Christian Testimony About Islam Part 1! Muhammed Ali - Speakers Corn
+ML378:343-359 | P13.C05 | Homosexuality in children and animals | response | 70 | ML | Lesbian Speaks The Truth About LGTBQ! Muhammed Ali
 ML385:96-148 | P13.C05 | Is homosexual orientation innate | response | 300 | ML | Gay Student Confronts Muslim! Muhammed Ali
 ML130:1-26 | P13.C05 | Is homosexuality innate | overview | 122 | ML | Tran$gender Challenges Muslim On His Comments About LGTBQ Community! M
+ML378:233-305 | P13.C05 | Is homosexuality natural: statistics and generalization | response | 390 | ML | Lesbian Speaks The Truth About LGTBQ! Muhammed Ali
 ML125:601-643 | P13.C05 | Islamic position on homosexuality | response | 465 | ML | Christian Ladies Discover The True Identity Of Jesus! Muhammed Ali
 ML130:477-571 | P13.C05 | Islamic ruling on homosexual acts and evidence required | response | 897 | ML | Tran$gender Challenges Muslim On His Comments About LGTBQ Community! M
 ML289:268-306 | P13.C05 | Islamic ruling on homosexuality | response | 427 | ML | Popular Youtuber Asks Muslim Difficult Questions! Muhammed Ali
@@ -260,10 +277,13 @@ ML269:112-133 | P13.C05 | Not marrying due to lack of desire | response | 268 | 
 ML385:36-64 | P13.C05 | Prohibition of homosexuality and the test | response | 170 | ML | Gay Student Confronts Muslim! Muhammed Ali
 FR369:168-194 | P13.C05 | Punishment for homosexual acts | response | 174 | FR | 10 Reasons to Leave Islam - ft. Ali Dawah
 FR235:34-66 | P13.C05 | Quranic verses on homosexual acts | argument | 175 | FR | send this video to pro-LGBT Muslims
+ML394:277-313 | P13.C05 | Relationships before marriage and protecting women | argument | 257 | ML | Priests Force Their Beliefs?! Muhammed Ali
 ML180:1-21 | P13.C05 | Relationships outside marriage in Islam | overview | 147 | ML | Sincere Lady About To Accept Islam But This Happens! Muhammed Ali
+ML378:306-342 | P13.C05 | Research on whether homosexuality is innate | argument | 323 | ML | Lesbian Speaks The Truth About LGTBQ! Muhammed Ali
 ML332:161-185 | P13.C05 | Respecting sins and the transgender question | response | 279 | ML | Muslim vs Woke | What Islam Actually Says - Muhammed Ali
 ML151:209-262 | P13.C05 | Robert Spitzer study on sexual orientation change | argument | 372 | ML | Agnostic Grills Muslim With Difficult And Inquisitive Questions! Muham
 ML269:41-100 | P13.C05 | Same-sex attraction and being Muslim | response | 829 | ML | Ex-Muslim Girl Leaves Islam For LGBTQ!? Muhammed Ali
+ML378:194-205 | P13.C05 | Same-sex attraction versus action in Islam | response | 50 | ML | Lesbian Speaks The Truth About LGTBQ! Muhammed Ali
 ML238:271-368 | P13.C05 | Scientific claims on gender and sexuality | response | 614 | ML | Ex-Muslim Transgender Confronts Muslim On LGTBQ! Muhammed Ali
 ML385:190-288 | P13.C05 | Scientific studies on innateness of homosexuality | argument | 782 | ML | Gay Student Confronts Muslim! Muhammed Ali
 ML048:122-219 | P13.C05 | Sex outside marriage and the marriage bond | response | 647 | ML | Englishman And Muslim Have An Honest Conversation About Immigration In
@@ -275,9 +295,11 @@ ML115:433-512 | P13.C05 | Teenage sexuality and marriage as solution | argument 
 ML238:128-202 | P13.C05 | Transgender identity and social influence | argument | 443 | ML | Ex-Muslim Transgender Confronts Muslim On LGTBQ! Muhammed Ali
 ML399:114-242 | P13.C05 | What is a man: defining gender | argument | 542 | ML | Discussion With A Tunisian Transgender! Muhammed Ali
 ML216:222-266 | P13.C05 | Whether all love is acceptable | response | 278 | ML | Non-Muslim Lady Questions Muslim On Violence In Islam! Muhammed Ali
+ML369:240-281 | P13.C05 | Why Islam prohibits dating | response | 587 | ML | If You Answer My QUESTIONS I will Accept Islam! Muhammed Ali
 ML013:1-69 | P13.C06 | Claim that Islam is made for men | overview | 841 | ML | Is Islam A Religion Made For The Men?
 ML332:34-47 | P13.C06 | Claim that women are better than men | response | 185 | ML | Muslim vs Woke | What Islam Actually Says - Muhammed Ali
 ML263:817-968 | P13.C06 | Critique of the Red Pill ideology | response | 1414 | ML | The Muslim Lantern Gets Sneak∅ To Rethink His Views! Muhammed Ali
+ML378:382-394 | P13.C06 | Disagreeing with mainstream Western morals | response | 85 | ML | Lesbian Speaks The Truth About LGTBQ! Muhammed Ali
 ML226:647-697 | P13.C06 | Equal decision-making as a feminist position | response | 231 | ML | Feminist Confronts A Muslim On Gender Equality! Muhammed Ali
 FR374:246-262 | P13.C06 | Equality as a moral standard | conclusion | 299 | FR | [DEBUNKED] Islam vs Women - Apostate Prophet
 ML284:235-336 | P13.C06 | Feminism among Muslims | argument | 1129 | ML | The Situation Of The Ummah, The Disease & The Cure | Al Muwahiddeen Mo
@@ -287,7 +309,10 @@ ML348:199-233 | P13.C06 | Feminism, equal partnership and hypergamy | response |
 ML013:126-140 | P13.C06 | Feminist motives and rejecting hadith | response | 297 | ML | Is Islam A Religion Made For The Men?
 ML038:842-883 | P13.C06 | Feminist premise of identical treatment | conclusion | 333 | ML | Agnostic Lady Grills Muslims On Equality Between Genders In Islam! Muh
 ML009:386-419 | P13.C06 | Feminist tendencies and obedience in marriage | argument | 480 | ML | The Muslim Marriage Crisis: Causes, Effects & Solutions | Muhammed Ali
+ML378:360-381 | P13.C06 | Harm principle and Western liberal morality | response | 155 | ML | Lesbian Speaks The Truth About LGTBQ! Muhammed Ali
 ML054:72-127 | P13.C06 | Islam and feminism: watering down Islam | response | 493 | ML | Clip-React| Asmongold Responds - Women Are Oppressed In Islam? | Muham
+ML378:422-449 | P13.C06 | LGBT as a religion; sensitivity to criticism | response | 136 | ML | Lesbian Speaks The Truth About LGTBQ! Muhammed Ali
+ML378:206-232 | P13.C06 | Liberal values and the harm principle | argument | 230 | ML | Lesbian Speaks The Truth About LGTBQ! Muhammed Ali
 ML284:146-234 | P13.C06 | Liberalism among Muslims | argument | 1034 | ML | The Situation Of The Ummah, The Disease & The Cure | Al Muwahiddeen Mo
 ML240:66-102 | P13.C06 | Liberalism and diversity in New York and London | response | 323 | ML | The One Minute Podcast | Sneak∅ Interviews The Muslim Lantern | Muhamm
 ML332:1-33 | P13.C06 | Liberalism and feminism among Muslims | overview | 626 | ML | Muslim vs Woke | What Islam Actually Says - Muhammed Ali
