@@ -796,5 +796,908 @@
   "key": null,
   "decision": "skip",
   "reason": "garbled numbers ('3109 ... chapter 3 verse 1 199'); not locatable with certainty"
+ },
+ {
+  "file": "ML090",
+  "seg": 377,
+  "key": "quran:4:171",
+  "decision": "skip",
+  "reason": "conflicting locator '(anNisa5:171)': surah name 4, number 5"
+ },
+ {
+  "file": "ML090",
+  "seg": 380,
+  "key": "quran:5:73",
+  "decision": "skip",
+  "reason": "conflicting locator '(anNisa5:73)': surah name 4, number 5"
+ },
+ {
+  "file": "ML098",
+  "seg": 164,
+  "key": "quran:2:191",
+  "decision": "add",
+  "reason": "'chapter two' (seg 162) + 'we're talking about 191'; content of 155-161 is 2:191"
+ },
+ {
+  "file": "ML098",
+  "seg": 164,
+  "key": "quran:2:194",
+  "decision": "add",
+  "reason": "'chapter two' (seg 162) + 'you have 194' (the verse the other side cited)"
+ },
+ {
+  "file": "ML107",
+  "seg": 668,
+  "key": "quran:4:158",
+  "decision": "add",
+  "reason": "explicit locator (anNisa4:158)"
+ },
+ {
+  "file": "ML108",
+  "seg": 775,
+  "key": "quran:9:13",
+  "decision": "add",
+  "reason": "'in the same chapter in verse 13' continuing chapter 9"
+ },
+ {
+  "file": "ML117",
+  "seg": 55,
+  "key": "quran:2:75-79",
+  "decision": "add",
+  "reason": "'second chapter' (seg 53) + '75 to 79' stated by the host"
+ },
+ {
+  "file": "ML117",
+  "seg": 185,
+  "key": "hadith:bukhari:2685",
+  "decision": "add",
+  "reason": "'sunnah.com Bukhari 2685'"
+ },
+ {
+  "file": "ML118",
+  "seg": 251,
+  "key": "quran:5:47-48",
+  "decision": "add",
+  "reason": "'Chapter 5 ... verse 4748': only valid split 47-48"
+ },
+ {
+  "file": "ML119",
+  "seg": 41,
+  "key": "hadith:bukhari:3448",
+  "decision": "add",
+  "reason": "explicit (Sahih Bukhari ... Hadith:3448)"
+ },
+ {
+  "file": "ML119",
+  "seg": 66,
+  "key": "quran:3:45-47",
+  "decision": "add",
+  "reason": "explicit (al'Imran3:45-47)"
+ },
+ {
+  "file": "ML119",
+  "seg": 69,
+  "key": "quran:3:42",
+  "decision": "add",
+  "reason": "explicit (al'Imran3:42)"
+ },
+ {
+  "file": "ML119",
+  "seg": 72,
+  "key": "quran:4:171",
+  "decision": "add",
+  "reason": "explicit (anNisa4:171)"
+ },
+ {
+  "file": "ML119",
+  "seg": 79,
+  "key": "quran:43:61",
+  "decision": "add",
+  "reason": "explicit (azZukhruf43:61)"
+ },
+ {
+  "file": "ML129",
+  "seg": 970,
+  "key": "quran:4:35",
+  "decision": "add",
+  "reason": "'chapter four of the Quran verse 35' (spelled)"
+ },
+ {
+  "file": "ML135",
+  "seg": 280,
+  "key": "quran:3:81",
+  "decision": "add",
+  "reason": "'Surat alImran, Verse:81'"
+ },
+ {
+  "file": "ML136",
+  "seg": 726,
+  "key": null,
+  "decision": "skip",
+  "reason": "classical Shia book page reference (al-Irshad p. 63); edition not certain on shamela.ws"
+ },
+ {
+  "file": "ML136",
+  "seg": 728,
+  "key": null,
+  "decision": "skip",
+  "reason": "classical Shia book reference (Majma al-Bayan vol. 5 p. 118); edition not certain"
+ },
+ {
+  "file": "ML178",
+  "seg": 239,
+  "key": "quran:1:3",
+  "decision": "add",
+  "reason": "'chapter:1 ... the third verse'"
+ },
+ {
+  "file": "ML183",
+  "seg": 312,
+  "key": "hadith:bukhari:3336",
+  "decision": "add",
+  "reason": "explicit (Bukhari:3336)"
+ },
+ {
+  "file": "ML186",
+  "seg": 777,
+  "key": "quran:52:35-36",
+  "decision": "add",
+  "reason": "'chapter 52 vers 3536': only valid split 35-36"
+ },
+ {
+  "file": "ML226",
+  "seg": 485,
+  "key": "quran:4:34",
+  "decision": "add",
+  "reason": "'chapter 4 of the Quran verse 34' (485-487)"
+ },
+ {
+  "file": "ML226",
+  "seg": 493,
+  "key": "quran:4:34",
+  "decision": "add",
+  "reason": "'Quran 434' following 'chapter 4 ... verse 34' (485-487)"
+ },
+ {
+  "file": "ML229",
+  "seg": 212,
+  "key": "quran:3:85",
+  "decision": "add",
+  "reason": "'verse:85' continuing the 3:19 citation"
+ },
+ {
+  "file": "ML231",
+  "seg": 100,
+  "key": "quran:5:46",
+  "decision": "add",
+  "reason": "explicit (alMaaida:46)"
+ },
+ {
+  "file": "ML235",
+  "seg": 591,
+  "key": "quran:24:1-3",
+  "decision": "add",
+  "reason": "'chapter 24 ... first one two three verses'"
+ },
+ {
+  "file": "ML256",
+  "seg": 120,
+  "key": "hadith:bukhari:3219",
+  "decision": "add",
+  "reason": "explicit (Bukhari:3219)"
+ },
+ {
+  "file": "ML256",
+  "seg": 126,
+  "key": "hadith:muslim:819",
+  "decision": "add",
+  "reason": "explicit (Muslim:819)"
+ },
+ {
+  "file": "ML256",
+  "seg": 149,
+  "key": "quran:1:4",
+  "decision": "add",
+  "reason": "explicit (alFatihah1:4)"
+ },
+ {
+  "file": "ML260",
+  "seg": 73,
+  "key": "quran:2:79",
+  "decision": "add",
+  "reason": "'79 the same Surah' with chapter 2 named at 60-62"
+ },
+ {
+  "file": "ML279",
+  "seg": 242,
+  "key": "quran:5:70",
+  "decision": "add",
+  "reason": "explicit (Almaida5:70)"
+ },
+ {
+  "file": "ML294",
+  "seg": 143,
+  "key": "quran:2:143",
+  "decision": "add",
+  "reason": "'verse:143' within Surah 2"
+ },
+ {
+  "file": "ML294",
+  "seg": 452,
+  "key": "quran:1:1",
+  "decision": "skip",
+  "reason": "conflicting locator '(AlFatiha:1)' for the verse 1:4 quoted"
+ },
+ {
+  "file": "ML294",
+  "seg": 453,
+  "key": "quran:49:6",
+  "decision": "add",
+  "reason": "explicit (AlHujurat49:6)"
+ },
+ {
+  "file": "ML294",
+  "seg": 861,
+  "key": "hadith:muslim:650",
+  "decision": "add",
+  "reason": "explicit 'Sahih Muslim; Hadith number:650'"
+ },
+ {
+  "file": "ML354",
+  "seg": 366,
+  "key": null,
+  "decision": "skip",
+  "reason": "classical book page (Asas al-Taqdis p. 221); edition not certain"
+ },
+ {
+  "file": "ML354",
+  "seg": 569,
+  "key": "quran:21:63",
+  "decision": "add",
+  "reason": "'surah Al-Anbiya, verse 63'"
+ },
+ {
+  "file": "ML394",
+  "seg": 447,
+  "key": "hadith:mishkat:1630",
+  "decision": "add",
+  "reason": "explicit (Mishkat-almasabih:1630)"
+ },
+ {
+  "file": "ML416",
+  "seg": 511,
+  "key": "quran:3:64-65",
+  "decision": "add",
+  "reason": "'Chapter 3 of the Quran' (511) + verses at 514"
+ },
+ {
+  "file": "ML282",
+  "seg": 152,
+  "key": "quran:3:64",
+  "decision": "add",
+  "reason": "explicit (Alimran3:64) in a host segment"
+ },
+ {
+  "file": "ML361",
+  "seg": 14,
+  "key": "quran:4:157",
+  "decision": "add",
+  "reason": "'Surah 4:157' recited in a host segment"
+ },
+ {
+  "file": "ML156",
+  "seg": 574,
+  "key": null,
+  "decision": "skip",
+  "reason": "'That's not (2:82)': negated citation"
+ },
+ {
+  "file": "ML204",
+  "seg": 269,
+  "key": "quran:24:3",
+  "decision": "skip",
+  "reason": "conflicting locator: (anNoor 24:3) while the verse quoted is 24:35"
+ },
+ {
+  "file": "ML216",
+  "seg": 159,
+  "key": "quran:6:8",
+  "decision": "skip",
+  "reason": "conflicting locator: 'chapter 6:8' while the verse paraphrased is 60:8 (auto-captions)"
+ },
+ {
+  "file": "ML279",
+  "seg": 46,
+  "key": "quran:16:24",
+  "decision": "skip",
+  "reason": "conflicting locator: (Annahl16:24) for the Sabbath verse (16:124)"
+ },
+ {
+  "file": "ML286",
+  "seg": 333,
+  "key": "quran:4:175",
+  "decision": "skip",
+  "reason": "conflicting locator: (Annisa4:175) for the verse 4:157 quoted"
+ },
+ {
+  "file": "ML311",
+  "seg": 200,
+  "key": "quran:7:162-163",
+  "decision": "skip",
+  "reason": "conflicting locator: (Quran7:162-163) for the verse 6:162-163 quoted"
+ },
+ {
+  "file": "ML314",
+  "seg": 464,
+  "key": "quran:4:150-151",
+  "decision": "skip",
+  "reason": "conflicting locator: (Quran4:150-151) for a verse about burdens on the Children of Israel (not 4:150-151)"
+ },
+ {
+  "file": "ML335",
+  "seg": 658,
+  "key": "quran:4:60",
+  "decision": "skip",
+  "reason": "conflicting locator: (Quran4:60) for the verse 40:60 quoted"
+ },
+ {
+  "file": "ML340",
+  "seg": 572,
+  "key": "quran:3:94",
+  "decision": "skip",
+  "reason": "conflicting locator: (Quran3:94) for the verse 4:94 quoted"
+ },
+ {
+  "file": "ML347",
+  "seg": 719,
+  "key": "quran:4:155",
+  "decision": "skip",
+  "reason": "conflicting locator: (Quran4:155) while 4:115 is meant"
+ },
+ {
+  "file": "ML347",
+  "seg": 833,
+  "key": "quran:9:45",
+  "decision": "skip",
+  "reason": "conflicting locator: (Quran9:45) for the verse 9:54 recited"
+ },
+ {
+  "file": "ML403",
+  "seg": 649,
+  "key": "quran:29:69",
+  "decision": "skip",
+  "reason": "conflicting locator: (arRum29:69): surah name 30, number 29"
+ },
+ {
+  "file": "ML069",
+  "seg": 656,
+  "key": null,
+  "decision": "skip",
+  "reason": "Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)"
+ },
+ {
+  "file": "ML069",
+  "seg": 657,
+  "key": null,
+  "decision": "skip",
+  "reason": "Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)"
+ },
+ {
+  "file": "ML085",
+  "seg": 21,
+  "key": null,
+  "decision": "skip",
+  "reason": "Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)"
+ },
+ {
+  "file": "ML095",
+  "seg": 134,
+  "key": null,
+  "decision": "skip",
+  "reason": "Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)"
+ },
+ {
+  "file": "ML098",
+  "seg": 366,
+  "key": null,
+  "decision": "skip",
+  "reason": "Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)"
+ },
+ {
+  "file": "ML104",
+  "seg": 436,
+  "key": null,
+  "decision": "skip",
+  "reason": "Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)"
+ },
+ {
+  "file": "ML107",
+  "seg": 427,
+  "key": null,
+  "decision": "skip",
+  "reason": "Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)"
+ },
+ {
+  "file": "ML107",
+  "seg": 436,
+  "key": null,
+  "decision": "skip",
+  "reason": "Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)"
+ },
+ {
+  "file": "ML107",
+  "seg": 719,
+  "key": null,
+  "decision": "skip",
+  "reason": "Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)"
+ },
+ {
+  "file": "ML107",
+  "seg": 862,
+  "key": null,
+  "decision": "skip",
+  "reason": "Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)"
+ },
+ {
+  "file": "ML108",
+  "seg": 849,
+  "key": null,
+  "decision": "skip",
+  "reason": "Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)"
+ },
+ {
+  "file": "ML110",
+  "seg": 51,
+  "key": null,
+  "decision": "skip",
+  "reason": "page of a non-hadith/non-Quran book; not applicable"
+ },
+ {
+  "file": "ML111",
+  "seg": 607,
+  "key": null,
+  "decision": "skip",
+  "reason": "Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)"
+ },
+ {
+  "file": "ML129",
+  "seg": 714,
+  "key": null,
+  "decision": "skip",
+  "reason": "Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)"
+ },
+ {
+  "file": "ML134",
+  "seg": 640,
+  "key": null,
+  "decision": "skip",
+  "reason": "Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)"
+ },
+ {
+  "file": "ML134",
+  "seg": 1053,
+  "key": null,
+  "decision": "skip",
+  "reason": "Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)"
+ },
+ {
+  "file": "ML141",
+  "seg": 289,
+  "key": null,
+  "decision": "skip",
+  "reason": "Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)"
+ },
+ {
+  "file": "ML141",
+  "seg": 336,
+  "key": null,
+  "decision": "skip",
+  "reason": "Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)"
+ },
+ {
+  "file": "ML141",
+  "seg": 489,
+  "key": null,
+  "decision": "skip",
+  "reason": "Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)"
+ },
+ {
+  "file": "ML144",
+  "seg": 575,
+  "key": null,
+  "decision": "skip",
+  "reason": "Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)"
+ },
+ {
+  "file": "ML152",
+  "seg": 342,
+  "key": null,
+  "decision": "skip",
+  "reason": "Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)"
+ },
+ {
+  "file": "ML154",
+  "seg": 178,
+  "key": null,
+  "decision": "skip",
+  "reason": "Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)"
+ },
+ {
+  "file": "ML154",
+  "seg": 234,
+  "key": null,
+  "decision": "skip",
+  "reason": "Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)"
+ },
+ {
+  "file": "ML154",
+  "seg": 377,
+  "key": null,
+  "decision": "skip",
+  "reason": "Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)"
+ },
+ {
+  "file": "ML154",
+  "seg": 861,
+  "key": null,
+  "decision": "skip",
+  "reason": "Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)"
+ },
+ {
+  "file": "ML154",
+  "seg": 862,
+  "key": null,
+  "decision": "skip",
+  "reason": "Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)"
+ },
+ {
+  "file": "ML154",
+  "seg": 864,
+  "key": null,
+  "decision": "skip",
+  "reason": "Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)"
+ },
+ {
+  "file": "ML154",
+  "seg": 866,
+  "key": null,
+  "decision": "skip",
+  "reason": "Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)"
+ },
+ {
+  "file": "ML154",
+  "seg": 938,
+  "key": null,
+  "decision": "skip",
+  "reason": "Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)"
+ },
+ {
+  "file": "ML157",
+  "seg": 590,
+  "key": null,
+  "decision": "skip",
+  "reason": "Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)"
+ },
+ {
+  "file": "ML157",
+  "seg": 978,
+  "key": null,
+  "decision": "skip",
+  "reason": "Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)"
+ },
+ {
+  "file": "ML157",
+  "seg": 980,
+  "key": null,
+  "decision": "skip",
+  "reason": "Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)"
+ },
+ {
+  "file": "ML157",
+  "seg": 981,
+  "key": null,
+  "decision": "skip",
+  "reason": "Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)"
+ },
+ {
+  "file": "ML157",
+  "seg": 983,
+  "key": null,
+  "decision": "skip",
+  "reason": "Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)"
+ },
+ {
+  "file": "ML157",
+  "seg": 1093,
+  "key": null,
+  "decision": "skip",
+  "reason": "Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)"
+ },
+ {
+  "file": "ML157",
+  "seg": 1102,
+  "key": null,
+  "decision": "skip",
+  "reason": "Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)"
+ },
+ {
+  "file": "ML164",
+  "seg": 161,
+  "key": null,
+  "decision": "skip",
+  "reason": "garbled locator 'chapter 17:1 15' (17:15?); not locatable with certainty"
+ },
+ {
+  "file": "ML179",
+  "seg": 581,
+  "key": null,
+  "decision": "skip",
+  "reason": "Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)"
+ },
+ {
+  "file": "ML202",
+  "seg": 176,
+  "key": null,
+  "decision": "skip",
+  "reason": "Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)"
+ },
+ {
+  "file": "ML219",
+  "seg": 1284,
+  "key": null,
+  "decision": "skip",
+  "reason": "Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)"
+ },
+ {
+  "file": "ML227",
+  "seg": 146,
+  "key": null,
+  "decision": "skip",
+  "reason": "Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)"
+ },
+ {
+  "file": "ML241",
+  "seg": 439,
+  "key": null,
+  "decision": "skip",
+  "reason": "Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)"
+ },
+ {
+  "file": "ML250",
+  "seg": 417,
+  "key": null,
+  "decision": "skip",
+  "reason": "Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)"
+ },
+ {
+  "file": "ML260",
+  "seg": 137,
+  "key": null,
+  "decision": "skip",
+  "reason": "Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)"
+ },
+ {
+  "file": "ML260",
+  "seg": 188,
+  "key": null,
+  "decision": "skip",
+  "reason": "Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)"
+ },
+ {
+  "file": "ML260",
+  "seg": 196,
+  "key": null,
+  "decision": "skip",
+  "reason": "Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)"
+ },
+ {
+  "file": "ML278",
+  "seg": 595,
+  "key": null,
+  "decision": "skip",
+  "reason": "'chapter 16 verse 8' without the book named (Mark 16:8 likely); not locatable"
+ },
+ {
+  "file": "ML278",
+  "seg": 639,
+  "key": null,
+  "decision": "skip",
+  "reason": "Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)"
+ },
+ {
+  "file": "ML278",
+  "seg": 643,
+  "key": null,
+  "decision": "skip",
+  "reason": "Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)"
+ },
+ {
+  "file": "ML279",
+  "seg": 77,
+  "key": null,
+  "decision": "skip",
+  "reason": "Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)"
+ },
+ {
+  "file": "ML279",
+  "seg": 79,
+  "key": null,
+  "decision": "skip",
+  "reason": "Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)"
+ },
+ {
+  "file": "ML279",
+  "seg": 83,
+  "key": null,
+  "decision": "skip",
+  "reason": "Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)"
+ },
+ {
+  "file": "ML279",
+  "seg": 88,
+  "key": null,
+  "decision": "skip",
+  "reason": "Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)"
+ },
+ {
+  "file": "ML279",
+  "seg": 122,
+  "key": null,
+  "decision": "skip",
+  "reason": "Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)"
+ },
+ {
+  "file": "ML280",
+  "seg": 399,
+  "key": null,
+  "decision": "skip",
+  "reason": "Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)"
+ },
+ {
+  "file": "ML281",
+  "seg": 101,
+  "key": null,
+  "decision": "skip",
+  "reason": "Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)"
+ },
+ {
+  "file": "ML295",
+  "seg": 657,
+  "key": null,
+  "decision": "skip",
+  "reason": "Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)"
+ },
+ {
+  "file": "ML313",
+  "seg": 242,
+  "key": null,
+  "decision": "skip",
+  "reason": "Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)"
+ },
+ {
+  "file": "ML314",
+  "seg": 215,
+  "key": null,
+  "decision": "skip",
+  "reason": "Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)"
+ },
+ {
+  "file": "ML314",
+  "seg": 383,
+  "key": null,
+  "decision": "skip",
+  "reason": "Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)"
+ },
+ {
+  "file": "ML314",
+  "seg": 388,
+  "key": null,
+  "decision": "skip",
+  "reason": "Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)"
+ },
+ {
+  "file": "ML314",
+  "seg": 599,
+  "key": null,
+  "decision": "skip",
+  "reason": "Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)"
+ },
+ {
+  "file": "ML314",
+  "seg": 634,
+  "key": null,
+  "decision": "skip",
+  "reason": "Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)"
+ },
+ {
+  "file": "ML314",
+  "seg": 820,
+  "key": null,
+  "decision": "skip",
+  "reason": "Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)"
+ },
+ {
+  "file": "ML321",
+  "seg": 77,
+  "key": null,
+  "decision": "skip",
+  "reason": "Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)"
+ },
+ {
+  "file": "ML328",
+  "seg": 203,
+  "key": null,
+  "decision": "skip",
+  "reason": "Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)"
+ },
+ {
+  "file": "ML329",
+  "seg": 199,
+  "key": null,
+  "decision": "skip",
+  "reason": "Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)"
+ },
+ {
+  "file": "ML336",
+  "seg": 202,
+  "key": null,
+  "decision": "skip",
+  "reason": "Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)"
+ },
+ {
+  "file": "ML336",
+  "seg": 382,
+  "key": null,
+  "decision": "skip",
+  "reason": "Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)"
+ },
+ {
+  "file": "ML339",
+  "seg": 401,
+  "key": null,
+  "decision": "skip",
+  "reason": "Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)"
+ },
+ {
+  "file": "ML362",
+  "seg": 255,
+  "key": null,
+  "decision": "skip",
+  "reason": "Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)"
+ },
+ {
+  "file": "ML362",
+  "seg": 583,
+  "key": null,
+  "decision": "skip",
+  "reason": "Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)"
+ },
+ {
+  "file": "ML374",
+  "seg": 133,
+  "key": null,
+  "decision": "skip",
+  "reason": "Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)"
+ },
+ {
+  "file": "ML374",
+  "seg": 170,
+  "key": null,
+  "decision": "skip",
+  "reason": "Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)"
+ },
+ {
+  "file": "ML374",
+  "seg": 571,
+  "key": null,
+  "decision": "skip",
+  "reason": "Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)"
+ },
+ {
+  "file": "ML375",
+  "seg": 106,
+  "key": null,
+  "decision": "skip",
+  "reason": "Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)"
  }
 ]
