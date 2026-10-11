@@ -1,0 +1,575 @@
+ML235:1-37 | P01.C01 | Agnosticism and the origin of the universe | argument | 183 | ML | Agnostic Couple Challenge The Islamic Paradigm! Muhammed Ali
+ML371:884-974 | P01.C01 | Argument from innate universal beliefs | argument | 661 | ML | Is Atheism Rational? Atheist Challenges Muslim! | Muhammed Ali
+ML298:146-191 | P01.C01 | Attributes needed to create a universe | argument | 329 | ML | "Really Smart" Atheist Encounters A Muslim! Muhammed Ali
+ML204:201-228 | P01.C01 | Attributes of the cause of the universe | argument | 299 | ML | Atheist Challenges Muslim On The Need For The Existence of God! Muhamm
+ML345:204-218 | P01.C01 | Attributes of the creator from the universe | argument | 185 | ML | Atheist Questions Muslim About The Quran! Muhammed Ali
+ML062:105-129 | P01.C01 | Attributes of the creator inferred from the universe | argument | 328 | ML | Open-Minded Atheist Shifts His Entire Worldview After Encountering A M
+ML333:143-202 | P01.C01 | Attributes of the creator of the universe | argument | 358 | ML | Atheists Challenge Muslim On The Existence of God! Muhammed Ali
+ML034:392-462 | P01.C01 | Attributes of the creator: power and knowledge | argument | 509 | ML | Muslim Puts An Atheist To The Test After Claiming Atheism Is Rational!
+ML230:121-141 | P01.C01 | Attributes required of the creator | argument | 386 | ML | Atheist Presents Muslim With Difficult Questions! Muhammed Ali
+ML015:180-241 | P01.C01 | Attributes required of the universe's creator | argument | 526 | ML | Muslim Surprises Intelligent Lady With Undeniable Evidence For Islam! 
+ML042:321-383 | P01.C01 | Beginning of the universe and attributes of creator | argument | 459 | ML | Intellectually Bankrupt Atheist Demands Evidence For God! Muhammed Ali
+ML077:94-120 | P01.C01 | Beginning of the universe requires a cause | argument | 314 | ML | Atheist Comes To Mock Islam But Gets Humiliated Instead! Muhammed Ali
+ML209:18-53 | P01.C01 | Beginning, eternity and infinite regress | argument | 107 | ML | Philosophers Challenge The Muslim Understanding Of God! Muhammed Ali
+ML222:1-37 | P01.C01 | Belief in a higher power and its attributes | argument | 158 | ML | Muslim Surprises A French Man Looking For Answers! Muhammed Ali
+ML320:123-183 | P01.C01 | Belief in God as innate (fitrah) | argument | 688 | ML | Atheist Irrational Criteria For God's Existence! Muhammed Ali
+ML042:384-425 | P01.C01 | Big Bang and eternal universe objection | response | 276 | ML | Intellectually Bankrupt Atheist Demands Evidence For God! Muhammed Ali
+ML080:45-118 | P01.C01 | Big Bang and necessary attributes of its cause | argument | 557 | ML | Apostate "Philosopher" Challenges Muslim On The Existence Of God! Muha
+ML386:67-136 | P01.C01 | Big Bang and origin of the universe | argument | 580 | ML | Jainism And The Concept Of God! Muhammed Ali
+ML371:239-310 | P01.C01 | Big Bang and the origin of the universe | response | 518 | ML | Is Atheism Rational? Atheist Challenges Muslim! | Muhammed Ali
+ML133:1-46 | P01.C01 | Big Bang requires a powerful knowledgeable cause | argument | 448 | ML | Non-Muslim Students Get Introduced To The Miracles Of The Quran! Muham
+ML042:48-75 | P01.C01 | Can something come from nothing | argument | 183 | ML | Intellectually Bankrupt Atheist Demands Evidence For God! Muhammed Ali
+ML077:42-77 | P01.C01 | Can something come from nothing | argument | 175 | ML | Atheist Comes To Mock Islam But Gets Humiliated Instead! Muhammed Ali
+ML184:119-155 | P01.C01 | Can something come from nothing | argument | 233 | ML | Atheist And Muslim Debate Western Philosophy! Muhammed Ali
+ML186:64-123 | P01.C01 | Can something come from nothing | argument | 356 | ML | Atheist Pushes Back Against Muslim! Muhammed Ali
+ML211:151-264 | P01.C01 | Can something come from nothing | argument | 666 | ML | Atheist Examines The Muslim Belief In God! Muhammed Ali
+ML310:68-130 | P01.C01 | Can something come from nothing | argument | 319 | ML | Atheist Unintentionally Proves The Accuracy Of The Quran! Muhammed Ali
+ML024:106-150 | P01.C01 | Causality and the origin of the universe | response | 460 | ML | Confident Atheists Put To The Test By Muslim For Blindly Accepting Evo
+ML162:344-373 | P01.C01 | Causation and fine-tuning argument summary | conclusion | 198 | ML | Heated Atheist Challenges A Muslim To Prove The Existence Of God! Muha
+ML162:54-125 | P01.C01 | Cause of the beginning of the universe | argument | 536 | ML | Heated Atheist Challenges A Muslim To Prove The Existence Of God! Muha
+ML268:79-160 | P01.C01 | Cause of the Big Bang and its attributes | argument | 388 | ML | Two Intelligent Jews Cross-Examine Islam! Muhammed Ali
+ML126:166-273 | P01.C01 | Cause of the universe and its attributes | argument | 706 | ML | Atheist Philosopher Challenges Muslim On The Creation Of The Universe!
+ML124:181-311 | P01.C01 | Cause of the universe requires knowledge | argument | 1040 | ML | Is God Necessary? Intellectual Atheist Challenges The Muslim Understan
+ML124:312-360 | P01.C01 | Cause of the universe requires will | argument | 467 | ML | Is God Necessary? Intellectual Atheist Challenges The Muslim Understan
+ML042:280-320 | P01.C01 | Common sense: nothing comes from nothing | argument | 394 | ML | Intellectually Bankrupt Atheist Demands Evidence For God! Muhammed Ali
+ML230:92-120 | P01.C01 | Cosmological argument: something from nothing | argument | 381 | ML | Atheist Presents Muslim With Difficult Questions! Muhammed Ali
+ML268:161-263 | P01.C01 | Creation displays the attributes of its maker | argument | 592 | ML | Two Intelligent Jews Cross-Examine Islam! Muhammed Ali
+ML148:274-313 | P01.C01 | Creator not bound by the universe's laws | response | 236 | ML | Atheist Challenges The Muslim Stance On Evolution! Muhammed Ali
+ML044:280-305 | P01.C01 | Design and purpose in nature | argument | 268 | ML | Atheist Questions A Muslim On The Number Of Wives Allowed In Islam! Mu
+ML360:1437-1496 | P01.C01 | Design argument and confidence in using it | argument | 189 | ML | Muslims Scientifically And Rationally Dismantle Evolution! Muhammed Al
+ML347:38-62 | P01.C01 | Design argument from a made object | argument | 181 | ML | Agnostic Challenges Muslim On God Then This Happens! Muhammed Ali
+ML150:483-529 | P01.C01 | Design argument from complexity | argument | 226 | ML | Agnostic Refuses To Accept Rational Evidences For Islam! Muhammed Ali
+ML349:108-137 | P01.C01 | Design argument from nature | argument | 322 | ML | Ex-Christian Lady Curious About Islam! Muhammed Ali
+ML015:105-179 | P01.C01 | Design argument: keyboard and pyramids analogy | argument | 562 | ML | Muslim Surprises Intelligent Lady With Undeniable Evidence For Islam! 
+ML216:34-98 | P01.C01 | Energy versus a creator of the universe | response | 430 | ML | Non-Muslim Lady Questions Muslim On Violence In Islam! Muhammed Ali
+ML230:142-162 | P01.C01 | Eternal energy versus an eternal creator | response | 307 | ML | Atheist Presents Muslim With Difficult Questions! Muhammed Ali
+ML239:549-865 | P01.C01 | Evidences for God: fitrah, experience, reason | argument | 2245 | ML | Aqeedah (Creed) And Its Significance In Islam | AIM Conference 2024 NJ
+ML080:420-519 | P01.C01 | Existence as evidence: parents analogy | response | 472 | ML | Apostate "Philosopher" Challenges Muslim On The Existence Of God! Muha
+ML310:173-248 | P01.C01 | Expansion and finitude of the universe | argument | 660 | ML | Atheist Unintentionally Proves The Accuracy Of The Quran! Muhammed Ali
+ML034:463-589 | P01.C01 | Fine-tuned constants and the creator's knowledge | response | 790 | ML | Muslim Puts An Atheist To The Test After Claiming Atheism Is Rational!
+ML161:62-135 | P01.C01 | Fine-tuning and the design argument | argument | 516 | ML | Muslim Challenges Science Believer On The Existence Of God! Muhammed A
+ML310:276-306 | P01.C01 | Fitrah and the basic message of Islam | argument | 512 | ML | Atheist Unintentionally Proves The Accuracy Of The Quran! Muhammed Ali
+ML384:151-263 | P01.C01 | Fitrah and universal intuitive knowledge | argument | 984 | ML | Conflicted Atheist Gets A Reality Check! Muhammed Ali
+ML164:181-247 | P01.C01 | Fitrah as innate recognition of God | argument | 468 | ML | Agnostic Presents A Logical Problem With Hellfire In Islam! Muhammed A
+ML255:236-279 | P01.C01 | Fitrah: innate belief in a Creator | argument | 438 | ML | Atheist Attempts To Challenge Muslim Then It Backfires! Muhammed Ali
+ML041:133-178 | P01.C01 | Fitrah: innate belief in God | argument | 398 | ML | Curious Couple Ask A Muslim To Explain World Suffering! Muhammed Ali
+ML266:156-235 | P01.C01 | Fitrah: innate belief in God | argument | 676 | ML | Atheist Challenges The Muslim Understanding Of God! Muhammed Ali
+ML268:376-409 | P01.C01 | Fitrah: innate belief in God | argument | 194 | ML | Two Intelligent Jews Cross-Examine Islam! Muhammed Ali
+ML371:789-883 | P01.C01 | Fitrah: innate belief in God | argument | 860 | ML | Is Atheism Rational? Atheist Challenges Muslim! | Muhammed Ali
+ML207:90-216 | P01.C01 | Fitrah: studies on innate belief in a Creator | argument | 924 | ML | Anonymous Atheist Attempts To Outsmart A Muslim! Muhammed Ali
+ML000:97-117 | P01.C01 | God as independent necessary being | response | 188 | ML | Skeptical Atheist Rethinks Islam After A Rational Dialogue With A Musl
+ML080:297-367 | P01.C01 | God beyond time and space needs no cause | response | 482 | ML | Apostate "Philosopher" Challenges Muslim On The Existence Of God! Muha
+ML132:445-518 | P01.C01 | God of the gaps versus science of the gaps | response | 775 | ML | Clip-React| Does Islam Allow $ex Slavery? The God Of The Gaps Debunked
+ML357:20-43 | P01.C01 | Guidance in nature as sign of the Creator | argument | 171 | ML | Polish Student Amazed By Islamic Teachings! Muhammed Ali
+ML131:336-369 | P01.C01 | Higher power versus naming it God | response | 90 | ML | "Enlightened" Athiest Left Speechless After Encountering Muslim! Muham
+ML192:171-202 | P01.C01 | Human body and universe as evidence of God | response | 316 | ML | Atheist Asks Muslim To Explain Why God Allows Suffering! Muhammed Ali
+ML333:203-265 | P01.C01 | Inferring a maker from the product | argument | 250 | ML | Atheists Challenge Muslim On The Existence of God! Muhammed Ali
+ML235:38-99 | P01.C01 | Inferring the Creator's attributes from creation | argument | 332 | ML | Agnostic Couple Challenge The Islamic Paradigm! Muhammed Ali
+ML080:520-546 | P01.C01 | Infinite regress and an eternal creator | argument | 266 | ML | Apostate "Philosopher" Challenges Muslim On The Existence Of God! Muha
+ML068:153-192 | P01.C01 | Infinite regress and the necessity of an eternal cause | response | 338 | ML | Atheist Abandons Logic And Rationality To Deny God! Muhammed Ali
+ML080:368-419 | P01.C01 | Infinite regress: permission analogy | argument | 476 | ML | Apostate "Philosopher" Challenges Muslim On The Existence Of God! Muha
+ML325:64-88 | P01.C01 | Innate belief in a Creator | argument | 477 | ML | Why Does God Not Communicate With Humans? Muhammed Ali
+ML080:547-618 | P01.C01 | Innate belief in a creator: child studies | argument | 782 | ML | Apostate "Philosopher" Challenges Muslim On The Existence Of God! Muha
+ML349:138-160 | P01.C01 | Innate belief in God (fitrah) | argument | 278 | ML | Ex-Christian Lady Curious About Islam! Muhammed Ali
+ML266:236-280 | P01.C01 | Innate belief in God as pattern-seeking | response | 250 | ML | Atheist Challenges The Muslim Understanding Of God! Muhammed Ali
+ML164:248-290 | P01.C01 | Innate belief in God versus cultural transmission | response | 253 | ML | Agnostic Presents A Logical Problem With Hellfire In Islam! Muhammed A
+ML221:984-1055 | P01.C01 | Is the universe itself eternal | response | 356 | ML | University Students Surprise Muslim With Difficult Questions! Muhammed
+ML000:1-25 | P01.C01 | Kalam cosmological argument | argument | 192 | ML | Skeptical Atheist Rethinks Islam After A Rational Dialogue With A Musl
+ML186:35-63 | P01.C01 | Knowing God exists without seeing Him | argument | 132 | ML | Atheist Pushes Back Against Muslim! Muhammed Ali
+ML211:265-302 | P01.C01 | Laws of nature and fine-tuning | argument | 224 | ML | Atheist Examines The Muslim Belief In God! Muhammed Ali
+ML068:208-262 | P01.C01 | Meaning of eternality as an attribute of the creator | response | 350 | ML | Atheist Abandons Logic And Rationality To Deny God! Muhammed Ali
+ML077:273-339 | P01.C01 | Meaning of natural and the origin of natural laws | argument | 492 | ML | Atheist Comes To Mock Islam But Gets Humiliated Instead! Muhammed Ali
+ML008:103-124 | P01.C01 | Monotheism before polytheism and innate belief | argument | 140 | ML | Confident Atheist Challenges Muslim Then Gets Unexpected Answers! Muha
+ML204:138-200 | P01.C01 | Multiverse objection to fine-tuning | response | 575 | ML | Atheist Challenges Muslim On The Need For The Existence of God! Muhamm
+ML162:298-321 | P01.C01 | Natural cause and eternal universe objection | response | 109 | ML | Heated Atheist Challenges A Muslim To Prove The Existence Of God! Muha
+ML146:213-245 | P01.C01 | Necessary attributes of the creator | argument | 299 | ML | Confident Atheist Attempts To Make A Case Against Islam! Muhammed Ali
+ML192:203-221 | P01.C01 | Necessary attributes of the universe's creator | argument | 99 | ML | Atheist Asks Muslim To Explain Why God Allows Suffering! Muhammed Ali
+ML192:241-342 | P01.C01 | Necessary attributes of the universe's creator | argument | 858 | ML | Atheist Asks Muslim To Explain Why God Allows Suffering! Muhammed Ali
+ML255:180-235 | P01.C01 | Necessary being and the design argument | response | 334 | ML | Atheist Attempts To Challenge Muslim Then It Backfires! Muhammed Ali
+ML131:243-309 | P01.C01 | Necessary cause matches classical definition of God | conclusion | 340 | ML | "Enlightened" Athiest Left Speechless After Encountering Muslim! Muham
+ML068:101-152 | P01.C01 | Origin of the universe and attributes of its cause | argument | 474 | ML | Atheist Abandons Logic And Rationality To Deny God! Muhammed Ali
+ML220:1-40 | P01.C01 | Origin of the universe and fine-tuning | argument | 127 | ML | Unstable Apostate Threatens Peaceful Muslims!? Muhammed Ali
+ML034:295-368 | P01.C01 | Origin of the universe and infinite regress | argument | 583 | ML | Muslim Puts An Atheist To The Test After Claiming Atheism Is Rational!
+ML161:1-61 | P01.C01 | Origin of the universe and infinite regress | argument | 326 | ML | Muslim Challenges Science Believer On The Existence Of God! Muhammed A
+ML310:27-67 | P01.C01 | Origin of the universe and necessary existence | argument | 485 | ML | Atheist Unintentionally Proves The Accuracy Of The Quran! Muhammed Ali
+ML298:16-64 | P01.C01 | Origin of the universe and the Big Bang | argument | 439 | ML | "Really Smart" Atheist Encounters A Muslim! Muhammed Ali
+ML162:126-182 | P01.C01 | Phone analogy for attributes of a cause | argument | 353 | ML | Heated Atheist Challenges A Muslim To Prove The Existence Of God! Muha
+ML132:535-569 | P01.C01 | Ptolemy quote and the order of the heavens | response | 273 | ML | Clip-React| Does Islam Allow $ex Slavery? The God Of The Gaps Debunked
+ML310:131-172 | P01.C01 | Quantum mechanics and particles from nothing | response | 437 | ML | Atheist Unintentionally Proves The Accuracy Of The Quran! Muhammed Ali
+ML186:767-802 | P01.C01 | Quranic argument versus the kalam argument | response | 266 | ML | Atheist Pushes Back Against Muslim! Muhammed Ali
+ML207:217-282 | P01.C01 | Shared divine attributes as innate belief | response | 249 | ML | Anonymous Atheist Attempts To Outsmart A Muslim! Muhammed Ali
+ML230:77-91 | P01.C01 | Signs of God in nature | argument | 278 | ML | Atheist Presents Muslim With Difficult Questions! Muhammed Ali
+ML146:1-27 | P01.C01 | Something cannot come from nothing | overview | 71 | ML | Confident Atheist Attempts To Make A Case Against Islam! Muhammed Ali
+ML333:63-142 | P01.C01 | Something cannot come from nothing | argument | 399 | ML | Atheists Challenge Muslim On The Existence of God! Muhammed Ali
+ML384:337-380 | P01.C01 | Something cannot come from nothing | argument | 201 | ML | Conflicted Atheist Gets A Reality Check! Muhammed Ali
+ML228:1-74 | P01.C01 | Something from nothing and attributes of the creator | argument | 458 | ML | Atheist Couple Challenge A Muslim On Religion! Muhammed Ali
+ML366:135-279 | P01.C01 | Something from nothing and attributes of the Creator | argument | 966 | ML | Atheist Questions Muslim On The Existence Of Evil! Muhammed Ali
+ML221:911-983 | P01.C01 | Something from nothing and eternal creator | argument | 450 | ML | University Students Surprise Muslim With Difficult Questions! Muhammed
+ML155:17-78 | P01.C01 | Something from nothing and fine-tuning | argument | 406 | ML | Intelligent Students Ask Curious Questions About Islam! Muhammed Ali
+ML204:84-137 | P01.C01 | Something from nothing and fine-tuning | argument | 522 | ML | Atheist Challenges Muslim On The Need For The Existence of God! Muhamm
+ML199:385-476 | P01.C01 | Something from nothing and infinite regress | argument | 559 | ML | Atheist Confronts Muslim On Apostasy Laws In Islam! Muhammed Ali
+ML142:22-62 | P01.C01 | Something from nothing and the Big Bang | argument | 342 | ML | Muslim Calls Out Atheist Bluff To Avoid God's Existence! Muhammed Ali
+ML008:141-250 | P01.C01 | Something from nothing, causality and the Big Bang | argument | 602 | ML | Confident Atheist Challenges Muslim Then Gets Unexpected Answers! Muha
+ML062:35-104 | P01.C01 | Universe as evidence for a creator | argument | 575 | ML | Open-Minded Atheist Shifts His Entire Worldview After Encountering A M
+ML153:116-154 | P01.C01 | Universe as evidence for God's attributes | argument | 336 | ML | Muslim Rationally Gets Atheist To Switch His Position! Muhammed Ali
+ML377:293-310 | P01.C01 | Universe as evidence of an all-knowing Creator | response | 121 | ML | Atheist Struggles With Morality! Muhammed Ali
+ML033:424-441 | P01.C01 | Universe as proof of a creator | argument | 109 | ML | Buddhist Gets Defensive After A Muslim Highlights The Problems With Bu
+ML148:214-273 | P01.C01 | Universe cannot come from nothing | argument | 457 | ML | Atheist Challenges The Muslim Stance On Evolution! Muhammed Ali
+ML319:29-59 | P01.C01 | Universe cannot come from nothing | argument | 120 | ML | Sincere Romanian Asks Questions About Islam! Muhammed Ali
+ML131:176-242 | P01.C01 | Universe's beginning requires a powerful cause | argument | 580 | ML | "Enlightened" Athiest Left Speechless After Encountering Muslim! Muham
+ML034:590-679 | P01.C01 | Whether specific constants imply knowledge | response | 337 | ML | Muslim Puts An Atheist To The Test After Claiming Atheism Is Rational!
+ML080:172-218 | P01.C01 | Whether the argument presupposes God | response | 286 | ML | Apostate "Philosopher" Challenges Muslim On The Existence Of God! Muha
+ML162:225-297 | P01.C01 | Whether the first cause requires agency | argument | 521 | ML | Heated Atheist Challenges A Muslim To Prove The Existence Of God! Muha
+ML062:180-194 | P01.C01 | Who created God | response | 90 | ML | Open-Minded Atheist Shifts His Entire Worldview After Encountering A M
+ML080:219-296 | P01.C01 | Who created God: causal chain objection | response | 292 | ML | Apostate "Philosopher" Challenges Muslim On The Existence Of God! Muha
+ML000:26-96 | P01.C01 | Who created God: infinite regress | response | 547 | ML | Skeptical Atheist Rethinks Islam After A Rational Dialogue With A Musl
+ML033:442-458 | P01.C01 | Who created God: infinite regress | response | 144 | ML | Buddhist Gets Defensive After A Muslim Highlights The Problems With Bu
+ML155:79-94 | P01.C01 | Who created God: infinite regress | response | 113 | ML | Intelligent Students Ask Curious Questions About Islam! Muhammed Ali
+ML268:264-344 | P01.C01 | Who created God: infinite regress | response | 396 | ML | Two Intelligent Jews Cross-Examine Islam! Muhammed Ali
+ML150:530-553 | P01.C01 | Who created the Creator: infinite regress | response | 133 | ML | Agnostic Refuses To Accept Rational Evidences For Islam! Muhammed Ali
+ML034:369-391 | P01.C01 | Why the first cause must be eternal | response | 191 | ML | Muslim Puts An Atheist To The Test After Claiming Atheism Is Rational!
+ML068:425-458 | P01.C01 | Why there was never absolute nothingness | argument | 257 | ML | Atheist Abandons Logic And Rationality To Deny God! Muhammed Ali
+ML080:119-171 | P01.C01 | Will and choice behind the universe's diversity | argument | 306 | ML | Apostate "Philosopher" Challenges Muslim On The Existence Of God! Muha
+ML126:337-482 | P01.C01 | Will and power of the cause of the universe | response | 1313 | ML | Atheist Philosopher Challenges Muslim On The Creation Of The Universe!
+ML020:1-25 | P01.C02 | Agnostic atheism and the positive claim | overview | 65 | ML | Confident Atheist Rejects Rationality In An Attempt To Disprove God! M
+ML153:1-115 | P01.C02 | Agnostic claim that God is incomprehensible | response | 569 | ML | Muslim Rationally Gets Atheist To Switch His Position! Muhammed Ali
+ML142:1-21 | P01.C02 | Agnostic position on a Creator | overview | 49 | ML | Muslim Calls Out Atheist Bluff To Avoid God's Existence! Muhammed Ali
+ML186:1-34 | P01.C02 | Agnostic seeker's background and uncertainty | overview | 22 | ML | Atheist Pushes Back Against Muslim! Muhammed Ali
+ML080:1-44 | P01.C02 | Agnostic stance and literal reading of religion | overview | 72 | ML | Apostate "Philosopher" Challenges Muslim On The Existence Of God! Muha
+ML015:70-104 | P01.C02 | Agnosticism and needing to see God | response | 237 | ML | Muslim Surprises Intelligent Lady With Undeniable Evidence For Islam! 
+ML268:1-78 | P01.C02 | Agnosticism and the burden of proof | response | 360 | ML | Two Intelligent Jews Cross-Examine Islam! Muhammed Ali
+ML347:338-449 | P01.C02 | Arrogance and desires in rejecting truth | response | 948 | ML | Agnostic Challenges Muslim On God Then This Happens! Muhammed Ali
+ML320:1-39 | P01.C02 | Atheism versus agnosticism definitions | overview | 364 | ML | Atheist Irrational Criteria For God's Existence! Muhammed Ali
+ML345:127-160 | P01.C02 | Atheist caller's religious background | illustration | 98 | ML | Atheist Questions Muslim About The Quran! Muhammed Ali
+ML342:69-103 | P01.C02 | Burden of proof and absence of evidence | response | 301 | ML | Angry Atheist Challenges Muslim On Stream! Muhammed Ali
+ML008:15-70 | P01.C02 | Burden of proof and opinion versus reality | response | 367 | ML | Confident Atheist Challenges Muslim Then Gets Unexpected Answers! Muha
+ML131:41-122 | P01.C02 | Burden of proof for denying God's existence | argument | 659 | ML | "Enlightened" Athiest Left Speechless After Encountering Muslim! Muham
+ML371:15-48 | P01.C02 | Caller's background and reasons for atheism | overview | 200 | ML | Is Atheism Rational? Atheist Challenges Muslim! | Muhammed Ali
+ML320:40-122 | P01.C02 | Criteria for evidence of God | response | 765 | ML | Atheist Irrational Criteria For God's Existence! Muhammed Ali
+ML345:161-203 | P01.C02 | Criteria for evidence of God | argument | 404 | ML | Atheist Questions Muslim About The Quran! Muhammed Ali
+ML333:16-62 | P01.C02 | Defining God with an unbeliever | overview | 152 | ML | Atheists Challenge Muslim On The Existence of God! Muhammed Ali
+ML342:229-271 | P01.C02 | Definition of God and criteria for evidence | response | 218 | ML | Angry Atheist Challenges Muslim On Stream! Muhammed Ali
+ML204:1-30 | P01.C02 | Feelings and benefit as grounds for belief in God | overview | 8 | ML | Atheist Challenges Muslim On The Need For The Existence of God! Muhamm
+ML204:44-83 | P01.C02 | Feelings and benefit as grounds for belief in God | response | 419 | ML | Atheist Challenges Muslim On The Need For The Existence of God! Muhamm
+ML024:30-47 | P01.C02 | Guest's belief in a higher power | overview | 90 | ML | Confident Atheists Put To The Test By Muslim For Blindly Accepting Evo
+ML351:132-185 | P01.C02 | Implications of atheism for reason and morality | argument | 447 | ML | Muslim Unveils The Reality Of Atheism! Muhammed Ali
+ML034:787-832 | P01.C02 | Innate belief in a creator and burden of proof | argument | 463 | ML | Muslim Puts An Atheist To The Test After Claiming Atheism Is Rational!
+ML246:1-26 | P01.C02 | Is atheism something to be proud of | overview | 147 | ML | Atheist Confronts Muslim On The Clarity Of The Quran! Muhammed Ali
+ML034:1-14 | P01.C02 | Justifying Islam over naturalistic answers | overview | 20 | ML | Muslim Puts An Atheist To The Test After Claiming Atheism Is Rational!
+ML207:15-89 | P01.C02 | Man-made gods and default skepticism | response | 336 | ML | Anonymous Atheist Attempts To Outsmart A Muslim! Muhammed Ali
+ML008:71-102 | P01.C02 | Many religions as argument against God | response | 105 | ML | Confident Atheist Challenges Muslim Then Gets Unexpected Answers! Muha
+ML008:125-140 | P01.C02 | Many religions as argument against God | illustration | 174 | ML | Confident Atheist Challenges Muslim Then Gets Unexpected Answers! Muha
+ML342:30-68 | P01.C02 | Meaning of the word atheism | response | 183 | ML | Angry Atheist Challenges Muslim On Stream! Muhammed Ali
+FR294:1536-1566 | P01.C02 | Militant atheists misunderstand their own worldview | argument | 15 | FR | How Subboor schooled CosmicSkeptic! (Human Rights Debate)
+ML268:345-375 | P01.C02 | Not believing versus not wanting to believe | argument | 211 | ML | Two Intelligent Jews Cross-Examine Islam! Muhammed Ali
+ML068:263-303 | P01.C02 | Personal reasons for leaving belief: comprehending infinity | response | 218 | ML | Atheist Abandons Logic And Rationality To Deny God! Muhammed Ali
+ML034:680-725 | P01.C02 | Questions agnosticism cannot answer | conclusion | 476 | ML | Muslim Puts An Atheist To The Test After Claiming Atheism Is Rational!
+ML042:182-279 | P01.C02 | Rational discussion and unsupported claims | argument | 734 | ML | Intellectually Bankrupt Atheist Demands Evidence For God! Muhammed Ali
+ML042:478-521 | P01.C02 | Rationality of atheist objections | conclusion | 371 | ML | Intellectually Bankrupt Atheist Demands Evidence For God! Muhammed Ali
+ML298:274-311 | P01.C02 | Rationality of the atheist position | conclusion | 390 | ML | "Really Smart" Atheist Encounters A Muslim! Muhammed Ali
+ML118:703-727 | P01.C02 | Reasonableness of agnosticism | response | 130 | ML | Atheist Attempts To Use A Christian Argument Against Muslim But Fails 
+ML158:1-63 | P01.C02 | Religion as a cause of wars | response | 540 | ML | Atheist And Muslim Debate The Consequences Of Following Religion! Muha
+ML068:193-207 | P01.C02 | Scientific method and the real reason for disbelief | response | 138 | ML | Atheist Abandons Logic And Rationality To Deny God! Muhammed Ali
+ML371:714-788 | P01.C02 | Standard of proof for God's existence | response | 614 | ML | Is Atheism Rational? Atheist Challenges Muslim! | Muhammed Ali
+ML042:76-136 | P01.C02 | Substantiating the claim something came from nothing | response | 395 | ML | Intellectually Bankrupt Atheist Demands Evidence For God! Muhammed Ali
+ML310:1-26 | P01.C02 | What evidence would convince an agnostic | overview | 120 | ML | Atheist Unintentionally Proves The Accuracy Of The Quran! Muhammed Ali
+ML352:1-31 | P01.C02 | What would convince an atheist of God | overview | 99 | ML | Clever Atheist Pushes Back Against Muslim! Muhammed Ali
+ML042:137-181 | P01.C02 | Who bears the burden of proof | response | 312 | ML | Intellectually Bankrupt Atheist Demands Evidence For God! Muhammed Ali
+ML113:33-66 | P01.C02 | Would the world be better without religion | response | 216 | ML | Muslim Educates Close Minded Atheist On Religion! Muhammed Ali
+ML310:249-275 | P01.C03 | Absolute certainty and skepticism | argument | 197 | ML | Atheist Unintentionally Proves The Accuracy Of The Quran! Muhammed Ali
+ML093:177-288 | P01.C03 | Absolute truth versus relativism | response | 488 | ML | Hindu Debates Muslim On The Rationality Of Hinduism! Muhammed Ali
+ML020:148-231 | P01.C03 | Arguing without assuming the laws of logic | argument | 518 | ML | Confident Atheist Rejects Rationality In An Attempt To Disprove God! M
+ML206:727-780 | P01.C03 | Argument from ignorance about flaws in evidence | response | 276 | ML | Christians Challenge Muslim On Evidences For Christianity! Muhammed Al
+ML132:519-534 | P01.C03 | Arrogance and limits of human knowledge | argument | 164 | ML | Clip-React| Does Islam Allow $ex Slavery? The God Of The Gaps Debunked
+ML384:113-150 | P01.C03 | Axioms underlying the scientific method | argument | 265 | ML | Conflicted Atheist Gets A Reality Check! Muhammed Ali
+ML333:266-353 | P01.C03 | Believing without seeing and levels of certainty | argument | 638 | ML | Atheists Challenge Muslim On The Existence of God! Muhammed Ali
+ML298:65-145 | P01.C03 | Believing without seeing: testimony as knowledge | argument | 431 | ML | "Really Smart" Atheist Encounters A Muslim! Muhammed Ali
+ML129:827-892 | P01.C03 | Blind faith and rational justification | response | 367 | ML | Three Confident Christians Attempt To Take On A Muslim! Mohammed Ali
+ML277:95-186 | P01.C03 | Blind faith: Santa Claus analogy | response | 902 | ML | Afghan Girl Claims That Muslims Are Blind Followers?! Muhammed Ali
+ML096:56-91 | P01.C03 | Can absolute truth be known | response | 151 | ML | The Muslim Lantern, Sneako and Arab Debate Religion! Muhammed Ali
+ML068:304-366 | P01.C03 | Can humans conceive of nothingness | response | 264 | ML | Atheist Abandons Logic And Rationality To Deny God! Muhammed Ali
+ML371:49-157 | P01.C03 | Certainty about how the universe began | response | 922 | ML | Is Atheism Rational? Atheist Challenges Muslim! | Muhammed Ali
+ML028:39-86 | P01.C03 | Certainty and self-defeating skepticism | argument | 318 | ML | Skeptical Christian Questions The Quranic Narrative Of The Crucifixion
+ML142:139-182 | P01.C03 | Certainty of one's own existence | argument | 286 | ML | Muslim Calls Out Atheist Bluff To Avoid God's Existence! Muhammed Ali
+ML091:760-826 | P01.C03 | Certainty through elimination of alternatives | argument | 472 | ML | Omnist Left Speechless After Hearing This Muslim's Answer! Muhammed Al
+ML091:482-539 | P01.C03 | Certainty versus belief in Islam | response | 405 | ML | Omnist Left Speechless After Hearing This Muslim's Answer! Muhammed Al
+ML398:319-384 | P01.C03 | Claims to know the truth and scholars | response | 256 | ML | Rude Christian Gets Triggered! Muhammed Ali
+ML093:355-404 | P01.C03 | Colour blindness and objective truth | response | 143 | ML | Hindu Debates Muslim On The Rationality Of Hinduism! Muhammed Ali
+ML229:489-552 | P01.C03 | Consciousness, the soul and limits of knowledge | response | 427 | ML | Lebanese Ex-Muslim Questions The Teachings Of Islam! Muhammed Ali
+ML184:1-22 | P01.C03 | Critique of Western philosophy and absolute truth | argument | 173 | ML | Atheist And Muslim Debate Western Philosophy! Muhammed Ali
+ML242:109-200 | P01.C03 | Deduction vs science as criterion for religion | argument | 635 | ML | Agnostic Finds Logical Problems With Islam?! Muhammed Ali
+ML201:106-149 | P01.C03 | Definition and limits of the scientific method | argument | 442 | ML | Ex-Muslim Claims The Quran Is Full Of Scientific Mistakes?! Muhammed A
+ML298:192-273 | P01.C03 | Definition of science and scientific method | argument | 423 | ML | "Really Smart" Atheist Encounters A Muslim! Muhammed Ali
+ML229:235-257 | P01.C03 | Determining truth: feelings versus reason | response | 28 | ML | Lebanese Ex-Muslim Questions The Teachings Of Islam! Muhammed Ali
+ML093:405-431 | P01.C03 | Does Islam forbid questioning | response | 158 | ML | Hindu Debates Muslim On The Rationality Of Hinduism! Muhammed Ali
+ML232:133-166 | P01.C03 | Doubting one's own existence | argument | 141 | ML | Buddhist Monk Surprises Muslim With His Beliefs! Muhammed Ali
+ML277:408-424 | P01.C03 | Evidence-based faith versus blind following | conclusion | 222 | ML | Afghan Girl Claims That Muslims Are Blind Followers?! Muhammed Ali
+ML097:263-396 | P01.C03 | Existence of absolute truth | response | 914 | ML | Muslim Surprises Sceptical Chemist With The Evidences For Islam! Muham
+ML000:118-149 | P01.C03 | Faith and reason in Islam | response | 241 | ML | Skeptical Atheist Rethinks Islam After A Rational Dialogue With A Musl
+FR294:1778-1899 | P01.C03 | Faith and reason: iman beyond rational proof | argument | 57 | FR | How Subboor schooled CosmicSkeptic! (Human Rights Debate)
+ML210:562-576 | P01.C03 | Faith versus evidence | response | 52 | ML | Agnostic Lady Questions Muslim On Evidence Of God! Muhammed Ali
+ML063:47-105 | P01.C03 | Faith versus evidence as basis of belief | response | 260 | ML | Confident Christian Woman Attempts To Defend Christianity After Encoun
+ML100:61-95 | P01.C03 | Faith versus evidence-based belief | response | 236 | ML | Doubtful Muslim Learns the Secret to Overcoming Doubts! Muhammed Ali
+ML129:585-622 | P01.C03 | Faith versus human logic | response | 155 | ML | Three Confident Christians Attempt To Take On A Muslim! Mohammed Ali
+ML398:26-71 | P01.C03 | Faith versus knowledge based on evidence | response | 90 | ML | Rude Christian Gets Triggered! Muhammed Ali
+ML238:67-127 | P01.C03 | Feelings as an arbiter of truth and morality | argument | 316 | ML | Ex-Muslim Transgender Confronts Muslim On LGTBQ! Muhammed Ali
+ML066:142-174 | P01.C03 | Holding beliefs without evidence | argument | 381 | ML | Passionate Christian Argues For The Trinity With A Muslim! Muhammed Al
+ML142:63-138 | P01.C03 | Hyper-scepticism and absolute truth | response | 426 | ML | Muslim Calls Out Atheist Bluff To Avoid God's Existence! Muhammed Ali
+ML084:950-996 | P01.C03 | Hyper-skepticism and endless questioning | conclusion | 402 | ML | Christian Wife Grills A Muslim With Difficult Questions! Muhammed Ali
+ML186:744-766 | P01.C03 | Hyper-skepticism in Western philosophy | argument | 63 | ML | Atheist Pushes Back Against Muslim! Muhammed Ali
+ML310:307-349 | P01.C03 | Hypotheticals, certainty and holding a position | conclusion | 351 | ML | Atheist Unintentionally Proves The Accuracy Of The Quran! Muhammed Ali
+ML142:183-254 | P01.C03 | Inconsistent scepticism in daily life | argument | 676 | ML | Muslim Calls Out Atheist Bluff To Avoid God's Existence! Muhammed Ali
+ML242:201-304 | P01.C03 | Intuitive knowledge as the highest form | argument | 653 | ML | Agnostic Finds Logical Problems With Islam?! Muhammed Ali
+ML020:353-404 | P01.C03 | Invalid questions: legs of the sun | response | 296 | ML | Confident Atheist Rejects Rationality In An Attempt To Disprove God! M
+ML229:553-606 | P01.C03 | Investigating consciousness and objective truth | response | 281 | ML | Lebanese Ex-Muslim Questions The Teachings Of Islam! Muhammed Ali
+ML333:412-441 | P01.C03 | Is life an illusion: solipsism | response | 130 | ML | Atheists Challenge Muslim On The Existence of God! Muhammed Ali
+ML209:581-618 | P01.C03 | Knowledge through revelation and research | argument | 245 | ML | Philosophers Challenge The Muslim Understanding Of God! Muhammed Ali
+ML209:119-190 | P01.C03 | Law of identity and the soul as the self | response | 390 | ML | Philosophers Challenge The Muslim Understanding Of God! Muhammed Ali
+ML000:150-211 | P01.C03 | Limits of human reasoning and common sense | response | 437 | ML | Skeptical Atheist Rethinks Islam After A Rational Dialogue With A Musl
+ML097:199-262 | P01.C03 | Limits of the scientific method | response | 680 | ML | Muslim Surprises Sceptical Chemist With The Evidences For Islam! Muham
+ML184:23-66 | P01.C03 | Objective reality and intuitive knowledge | argument | 548 | ML | Atheist And Muslim Debate Western Philosophy! Muhammed Ali
+ML232:208-247 | P01.C03 | Objective reality versus perception | argument | 325 | ML | Buddhist Monk Surprises Muslim With His Beliefs! Muhammed Ali
+ML398:72-154 | P01.C03 | Objective truth and human ignorance | argument | 342 | ML | Rude Christian Gets Triggered! Muhammed Ali
+ML398:410-460 | P01.C03 | Objective truth and human ignorance | conclusion | 174 | ML | Rude Christian Gets Triggered! Muhammed Ali
+ML376:198-237 | P01.C03 | Objective truth versus relativism | argument | 361 | ML | Why Can't You Mock The Prophet of Islam? Muhammed Ali
+ML229:439-488 | P01.C03 | Objective versus subjective truth and reality | argument | 298 | ML | Lebanese Ex-Muslim Questions The Teachings Of Islam! Muhammed Ali
+ML033:373-412 | P01.C03 | Open-mindedness and holding convictions | response | 315 | ML | Buddhist Gets Defensive After A Muslim Highlights The Problems With Bu
+ML063:157-232 | P01.C03 | Open-mindedness and the possibility of being wrong | argument | 415 | ML | Confident Christian Woman Attempts To Defend Christianity After Encoun
+ML096:149-212 | P01.C03 | Personal experience as a source of truth | response | 240 | ML | The Muslim Lantern, Sneako and Arab Debate Religion! Muhammed Ali
+ML083:722-866 | P01.C03 | Personal religious experience as evidence | response | 1010 | ML | Christian Attempts To Prove Christianity After Questioning A Muslim! M
+ML184:156-222 | P01.C03 | Philosophy, common sense and hyper-skepticism | argument | 636 | ML | Atheist And Muslim Debate Western Philosophy! Muhammed Ali
+ML348:53-89 | P01.C03 | Possibility of knowing the truth | response | 224 | ML | English Lady Questions Muslim On Women's Rights! Muhammed Ali
+ML131:123-175 | P01.C03 | Probability and randomness as human ignorance | response | 460 | ML | "Enlightened" Athiest Left Speechless After Encountering Muslim! Muham
+ML142:281-321 | P01.C03 | Probability, belief and consistency | response | 232 | ML | Muslim Calls Out Atheist Bluff To Avoid God's Existence! Muhammed Ali
+ML184:67-118 | P01.C03 | Purpose of philosophy and limits of the senses | response | 374 | ML | Atheist And Muslim Debate Western Philosophy! Muhammed Ali
+ML142:255-280 | P01.C03 | Quranic view of doubt and conjecture | argument | 278 | ML | Muslim Calls Out Atheist Bluff To Avoid God's Existence! Muhammed Ali
+ML347:980-1019 | P01.C03 | Radical doubt and philosophy | response | 407 | ML | Agnostic Challenges Muslim On God Then This Happens! Muhammed Ali
+ML266:132-155 | P01.C03 | Radical skepticism and trusting experience | response | 235 | ML | Atheist Challenges The Muslim Understanding Of God! Muhammed Ali
+ML219:1488-1523 | P01.C03 | Reason and revelation in Islam | response | 242 | ML | Muslim Lantern | Arab | Sneak0 | Young Don | Warner | Discuss Religion
+ML058:915-961 | P01.C03 | Reason and revelation in knowing God | conclusion | 541 | ML | Agnostic Claims That Pantheism Is More Rational Than Monotheism! Muham
+ML063:233-284 | P01.C03 | Reconsidering one's beliefs and blind faith | argument | 461 | ML | Confident Christian Woman Attempts To Defend Christianity After Encoun
+ML096:488-554 | P01.C03 | Reliability of historical knowledge | response | 401 | ML | The Muslim Lantern, Sneako and Arab Debate Religion! Muhammed Ali
+ML150:554-600 | P01.C03 | Reliability of human reasoning | response | 314 | ML | Agnostic Refuses To Accept Rational Evidences For Islam! Muhammed Ali
+ML171:505-541 | P01.C03 | Religious claims versus historical evidence | response | 246 | ML | Mormon Debates Muslim On The Validity Of His Faith! Muhammed Ali
+ML345:57-72 | P01.C03 | Role of reason and fitrah in Islam | response | 172 | ML | Atheist Questions Muslim About The Quran! Muhammed Ali
+ML208:126-167 | P01.C03 | Science as a method, not a creator | response | 188 | ML | Hindu Questions Muslim On Polytheism! Muhammed Ali
+ML202:195-223 | P01.C03 | Science cannot observe metaphysical creation | response | 221 | ML | Christian Attempts To Explain The Concept Of God! Muhammed Ali
+ML215:432-459 | P01.C03 | Science versus religion as sources of truth | response | 44 | ML | Masked Philosophiser Attempts To Falsify Islam?! Muhammed Ali
+ML242:1-108 | P01.C03 | Science, induction and objective facts | response | 580 | ML | Agnostic Finds Logical Problems With Islam?! Muhammed Ali
+ML126:483-561 | P01.C03 | Scientific method and speculation about multiverse | response | 554 | ML | Atheist Philosopher Challenges Muslim On The Creation Of The Universe!
+ML342:104-228 | P01.C03 | Scientism and testimony as knowledge | argument | 1016 | ML | Angry Atheist Challenges Muslim On Stream! Muhammed Ali
+ML371:199-238 | P01.C03 | Scientism as a form of worship | response | 279 | ML | Is Atheism Rational? Atheist Challenges Muslim! | Muhammed Ali
+ML020:232-303 | P01.C03 | Self-contradictory questions as invalid questions | argument | 542 | ML | Confident Atheist Rejects Rationality In An Attempt To Disprove God! M
+ML384:264-336 | P01.C03 | Self-refutation of denying logic | response | 457 | ML | Conflicted Atheist Gets A Reality Check! Muhammed Ali
+ML206:607-627 | P01.C03 | Self-refuting claim that nothing is certain | response | 144 | ML | Christians Challenge Muslim On Evidences For Christianity! Muhammed Al
+ML192:222-240 | P01.C03 | Simulation hypothesis and baseless assumptions | response | 231 | ML | Atheist Asks Muslim To Explain Why God Allows Suffering! Muhammed Ali
+ML384:1-112 | P01.C03 | Skepticism and absolute certainty | response | 781 | ML | Conflicted Atheist Gets A Reality Check! Muhammed Ali
+ML068:367-424 | P01.C03 | Something and nothing versus good and evil as opposites | response | 430 | ML | Atheist Abandons Logic And Rationality To Deny God! Muhammed Ali
+ML126:116-165 | P01.C03 | Sources of knowledge: empiricism and testimony | argument | 220 | ML | Atheist Philosopher Challenges Muslim On The Creation Of The Universe!
+ML020:66-147 | P01.C03 | Square circle and the meaning of words | argument | 441 | ML | Confident Atheist Rejects Rationality In An Attempt To Disprove God! M
+ML210:1-122 | P01.C03 | Testimony as a source of knowledge | response | 816 | ML | Agnostic Lady Questions Muslim On Evidence Of God! Muhammed Ali
+ML351:186-231 | P01.C03 | Trusting experience versus hyper-skepticism | argument | 298 | ML | Muslim Unveils The Reality Of Atheism! Muhammed Ali
+ML145:348-371 | P01.C03 | Truth as objective, not subjective | argument | 255 | ML | Liberal Woman Debates Muslim On The Need For Religion! Muhammed Ali
+ML347:1-37 | P01.C03 | What counts as proof for God | response | 301 | ML | Agnostic Challenges Muslim On God Then This Happens! Muhammed Ali
+ML235:502-569 | P01.C04 | Actions of followers versus religious teachings | argument | 393 | ML | Agnostic Couple Challenge The Islamic Paradigm! Muhammed Ali
+ML299:95-127 | P01.C04 | Allah determines right and wrong | response | 456 | ML | Ex-Muslim Daughter Questioning Her Mom's Decisions! Muhammed Ali
+ML176:555-575 | P01.C04 | Atheism lacks an objective moral criterion | conclusion | 182 | ML | Atheist Confronts Muslim On The Actions Of The Prophet! Muhammed Ali
+ML246:453-477 | P01.C04 | Atheism leading to nihilism | conclusion | 343 | ML | Atheist Confronts Muslim On The Clarity Of The Quran! Muhammed Ali
+FR294:837-1006 | P01.C04 | Atheism leads to moral nihilism: Rosenberg's paradox | argument | 7 | FR | How Subboor schooled CosmicSkeptic! (Human Rights Debate)
+ML176:206-293 | P01.C04 | Atheist moral grounding: treatment of prisoners | argument | 390 | ML | Atheist Confronts Muslim On The Actions Of The Prophet! Muhammed Ali
+ML176:322-437 | P01.C04 | Atheist moral grounding: treatment of prisoners | argument | 531 | ML | Atheist Confronts Muslim On The Actions Of The Prophet! Muhammed Ali
+ML111:123-151 | P01.C04 | Atheist moral standard for judging the Prophet | response | 209 | ML | Clip-React| Atheist Disproves The Quran?! Is Ezra The Son Of God? Isla
+ML273:72-151 | P01.C04 | Being a good person without God | argument | 532 | ML | Truth Seeking Sikh Encounters A Muslim! Muhammed Ali
+FR294:1172-1247 | P01.C04 | Believing in God to maximize pleasure | argument | 37 | FR | How Subboor schooled CosmicSkeptic! (Human Rights Debate)
+ML216:337-355 | P01.C04 | Creator as authority on right conduct | conclusion | 133 | ML | Non-Muslim Lady Questions Muslim On Violence In Islam! Muhammed Ali
+ML377:237-256 | P01.C04 | Creator as source of objective morality | argument | 237 | ML | Atheist Struggles With Morality! Muhammed Ali
+ML112:139-180 | P01.C04 | Criteria for being a good person | response | 366 | ML | Emotional Apostate Attempts To Blame God For Disbelief! Muhammed Ali
+ML145:174-282 | P01.C04 | Critique of the harm principle | argument | 773 | ML | Liberal Woman Debates Muslim On The Need For Religion! Muhammed Ali
+ML305:134-194 | P01.C04 | Definition of objective morality and God | response | 416 | ML | Atheist Philosopher Attempts To Challenge A Muslim! Muhammed Ali
+FR374:34-58 | P01.C04 | Divine command theory as moral standard | argument | 371 | FR | [DEBUNKED] Islam vs Women - Apostate Prophet
+ML177:364-394 | P01.C04 | Divine guidance as the basis of morality | argument | 228 | ML | Hindus Debate Muslim On The Rationality Of Hinduism! Muhammed Ali
+FR294:499-575 | P01.C04 | Enforceability of human rights under atheism | argument | 19 | FR | How Subboor schooled CosmicSkeptic! (Human Rights Debate)
+ML158:105-142 | P01.C04 | Evolution, survival of the fittest and morality | argument | 333 | ML | Atheist And Muslim Debate The Consequences Of Following Religion! Muha
+ML176:438-514 | P01.C04 | Feelings as a criterion for morality | response | 261 | ML | Atheist Confronts Muslim On The Actions Of The Prophet! Muhammed Ali
+ML033:413-423 | P01.C04 | Fitrah, conscience and the Creator's moral authority | argument | 193 | ML | Buddhist Gets Defensive After A Muslim Highlights The Problems With Bu
+ML146:171-212 | P01.C04 | Following divine commands without full understanding | response | 252 | ML | Confident Atheist Attempts To Make A Case Against Islam! Muhammed Ali
+ML145:131-173 | P01.C04 | Following God vs following personal desires | argument | 317 | ML | Liberal Woman Debates Muslim On The Need For Religion! Muhammed Ali
+FR294:734-803 | P01.C04 | Formal argument: atheism undermines human rights | overview | 86 | FR | How Subboor schooled CosmicSkeptic! (Human Rights Debate)
+ML156:485-507 | P01.C04 | God as source of objective morality | argument | 233 | ML | Emotional Atheist Receives A Reality Check From A Muslim! Muhammed Ali
+ML155:184-238 | P01.C04 | God as the source of objective morality | argument | 397 | ML | Intelligent Students Ask Curious Questions About Islam! Muhammed Ali
+ML245:288-309 | P01.C04 | Golden Rule and subjective morality | response | 241 | ML | Pantheist Challenges The Muslim View Of God! Muhammed Ali
+ML113:67-108 | P01.C04 | Grounding morality without God | argument | 356 | ML | Muslim Educates Close Minded Atheist On Religion! Muhammed Ali
+ML229:393-438 | P01.C04 | Grounding morality without God | argument | 264 | ML | Lebanese Ex-Muslim Questions The Teachings Of Islam! Muhammed Ali
+ML255:30-51 | P01.C04 | Grounding objective morality in God | argument | 222 | ML | Atheist Attempts To Challenge Muslim Then It Backfires! Muhammed Ali
+ML033:329-372 | P01.C04 | Grounding right and wrong without God | argument | 166 | ML | Buddhist Gets Defensive After A Muslim Highlights The Problems With Bu
+ML044:332-365 | P01.C04 | Harm principle as moral foundation | argument | 294 | ML | Atheist Questions A Muslim On The Number Of Wives Allowed In Islam! Mu
+ML133:168-185 | P01.C04 | How to know right and wrong | overview | 168 | ML | Non-Muslim Students Get Introduced To The Miracles Of The Quran! Muham
+FR294:1007-1171 | P01.C04 | Human exceptionalism, veganism and human rights | argument | 14 | FR | How Subboor schooled CosmicSkeptic! (Human Rights Debate)
+ML254:459-468 | P01.C04 | Innate morality, fitra and need for revelation | response | 75 | ML | Agnostic "Confused" By Simple Islamic Concepts?! Muhammed Ali
+ML034:15-54 | P01.C04 | Innate sense of justice and fitrah | argument | 413 | ML | Muslim Puts An Atheist To The Test After Claiming Atheism Is Rational!
+ML255:52-112 | P01.C04 | Interpreting revelation and objective morality | response | 523 | ML | Atheist Attempts To Challenge Muslim Then It Backfires! Muhammed Ali
+ML048:277-312 | P01.C04 | Is religion dangerous: morality and atheist regimes | response | 287 | ML | Englishman And Muslim Have An Honest Conversation About Immigration In
+ML071:234-290 | P01.C04 | Knowing right and wrong: conscience versus revelation | response | 269 | ML | Vegan Activist Questions A Muslim On Animal Cruelty In Islam! Muhammed
+ML235:246-328 | P01.C04 | Law as a basis for morality | response | 486 | ML | Agnostic Couple Challenge The Islamic Paradigm! Muhammed Ali
+ML149:84-108 | P01.C04 | Meaning and morality without God | argument | 266 | ML | English Lady Asks Muslim Why God Allows Human Suffering! Muhammed Ali
+ML147:1-32 | P01.C04 | Moral commands depend on source of morality | response | 225 | ML | Christian Left In Utter Shock After Attempting To Criticise Islam! Muh
+ML034:121-145 | P01.C04 | Moral emotivism | response | 127 | ML | Muslim Puts An Atheist To The Test After Claiming Atheism Is Rational!
+ML266:52-81 | P01.C04 | Moral grounding without God | argument | 354 | ML | Atheist Challenges The Muslim Understanding Of God! Muhammed Ali
+ML246:363-452 | P01.C04 | Moral grounding without God: cause and effect | argument | 413 | ML | Atheist Confronts Muslim On The Clarity Of The Quran! Muhammed Ali
+ML377:132-236 | P01.C04 | Moral judgments without objective morality | argument | 584 | ML | Atheist Struggles With Morality! Muhammed Ali
+ML069:29-47 | P01.C04 | Moral objections require an objective moral standard | argument | 197 | ML | Christian Questions Muslim On Young Marriages Then Instantly Regrets I
+ML110:327-416 | P01.C04 | Moral relativism and age of marriage | argument | 740 | ML | Atheist Shocked By Muslim After Questioning The Prophet's Marriage! Mu
+ML351:48-131 | P01.C04 | Moral responsibility under atheist determinism | argument | 461 | ML | Muslim Unveils The Reality Of Atheism! Muhammed Ali
+ML377:42-131 | P01.C04 | Morality as utility or aesthetics | response | 407 | ML | Atheist Struggles With Morality! Muhammed Ali
+ML125:644-665 | P01.C04 | Morality comes from the Creator | conclusion | 249 | ML | Christian Ladies Discover The True Identity Of Jesus! Muhammed Ali
+ML385:65-95 | P01.C04 | Morality derived from society | argument | 155 | ML | Gay Student Confronts Muslim! Muhammed Ali
+ML145:304-347 | P01.C04 | Morality from God vs subjective values | response | 211 | ML | Liberal Woman Debates Muslim On The Need For Religion! Muhammed Ali
+ML324:742-769 | P01.C04 | Morality requires divine law | argument | 151 | ML | Muslim Dismantles French Nationalism And Racist Ideologies! Muhammed A
+ML155:139-183 | P01.C04 | Morality: law, relativism and the golden rule | response | 289 | ML | Intelligent Students Ask Curious Questions About Islam! Muhammed Ali
+ML235:167-245 | P01.C04 | Nature, nurture and subjective morality | argument | 430 | ML | Agnostic Couple Challenge The Islamic Paradigm! Muhammed Ali
+ML034:146-182 | P01.C04 | Objective moral grounding in reality | argument | 402 | ML | Muslim Puts An Atheist To The Test After Claiming Atheism Is Rational!
+ML041:200-231 | P01.C04 | Objective moral standard from the creator | argument | 354 | ML | Curious Couple Ask A Muslim To Explain World Suffering! Muhammed Ali
+ML290:479-519 | P01.C04 | Objective morality and following God's guidance | argument | 456 | ML | American Lady Learns The Truth About Palestine! Muhammed Ali
+ML176:515-554 | P01.C04 | Objective morality and the Prophet's conduct | response | 162 | ML | Atheist Confronts Muslim On The Actions Of The Prophet! Muhammed Ali
+ML130:904-937 | P01.C04 | Objective morality from God | conclusion | 223 | ML | Tran$gender Challenges Muslim On His Comments About LGTBQ Community! M
+ML133:283-313 | P01.C04 | Objective morality requires God | argument | 354 | ML | Non-Muslim Students Get Introduced To The Miracles Of The Quran! Muham
+ML199:259-384 | P01.C04 | Objective morality requires God | argument | 686 | ML | Atheist Confronts Muslim On Apostasy Laws In Islam! Muhammed Ali
+ML333:442-512 | P01.C04 | Objective morality requires God | argument | 458 | ML | Atheists Challenge Muslim On The Existence of God! Muhammed Ali
+ML044:444-499 | P01.C04 | Objective morality requires revelation | conclusion | 409 | ML | Atheist Questions A Muslim On The Number Of Wives Allowed In Islam! Mu
+ML335:500-630 | P01.C04 | Objective morality without God | argument | 1028 | ML | Tunisian Girl Questions Muslim On Women's Rights! Muhammed Ali
+ML156:292-311 | P01.C04 | Objective standard for justice | response | 189 | ML | Emotional Atheist Receives A Reality Check From A Muslim! Muhammed Ali
+ML034:234-294 | P01.C04 | Practical relevance of objective morality | response | 457 | ML | Muslim Puts An Atheist To The Test After Claiming Atheism Is Rational!
+ML034:183-233 | P01.C04 | Punishment and enforceability of morality | argument | 410 | ML | Muslim Puts An Atheist To The Test After Claiming Atheism Is Rational!
+ML211:527-601 | P01.C04 | Revelation and the source of morality | argument | 435 | ML | Atheist Examines The Muslim Belief In God! Muhammed Ali
+FR294:356-498 | P01.C04 | Sam Harris vs Alex O'Connor on morality | overview | 51 | FR | How Subboor schooled CosmicSkeptic! (Human Rights Debate)
+ML086:782-842 | P01.C04 | Source of moral judgments | response | 312 | ML | Emotional Apostate Reveals Her True Colours After Getting Exposed! Muh
+ML130:602-735 | P01.C04 | Source of morality and moral relativism | argument | 1040 | ML | Tran$gender Challenges Muslim On His Comments About LGTBQ Community! M
+ML340:346-399 | P01.C04 | Source of morality and the liberal harm principle | argument | 726 | ML | Non-Muslim Audience Asks Muslim Difficult Questions! Muhammed Ali
+ML147:280-312 | P01.C04 | Source of morality for a Christian | argument | 181 | ML | Christian Left In Utter Shock After Attempting To Criticise Islam! Muh
+ML221:818-910 | P01.C04 | Source of objective morality | argument | 548 | ML | University Students Surprise Muslim With Difficult Questions! Muhammed
+ML158:64-104 | P01.C04 | Subjective moral compass and secret charity | argument | 347 | ML | Atheist And Muslim Debate The Consequences Of Following Religion! Muha
+ML034:55-120 | P01.C04 | Subjective morality and moral relativism | argument | 412 | ML | Muslim Puts An Atheist To The Test After Claiming Atheism Is Rational!
+ML156:371-436 | P01.C04 | Subjective versus objective morality | response | 515 | ML | Emotional Atheist Receives A Reality Check From A Muslim! Muhammed Ali
+ML177:269-363 | P01.C04 | Subjective versus objective morality | response | 633 | ML | Hindus Debate Muslim On The Rationality Of Hinduism! Muhammed Ali
+ML305:1-77 | P01.C04 | Subjective versus objective morality | argument | 688 | ML | Atheist Philosopher Attempts To Challenge A Muslim! Muhammed Ali
+ML146:140-170 | P01.C04 | Subjective vs objective morality | response | 307 | ML | Confident Atheist Attempts To Make A Case Against Islam! Muhammed Ali
+FR294:1359-1482 | P01.C04 | Utilitarian, Kantian and virtue ethics | overview | 203 | FR | How Subboor schooled CosmicSkeptic! (Human Rights Debate)
+FR294:1248-1358 | P01.C04 | Value of human life under atheism | argument | 179 | FR | How Subboor schooled CosmicSkeptic! (Human Rights Debate)
+ML192:119-142 | P01.C05 | Animal suffering and justice for animals | response | 403 | ML | Atheist Asks Muslim To Explain Why God Allows Suffering! Muhammed Ali
+ML335:631-651 | P01.C05 | Benefits of pain and suffering | argument | 250 | ML | Tunisian Girl Questions Muslim On Women's Rights! Muhammed Ali
+ML156:200-250 | P01.C05 | Child deaths and the premise of God existing | response | 390 | ML | Emotional Atheist Receives A Reality Check From A Muslim! Muhammed Ali
+ML125:403-453 | P01.C05 | Children who die and original sin | response | 218 | ML | Christian Ladies Discover The True Identity Of Jesus! Muhammed Ali
+ML230:190-213 | P01.C05 | Death of children and the problem of evil | response | 451 | ML | Atheist Presents Muslim With Difficult Questions! Muhammed Ali
+ML044:366-392 | P01.C05 | Euthanasia, suffering and life as a test | response | 184 | ML | Atheist Questions A Muslim On The Number Of Wives Allowed In Islam! Mu
+ML149:216-246 | P01.C05 | Faith as comfort in bereavement | conclusion | 271 | ML | English Lady Asks Muslim Why God Allows Human Suffering! Muhammed Ali
+ML305:195-237 | P01.C05 | God's non-intervention as a test | response | 380 | ML | Atheist Philosopher Attempts To Challenge A Muslim! Muhammed Ali
+ML114:141-267 | P01.C05 | God's right to take the life He gave | response | 919 | ML | Muslim Refutes Inconsistent Atheist Criticizing The Actions Of God! Mu
+ML263:402-428 | P01.C05 | Hardships and temptations as tests | response | 157 | ML | The Muslim Lantern Gets Sneak∅ To Rethink His Views! Muhammed Ali
+ML230:163-189 | P01.C05 | Islamic versus Christian answers to suffering | response | 439 | ML | Atheist Presents Muslim With Difficult Questions! Muhammed Ali
+ML156:251-291 | P01.C05 | Justice of children entering paradise | response | 179 | ML | Emotional Atheist Receives A Reality Check From A Muslim! Muhammed Ali
+ML145:84-130 | P01.C05 | Life as a test and accountability | response | 439 | ML | Liberal Woman Debates Muslim On The Need For Religion! Muhammed Ali
+ML192:99-118 | P01.C05 | Life as a test and suffering expiating sins | argument | 355 | ML | Atheist Asks Muslim To Explain Why God Allows Suffering! Muhammed Ali
+ML122:80-104 | P01.C05 | Life as a test for Muslims and non-Muslims | response | 331 | ML | Rational Thinker Asks A Muslim Thought-Provoking Questions! Muhammed A
+ML041:307-332 | P01.C05 | Life as a test foretold in the Quran | response | 226 | ML | Curious Couple Ask A Muslim To Explain World Suffering! Muhammed Ali
+ML180:200-248 | P01.C05 | Life as a test of choices | argument | 296 | ML | Sincere Lady About To Accept Islam But This Happens! Muhammed Ali
+ML169:336-384 | P01.C05 | Meaning of suffering for believers and atheists | response | 300 | ML | Chinese Revert Shares His Conversion Story To Islam! Muhammed Ali
+ML192:61-98 | P01.C05 | Moses and al-Khidr: hidden wisdom behind harm | illustration | 714 | ML | Atheist Asks Muslim To Explain Why God Allows Suffering! Muhammed Ali
+ML156:142-199 | P01.C05 | Necessary versus unnecessary evil | response | 171 | ML | Emotional Atheist Receives A Reality Check From A Muslim! Muhammed Ali
+ML149:161-215 | P01.C05 | Patience in calamity and divine decree | response | 546 | ML | English Lady Asks Muslim Why God Allows Human Suffering! Muhammed Ali
+ML084:732-775 | P01.C05 | Persecution of Muslims as a test | response | 363 | ML | Christian Wife Grills A Muslim With Difficult Questions! Muhammed Ali
+ML125:351-402 | P01.C05 | Problem of evil and life as a test | response | 312 | ML | Christian Ladies Discover The True Identity Of Jesus! Muhammed Ali
+ML345:219-246 | P01.C05 | Problem of evil and life as a test | response | 425 | ML | Atheist Questions Muslim About The Quran! Muhammed Ali
+ML320:233-263 | P01.C05 | Problem of evil and the purpose of choice | response | 211 | ML | Atheist Irrational Criteria For God's Existence! Muhammed Ali
+ML156:25-83 | P01.C05 | Problem of evil: God not only good, life as test | response | 358 | ML | Emotional Atheist Receives A Reality Check From A Muslim! Muhammed Ali
+ML192:17-60 | P01.C05 | Problem of evil: God's wisdom and relativity of evil | response | 590 | ML | Atheist Asks Muslim To Explain Why God Allows Suffering! Muhammed Ali
+ML366:1-53 | P01.C05 | Problem of evil: knowledge and appreciating good | response | 341 | ML | Atheist Questions Muslim On The Existence Of Evil! Muhammed Ali
+ML114:35-140 | P01.C05 | Punishment of nations after clear signs | response | 1033 | ML | Muslim Refutes Inconsistent Atheist Criticizing The Actions Of God! Mu
+ML271:404-428 | P01.C05 | Quran on trials and tests | response | 197 | ML | IDF Soldier Confronted A Muslim Live Then THIS HAPPENED! Muhammed Ali
+ML114:480-598 | P01.C05 | Self-defence and divine punishment compared | response | 926 | ML | Muslim Refutes Inconsistent Atheist Criticizing The Actions Of God! Mu
+ML156:84-141 | P01.C05 | Suffering and death of children as a test | response | 465 | ML | Emotional Atheist Receives A Reality Check From A Muslim! Muhammed Ali
+ML230:1-39 | P01.C05 | Suffering as a test of faith | response | 660 | ML | Atheist Presents Muslim With Difficult Questions! Muhammed Ali
+ML125:503-535 | P01.C05 | Suffering compared with eternal paradise | response | 396 | ML | Christian Ladies Discover The True Identity Of Jesus! Muhammed Ali
+ML169:165-273 | P01.C05 | Suffering of innocents and life as a test | response | 670 | ML | Chinese Revert Shares His Conversion Story To Islam! Muhammed Ali
+ML366:54-134 | P01.C05 | Suffering, life as a test and the afterlife | response | 646 | ML | Atheist Questions Muslim On The Existence Of Evil! Muhammed Ali
+ML319:325-392 | P01.C05 | Trials before accepting Islam | response | 623 | ML | Sincere Romanian Asks Questions About Islam! Muhammed Ali
+ML277:506-573 | P01.C05 | Whether the test of life is too hard | response | 711 | ML | Afghan Girl Claims That Muslims Are Blind Followers?! Muhammed Ali
+ML068:50-100 | P01.C05 | Why evil exists: free will and life as a test | response | 342 | ML | Atheist Abandons Logic And Rationality To Deny God! Muhammed Ali
+ML149:1-62 | P01.C05 | Why God allows death and suffering | response | 632 | ML | English Lady Asks Muslim Why God Allows Human Suffering! Muhammed Ali
+ML200:1-61 | P01.C05 | Why God allows disabilities | response | 589 | ML | Agnostic Asks Muslim A Very Difficult Question! Muhammed Ali
+ML385:1-35 | P01.C05 | Why God allows evil: life as a test | response | 434 | ML | Gay Student Confronts Muslim! Muhammed Ali
+ML221:474-525 | P01.C05 | Why God allows evil: Palestine | response | 327 | ML | University Students Surprise Muslim With Difficult Questions! Muhammed
+ML025:459-468 | P01.C05 | Why God allows Muslims to be weak | response | 179 | ML | Inquisitive Agnostic Grills Muslim On Cousin Marriage And Racism In Is
+ML098:619-640 | P01.C05 | Why God allows suffering | response | 169 | ML | Clip-React| 5 Reasons I Left Islam?! Hijabi Says Christians Will Go To
+ML116:1-77 | P01.C05 | Why God allows suffering in Gaza | response | 554 | ML | Emotional Shahada | Peruvian Sister Discovers The Truth Of Islam! Muha
+ML041:232-263 | P01.C05 | Why God allows world suffering | overview | 134 | ML | Curious Couple Ask A Muslim To Explain World Suffering! Muhammed Ali
+ML114:1-34 | P01.C05 | Why God destroyed past nations | overview | 146 | ML | Muslim Refutes Inconsistent Atheist Criticizing The Actions Of God! Mu
+ML169:274-335 | P01.C05 | Why God does not remove suffering | response | 400 | ML | Chinese Revert Shares His Conversion Story To Islam! Muhammed Ali
+ML305:78-133 | P01.C05 | Why God does not save a drowning child | response | 522 | ML | Atheist Philosopher Attempts To Challenge A Muslim! Muhammed Ali
+ML320:604-660 | P01.C05 | Why people receive different tests | response | 639 | ML | Atheist Irrational Criteria For God's Existence! Muhammed Ali
+ML097:462-536 | P01.C05 | Why people reject clear evidence | response | 763 | ML | Muslim Surprises Sceptical Chemist With The Evidences For Islam! Muham
+ML098:686-695 | P01.C05 | Why test if God knows the outcome | response | 99 | ML | Clip-React| 5 Reasons I Left Islam?! Hijabi Says Christians Will Go To
+ML212:452-473 | P01.C05 | Why there is hatred and evil in the world | response | 123 | ML | Sincere Christian Speaks The Truth About Christianity! Muhammed Ali
+ML289:47-57 | P01.C05 | Wisdom behind suffering in Gaza | response | 197 | ML | Popular Youtuber Asks Muslim Difficult Questions! Muhammed Ali
+ML116:78-137 | P01.C05 | Wisdom behind the trials in Gaza | argument | 505 | ML | Emotional Shahada | Peruvian Sister Discovers The Truth Of Islam! Muha
+ML371:586-713 | P01.C06 | Abiogenesis and the origin of life | response | 886 | ML | Is Atheism Rational? Atheist Challenges Muslim! | Muhammed Ali
+ML024:48-105 | P01.C06 | Abiogenesis and the origin of the first cell | argument | 404 | ML | Confident Atheists Put To The Test By Muslim For Blindly Accepting Evo
+ML360:1389-1436 | P01.C06 | Academic pressure and gradualism in Darwinism | conclusion | 75 | ML | Muslims Scientifically And Rationally Dismantle Evolution! Muhammed Al
+ML124:412-461 | P01.C06 | Accepting evolution without research | response | 344 | ML | Is God Necessary? Intellectual Atheist Challenges The Muslim Understan
+ML221:371-389 | P01.C06 | Age of humanity and fossil evidence | response | 93 | ML | University Students Surprise Muslim With Difficult Questions! Muhammed
+ML255:339-385 | P01.C06 | Believing in evolution without knowing its basics | argument | 410 | ML | Atheist Attempts To Challenge Muslim Then It Backfires! Muhammed Ali
+ML247:295-310 | P01.C06 | Burden of proof for evolution as fact | argument | 140 | ML | Direct Challenge To "Professor" Dave Explains On YouTube Ft. @SubboorA
+ML124:462-593 | P01.C06 | Cambrian explosion and gradualism | argument | 815 | ML | Is God Necessary? Intellectual Atheist Challenges The Muslim Understan
+ML234:202-240 | P01.C06 | Changing science versus revealed truth | argument | 424 | ML | Agnostic Claims The Qur'an Contradicts Science?! Muhammed Ali
+ML337:153-226 | P01.C06 | Children of Adam and Eve and incest | response | 630 | ML | Christian Lady Skeptical About The Prophet of Islam! Muhammed Ali
+ML360:80-93 | P01.C06 | Claimed evidences for evolution: outline | overview | 196 | ML | Muslims Scientifically And Rationally Dismantle Evolution! Muhammed Al
+ML349:161-172 | P01.C06 | Conflict between science and religion | response | 131 | ML | Ex-Christian Lady Curious About Islam! Muhammed Ali
+ML077:219-272 | P01.C06 | Correlation versus causation in origin-of-life claims | response | 209 | ML | Atheist Comes To Mock Islam But Gets Humiliated Instead! Muhammed Ali
+ML202:165-194 | P01.C06 | Creation of the world according to Islam | response | 220 | ML | Christian Attempts To Explain The Concept Of God! Muhammed Ali
+ML153:297-331 | P01.C06 | Dinosaurs, age of the earth and creation of man | response | 287 | ML | Muslim Rationally Gets Atheist To Switch His Position! Muhammed Ali
+ML267:209-223 | P01.C06 | Direct creation of Adam and randomness | argument | 152 | ML | American Questions Muslim On Free Will In Islam! Muhammed Ali
+ML253:265-318 | P01.C06 | Does the Quran teach evolution | response | 536 | ML | Clip-React| Bible Hasn't Changed? Quranic Evolution? Can't Trust The P
+ML118:523-702 | P01.C06 | Evidence for evolution and origin of life | response | 1307 | ML | Atheist Attempts To Use A Christian Argument Against Muslim But Fails 
+ML377:311-339 | P01.C06 | Evolution and abiogenesis | response | 275 | ML | Atheist Struggles With Morality! Muhammed Ali
+ML024:240-253 | P01.C06 | Evolution and belief in God | argument | 135 | ML | Confident Atheists Put To The Test By Muslim For Blindly Accepting Evo
+ML148:62-105 | P01.C06 | Evolution and the scientific method | argument | 455 | ML | Atheist Challenges The Muslim Stance On Evolution! Muhammed Ali
+ML360:1-79 | P01.C06 | Evolution as fact and burden of proof | overview | 804 | ML | Muslims Scientifically And Rationally Dismantle Evolution! Muhammed Al
+ML124:641-688 | P01.C06 | Evolution as science; origin of first cell | argument | 431 | ML | Is God Necessary? Intellectual Atheist Challenges The Muslim Understan
+ML255:280-338 | P01.C06 | Evolutionary explanation of belief in God | response | 222 | ML | Atheist Attempts To Challenge Muslim Then It Backfires! Muhammed Ali
+ML148:106-179 | P01.C06 | Falsifiability of evolution | argument | 621 | ML | Atheist Challenges The Muslim Stance On Evolution! Muhammed Ali
+ML360:1230-1332 | P01.C06 | Falsifiability, pseudoscience and randomness in evolution | argument | 1476 | ML | Muslims Scientifically And Rationally Dismantle Evolution! Muhammed Al
+ML183:879-1004 | P01.C06 | Flat Earth, the Bible and proof of God | response | 686 | ML | Tyson Hockley Grills The Muslim Lantern With Difficult Questions! Muha
+ML360:205-314 | P01.C06 | Fossil forgeries and hoaxes | argument | 1322 | ML | Muslims Scientifically And Rationally Dismantle Evolution! Muhammed Al
+ML148:1-61 | P01.C06 | Fossil record and early humans | response | 407 | ML | Atheist Challenges The Muslim Stance On Evolution! Muhammed Ali
+ML024:151-196 | P01.C06 | Fossil record and vestigial organs | argument | 533 | ML | Confident Atheists Put To The Test By Muslim For Blindly Accepting Evo
+ML360:94-204 | P01.C06 | Fossil record, gradualism and Cambrian explosion | argument | 1414 | ML | Muslims Scientifically And Rationally Dismantle Evolution! Muhammed Al
+ML024:197-239 | P01.C06 | Gradualism, Cambrian explosion and punctuated equilibrium | argument | 437 | ML | Confident Atheists Put To The Test By Muslim For Blindly Accepting Evo
+ML360:315-494 | P01.C06 | Hominid fossils and the human family tree | argument | 2122 | ML | Muslims Scientifically And Rationally Dismantle Evolution! Muhammed Al
+ML360:608-773 | P01.C06 | Homology and convergent evolution | argument | 1445 | ML | Muslims Scientifically And Rationally Dismantle Evolution! Muhammed Al
+ML124:689-722 | P01.C06 | Human evolution and the Quran | response | 228 | ML | Is God Necessary? Intellectual Atheist Challenges The Muslim Understan
+ML360:909-1124 | P01.C06 | Human-chimpanzee genetic similarity | argument | 2282 | ML | Muslims Scientifically And Rationally Dismantle Evolution! Muhammed Al
+ML267:175-208 | P01.C06 | Improbability of the first living cell | argument | 398 | ML | American Questions Muslim On Free Will In Islam! Muhammed Ali
+ML234:1-49 | P01.C06 | Islam and human evolution: creation of Adam | response | 348 | ML | Agnostic Claims The Qur'an Contradicts Science?! Muhammed Ali
+ML124:594-640 | P01.C06 | Islamic position on evolution | overview | 405 | ML | Is God Necessary? Intellectual Atheist Challenges The Muslim Understan
+ML267:149-174 | P01.C06 | Islamic position on evolution | response | 238 | ML | American Questions Muslim On Free Will In Islam! Muhammed Ali
+ML253:212-264 | P01.C06 | Muslims and the theory of evolution | response | 444 | ML | Clip-React| Bible Hasn't Changed? Quranic Evolution? Can't Trust The P
+ML077:121-161 | P01.C06 | Natural formation of planets and origin of life | response | 108 | ML | Atheist Comes To Mock Islam But Gets Humiliated Instead! Muhammed Ali
+ML360:1333-1388 | P01.C06 | Naturalism and rejection of intelligent design | argument | 600 | ML | Muslims Scientifically And Rationally Dismantle Evolution! Muhammed Al
+ML114:268-350 | P01.C06 | Origin of life and consciousness | response | 722 | ML | Muslim Refutes Inconsistent Atheist Criticizing The Actions Of God! Mu
+ML077:162-218 | P01.C06 | Panspermia and building blocks of life on asteroids | response | 91 | ML | Atheist Comes To Mock Islam But Gets Humiliated Instead! Muhammed Ali
+ML148:180-213 | P01.C06 | Paradigm shifts and academic pressure on evolution | argument | 322 | ML | Atheist Challenges The Muslim Stance On Evolution! Muhammed Ali
+ML360:774-908 | P01.C06 | Random mutations and directed mutation | argument | 997 | ML | Muslims Scientifically And Rationally Dismantle Evolution! Muhammed Al
+ML234:128-201 | P01.C06 | Reconciling Adam's creation with evolution | response | 511 | ML | Agnostic Claims The Qur'an Contradicts Science?! Muhammed Ali
+ML139:393-419 | P01.C06 | Religion and science in Christianity and Islam | response | 194 | ML | Historian Debates Muslim On The Authenticity Of The Bible! Muhammed Al
+ML133:47-68 | P01.C06 | Shallow science knowledge and Muslim scientific method | argument | 146 | ML | Non-Muslim Students Get Introduced To The Miracles Of The Quran! Muham
+ML360:1125-1229 | P01.C06 | Summary of the case against evolution evidence | conclusion | 1127 | ML | Muslims Scientifically And Rationally Dismantle Evolution! Muhammed Al
+ML360:495-607 | P01.C06 | Vestigial organs argument | argument | 1303 | ML | Muslims Scientifically And Rationally Dismantle Evolution! Muhammed Al
+ML209:80-118 | P01.C07 | All gods as expressions of one God | response | 241 | ML | Philosophers Challenge The Muslim Understanding Of God! Muhammed Ali
+ML208:168-223 | P01.C07 | All religions lead to God | response | 416 | ML | Hindu Questions Muslim On Polytheism! Muhammed Ali
+ML096:994-1058 | P01.C07 | Arbitrary subjective spiritual philosophies | illustration | 592 | ML | The Muslim Lantern, Sneako and Arab Debate Religion! Muhammed Ali
+ML333:679-705 | P01.C07 | Are all religions equally valid | response | 253 | ML | Atheists Challenge Muslim On The Existence of God! Muhammed Ali
+ML254:1-36 | P01.C07 | Belief in God without religion | overview | 100 | ML | Agnostic "Confused" By Simple Islamic Concepts?! Muhammed Ali
+ML209:1-17 | P01.C07 | Belief in the God of every religion | overview | 90 | ML | Philosophers Challenge The Muslim Understanding Of God! Muhammed Ali
+ML216:1-33 | P01.C07 | Belief in universal energies | overview | 58 | ML | Non-Muslim Lady Questions Muslim On Violence In Islam! Muhammed Ali
+ML096:831-911 | P01.C07 | Breath as a source of divine guidance | response | 282 | ML | The Muslim Lantern, Sneako and Arab Debate Religion! Muhammed Ali
+ML251:325-367 | P01.C07 | Caller's perennialist position and Jewish identity | overview | 172 | ML | Ex-Jew Claims Rational Problems With Islam?! Muhammed Ali
+ML011:192-288 | P01.C07 | Claim that all religions are man-made | response | 559 | ML | Confident "Ex-Muslim" Confronts Muslim Over Quran Contradictions! Muha
+ML209:54-79 | P01.C07 | Creator distinct from creation versus pantheism | response | 156 | ML | Philosophers Challenge The Muslim Understanding Of God! Muhammed Ali
+ML209:501-580 | P01.C07 | Defining love versus other emotions | response | 351 | ML | Philosophers Challenge The Muslim Understanding Of God! Muhammed Ali
+ML091:1-71 | P01.C07 | Definition of omnism | overview | 335 | ML | Omnist Left Speechless After Hearing This Muslim's Answer! Muhammed Al
+ML126:274-336 | P01.C07 | Eternal naturalistic cause of the universe | overview | 84 | ML | Atheist Philosopher Challenges Muslim On The Creation Of The Universe!
+ML093:150-176 | P01.C07 | Following all religions despite contradictions | response | 201 | ML | Hindu Debates Muslim On The Rationality Of Hinduism! Muhammed Ali
+ML058:867-914 | P01.C07 | God is one versus nothing but God | response | 338 | ML | Agnostic Claims That Pantheism Is More Rational Than Monotheism! Muham
+ML096:555-619 | P01.C07 | Heaven within and the afterlife as present | response | 125 | ML | The Muslim Lantern, Sneako and Arab Debate Religion! Muhammed Ali
+ML209:367-500 | P01.C07 | Is every action motivated by love | response | 567 | ML | Philosophers Challenge The Muslim Understanding Of God! Muhammed Ali
+ML096:757-830 | P01.C07 | Living in the present versus reasoning | response | 372 | ML | The Muslim Lantern, Sneako and Arab Debate Religion! Muhammed Ali
+ML229:307-392 | P01.C07 | Logical inconsistency of religious pluralism | argument | 552 | ML | Lebanese Ex-Muslim Questions The Teachings Of Islam! Muhammed Ali
+ML096:1059-1121 | P01.C07 | Many paths to truth and human limitation | response | 386 | ML | The Muslim Lantern, Sneako and Arab Debate Religion! Muhammed Ali
+ML348:1-52 | P01.C07 | Pantheism and contradictory views of God | response | 461 | ML | English Lady Questions Muslim On Women's Rights! Muhammed Ali
+ML264:60-117 | P01.C07 | Pantheism and the claim that humans are God | response | 603 | ML | Hindu Monk Confronts Muslim On His Claims! Muhammed Ali
+ML058:696-797 | P01.C07 | Pantheism and the laws of logic | argument | 942 | ML | Agnostic Claims That Pantheism Is More Rational Than Monotheism! Muham
+ML245:135-168 | P01.C07 | Pantheism and the problem of morality | response | 473 | ML | Pantheist Challenges The Muslim View Of God! Muhammed Ali
+ML058:470-559 | P01.C07 | Pantheism: distinction between creator and creation | response | 519 | ML | Agnostic Claims That Pantheism Is More Rational Than Monotheism! Muham
+ML058:798-866 | P01.C07 | Pantheism: is creation a part of God | response | 469 | ML | Agnostic Claims That Pantheism Is More Rational Than Monotheism! Muham
+ML096:912-993 | P01.C07 | Present-moment awareness and breathing as path to God | response | 216 | ML | The Muslim Lantern, Sneako and Arab Debate Religion! Muhammed Ali
+ML229:158-234 | P01.C07 | Religious pluralism and exclusivity of Islam | response | 458 | ML | Lebanese Ex-Muslim Questions The Teachings Of Islam! Muhammed Ali
+ML127:1-32 | P01.C07 | Spiritual seeker's concept of God | overview | 134 | ML | Researcher Confronts Muslim On Extremist Teachings! Muhammed Ali
+ML096:261-319 | P01.C07 | Spiritual truth without scripture or prophets | response | 249 | ML | The Muslim Lantern, Sneako and Arab Debate Religion! Muhammed Ali
+ML058:977-998 | P01.C07 | Wahdat al-Wujud: oneness of existence | argument | 299 | ML | Agnostic Claims That Pantheism Is More Rational Than Monotheism! Muham
+ML058:611-695 | P01.C07 | Wave and ocean analogy for pantheism | response | 756 | ML | Agnostic Claims That Pantheism Is More Rational Than Monotheism! Muham
+ML086:60-129 | P01.C08 | Allah guides and misguides whom He wills | response | 420 | ML | Emotional Apostate Reveals Her True Colours After Getting Exposed! Muh
+ML242:511-600 | P01.C08 | Allah's will, guidance and sealing of hearts | response | 524 | ML | Agnostic Finds Logical Problems With Islam?! Muhammed Ali
+ML284:1057-1094 | P01.C08 | Belief in Qadar and peace of mind | argument | 369 | ML | The Situation Of The Ummah, The Disease & The Cure | Al Muwahiddeen Mo
+ML351:1-47 | P01.C08 | Compatibilism versus determinism | response | 316 | ML | Muslim Unveils The Reality Of Atheism! Muhammed Ali
+ML183:143-229 | P01.C08 | Creating your own reality versus taking means | response | 643 | ML | Tyson Hockley Grills The Muslim Lantern With Difficult Questions! Muha
+ML267:118-148 | P01.C08 | Determinism under atheist materialism | argument | 241 | ML | American Questions Muslim On Free Will In Islam! Muhammed Ali
+ML175:945-972 | P01.C08 | Divine decree and human choice in salvation | response | 147 | ML | Muslim Gets Questioned On The Treatment Of Women In Islam! Muhammed Al
+ML300:151-208 | P01.C08 | Divine decree, choice and tests | response | 411 | ML | Arab Christian Speaks The Truth About The Bible! Muhammed Ali
+ML098:577-618 | P01.C08 | Divine foreknowledge and free will | response | 386 | ML | Clip-React| 5 Reasons I Left Islam?! Hijabi Says Christians Will Go To
+ML393:1-67 | P01.C08 | Divine foreknowledge and free will | response | 404 | ML | Future Priest Attempts To Rescue A Christian Part1! Muhammed Ali
+ML098:667-685 | P01.C08 | Does prayer change God's plan | response | 183 | ML | Clip-React| 5 Reasons I Left Islam?! Hijabi Says Christians Will Go To
+ML289:90-164 | P01.C08 | Four levels of qadar and free choice | response | 772 | ML | Popular Youtuber Asks Muslim Difficult Questions! Muhammed Ali
+ML242:349-472 | P01.C08 | Free will and divine decree | response | 740 | ML | Agnostic Finds Logical Problems With Islam?! Muhammed Ali
+ML352:32-123 | P01.C08 | Free will doubts as excuse for disbelief | response | 564 | ML | Clever Atheist Pushes Back Against Muslim! Muhammed Ali
+ML320:264-348 | P01.C08 | Free will, compatibilism and divine will | response | 835 | ML | Atheist Irrational Criteria For God's Existence! Muhammed Ali
+ML335:119-159 | P01.C08 | God's foreknowledge and human free choice | response | 322 | ML | Tunisian Girl Questions Muslim On Women's Rights! Muhammed Ali
+ML267:59-89 | P01.C08 | God's foreknowledge and responsibility for evil | response | 331 | ML | American Questions Muslim On Free Will In Islam! Muhammed Ali
+ML111:296-334 | P01.C08 | Human will and divine will in the Quran | response | 356 | ML | Clip-React| Atheist Disproves The Quran?! Is Ezra The Son Of God? Isla
+ML267:90-117 | P01.C08 | Islamic position on qadar and choice | response | 266 | ML | American Questions Muslim On Free Will In Islam! Muhammed Ali
+ML352:124-166 | P01.C08 | Islamic view on free will and determinism | response | 370 | ML | Clever Atheist Pushes Back Against Muslim! Muhammed Ali
+ML335:27-118 | P01.C08 | Predestination and free will: guidance follows choice | response | 822 | ML | Tunisian Girl Questions Muslim On Women's Rights! Muhammed Ali
+ML214:136-209 | P01.C08 | Qadar and human free will | response | 461 | ML | Agnostic Enquires About Qur'an Contradictions! Muhammed Ali
+ML300:80-98 | P01.C08 | Reconciling divine decree and free will | response | 155 | ML | Arab Christian Speaks The Truth About The Bible! Muhammed Ali
+ML007:301-401 | P01.C08 | Sealing of hearts and human choice | response | 697 | ML | Confident Agnostic Grills A Muslim On The Quran Copying The Bible! Muh
+ML184:223-249 | P01.C09 | Atheism, nihilism and purpose of life | argument | 282 | ML | Atheist And Muslim Debate Western Philosophy! Muhammed Ali
+ML184:250-300 | P01.C09 | Benefits of religion beyond community | response | 518 | ML | Atheist And Muslim Debate Western Philosophy! Muhammed Ali
+ML145:474-498 | P01.C09 | Creator determines human purpose | argument | 233 | ML | Liberal Woman Debates Muslim On The Need For Religion! Muhammed Ali
+ML146:88-139 | P01.C09 | Creator determines human purpose | argument | 509 | ML | Confident Atheist Attempts To Make A Case Against Islam! Muhammed Ali
+ML164:1-23 | P01.C09 | Creator gives purpose and guidance | argument | 137 | ML | Agnostic Presents A Logical Problem With Hellfire In Islam! Muhammed A
+ML348:90-127 | P01.C09 | Creator's attributes and need for guidance | argument | 402 | ML | English Lady Questions Muslim On Women's Rights! Muhammed Ali
+ML277:574-614 | P01.C09 | Demanding a personal sign from God | response | 297 | ML | Afghan Girl Claims That Muslims Are Blind Followers?! Muhammed Ali
+ML371:531-585 | P01.C09 | Did humans invent religion for comfort | response | 326 | ML | Is Atheism Rational? Atheist Challenges Muslim! | Muhammed Ali
+ML044:306-331 | P01.C09 | Divine versus man-made rules for life | argument | 172 | ML | Atheist Questions A Muslim On The Number Of Wives Allowed In Islam! Mu
+ML188:382-432 | P01.C09 | Gratitude to the Creator and to parents | response | 318 | ML | Ex-Muslim Questions The Rationality Behind Islamic Laws! Muhammed Ali
+ML209:661-682 | P01.C09 | How God communicates with humans | response | 68 | ML | Philosophers Challenge The Muslim Understanding Of God! Muhammed Ali
+ML044:226-279 | P01.C09 | Human insignificance in a vast universe | response | 415 | ML | Atheist Questions A Muslim On The Number Of Wives Allowed In Islam! Mu
+ML124:132-180 | P01.C09 | Human insignificance in a vast universe | overview | 69 | ML | Is God Necessary? Intellectual Atheist Challenges The Muslim Understan
+ML124:361-411 | P01.C09 | Human insignificance in a vast universe | response | 465 | ML | Is God Necessary? Intellectual Atheist Challenges The Muslim Understan
+ML133:314-337 | P01.C09 | Inevitability of death and a balanced life | conclusion | 322 | ML | Non-Muslim Students Get Introduced To The Miracles Of The Quran! Muham
+ML158:143-179 | P01.C09 | Knowing God through revelation and prophets | argument | 377 | ML | Atheist And Muslim Debate The Consequences Of Following Religion! Muha
+ML207:312-325 | P01.C09 | Knowing God through revelation and reason | response | 99 | ML | Anonymous Atheist Attempts To Outsmart A Muslim! Muhammed Ali
+ML042:426-477 | P01.C09 | Knowing God's will through revelation | response | 387 | ML | Intellectually Bankrupt Atheist Demands Evidence For God! Muhammed Ali
+ML209:191-235 | P01.C09 | Life as a test and knowing God through revelation | argument | 322 | ML | Philosophers Challenge The Muslim Understanding Of God! Muhammed Ali
+ML315:148-161 | P01.C09 | Life as a test and Paradise | argument | 223 | ML | A Message To Brother Sneak∅ - Muhammed Ali
+ML093:499-559 | P01.C09 | Need for clear divine guidance | argument | 470 | ML | Hindu Debates Muslim On The Rationality Of Hinduism! Muhammed Ali
+ML096:697-756 | P01.C09 | Need for revelation beyond individual intellect | argument | 561 | ML | The Muslim Lantern, Sneako and Arab Debate Religion! Muhammed Ali
+ML188:307-362 | P01.C09 | Not choosing to be created | response | 478 | ML | Ex-Muslim Questions The Rationality Behind Islamic Laws! Muhammed Ali
+ML188:458-481 | P01.C09 | Not choosing to be created | conclusion | 176 | ML | Ex-Muslim Questions The Rationality Behind Islamic Laws! Muhammed Ali
+ML096:213-260 | P01.C09 | Objective purpose of human creation | argument | 279 | ML | The Muslim Lantern, Sneako and Arab Debate Religion! Muhammed Ali
+ML235:135-166 | P01.C09 | Purpose assigned by the Creator and prophets | argument | 225 | ML | Agnostic Couple Challenge The Islamic Paradigm! Muhammed Ali
+ML062:1-34 | P01.C09 | Purpose of existence and nihilism | overview | 74 | ML | Open-Minded Atheist Shifts His Entire Worldview After Encountering A M
+ML377:278-292 | P01.C09 | Purpose of life and life as a test | conclusion | 131 | ML | Atheist Struggles With Morality! Muhammed Ali
+ML004:1-53 | P01.C09 | Purpose of life and need for revelation | response | 483 | ML | Christian Woman Attempts To Throw A Jab At Muslims But Gets Confronted
+ML398:1-25 | P01.C09 | Purpose of life and preparing for death | argument | 193 | ML | Rude Christian Gets Triggered! Muhammed Ali
+ML202:450-464 | P01.C09 | Purpose of life as a test | response | 95 | ML | Christian Attempts To Explain The Concept Of God! Muhammed Ali
+ML333:354-411 | P01.C09 | Purpose of life given by the Creator | argument | 345 | ML | Atheists Challenge Muslim On The Existence of God! Muhammed Ali
+ML340:169-186 | P01.C09 | Purpose of life given by the Creator | argument | 285 | ML | Non-Muslim Audience Asks Muslim Difficult Questions! Muhammed Ali
+ML349:204-263 | P01.C09 | Purpose of life: connecting with God | response | 515 | ML | Ex-Christian Lady Curious About Islam! Muhammed Ali
+ML080:920-951 | P01.C09 | Reflecting on life's purpose and the afterlife | conclusion | 331 | ML | Apostate "Philosopher" Challenges Muslim On The Existence Of God! Muha
+ML209:683-726 | P01.C09 | Revelation as the truth relevant to humans | conclusion | 293 | ML | Philosophers Challenge The Muslim Understanding Of God! Muhammed Ali
+ML263:429-458 | P01.C09 | Ultimate purpose in life | overview | 143 | ML | The Muslim Lantern Gets Sneak∅ To Rethink His Views! Muhammed Ali
+ML368:179-312 | P01.C09 | Wealth, death and the purpose of life | illustration | 1330 | ML | Why Are You A Muslim?! Muhammed Ali
+ML192:143-170 | P01.C09 | Why God created a vast universe | response | 319 | ML | Atheist Asks Muslim To Explain Why God Allows Suffering! Muhammed Ali
+ML230:40-76 | P01.C09 | Why God created humans to be tested | response | 568 | ML | Atheist Presents Muslim With Difficult Questions! Muhammed Ali
+ML277:425-505 | P01.C09 | Why God does not appear to everyone | response | 915 | ML | Afghan Girl Claims That Muslims Are Blind Followers?! Muhammed Ali
+ML098:696-708 | P01.C09 | Why God does not make evidence visible | response | 145 | ML | Clip-React| 5 Reasons I Left Islam?! Hijabi Says Christians Will Go To
+ML325:232-285 | P01.C09 | Why God does not speak to humans directly | response | 644 | ML | Why Does God Not Communicate With Humans? Muhammed Ali
+ML359:103-131 | P01.C09 | Why God sends human messengers | response | 208 | ML | University Student Challenges Muslim On Religion! Muhammed Ali
+ML150:370-428 | P01.C09 | Why God sends prophets and messengers | argument | 435 | ML | Agnostic Refuses To Accept Rational Evidences For Islam! Muhammed Ali
+ML222:38-102 | P01.C09 | Why God sends prophets and revelation | argument | 461 | ML | Muslim Surprises A French Man Looking For Answers! Muhammed Ali
+ML041:179-199 | P01.C09 | Why God sends prophets for guidance | argument | 306 | ML | Curious Couple Ask A Muslim To Explain World Suffering! Muhammed Ali
+ML345:247-278 | P01.C09 | Why God would send guidance | argument | 323 | ML | Atheist Questions Muslim About The Quran! Muhammed Ali
+ML210:603-656 | P01.C09 | Why no prophets are sent today | response | 381 | ML | Agnostic Lady Questions Muslim On Evidence Of God! Muhammed Ali
+ML163:125-182 | P01.C09 | Why prophets are sent; life as a test | response | 457 | ML | Baha'i Lady Questions Muslim On The Last Prophet! Muhammed Ali
+ML097:67-98 | P01.C09 | Why the Creator sends guidance | argument | 305 | ML | Muslim Surprises Sceptical Chemist With The Evidences For Islam! Muham
+ML155:95-138 | P01.C09 | Why the Creator sends prophets: purpose of life | argument | 312 | ML | Intelligent Students Ask Curious Questions About Islam! Muhammed Ali
+ML131:424-489 | P01.C09 | Why the Creator would send guidance | response | 570 | ML | "Enlightened" Athiest Left Speechless After Encountering Muslim! Muham

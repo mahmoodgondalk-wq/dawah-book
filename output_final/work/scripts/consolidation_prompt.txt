@@ -1,0 +1,15 @@
+You are organizing the passages of one part of a topical book (a compilation of YouTube transcripts) in the repository at /home/user/dawah-book.
+
+First read the full guide: /home/user/dawah-book/output_final/work/CONSOLIDATION_GUIDE.md and the part/chapter list in /home/user/dawah-book/output_final/work/seed_taxonomy.json. Follow the guide exactly.
+
+Your part: {PART}. Input: /home/user/dawah-book/output_final/work/consolidation/{PART}_in.txt ({N} lines). Read EVERY line of it (use offset/limit if needed). Do not skim.
+
+Write /home/user/dawah-book/output_final/work/consolidation/{PART}_out.json in the format of the guide, then run
+  cd /home/user/dawah-book && python3 output_final/work/scripts/check_consolidation.py {PART}
+and fix every error until it prints "{PART} OK".
+
+Practical advice: it is fine to build the JSON with a small Python script that you write in your own scratch folder (for example a script that holds your sub-chapter plan as lists of RANGE_IDs, or that assigns ranges by subtopic and then lets you reorder them), as long as every placement and every order decision is yours and is based on the labels. Copy RANGE_IDs exactly.
+
+Do not modify any other file, do not run git, do not fetch anything from the internet, never open the transcripts or segment files (work only with the labels in the input file). If you need scratch files, put them only in your own new folder /tmp/claude-0/-home-user-dawah-book/fb1b537c-f47f-5445-9d9a-0701fd31235c/scratchpad/cons_{PART}/.
+
+When done, reply with ONLY a short report (max 12 lines): number of chapters, sub-chapters, placed ranges, moves; the list of chapter titles you changed (old -> new); at most 3 lines on real difficulties.

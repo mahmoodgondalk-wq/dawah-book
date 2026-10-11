@@ -1,0 +1,18 @@
+{"file_id": "ML364",
+ "ranges": [[1,23,"P11.C04","Which Muslim sect is right","overview"],
+            [24,48,"P04.C06","Ahmadi claim of non-law-bearing prophets","response"],
+            [49,59,"P16.C03","Interruptions by passersby","other"],
+            [60,81,"P04.C06","Ahmadi beliefs about Ghulam Ahmad and Quran 33:40","argument"],
+            [82,113,"P11.C04","Sects and returning disputes to Quran and Sunnah","response"],
+            [114,144,"P04.C06","Seal of the prophets: verse and last brick hadith","argument"],
+            [145,160,"P08.C03","Return of Jesus as follower, not prophet","response"],
+            [161,182,"P11.C04","How sects arise from rejecting clear texts","response"],
+            [183,199,"P11.C03","Origin of Shia beliefs and the twelve imams","argument"],
+            [200,229,"P11.C02","Shia view of the Companions and Quran 9:100","argument"],
+            [230,259,"P11.C04","Holding to the rope of Allah against division","argument"],
+            [260,290,"P11.C04","Hadith of Hudhayfah and following the Companions","response"],
+            [291,311,"P04.C06","Ahmadi interpretation of Quran 61:6 Ahmad","argument"],
+            [312,341,"P04.C06","Messenger versus prophet: non-law-bearing claim","response"],
+            [342,394,"P15.C04","Invitation to accept Islam","conclusion"]],
+ "refs": [[75,"Quran 33:40"],[81,"Quran 33:40"],[105,"Quran 4:59"],[115,"Quran 33:40"],[216,"Quran 9:100"],[226,"Quran 9:100"],[240,"Quran 3:103"],[302,"Quran 61:6"]]
+}
