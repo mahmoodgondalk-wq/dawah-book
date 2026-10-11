@@ -51,3 +51,7 @@
 - ML354: heated caller maybe named "Yahman" (or "Ya Rahman") -> Guest. REF REVIEW: ML354 Asas al-Taqdis p.221 (classical, edition uncertain -> skip).
 - ML359/ML360: shahada lines combine host prompt and repetition; quick interjections (doubts).
 - ML400: noisy street confrontation, several Christians (Guest, Steven, Guest 2 probably Steven's friend Tim).
+- ML394: two Bulgarian sisters (Guest / Guest 2) told apart by dialogue flow. ML364: three visitors (sister, Ahmadi friend, passers-by). ML369: segs 1-7 preview of later lines. ML374: Australian couple both "Guest"; opening 11-line preview. ML378/379: two speakers in many segments.
+- ML403-ML407, ML414-ML418: fast Speakers Corner exchanges (medium). ML403 bystanders all "Guest". ML412 passers-by all "Guest 3". ML409 (low): 38 lines of heated argument, auto-captions.
+- ML417 "Hayden" and ML418 "Ayden" are the same Christian (Parts 2 and 1); each file keeps its transcript's spelling.
+- REF REVIEW (conflicting, skip): ML403 seg 649 "arRum29:69" (29:69 is al-Ankabut); ML407 seg 623 49:13 for a verse matching 30:22.
