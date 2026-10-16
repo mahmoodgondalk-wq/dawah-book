@@ -1,0 +1,190 @@
+# References not added
+
+Candidate references found in the host segments that were not added as reference texts, with the reason (`work/references/ref_decisions.json`).
+Bible references are never added (INSTRUCTIONS 3.1); vague or garbled locators and classical-book page references whose edition is not certain are skipped.
+
+- FR010 segment 165: Silsilat al-Ahadith al-Sahihah (al-Albani, 20th century) is not a classical book; shamela pagination/edition not certain
+- FR010 segment 166: same citation as segment 165
+- FR014 segment 28: only 'verse number 10' is stated; the surah is not named in the transcript
+- FR037 segment 101: Bible reference (Mark 14:61): never added
+- FR058 segment 103: surah name garbled in the captions ('inah Bak'); not locatable with certainty
+- FR091 segment 56: only 'Hadith number 666' is stated; the collection is not named in the transcript
+- FR091 segment 231: only 'Hadith number 17' is stated; the collection is not named in the transcript
+- FR103 segment 189: 'chapter 10:1 15' is garbled; verse not certain
+- FR103 segment 398: digits '541' are ambiguous (5:41 or 54:1)
+- FR103 segment 402: digits '275' are ambiguous (2:75 or 27:5)
+- FR109 segment 128: captions say '33 or 34'; ambiguous
+- FR118 segment 47: digits '637' are ambiguous (6:37 or 63:7)
+- FR118 segment 64: digits '4153' are ambiguous (41:53 or 4:153)
+- FR118 segment 76: digits '2118' are ambiguous (2:118 or 21:18)
+- FR118 segment 177: digits '2118' are ambiguous (2:118 or 21:18)
+- FR124 segment 1253: page of a PDF document, not a classical book reference
+- FR124 segment 1254: page of a PDF document, not a classical book reference
+- FR133 segment 78: Ahmadi literature, not a classical Islamic book
+- FR133 segment 84: Tadhkirah (Ahmadi literature), not a classical Islamic book
+- FR133 segment 93: Ahmadi literature, not a classical Islamic book
+- FR133 segment 164: Ahmadi literature, not a classical Islamic book
+- FR133 segment 380: Ahmadi literature, not a classical Islamic book
+- FR148 segment 165: The Sealed Nectar (modern book), not a classical book
+- FR148 segment 174: footnote source not named; not locatable
+- FR148 segment 186: footnote source not named; not locatable
+- FR172 segment 40: modern academic book (S. Nasser), not a classical Islamic book
+- FR172 segment 43: book title garbled ('ibn hajjar's tehavib'); edition and pagination cannot be matched on shamela.ws with certainty
+- FR172 segment 44: same citation as segment 43
+- FR172 segment 52: book named only earlier and garbled; edition and pagination cannot be matched on shamela.ws with certainty
+- FR172 segment 67: modern academic book (S. Nasser), not a classical Islamic book
+- FR172 segment 74: modern academic book (S. Nasser), not a classical Islamic book
+- FR172 segment 92: modern academic book (S. Nasser), not a classical Islamic book
+- FR172 segment 156: modern academic book (S. Nasser), not a classical Islamic book
+- FR177 segment 187: collection name garbled in captions ('muslim ahmed'); not locatable with certainty
+- FR254 segment 71: Maqtal al-Husayn (Abu Mikhnaf) p. 70: edition not named; the passage cannot be located on shamela.ws with certainty
+- FR254 segment 82: Maqtal al-Husayn (Abu Mikhnaf) p. 77: edition not named; the passage cannot be located on shamela.ws with certainty
+- FR254 segment 95: al-Bidayah wa al-Nihayah p. 565: volume missing; not locatable
+- FR273 segment 54: book title garbled ('teddy huh buddy'); volume/page read inside a clip; not locatable with certainty
+- FR276 segment 59: surah name garbled in the captions; only 'verse number 34' is clear
+- FR285 segment 160: digits '10316' are ambiguous
+- FR289 segment 452: surah name garbled ('Al Iman') and verse number not in the segment
+- FR312 segment 13: Fath al-Bari volume/page as cited (references of another person, edition not named); cannot be located on shamela.ws with certainty
+- FR312 segment 15: Fath al-Bari volume/page as cited (references of another person, edition not named); cannot be located on shamela.ws with certainty
+- FR312 segment 26: Fath al-Bari volume/page as cited (references of another person, edition not named); cannot be located on shamela.ws with certainty
+- FR312 segment 28: Fath al-Bari volume/page as cited (references of another person, edition not named); cannot be located on shamela.ws with certainty
+- FR312 segment 29: Fath al-Bari volume/page as cited (references of another person, edition not named); cannot be located on shamela.ws with certainty
+- FR324 segment 31: captions read 'for 24'; not an explicit locator
+- FR324 segment 36: captions read 'for 24'; not an explicit locator
+- FR324 segment 57: captions read 'for 24'; not an explicit locator
+- FR351 segment 119: page of a non-classical source; not a reference text
+- FR367 segment 1069: al-Tafsir al-Kabir (al-Razi) vol. 19 p. 131: edition not named; cannot be located on shamela.ws with certainty
+- FR367 segment 1070: same citation as segment 1069
+- FR381 segment 50: digits '867, 661, and 81' are ambiguous (e.g. 8:67/86:7, 6:61/66:1)
+- FR381 segment 50: digits '867, 661, and 81' are ambiguous (e.g. 8:67/86:7, 6:61/66:1)
+- FR381 segment 50: digits '867, 661, and 81' are ambiguous (e.g. 8:67/86:7, 6:61/66:1)
+- ML003 segment 706: Bible reference: never added
+- ML003 segment 808: Bible reference: never added
+- ML003 segment 1117: 'chapter 4 ... verse 1057': verse 1057 does not exist; correcting it would be a guess
+- ML005 segment 1116: Bible reference: never added
+- ML017 segment 26: Bible reference: never added
+- ML017 segment 308: Bible reference: never added
+- ML019 segment 263: Bible reference: never added
+- ML021 segment 38: Bible reference: never added
+- ML021 segment 175: Bible reference: never added
+- ML021 segment 339: Bible reference: never added
+- ML021 segment 346: Bible reference: never added
+- ML021 segment 533: Bible reference: never added
+- ML021 segment 574: Bible reference: never added
+- ML021 segment 822: page of a modern book; not a classical Islamic book reference
+- ML031 segment 578: Bible reference: never added
+- ML031 segment 672: Bible reference: never added
+- ML032 segment 444: Bible reference: never added
+- ML036 segment 368: Bible reference: never added
+- ML036 segment 456: Bible reference: never added
+- ML036 segment 644: regex duplicate of the accepted Quran 2:136 citation (garbled 'verse 1 136')
+- ML040 segment 360: Bible reference: never added
+- ML043 segment 128: Bible reference (Acts 21:21): never added
+- ML047 segment 182: Bible reference: never added
+- ML051 segment 227: Bible reference: never added
+- ML055 segment 710: Bible reference: never added
+- ML057 segment 408: garbled numbers ('3109 ... chapter 3 verse 1 199'); not locatable with certainty
+- ML057 segment 707: Bible reference: never added
+- ML059 segment 427: Bible reference: never added
+- ML059 segment 443: Bible reference: never added
+- ML060 segment 522: surah name garbled ('tba'); the same verse is cited explicitly at segment 508
+- ML061 segment 298: Bible reference: never added
+- ML061 segment 347: Bible reference: never added
+- ML065 segment 220: page of a modern Christian book; not applicable
+- ML069 segment 656: Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)
+- ML069 segment 657: Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)
+- ML085 segment 21: Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)
+- ML090 segment 377: conflicting locator '(anNisa5:171)': surah name 4, number 5
+- ML090 segment 380: conflicting locator '(anNisa5:73)': surah name 4, number 5
+- ML095 segment 134: Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)
+- ML098 segment 366: Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)
+- ML104 segment 436: Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)
+- ML107 segment 427: Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)
+- ML107 segment 436: Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)
+- ML107 segment 719: Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)
+- ML107 segment 862: Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)
+- ML108 segment 849: Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)
+- ML110 segment 51: page of a non-hadith/non-Quran book; not applicable
+- ML111 segment 607: Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)
+- ML129 segment 714: Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)
+- ML134 segment 640: Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)
+- ML134 segment 1053: Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)
+- ML136 segment 726: classical Shia book page reference (al-Irshad p. 63); edition not certain on shamela.ws
+- ML136 segment 728: classical Shia book reference (Majma al-Bayan vol. 5 p. 118); edition not certain
+- ML141 segment 289: Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)
+- ML141 segment 336: Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)
+- ML141 segment 489: Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)
+- ML144 segment 575: Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)
+- ML152 segment 342: Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)
+- ML154 segment 178: Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)
+- ML154 segment 234: Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)
+- ML154 segment 377: Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)
+- ML154 segment 861: Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)
+- ML154 segment 862: Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)
+- ML154 segment 864: Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)
+- ML154 segment 866: Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)
+- ML154 segment 938: Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)
+- ML156 segment 574: 'That's not (2:82)': negated citation
+- ML157 segment 590: Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)
+- ML157 segment 978: Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)
+- ML157 segment 980: Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)
+- ML157 segment 981: Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)
+- ML157 segment 983: Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)
+- ML157 segment 1093: Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)
+- ML157 segment 1102: Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)
+- ML164 segment 161: garbled locator 'chapter 17:1 15' (17:15?); not locatable with certainty
+- ML179 segment 581: Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)
+- ML202 segment 176: Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)
+- ML204 segment 269: conflicting locator: (anNoor 24:3) while the verse quoted is 24:35
+- ML216 segment 159: conflicting locator: 'chapter 6:8' while the verse paraphrased is 60:8 (auto-captions)
+- ML219 segment 1284: Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)
+- ML227 segment 146: Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)
+- ML241 segment 439: Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)
+- ML250 segment 417: Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)
+- ML260 segment 137: Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)
+- ML260 segment 188: Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)
+- ML260 segment 196: Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)
+- ML278 segment 595: 'chapter 16 verse 8' without the book named (Mark 16:8 likely); not locatable
+- ML278 segment 639: Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)
+- ML278 segment 643: Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)
+- ML279 segment 46: conflicting locator: (Annahl16:24) for the Sabbath verse (16:124)
+- ML279 segment 77: Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)
+- ML279 segment 79: Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)
+- ML279 segment 83: Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)
+- ML279 segment 88: Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)
+- ML279 segment 122: Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)
+- ML280 segment 399: Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)
+- ML281 segment 101: Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)
+- ML286 segment 333: conflicting locator: (Annisa4:175) for the verse 4:157 quoted
+- ML294 segment 452: conflicting locator '(AlFatiha:1)' for the verse 1:4 quoted
+- ML295 segment 657: Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)
+- ML311 segment 200: conflicting locator: (Quran7:162-163) for the verse 6:162-163 quoted
+- ML313 segment 242: Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)
+- ML314 segment 215: Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)
+- ML314 segment 383: Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)
+- ML314 segment 388: Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)
+- ML314 segment 464: conflicting locator: (Quran4:150-151) for a verse about burdens on the Children of Israel (not 4:150-151)
+- ML314 segment 599: Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)
+- ML314 segment 634: Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)
+- ML314 segment 820: Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)
+- ML321 segment 77: Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)
+- ML328 segment 203: Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)
+- ML329 segment 199: Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)
+- ML335 segment 658: conflicting locator: (Quran4:60) for the verse 40:60 quoted
+- ML336 segment 202: Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)
+- ML336 segment 382: Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)
+- ML339 segment 401: Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)
+- ML340 segment 572: conflicting locator: (Quran3:94) for the verse 4:94 quoted
+- ML347 segment 719: conflicting locator: (Quran4:155) while 4:115 is meant
+- ML347 segment 833: conflicting locator: (Quran9:45) for the verse 9:54 recited
+- ML354 segment 366: classical book page (Asas al-Taqdis p. 221); edition not certain
+- ML362 segment 255: Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)
+- ML362 segment 583: Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)
+- ML374 segment 133: Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)
+- ML374 segment 170: Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)
+- ML374 segment 571: Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)
+- ML375 segment 106: Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)
+- ML388 segment 35: Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)
+- ML388 segment 223: Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)
+- ML403 segment 649: conflicting locator: (arRum29:69): surah name 30, number 29
+- ML419 segment 444: Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)

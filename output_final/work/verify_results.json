@@ -2,21 +2,17 @@
  "summary": {
   "files": 774,
   "labeled_files": 774,
-  "turns_in_book": 49250,
-  "reference_boxes": 1149,
+  "turns_in_book": 64354,
+  "reference_boxes": 1492,
   "host_segments_total": 248116,
-  "host_segments_in_book": 175895,
-  "articles_in_book": 6,
+  "host_segments_in_book": 248116,
+  "articles_in_book": 8,
   "articles_total": 8
  },
  "errors": {
   "D": [],
   "A": [],
-  "B": [
-   "article FA04 not in the book",
-   "article FA05 not in the book",
-   "72221 host segments missing, e.g. ['FR106-0001', 'FR106-0002', 'FR106-0003', 'FR106-0004', 'FR106-0005', 'FR106-0006', 'FR106-0007', 'FR106-0008', 'FR106-0009', 'FR106-0010', 'FR106-0011', 'FR106-0012', 'FR106-0013', 'FR106-0014', 'FR106-0015', 'FR106-0016', 'FR106-0017', 'FR106-0018', 'FR106-0019', 'FR106-0020']"
-  ],
+  "B": [],
   "C": [],
   "F": []
  }

@@ -2,3 +2,4 @@ work/view/
 __pycache__/
 *.pyc
 work/book_test/
+*.pdf

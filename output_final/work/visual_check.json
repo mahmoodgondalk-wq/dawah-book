@@ -1,0 +1,38 @@
+{
+ "pdf_pages": 6688,
+ "pages_inspected": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  20,
+  24,
+  32,
+  123,
+  304,
+  545,
+  740,
+  1883,
+  1913,
+  4720,
+  4721,
+  6257,
+  6258,
+  6500,
+  6501,
+  6673,
+  6674,
+  6680,
+  6688
+ ],
+ "findings": [
+  "Cover, title page, 'How to read this book' legend and the clickable contents (17 parts, 95 chapters, 804 sub-chapters, with page numbers) render correctly; front matter numbered in roman numerals, body in arabic numerals",
+  "Running header shows the current chapter title; page numbers in the footer; every part and chapter opens on a new page",
+  "Host passages in upright type with bold labels; guest/clip passages indented in italics with a left bar; source line under every passage",
+  "Reference boxes (Quran, Saheeh International; sunnah.com hadith) shaded and clearly separated from the speakers' words; Arabic inside speaker text and in hadith boxes is shaped and right-to-left correct",
+  "Article pages are the original PDF pages (vector, unaltered) with the article source line; the wide isnad diagram is shown in overlapping landscape slices",
+  "Index of Sources lists the video titles per channel and the articles; no empty glyph boxes anywhere (501 distinct characters, all covered by the fonts)"
+ ],
+ "pass": true
+}

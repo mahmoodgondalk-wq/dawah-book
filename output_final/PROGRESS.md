@@ -22,7 +22,7 @@ All scripts are in `work/scripts/`. Run them from the repository root.
 - Each batch is labeled by one subagent with the identical prompt in `work/scripts/agent_prompt.txt` (replace {FILES}).
 - Outputs: `work/labels/<id>.json` (type, confidence, evidence, speaker ranges, doubts), `work/topics/<id>.json` (topic ranges, refs).
 - Pilot (ML043, FR054, FR002, ML001) done and checked.
-- Labeling status: TOTAL 774/774 files labeled; complete batches: 152/152 (as of 2026-10-16 14:43 UTC)
+- Labeling status: TOTAL 774/774 files labeled; complete batches: 152/152 (as of 2026-10-16 14:50 UTC)
 - NOTE: at ~09:30 UTC the API session limit was hit; batches B54, B57-B63 failed mid-way. To resume: run `batches.py todo 10` and relaunch those batches with the same prompt (files already valid are skipped automatically).
 - USER INSTRUCTION (2026-10-04): labeling subagents must run on the default model (Opus 5.5); do NOT switch them to Sonnet.
 - Oct 2: the weekly usage limit was hit around B57-B64; resumed Oct 4.
@@ -41,8 +41,8 @@ All scripts are in `work/scripts/`. Run them from the repository root.
 ## Stage 5: REFERENCE TEXTS — DONE (2026-10-16)
 - collect_refs.py -> resolve_refs.py auto -> manual_decisions.json (250 decisions) -> resolve_refs.py final -> finalize_refs.py
 - 1581 approved citations, 783 distinct reference files (quran.com Saheeh International / sunnah.com), 0 unretrieved; shamela.ws: none used (classical book page references skipped, edition uncertain)
-## Stage 6: ASSEMBLE + PDF — IN PROGRESS
+## Stage 6: ASSEMBLE + PDF — DONE (2026-10-16): 6688 pages, 104 MB (the PDF is git-ignored: above GitHub's 100 MB file limit; it is sent to the user directly)
 - `python3 output_final/work/scripts/assemble.py` -> output_final/book/{book.typ,content/*.typ,sources.typ}; `build_pdf.py` -> output_final/The_Muslim_Lantern_and_Farid_Responds_A_Topical_Compilation.pdf
 - taxonomy: 17 parts, 95 chapters, 804 sub-chapters (work/taxonomy.json, work/mapping.json)
-## Stage 7: VERIFY (A-F) — NOT STARTED
+## Stage 7: VERIFY (A-F) — DONE (2026-10-16): all checks pass, see output_final/checks.md; final report in output_final/REPORT.md
 - verify.py (A,B,C,D,F) -> work/verify_results.json; check_glyphs.py -> work/glyph_check.json; render_samples.py + visual inspection -> work/visual_check.json; write_checks.py -> output_final/checks.md
