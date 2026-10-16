@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "8:11",
+ "label": "Reference text: Quran 8:11, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/8/11?translations=20",
+ "urls_fetched": [
+  "https://quran.com/8/11?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:30:09Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "8:11",
+   "raw": "[Remember] when He overwhelmed you with drowsiness [giving] security from Him and sent down upon you from the sky, rain by which to purify you and remove from you the evil [suggestions] of Satan and to make steadfast your hearts and plant firmly thereby your feet.",
+   "text": "[Remember] when He overwhelmed you with drowsiness [giving] security from Him and sent down upon you from the sky, rain by which to purify you and remove from you the evil [suggestions] of Satan and to make steadfast your hearts and plant firmly thereby your feet.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

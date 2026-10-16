@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "51:23",
+ "label": "Reference text: Quran 51:23, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/51/23?translations=20",
+ "urls_fetched": [
+  "https://quran.com/51/23?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:24:55Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "51:23",
+   "raw": "Then by the Lord of the heaven and earth, indeed, it is truth - just as [sure as] it is that you are speaking.",
+   "text": "Then by the Lord of the heaven and earth, indeed, it is truth - just as [sure as] it is that you are speaking.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

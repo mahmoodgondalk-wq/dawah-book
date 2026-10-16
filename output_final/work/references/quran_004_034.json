@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "4:34",
+ "label": "Reference text: Quran 4:34, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/4/34?translations=20",
+ "urls_fetched": [
+  "https://quran.com/4/34?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:24:25Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "4:34",
+   "raw": "Men are in charge of women<sup foot_note=254190>1</sup> by [right of] what Allāh has given one over the other and what they spend [for maintenance] from their wealth. So righteous women are devoutly obedient, guarding in [the husband's] absence what Allāh would have them guard.<sup foot_note=254188>2</sup> But those [wives] from whom you fear arrogance<sup foot_note=254191>3</sup> - [first] advise them; [then if they persist], forsake them in bed; and [finally], strike them [lightly].<sup foot_note=254189>4</sup> But if they obey you [once more], seek no means against them. Indeed, Allāh is ever Exalted and Grand.",
+   "text": "Men are in charge of women by [right of] what Allāh has given one over the other and what they spend [for maintenance] from their wealth. So righteous women are devoutly obedient, guarding in [the husband's] absence what Allāh would have them guard. But those [wives] from whom you fear arrogance - [first] advise them; [then if they persist], forsake them in bed; and [finally], strike them [lightly]. But if they obey you [once more], seek no means against them. Indeed, Allāh is ever Exalted and Grand.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

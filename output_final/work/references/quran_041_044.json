@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "41:44",
+ "label": "Reference text: Quran 41:44, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/41/44?translations=20",
+ "urls_fetched": [
+  "https://quran.com/41/44?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:22:48Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "41:44",
+   "raw": "And if We had made it a foreign [i.e., non-Arabic] Qur’ān, they would have said, \"Why are its verses not explained in detail [in our language]? Is it a foreign [recitation] and an Arab [messenger]?\" Say, \"It is, for those who believe, a guidance and cure.\" And those who do not believe - in their ears is deafness, and it is upon them blindness. Those are being called from a distant place.<sup foot_note=256439>1</sup>",
+   "text": "And if We had made it a foreign [i.e., non-Arabic] Qur’ān, they would have said, \"Why are its verses not explained in detail [in our language]? Is it a foreign [recitation] and an Arab [messenger]?\" Say, \"It is, for those who believe, a guidance and cure.\" And those who do not believe - in their ears is deafness, and it is upon them blindness. Those are being called from a distant place.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "66:6",
+ "label": "Reference text: Quran 66:6, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/66/6?translations=20",
+ "urls_fetched": [
+  "https://quran.com/66/6?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:27:27Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "66:6",
+   "raw": "O you who have believed, protect yourselves and your families from a Fire whose fuel is people and stones, over which are [appointed] angels, harsh and severe; they do not disobey Allāh in what He commands them but do what they are commanded.",
+   "text": "O you who have believed, protect yourselves and your families from a Fire whose fuel is people and stones, over which are [appointed] angels, harsh and severe; they do not disobey Allāh in what He commands them but do what they are commanded.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

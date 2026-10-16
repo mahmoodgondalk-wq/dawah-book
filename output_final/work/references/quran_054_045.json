@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "54:45",
+ "label": "Reference text: Quran 54:45, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/54/45?translations=20",
+ "urls_fetched": [
+  "https://quran.com/54/45?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:25:23Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "54:45",
+   "raw": "[Their] assembly will be defeated, and they will turn their backs [in retreat].<sup foot_note=256851>1</sup>",
+   "text": "[Their] assembly will be defeated, and they will turn their backs [in retreat].",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

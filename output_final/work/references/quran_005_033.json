@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "5:33",
+ "label": "Reference text: Quran 5:33, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/5/33?translations=20",
+ "urls_fetched": [
+  "https://quran.com/5/33?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:26:03Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "5:33",
+   "raw": "Indeed, the penalty<sup foot_note=254269>1</sup> for those who wage war<sup foot_note=254268>2</sup> against Allāh and His Messenger and strive upon earth [to cause] corruption is none but that they be killed or crucified or that their hands and feet be cut off from opposite sides or that they be exiled from the land. That is for them a disgrace in this world; and for them in the Hereafter is a great punishment,",
+   "text": "Indeed, the penalty for those who wage war against Allāh and His Messenger and strive upon earth [to cause] corruption is none but that they be killed or crucified or that their hands and feet be cut off from opposite sides or that they be exiled from the land. That is for them a disgrace in this world; and for them in the Hereafter is a great punishment,",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

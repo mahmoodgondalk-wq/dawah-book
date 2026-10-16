@@ -1,0 +1,74 @@
+{
+ "kind": "quran",
+ "ref": "80:1-10",
+ "label": "Reference text: Quran 80:1-10, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/80/1-10?translations=20",
+ "urls_fetched": [
+  "https://quran.com/80/1-10?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:29:44Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "80:1",
+   "raw": "He [i.e., the Prophet (ﷺ) ] frowned and turned away",
+   "text": "He [i.e., the Prophet (ﷺ) ] frowned and turned away",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "80:2",
+   "raw": "Because there came to him the blind man,<sup foot_note=257401>1</sup> [interrupting].",
+   "text": "Because there came to him the blind man, [interrupting].",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "80:3",
+   "raw": "But what would make you perceive, [O Muḥammad], that perhaps he might be purified<sup foot_note=257403>1</sup>",
+   "text": "But what would make you perceive, [O Muḥammad], that perhaps he might be purified",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "80:4",
+   "raw": "Or be reminded and the remembrance would benefit him?",
+   "text": "Or be reminded and the remembrance would benefit him?",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "80:5",
+   "raw": "As for he who thinks himself without need,<sup foot_note=257404>1</sup>",
+   "text": "As for he who thinks himself without need,",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "80:6",
+   "raw": "To him you give attention.",
+   "text": "To him you give attention.",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "80:7",
+   "raw": "And not upon you [is any blame] if he will not be purified.<sup foot_note=257406>1</sup>",
+   "text": "And not upon you [is any blame] if he will not be purified.",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "80:8",
+   "raw": "But as for he who came to you striving [for knowledge]",
+   "text": "But as for he who came to you striving [for knowledge]",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "80:9",
+   "raw": "While he fears [Allāh],",
+   "text": "While he fears [Allāh],",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "80:10",
+   "raw": "From him you are distracted.",
+   "text": "From him you are distracted.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

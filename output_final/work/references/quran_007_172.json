@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "7:172",
+ "label": "Reference text: Quran 7:172, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/7/172?translations=20",
+ "urls_fetched": [
+  "https://quran.com/7/172?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:29:18Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "7:172",
+   "raw": "And [mention] when your Lord took from the children of Adam - from their loins - their descendants and made them testify of themselves, [saying to them], \"Am I not your Lord?\" They said, \"Yes, we have testified.\" [This] - lest you should say on the Day of Resurrection, \"Indeed, we were of this unaware.\"",
+   "text": "And [mention] when your Lord took from the children of Adam - from their loins - their descendants and made them testify of themselves, [saying to them], \"Am I not your Lord?\" They said, \"Yes, we have testified.\" [This] - lest you should say on the Day of Resurrection, \"Indeed, we were of this unaware.\"",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

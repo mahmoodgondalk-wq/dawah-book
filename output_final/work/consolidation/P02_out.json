@@ -1,0 +1,869 @@
+{
+ "part": "P02",
+ "chapters": [
+  {
+   "code": "P02.C01",
+   "title": "Tawheed and the Islamic concept of God",
+   "subchapters": [
+    {
+     "title": "Meaning of Islam, Allah and the shahada",
+     "ranges": [
+      "ML340:58-110",
+      "ML372:1-60",
+      "ML064:211-259",
+      "ML340:187-210",
+      "ML210:657-718",
+      "ML066:1531-1584"
+     ]
+    },
+    {
+     "title": "Categories of Tawheed and belief in Allah",
+     "ranges": [
+      "ML239:498-548",
+      "ML239:930-1052",
+      "ML239:1053-1102",
+      "ML239:1349-1422",
+      "ML239:1458-1575",
+      "ML357:1-19",
+      "ML349:34-54",
+      "ML273:194-225",
+      "ML287:230-260"
+     ]
+    },
+    {
+     "title": "The Quranic description of God: Surah al-Ikhlas",
+     "ranges": [
+      "ML287:293-331",
+      "ML320:184-197",
+      "ML062:130-179",
+      "ML417:1-32",
+      "ML376:168-197",
+      "ML275:1-40",
+      "ML359:1-64",
+      "ML177:39-109",
+      "ML355:839-855",
+      "ML204:229-303",
+      "ML342:272-313",
+      "ML097:26-66",
+      "ML211:303-345",
+      "ML211:346-418",
+      "ML208:224-268"
+     ]
+    },
+    {
+     "title": "The Islamic concept of God compared with other conceptions",
+     "ranges": [
+      "ML397:1-24",
+      "ML390:20-33",
+      "ML386:137-167",
+      "ML232:167-186",
+      "ML359:65-102",
+      "ML048:1-42",
+      "ML207:283-311",
+      "ML287:1-48",
+      "ML413:455-478"
+     ]
+    },
+    {
+     "title": "God does not resemble His creation",
+     "ranges": [
+      "ML196:350-388",
+      "ML381:33-98",
+      "ML402:93-118",
+      "ML375:44-125",
+      "ML033:459-507",
+      "ML058:560-610",
+      "ML202:116-164",
+      "ML064:1013-1028",
+      "ML336:117-182",
+      "FR334:1-78",
+      "FR334:209-257",
+      "ML204:304-326"
+     ]
+    },
+    {
+     "title": "Can a human be God; humans in God's image",
+     "ranges": [
+      "ML145:517-558",
+      "ML145:595-620",
+      "ML209:236-264",
+      "ML202:1-58",
+      "ML320:198-232",
+      "ML407:379-409",
+      "ML060:909-925"
+     ]
+    },
+    {
+     "title": "Where is God: Allah above the Throne",
+     "ranges": [
+      "ML064:880-925",
+      "ML245:118-134",
+      "ML317:146-232",
+      "ML354:686-770",
+      "ML354:771-851",
+      "ML239:3969-4074",
+      "ML388:488-512"
+     ]
+    },
+    {
+     "title": "Principles concerning Allah's names and attributes",
+     "ranges": [
+      "ML239:1168-1190",
+      "ML239:1712-1901",
+      "ML239:1985-2073",
+      "ML239:2074-2167",
+      "ML239:2168-2277",
+      "ML239:2278-2399",
+      "ML239:2400-2552",
+      "ML239:2553-2616",
+      "ML239:2617-2728",
+      "ML239:2729-2823"
+     ]
+    },
+    {
+     "title": "Attributes of essence and action; divine immutability",
+     "ranges": [
+      "ML244:165-191",
+      "ML383:417-490",
+      "ML168:1198-1225",
+      "ML168:1226-1281",
+      "ML219:1253-1287",
+      "ML410:558-615",
+      "ML338:305-366",
+      "ML257:95-151",
+      "ML085:572-608"
+     ]
+    },
+    {
+     "title": "God's love, mercy and justice",
+     "ranges": [
+      "ML057:513-552",
+      "ML245:277-287",
+      "ML171:32-94",
+      "ML214:297-350",
+      "ML216:267-336",
+      "ML209:265-366",
+      "ML301:1-38",
+      "ML178:186-218",
+      "ML233:482-520",
+      "ML063:308-386",
+      "ML238:484-540",
+      "ML304:743-768"
+     ]
+    },
+    {
+     "title": "The omnipotence paradox",
+     "ranges": [
+      "ML020:26-65",
+      "ML020:304-352",
+      "ML206:254-278",
+      "ML396:279-310"
+     ]
+    },
+    {
+     "title": "Does God need worship",
+     "ranges": [
+      "ML098:515-576",
+      "ML112:1-84",
+      "ML112:181-225",
+      "ML112:340-407"
+     ]
+    },
+    {
+     "title": "Sonship and fatherhood attributed to God",
+     "ranges": [
+      "ML076:1-50",
+      "ML206:411-430",
+      "ML388:287-310",
+      "ML300:44-79",
+      "ML188:219-270",
+      "ML281:424-473",
+      "ML254:313-347"
+     ]
+    },
+    {
+     "title": "Do Muslims and Christians worship the same God",
+     "ranges": [
+      "ML107:1-46",
+      "ML265:42-169",
+      "ML334:573-623",
+      "FR149:1-39",
+      "FR149:53-144",
+      "FR149:377-405",
+      "FR399:1-35",
+      "FR399:36-47",
+      "ML300:1-43",
+      "ML139:329-369",
+      "ML382:39-53",
+      "ML334:624-655",
+      "FR399:48-88"
+     ]
+    },
+    {
+     "title": "The claim that Allah is Satan",
+     "ranges": [
+      "FR129:1-25",
+      "FR129:26-131",
+      "FR129:132-167",
+      "ML060:926-1020",
+      "FR129:190-230"
+     ]
+    }
+   ]
+  },
+  {
+   "code": "P02.C02",
+   "title": "Shirk, intercession and calling upon others besides Allah",
+   "subchapters": [
+    {
+     "title": "Definition and gravity of shirk",
+     "ranges": [
+      "ML227:307-347",
+      "ML323:59-69",
+      "ML239:1576-1711",
+      "ML219:188-215",
+      "ML170:191-245",
+      "ML202:481-498",
+      "FR057:149-185",
+      "ML064:926-991",
+      "ML183:40-90",
+      "FR054:270-279"
+     ]
+    },
+    {
+     "title": "Supplication as worship and calling upon the dead",
+     "ranges": [
+      "ML239:1103-1167",
+      "ML002:305-320",
+      "ML002:164-215",
+      "ML424:264-309",
+      "ML424:349-375",
+      "ML002:127-163",
+      "ML424:234-263",
+      "ML002:43-72",
+      "ML223:526-669",
+      "ML002:216-262",
+      "ML002:94-126",
+      "ML079:276-293"
+     ]
+    },
+    {
+     "title": "Saints and intercession",
+     "ranges": [
+      "ML214:250-296",
+      "ML125:167-186",
+      "FR057:123-148",
+      "ML141:160-255"
+     ]
+    },
+    {
+     "title": "Calling upon Ali and the dead among the Shia",
+     "ranges": [
+      "ML002:1-42",
+      "ML424:34-105",
+      "ML291:87-127",
+      "ML060:606-659",
+      "FR024:26-70",
+      "ML223:436-525",
+      "ML424:134-170",
+      "ML424:310-348",
+      "ML424:194-233",
+      "ML424:106-133"
+     ]
+    },
+    {
+     "title": "Belief in the imams' cosmic authority",
+     "ranges": [
+      "FR057:57-122",
+      "FR049:139-191",
+      "FR057:186-246",
+      "FR057:247-287",
+      "FR057:588-686",
+      "FR057:687-715"
+     ]
+    },
+    {
+     "title": "Claims of widespread shirk among Muslims",
+     "ranges": [
+      "ML323:1-58",
+      "ML323:70-157",
+      "ML323:158-255"
+     ]
+    }
+   ]
+  },
+  {
+   "code": "P02.C03",
+   "title": "Aqeedah, its sources and theological schools",
+   "subchapters": [
+    {
+     "title": "Meaning of aqeedah and the articles of faith",
+     "ranges": [
+      "ML239:128-219",
+      "ML245:48-68",
+      "ML284:937-1009",
+      "ML239:866-929",
+      "ML239:3844-3891"
+     ]
+    },
+    {
+     "title": "Definition of iman: belief, statement and action",
+     "ranges": [
+      "ML064:128-164",
+      "ML418:1-49",
+      "ML284:1095-1145",
+      "ML237:168-190",
+      "ML274:1-20",
+      "ML424:171-193"
+     ]
+    },
+    {
+     "title": "Sources of creed and the understanding of the Salaf",
+     "ranges": [
+      "ML239:270-340",
+      "ML239:341-497",
+      "FR231:83-129",
+      "ML145:559-594",
+      "ML239:1191-1217",
+      "ML239:1902-1984",
+      "FR134:642-700",
+      "FR134:821-929"
+     ]
+    },
+    {
+     "title": "The Jahmiyyah, Mu'tazila, Ash'aris and Maturidis",
+     "ranges": [
+      "ML168:1120-1167",
+      "ML239:2870-3009",
+      "ML239:3010-3175",
+      "ML312:257-324",
+      "ML168:1168-1197",
+      "ML239:3176-3334",
+      "ML239:3335-3496",
+      "FR334:79-208"
+     ]
+    },
+    {
+     "title": "Discussions with Ash'aris on reason and hadith",
+     "ranges": [
+      "ML354:1-83",
+      "ML354:147-202",
+      "ML354:346-399",
+      "ML354:641-685",
+      "ML239:4255-4318",
+      "ML354:852-888"
+     ]
+    }
+   ]
+  },
+  {
+   "code": "P02.C04",
+   "title": "Angels, jinn, magic and the evil eye",
+   "subchapters": [
+    {
+     "title": "The unseen world and the angels",
+     "ranges": [
+      "ML126:1-115",
+      "ML202:224-256",
+      "ML239:3946-3968",
+      "ML408:106-124",
+      "ML279:244-283",
+      "ML183:255-347"
+     ]
+    },
+    {
+     "title": "The nature of the jinn",
+     "ranges": [
+      "ML026:29-85",
+      "ML087:89-116",
+      "ML289:398-444",
+      "FR383:1-37",
+      "FR383:38-54",
+      "ML232:19-86",
+      "ML152:750-777",
+      "ML237:191-278"
+     ]
+    },
+    {
+     "title": "Iblis and Satan",
+     "ranges": [
+      "ML087:24-88",
+      "ML279:201-215",
+      "ML347:626-662",
+      "ML087:117-215",
+      "ML407:53-68",
+      "ML183:398-445"
+     ]
+    },
+    {
+     "title": "Magic in Islam",
+     "ranges": [
+      "ML323:256-270",
+      "ML314:753-784",
+      "ML174:127-197",
+      "FR231:465-569"
+     ]
+    },
+    {
+     "title": "Jinn possession and ruqyah",
+     "ranges": [
+      "ML026:86-167",
+      "ML026:168-228",
+      "ML079:73-93",
+      "ML026:229-271",
+      "ML026:272-317",
+      "ML026:318-355",
+      "ML026:400-416",
+      "ML026:417-467",
+      "ML026:608-633",
+      "ML026:634-676"
+     ]
+    },
+    {
+     "title": "The evil eye",
+     "ranges": [
+      "ML026:468-509",
+      "ML026:510-535",
+      "ML026:536-571",
+      "ML026:572-607"
+     ]
+    },
+    {
+     "title": "Protection from jinn and the evil eye",
+     "ranges": [
+      "ML026:677-717",
+      "ML026:718-774",
+      "ML026:775-846",
+      "ML026:847-909",
+      "ML026:910-925"
+     ]
+    }
+   ]
+  },
+  {
+   "code": "P02.C05",
+   "title": "Death, the grave and the Day of Judgment",
+   "subchapters": [
+    {
+     "title": "Death and its remembrance",
+     "ranges": [
+      "ML149:109-160",
+      "ML283:1-58",
+      "ML283:204-248",
+      "ML041:418-447",
+      "ML151:80-96",
+      "ML099:49-107"
+     ]
+    },
+    {
+     "title": "The grave, the Barzakh and resurrection",
+     "ranges": [
+      "ML151:97-155",
+      "ML394:418-471",
+      "ML235:100-134",
+      "ML099:108-166",
+      "ML224:239-251",
+      "ML096:1204-1246"
+     ]
+    },
+    {
+     "title": "The Day of Judgment and divine justice",
+     "ranges": [
+      "ML284:1010-1056",
+      "ML091:72-178",
+      "ML091:207-243",
+      "ML297:229-282",
+      "ML095:774-801",
+      "ML241:844-857",
+      "ML237:117-167",
+      "ML380:1537-1589",
+      "FR395:48-65",
+      "ML416:645-665",
+      "ML274:64-80",
+      "ML099:214-277",
+      "ML149:63-83"
+     ]
+    },
+    {
+     "title": "Signs of the Hour, the Dajjal and the Mahdi",
+     "ranges": [
+      "ML058:437-469",
+      "ML041:364-417",
+      "ML067:426-443",
+      "ML067:561-593",
+      "ML258:344-382",
+      "ML233:650-754"
+     ]
+    }
+   ]
+  },
+  {
+   "code": "P02.C06",
+   "title": "Paradise and Hellfire",
+   "subchapters": [
+    {
+     "title": "Paradise: nature and rewards",
+     "ranges": [
+      "ML358:427-450",
+      "ML318:1-87",
+      "ML347:224-262",
+      "ML064:1029-1052",
+      "ML172:540-563",
+      "ML309:99-156",
+      "ML289:445-510",
+      "ML214:351-362",
+      "ML227:161-181",
+      "ML347:263-313",
+      "ML202:465-480",
+      "ML099:167-213",
+      "ML309:157-193",
+      "ML116:432-453",
+      "ML317:378-457"
+     ]
+    },
+    {
+     "title": "Spouses, houris and wine in Paradise",
+     "ranges": [
+      "ML210:330-374",
+      "ML339:182-218",
+      "ML073:1074-1125",
+      "ML358:488-525",
+      "FR342:1-71",
+      "FR342:72-119",
+      "ML318:88-179",
+      "ML179:337-356",
+      "ML073:1036-1073"
+     ]
+    },
+    {
+     "title": "Purpose and justice of Hellfire",
+     "ranges": [
+      "ML358:451-487",
+      "ML335:160-211",
+      "ML111:406-438",
+      "ML266:1-51",
+      "ML229:258-306",
+      "ML058:39-113",
+      "ML151:263-337",
+      "ML164:291-318",
+      "ML125:536-600",
+      "ML112:277-339"
+     ]
+    },
+    {
+     "title": "Eternal punishment for finite sin",
+     "ranges": [
+      "ML164:75-98",
+      "ML164:99-156",
+      "ML111:439-478",
+      "ML058:114-243",
+      "ML170:246-276",
+      "ML170:277-354",
+      "ML170:395-470",
+      "ML098:641-666"
+     ]
+    }
+   ]
+  },
+  {
+   "code": "P02.C07",
+   "title": "Salvation and the fate of non-Muslims",
+   "subchapters": [
+    {
+     "title": "Criteria for salvation: faith and the messengers",
+     "ranges": [
+      "ML189:1-48",
+      "ML189:49-86",
+      "ML189:198-249",
+      "ML003:725-796",
+      "ML057:340-372",
+      "ML420:120-201",
+      "ML297:64-92",
+      "ML244:645-669",
+      "ML202:418-449",
+      "ML263:600-645",
+      "ML172:255-276"
+     ]
+    },
+    {
+     "title": "Entering Paradise by God's mercy and deeds",
+     "ranges": [
+      "ML401:666-697",
+      "ML314:863-929",
+      "ML420:313-473",
+      "ML420:474-490",
+      "ML380:1386-1490",
+      "ML374:320-336",
+      "ML219:1359-1448",
+      "ML379:139-194",
+      "ML219:1449-1487"
+     ]
+    },
+    {
+     "title": "Fate of sinful Muslims",
+     "ranges": [
+      "ML374:458-492",
+      "ML237:81-116",
+      "ML403:482-535",
+      "ML167:144-158",
+      "ML112:226-276",
+      "ML219:1317-1341",
+      "ML060:710-813"
+     ]
+    },
+    {
+     "title": "Good deeds of non-Muslims and the meaning of disbelief",
+     "ranges": [
+      "ML057:373-394",
+      "ML172:277-332",
+      "ML150:296-369",
+      "ML112:85-138",
+      "ML346:1-48",
+      "ML274:21-63",
+      "ML172:358-382",
+      "ML347:814-836",
+      "ML100:194-229",
+      "ML333:738-801",
+      "ML333:802-844"
+     ]
+    },
+    {
+     "title": "Those who received the message and rejected it",
+     "ranges": [
+      "ML178:1-45",
+      "ML309:60-98",
+      "ML379:377-440",
+      "ML151:469-522",
+      "ML314:537-561",
+      "ML172:485-539",
+      "ML100:1-60",
+      "ML040:1259-1342",
+      "ML040:1343-1386",
+      "ML141:94-159"
+     ]
+    },
+    {
+     "title": "Those who never received the message",
+     "ranges": [
+      "ML057:476-512",
+      "ML172:333-357",
+      "ML084:799-814",
+      "ML164:157-180",
+      "ML221:526-618",
+      "ML192:343-364",
+      "ML096:1158-1203",
+      "ML420:515-554",
+      "ML227:239-277",
+      "ML346:49-89",
+      "ML172:641-679",
+      "ML172:680-747",
+      "ML100:230-257",
+      "ML393:89-122",
+      "ML347:314-337",
+      "ML213:1-35"
+     ]
+    },
+    {
+     "title": "Jews, Christians and Quran 2:62",
+     "ranges": [
+      "ML224:153-171",
+      "ML098:709-783",
+      "ML098:784-840",
+      "ML098:841-868",
+      "ML178:46-105",
+      "ML311:385-460",
+      "ML057:395-475",
+      "ML374:493-511",
+      "ML394:214-236",
+      "ML035:614-668",
+      "ML263:646-668",
+      "ML198:777-808"
+     ]
+    },
+    {
+     "title": "Non-Muslim family members and loved ones",
+     "ranges": [
+      "ML099:1-48",
+      "ML387:41-108",
+      "ML178:106-185",
+      "ML172:748-812",
+      "ML099:278-313",
+      "ML116:177-218",
+      "ML116:219-262",
+      "ML116:263-307",
+      "ML172:383-423",
+      "ML172:424-484"
+     ]
+    }
+   ]
+  },
+  {
+   "code": "P02.C08",
+   "title": "Worship, spirituality and connection with God",
+   "subchapters": [
+    {
+     "title": "Meaning of worship and the five pillars",
+     "ranges": [
+      "ML349:173-190",
+      "ML188:271-306",
+      "ML245:1-34",
+      "ML370:52-69",
+      "ML027:44-101",
+      "ML091:244-333",
+      "ML307:24-42",
+      "ML033:843-856",
+      "ML325:1-63",
+      "ML250:95-122"
+     ]
+    },
+    {
+     "title": "Wisdom and benefits of the daily prayer",
+     "ranges": [
+      "ML224:1-47",
+      "ML027:102-121",
+      "ML091:334-424",
+      "ML357:284-340",
+      "ML340:255-325",
+      "ML369:300-334",
+      "ML079:252-275",
+      "ML180:249-317"
+     ]
+    },
+    {
+     "title": "Form of the prayer: wudu, Arabic, qibla and Fajr",
+     "ranges": [
+      "ML227:467-506",
+      "ML210:306-329",
+      "ML380:352-372",
+      "ML084:692-731",
+      "ML293:22-48",
+      "ML319:203-264",
+      "ML254:37-110",
+      "ML254:193-206",
+      "ML227:182-238",
+      "ML289:530-587"
+     ]
+    },
+    {
+     "title": "Abandoning the prayer",
+     "ranges": [
+      "ML284:465-578",
+      "ML248:926-1040",
+      "ML100:258-299",
+      "ML027:348-397",
+      "ML248:861-925",
+      "ML222:196-241"
+     ]
+    },
+    {
+     "title": "Spiritual connection and feeling close to God",
+     "ranges": [
+      "ML027:1-43",
+      "ML027:122-224",
+      "ML027:225-263",
+      "ML151:388-405",
+      "ML183:348-397",
+      "ML244:280-340",
+      "ML347:837-872",
+      "ML222:259-312",
+      "ML096:1-55",
+      "ML233:2435-2476"
+     ]
+    },
+    {
+     "title": "Supplication and its acceptance",
+     "ranges": [
+      "ML335:652-699",
+      "ML299:158-199",
+      "ML303:113-123",
+      "ML141:75-93",
+      "ML152:778-801"
+     ]
+    },
+    {
+     "title": "Fasting, Hajj, charity and other acts of worship",
+     "ranges": [
+      "ML208:406-481",
+      "ML340:413-467",
+      "ML227:441-466",
+      "ML387:1-40",
+      "ML254:251-312",
+      "ML418:291-350",
+      "ML418:351-398",
+      "ML403:784-810"
+     ]
+    },
+    {
+     "title": "Sincerity, intention and showing off",
+     "ranges": [
+      "ML240:103-134",
+      "ML240:135-152",
+      "ML233:2189-2215",
+      "ML233:1798-1877",
+      "ML239:3892-3945",
+      "ML219:1524-1618",
+      "ML233:1614-1689",
+      "ML188:363-381",
+      "ML188:433-457",
+      "ML244:614-644"
+     ]
+    },
+    {
+     "title": "Sins and human imperfection",
+     "ranges": [
+      "ML251:401-445",
+      "ML057:553-617",
+      "ML167:68-90",
+      "ML358:526-576",
+      "ML422:298-314",
+      "ML369:36-95",
+      "ML369:96-153",
+      "ML212:306-350",
+      "ML082:181-248"
+     ]
+    },
+    {
+     "title": "Repentance and God's forgiveness",
+     "ranges": [
+      "ML233:427-481",
+      "ML172:564-640",
+      "ML418:182-290",
+      "ML041:448-466",
+      "ML217:230-261",
+      "ML271:214-235",
+      "ML309:194-242",
+      "ML027:501-528",
+      "ML380:1231-1385",
+      "ML380:1037-1079",
+      "ML379:112-138",
+      "ML269:195-226",
+      "ML091:179-206"
+     ]
+    },
+    {
+     "title": "Worldly life, wealth and gratitude",
+     "ranges": [
+      "ML283:188-203",
+      "ML263:1058-1085",
+      "ML222:394-439",
+      "ML283:125-158",
+      "ML263:1212-1248",
+      "ML283:59-71",
+      "ML222:313-362"
+     ]
+    },
+    {
+     "title": "Religious innovation (bid'ah)",
+     "ranges": [
+      "ML285:27-131",
+      "ML285:132-188",
+      "ML285:189-221",
+      "ML285:289-323",
+      "ML289:588-599"
+     ]
+    }
+   ]
+  }
+ ],
+ "moves": []
+}

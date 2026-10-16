@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "5:115",
+ "label": "Reference text: Quran 5:115, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/5/115?translations=20",
+ "urls_fetched": [
+  "https://quran.com/5/115?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:25:48Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "5:115",
+   "raw": "Allāh said, \"Indeed, I will send it down to you, but whoever disbelieves afterwards from among you - then indeed will I punish him with a punishment by which I have not punished anyone among the worlds.\"",
+   "text": "Allāh said, \"Indeed, I will send it down to you, but whoever disbelieves afterwards from among you - then indeed will I punish him with a punishment by which I have not punished anyone among the worlds.\"",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "53:62",
+ "label": "Reference text: Quran 53:62, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/53/62?translations=20",
+ "urls_fetched": [
+  "https://quran.com/53/62?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:25:17Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "53:62",
+   "raw": "So prostrate to Allāh and worship [Him].",
+   "text": "So prostrate to Allāh and worship [Him].",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

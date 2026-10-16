@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "6:130",
+ "label": "Reference text: Quran 6:130, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/6/130?translations=20",
+ "urls_fetched": [
+  "https://quran.com/6/130?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:27:52Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "6:130",
+   "raw": "\"O company of jinn and mankind,<sup foot_note=254349>1</sup> did there not come to you messengers from among you, relating to you My verses and warning you of the meeting of this Day of yours?\" They will say, \"We bear witness against ourselves\"; and the worldly life had deluded them, and they will bear witness against themselves that they were disbelievers.",
+   "text": "\"O company of jinn and mankind, did there not come to you messengers from among you, relating to you My verses and warning you of the meeting of this Day of yours?\" They will say, \"We bear witness against ourselves\"; and the worldly life had deluded them, and they will bear witness against themselves that they were disbelievers.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

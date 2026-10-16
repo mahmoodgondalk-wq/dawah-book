@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "7:143",
+ "label": "Reference text: Quran 7:143, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/7/143?translations=20",
+ "urls_fetched": [
+  "https://quran.com/7/143?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:29:09Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "7:143",
+   "raw": "And when Moses arrived at Our appointed time and his Lord spoke to him, he said, \"My Lord, show me [Yourself] that I may look at You.\" [Allāh] said, \"You will not see Me,<sup foot_note=254405>1</sup> but look at the mountain; if it should remain in place, then you will see Me.\" But when his Lord appeared to the mountain, He rendered it level,<sup foot_note=254406>2</sup> and Moses fell unconscious. And when he awoke, he said, \"Exalted are You! I have repented to You, and I am the first [among my people] of the believers.\"<sup foot_note=254407>3</sup>",
+   "text": "And when Moses arrived at Our appointed time and his Lord spoke to him, he said, \"My Lord, show me [Yourself] that I may look at You.\" [Allāh] said, \"You will not see Me, but look at the mountain; if it should remain in place, then you will see Me.\" But when his Lord appeared to the mountain, He rendered it level, and Moses fell unconscious. And when he awoke, he said, \"Exalted are You! I have repented to You, and I am the first [among my people] of the believers.\"",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "6:160",
+ "label": "Reference text: Quran 6:160, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/6/160?translations=20",
+ "urls_fetched": [
+  "https://quran.com/6/160?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:28:02Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "6:160",
+   "raw": "Whoever comes [on the Day of Judgement] with a good deed will have ten times the like thereof [to his credit], and whoever comes with an evil deed will not be recompensed except the like thereof; and they will not be wronged.<sup foot_note=254365>1</sup>",
+   "text": "Whoever comes [on the Day of Judgement] with a good deed will have ten times the like thereof [to his credit], and whoever comes with an evil deed will not be recompensed except the like thereof; and they will not be wronged.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

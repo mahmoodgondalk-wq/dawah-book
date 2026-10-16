@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "72:26",
+ "label": "Reference text: Quran 72:26, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/72/26?translations=20",
+ "urls_fetched": [
+  "https://quran.com/72/26?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:28:34Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "72:26",
+   "raw": "[He is] Knower of the unseen, and He does not disclose His [knowledge of the] unseen to anyone",
+   "text": "[He is] Knower of the unseen, and He does not disclose His [knowledge of the] unseen to anyone",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

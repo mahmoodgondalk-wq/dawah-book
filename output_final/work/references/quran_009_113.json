@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "9:113",
+ "label": "Reference text: Quran 9:113, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/9/113?translations=20",
+ "urls_fetched": [
+  "https://quran.com/9/113?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:30:48Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "9:113",
+   "raw": "It is not for the Prophet and those who have believed to ask forgiveness for the polytheists, even if they were relatives, after it has become clear to them that they are companions of Hellfire.",
+   "text": "It is not for the Prophet and those who have believed to ask forgiveness for the polytheists, even if they were relatives, after it has become clear to them that they are companions of Hellfire.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

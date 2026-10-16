@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "4:80",
+ "label": "Reference text: Quran 4:80, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/4/80?translations=20",
+ "urls_fetched": [
+  "https://quran.com/4/80?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:24:41Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "4:80",
+   "raw": "He who obeys the Messenger has obeyed Allāh; but those who turn away - We have not sent you over them as a guardian.",
+   "text": "He who obeys the Messenger has obeyed Allāh; but those who turn away - We have not sent you over them as a guardian.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

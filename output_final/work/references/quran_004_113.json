@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "4:113",
+ "label": "Reference text: Quran 4:113, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/4/113?translations=20",
+ "urls_fetched": [
+  "https://quran.com/4/113?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:23:54Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "4:113",
+   "raw": "And if it was not for the favor of Allāh upon you, [O Muḥammad], and His mercy, a group of them would have determined to mislead you. But they do not mislead except themselves, and they will not harm you at all. And Allāh has revealed to you the Book and wisdom and has taught you that which you did not know. And ever has the favor of Allāh upon you been great.",
+   "text": "And if it was not for the favor of Allāh upon you, [O Muḥammad], and His mercy, a group of them would have determined to mislead you. But they do not mislead except themselves, and they will not harm you at all. And Allāh has revealed to you the Book and wisdom and has taught you that which you did not know. And ever has the favor of Allāh upon you been great.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

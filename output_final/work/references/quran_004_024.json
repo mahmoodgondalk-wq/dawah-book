@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "4:24",
+ "label": "Reference text: Quran 4:24, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/4/24?translations=20",
+ "urls_fetched": [
+  "https://quran.com/4/24?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:24:20Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "4:24",
+   "raw": "And [also prohibited to you are all] married women except those your right hands possess.<sup foot_note=254184>1</sup> [This is] the decree of Allāh upon you. And lawful to you are [all others] beyond these, [provided] that you seek them [in marriage] with [gifts from] your property, desiring chastity, not unlawful sexual intercourse. So for whatever you enjoy [of marriage] from them, give them their due compensation<sup foot_note=254183>2</sup> as an obligation. And there is no blame upon you for what you mutually agree to beyond the obligation. Indeed, Allāh is ever Knowing and Wise.",
+   "text": "And [also prohibited to you are all] married women except those your right hands possess. [This is] the decree of Allāh upon you. And lawful to you are [all others] beyond these, [provided] that you seek them [in marriage] with [gifts from] your property, desiring chastity, not unlawful sexual intercourse. So for whatever you enjoy [of marriage] from them, give them their due compensation as an obligation. And there is no blame upon you for what you mutually agree to beyond the obligation. Indeed, Allāh is ever Knowing and Wise.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

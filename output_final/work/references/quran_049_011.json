@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "49:11",
+ "label": "Reference text: Quran 49:11, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/49/11?translations=20",
+ "urls_fetched": [
+  "https://quran.com/49/11?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:23:38Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "49:11",
+   "raw": "O you who have believed, let not a people ridicule [another] people; perhaps they may be better than them; nor let women ridicule [other] women; perhaps they may be better than them. And do not insult one another and do not call each other by [offensive] nicknames. Wretched is the name [i.e., mention] of disobedience after [one's] faith. And whoever does not repent - then it is those who are the wrongdoers.",
+   "text": "O you who have believed, let not a people ridicule [another] people; perhaps they may be better than them; nor let women ridicule [other] women; perhaps they may be better than them. And do not insult one another and do not call each other by [offensive] nicknames. Wretched is the name [i.e., mention] of disobedience after [one's] faith. And whoever does not repent - then it is those who are the wrongdoers.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

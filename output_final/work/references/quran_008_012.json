@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "8:12",
+ "label": "Reference text: Quran 8:12, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/8/12?translations=20",
+ "urls_fetched": [
+  "https://quran.com/8/12?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:30:11Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "8:12",
+   "raw": "[Remember] when your Lord inspired to the angels, \"I am with you, so strengthen those who have believed. I will cast terror into the hearts of those who disbelieved, so strike [them] upon the necks and strike from them every fingertip.\"<sup foot_note=254442>1</sup>",
+   "text": "[Remember] when your Lord inspired to the angels, \"I am with you, so strengthen those who have believed. I will cast terror into the hearts of those who disbelieved, so strike [them] upon the necks and strike from them every fingertip.\"",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "4:150",
+ "label": "Reference text: Quran 4:150, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/4/150?translations=20",
+ "urls_fetched": [
+  "https://quran.com/4/150?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:24:08Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "4:150",
+   "raw": "Indeed, those who disbelieve in Allāh and His messengers and wish to discriminate between Allāh and His messengers and say, \"We believe in some and disbelieve in others,\" and wish to adopt a way in between -",
+   "text": "Indeed, those who disbelieve in Allāh and His messengers and wish to discriminate between Allāh and His messengers and say, \"We believe in some and disbelieve in others,\" and wish to adopt a way in between -",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

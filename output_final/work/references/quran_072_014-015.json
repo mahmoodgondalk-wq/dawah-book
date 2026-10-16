@@ -1,0 +1,26 @@
+{
+ "kind": "quran",
+ "ref": "72:14-15",
+ "label": "Reference text: Quran 72:14-15, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/72/14-15?translations=20",
+ "urls_fetched": [
+  "https://quran.com/72/14-15?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:28:31Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "72:14",
+   "raw": "And among us are Muslims [in submission to Allāh], and among us are the unjust.<sup foot_note=257215>1</sup> And whoever has become Muslim - those have sought out the right course.",
+   "text": "And among us are Muslims [in submission to Allāh], and among us are the unjust. And whoever has become Muslim - those have sought out the right course.",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "72:15",
+   "raw": "But as for the unjust, they will be, for Hell, firewood.'",
+   "text": "But as for the unjust, they will be, for Hell, firewood.'",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

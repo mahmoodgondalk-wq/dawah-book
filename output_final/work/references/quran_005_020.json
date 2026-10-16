@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "5:20",
+ "label": "Reference text: Quran 5:20, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/5/20?translations=20",
+ "urls_fetched": [
+  "https://quran.com/5/20?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:26:00Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "5:20",
+   "raw": "And [mention, O Muḥammad], when Moses said to his people, \"O my people, remember the favor of Allāh upon you when He appointed among you prophets and made you possessors<sup foot_note=254259>1</sup> and gave you that which He had not given anyone among the worlds.",
+   "text": "And [mention, O Muḥammad], when Moses said to his people, \"O my people, remember the favor of Allāh upon you when He appointed among you prophets and made you possessors and gave you that which He had not given anyone among the worlds.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

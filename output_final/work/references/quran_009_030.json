@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "9:30",
+ "label": "Reference text: Quran 9:30, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/9/30?translations=20",
+ "urls_fetched": [
+  "https://quran.com/9/30?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:30:57Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "9:30",
+   "raw": "The Jews say, \"Ezra is the son of Allāh\"; and the Christians say, \"The Messiah is the son of Allāh.\" That is their statement from their mouths; they imitate the saying of those who disbelieved before [them]. May Allāh destroy them; how are they deluded?",
+   "text": "The Jews say, \"Ezra is the son of Allāh\"; and the Christians say, \"The Messiah is the son of Allāh.\" That is their statement from their mouths; they imitate the saying of those who disbelieved before [them]. May Allāh destroy them; how are they deluded?",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

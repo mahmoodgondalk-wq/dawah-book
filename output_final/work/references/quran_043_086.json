@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "43:86",
+ "label": "Reference text: Quran 43:86, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/43/86?translations=20",
+ "urls_fetched": [
+  "https://quran.com/43/86?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:23:11Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "43:86",
+   "raw": "And those they invoke<sup foot_note=256552>1</sup> besides Him do not possess [power of] intercession; but only those who testify to the truth [can benefit], and they know.<sup foot_note=256553>2</sup>",
+   "text": "And those they invoke besides Him do not possess [power of] intercession; but only those who testify to the truth [can benefit], and they know.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

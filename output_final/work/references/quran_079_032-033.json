@@ -1,0 +1,26 @@
+{
+ "kind": "quran",
+ "ref": "79:32-33",
+ "label": "Reference text: Quran 79:32-33, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/79/32-33?translations=20",
+ "urls_fetched": [
+  "https://quran.com/79/32-33?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:29:04Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "79:32",
+   "raw": "And the mountains He set firmly",
+   "text": "And the mountains He set firmly",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "79:33",
+   "raw": "As enjoyment [i.e., provision] for you and your grazing livestock.",
+   "text": "As enjoyment [i.e., provision] for you and your grazing livestock.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

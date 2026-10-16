@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "5:110",
+ "label": "Reference text: Quran 5:110, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/5/110?translations=20",
+ "urls_fetched": [
+  "https://quran.com/5/110?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:25:43Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "5:110",
+   "raw": "[The Day] when Allāh will say, \"O Jesus, Son of Mary, remember My favor upon you and upon your mother when I supported you with the Pure Spirit [i.e., the angel Gabriel] and you spoke to the people in the cradle and in maturity; and [remember] when I taught you writing and wisdom and the Torah and the Gospel; and when you designed from clay [what was] like the form of a bird with My permission, then you breathed into it, and it became a bird with My permission; and you healed the blind [from birth] and the leper with My permission; and when you brought forth the dead with My permission; and when I restrained the Children of Israel from [killing] you when you came to them with clear proofs and those who disbelieved among them said, \"This is not but obvious magic.\"",
+   "text": "[The Day] when Allāh will say, \"O Jesus, Son of Mary, remember My favor upon you and upon your mother when I supported you with the Pure Spirit [i.e., the angel Gabriel] and you spoke to the people in the cradle and in maturity; and [remember] when I taught you writing and wisdom and the Torah and the Gospel; and when you designed from clay [what was] like the form of a bird with My permission, then you breathed into it, and it became a bird with My permission; and you healed the blind [from birth] and the leper with My permission; and when you brought forth the dead with My permission; and when I restrained the Children of Israel from [killing] you when you came to them with clear proofs and those who disbelieved among them said, \"This is not but obvious magic.\"",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

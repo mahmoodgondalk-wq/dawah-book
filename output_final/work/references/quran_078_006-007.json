@@ -1,0 +1,26 @@
+{
+ "kind": "quran",
+ "ref": "78:6-7",
+ "label": "Reference text: Quran 78:6-7, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/78/6-7?translations=20",
+ "urls_fetched": [
+  "https://quran.com/78/6-7?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:28:57Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "78:6",
+   "raw": "Have We not made the earth a resting place?",
+   "text": "Have We not made the earth a resting place?",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "78:7",
+   "raw": "And the mountains as stakes?<sup foot_note=257360>1</sup>",
+   "text": "And the mountains as stakes?",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

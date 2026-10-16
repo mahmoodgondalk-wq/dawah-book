@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "4:83",
+ "label": "Reference text: Quran 4:83, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/4/83?translations=20",
+ "urls_fetched": [
+  "https://quran.com/4/83?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:24:45Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "4:83",
+   "raw": "And when there comes to them something [i.e., information] about [public] security or fear, they spread it around. But if they had referred it back to the Messenger or to those of authority among them, then the ones who [can] draw correct conclusions from it would have known about it. And if not for the favor of Allāh upon you and His mercy, you would have followed Satan, except for a few.",
+   "text": "And when there comes to them something [i.e., information] about [public] security or fear, they spread it around. But if they had referred it back to the Messenger or to those of authority among them, then the ones who [can] draw correct conclusions from it would have known about it. And if not for the favor of Allāh upon you and His mercy, you would have followed Satan, except for a few.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

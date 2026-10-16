@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "4:137",
+ "label": "Reference text: Quran 4:137, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/4/137?translations=20",
+ "urls_fetched": [
+  "https://quran.com/4/137?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:24:05Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "4:137",
+   "raw": "Indeed, those who have believed then disbelieved, then believed then disbelieved, and then increased in disbelief - never will Allāh forgive them, nor will He guide them to a way.",
+   "text": "Indeed, those who have believed then disbelieved, then believed then disbelieved, and then increased in disbelief - never will Allāh forgive them, nor will He guide them to a way.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

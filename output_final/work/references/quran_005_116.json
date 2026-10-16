@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "5:116",
+ "label": "Reference text: Quran 5:116, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/5/116?translations=20",
+ "urls_fetched": [
+  "https://quran.com/5/116?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:25:49Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "5:116",
+   "raw": "And [beware the Day] when Allāh will say, \"O Jesus, Son of Mary, did you say to the people, 'Take me and my mother as deities besides Allāh?'\" He will say, \"Exalted are You! It was not for me to say that to which I have no right. If I had said it, You would have known it. You know what is within myself, and I do not know what is within Yourself. Indeed, it is You who is Knower of the unseen.",
+   "text": "And [beware the Day] when Allāh will say, \"O Jesus, Son of Mary, did you say to the people, 'Take me and my mother as deities besides Allāh?'\" He will say, \"Exalted are You! It was not for me to say that to which I have no right. If I had said it, You would have known it. You know what is within myself, and I do not know what is within Yourself. Indeed, it is You who is Knower of the unseen.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

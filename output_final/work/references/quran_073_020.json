@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "73:20",
+ "label": "Reference text: Quran 73:20, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/73/20?translations=20",
+ "urls_fetched": [
+  "https://quran.com/73/20?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:28:42Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "73:20",
+   "raw": "Indeed, your Lord knows, [O Muḥammad], that you stand [in prayer] almost two thirds of the night or half of it or a third of it, and [so do] a group of those with you. And Allāh determines [the extent of] the night and the day. He has known that you [Muslims] will not be able to do it<sup foot_note=257263>1</sup> and has turned to you in forgiveness, so recite what is easy [for you] of the Qur’ān. He has known that there will be among you those who are ill and others traveling throughout the land seeking [something] of the bounty of Allāh and others fighting for the cause of Allāh. So recite what is easy from it and establish prayer and give zakāh and loan Allāh a goodly loan.<sup foot_note=257264>2</sup> And whatever good you put forward for yourselves - you will find it with Allāh. It is better and greater in reward. And seek forgiveness of Allāh. Indeed, Allāh is Forgiving and Merciful.",
+   "text": "Indeed, your Lord knows, [O Muḥammad], that you stand [in prayer] almost two thirds of the night or half of it or a third of it, and [so do] a group of those with you. And Allāh determines [the extent of] the night and the day. He has known that you [Muslims] will not be able to do it and has turned to you in forgiveness, so recite what is easy [for you] of the Qur’ān. He has known that there will be among you those who are ill and others traveling throughout the land seeking [something] of the bounty of Allāh and others fighting for the cause of Allāh. So recite what is easy from it and establish prayer and give zakāh and loan Allāh a goodly loan. And whatever good you put forward for yourselves - you will find it with Allāh. It is better and greater in reward. And seek forgiveness of Allāh. Indeed, Allāh is Forgiving and Merciful.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

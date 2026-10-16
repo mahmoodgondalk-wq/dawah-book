@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "5:77",
+ "label": "Reference text: Quran 5:77, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/5/77?translations=20",
+ "urls_fetched": [
+  "https://quran.com/5/77?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:26:40Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "5:77",
+   "raw": "Say, \"O People of the Scripture, do not exceed limits in your religion beyond the truth and do not follow the inclinations of a people who had gone astray before and misled many and have strayed from the soundness of the way.\"",
+   "text": "Say, \"O People of the Scripture, do not exceed limits in your religion beyond the truth and do not follow the inclinations of a people who had gone astray before and misled many and have strayed from the soundness of the way.\"",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

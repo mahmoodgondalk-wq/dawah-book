@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "4:28",
+ "label": "Reference text: Quran 4:28, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/4/28?translations=20",
+ "urls_fetched": [
+  "https://quran.com/4/28?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:24:22Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "4:28",
+   "raw": "And Allāh wants to lighten for you [your difficulties]; and mankind was created weak.",
+   "text": "And Allāh wants to lighten for you [your difficulties]; and mankind was created weak.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "8:74",
+ "label": "Reference text: Quran 8:74, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/8/74?translations=20",
+ "urls_fetched": [
+  "https://quran.com/8/74?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:30:24Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "8:74",
+   "raw": "But those who have believed and emigrated and fought in the cause of Allāh and those who gave shelter and aided - it is they who are the believers, truly. For them is forgiveness and noble provision.",
+   "text": "But those who have believed and emigrated and fought in the cause of Allāh and those who gave shelter and aided - it is they who are the believers, truly. For them is forgiveness and noble provision.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

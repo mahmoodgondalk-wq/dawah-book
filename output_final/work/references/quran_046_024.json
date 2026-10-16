@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "46:24",
+ "label": "Reference text: Quran 46:24, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/46/24?translations=20",
+ "urls_fetched": [
+  "https://quran.com/46/24?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:23:19Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "46:24",
+   "raw": "And when they saw it as a cloud approaching their valleys, they said, \"This is a cloud bringing us rain!\" Rather, it is that for which you were impatient:<sup foot_note=256633>1</sup> a wind, within it a painful punishment,",
+   "text": "And when they saw it as a cloud approaching their valleys, they said, \"This is a cloud bringing us rain!\" Rather, it is that for which you were impatient: a wind, within it a painful punishment,",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

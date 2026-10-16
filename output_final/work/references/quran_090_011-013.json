@@ -1,0 +1,32 @@
+{
+ "kind": "quran",
+ "ref": "90:11-13",
+ "label": "Reference text: Quran 90:11-13, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/90/11-13?translations=20",
+ "urls_fetched": [
+  "https://quran.com/90/11-13?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:30:25Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "90:11",
+   "raw": "But he has not broken through the difficult pass.<sup foot_note=257554>1</sup>",
+   "text": "But he has not broken through the difficult pass.",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "90:12",
+   "raw": "And what can make you know what is [breaking through] the difficult pass?",
+   "text": "And what can make you know what is [breaking through] the difficult pass?",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "90:13",
+   "raw": "It is the freeing of a slave",
+   "text": "It is the freeing of a slave",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

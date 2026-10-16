@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "7:40",
+ "label": "Reference text: Quran 7:40, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/7/40?translations=20",
+ "urls_fetched": [
+  "https://quran.com/7/40?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:29:39Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "7:40",
+   "raw": "Indeed, those who deny Our verses and are arrogant toward them - the gates of Heaven will not be opened for them, nor will they enter Paradise until a camel enters into the eye of a needle [i.e., never]. And thus do We recompense the criminals.",
+   "text": "Indeed, those who deny Our verses and are arrogant toward them - the gates of Heaven will not be opened for them, nor will they enter Paradise until a camel enters into the eye of a needle [i.e., never]. And thus do We recompense the criminals.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

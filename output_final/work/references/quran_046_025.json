@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "46:25",
+ "label": "Reference text: Quran 46:25, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/46/25?translations=20",
+ "urls_fetched": [
+  "https://quran.com/46/25?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:23:20Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "46:25",
+   "raw": "Destroying everything by command of its Lord. And they became so that nothing was seen [of them] except their dwellings. Thus do We recompense the criminal people.",
+   "text": "Destroying everything by command of its Lord. And they became so that nothing was seen [of them] except their dwellings. Thus do We recompense the criminal people.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

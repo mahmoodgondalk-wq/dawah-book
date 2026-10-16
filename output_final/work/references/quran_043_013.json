@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "43:13",
+ "label": "Reference text: Quran 43:13, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/43/13?translations=20",
+ "urls_fetched": [
+  "https://quran.com/43/13?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:23:03Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "43:13",
+   "raw": "That you may settle yourselves upon their backs and then remember the favor of your Lord when you have settled upon them and say, \"Exalted is He who has subjected this to us, and we could not have [otherwise] subdued it.<sup foot_note=256499>1</sup>",
+   "text": "That you may settle yourselves upon their backs and then remember the favor of your Lord when you have settled upon them and say, \"Exalted is He who has subjected this to us, and we could not have [otherwise] subdued it.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

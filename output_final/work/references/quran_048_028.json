@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "48:28",
+ "label": "Reference text: Quran 48:28, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/48/28?translations=20",
+ "urls_fetched": [
+  "https://quran.com/48/28?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:23:35Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "48:28",
+   "raw": "It is He who sent His Messenger with guidance and the religion of truth to manifest it over all religion. And sufficient is Allāh as Witness.",
+   "text": "It is He who sent His Messenger with guidance and the religion of truth to manifest it over all religion. And sufficient is Allāh as Witness.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

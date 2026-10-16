@@ -1,0 +1,27 @@
+{
+ "kind": "quran",
+ "ref": "5:90-91",
+ "label": "Reference text: Quran 5:90-91, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/5/90-91?translations=20",
+ "urls_fetched": [
+  "https://quran.com/5/90-91?translations=20",
+  "https://quran.com/5/91?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:26:52Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "5:90",
+   "raw": "O you who have believed, indeed, intoxicants, gambling, [sacrificing on] stone alters [to other than Allāh], and divining arrows are but defilement from the work of Satan, so avoid<sup foot_note=254288>1</sup> it that you may be successful.",
+   "text": "O you who have believed, indeed, intoxicants, gambling, [sacrificing on] stone alters [to other than Allāh], and divining arrows are but defilement from the work of Satan, so avoid it that you may be successful.",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "5:91",
+   "raw": "Satan only wants to cause between you animosity and hatred through intoxicants and gambling and to avert you from the remembrance of Allāh and from prayer. So will you not desist?",
+   "text": "Satan only wants to cause between you animosity and hatred through intoxicants and gambling and to avert you from the remembrance of Allāh and from prayer. So will you not desist?",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "5:66",
+ "label": "Reference text: Quran 5:66, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/5/66?translations=20",
+ "urls_fetched": [
+  "https://quran.com/5/66?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:26:28Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "5:66",
+   "raw": "And if only they had upheld [the law of] the Torah, the Gospel, and what has been revealed to them from their Lord [i.e., the Qur’ān], they would have consumed [provision] from above them and from beneath their feet.<sup foot_note=254280>1</sup> Among them are a moderate [i.e., acceptable] community, but many of them - evil is that which they do.",
+   "text": "And if only they had upheld [the law of] the Torah, the Gospel, and what has been revealed to them from their Lord [i.e., the Qur’ān], they would have consumed [provision] from above them and from beneath their feet. Among them are a moderate [i.e., acceptable] community, but many of them - evil is that which they do.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

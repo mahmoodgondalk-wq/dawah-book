@@ -1,0 +1,32 @@
+{
+ "kind": "quran",
+ "ref": "69:44-46",
+ "label": "Reference text: Quran 69:44-46, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/69/44-46?translations=20",
+ "urls_fetched": [
+  "https://quran.com/69/44-46?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:27:41Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "69:44",
+   "raw": "And if he [i.e., Muḥammad] had made up about Us some [false] sayings,",
+   "text": "And if he [i.e., Muḥammad] had made up about Us some [false] sayings,",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "69:45",
+   "raw": "We would have seized him by the right hand;<sup foot_note=257166>1</sup>",
+   "text": "We would have seized him by the right hand;",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "69:46",
+   "raw": "Then We would have cut from him the aorta.<sup foot_note=257168>1</sup>",
+   "text": "Then We would have cut from him the aorta.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

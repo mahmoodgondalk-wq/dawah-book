@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "4:19",
+ "label": "Reference text: Quran 4:19, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/4/19?translations=20",
+ "urls_fetched": [
+  "https://quran.com/4/19?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:24:19Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "4:19",
+   "raw": "O you who have believed, it is not lawful for you to inherit women by compulsion.<sup foot_note=254179>1</sup> And do not make difficulties for them in order to take [back] part of what you gave them<sup foot_note=254180>2</sup> unless they commit a clear immorality [i.e., adultery]. And live with them in kindness. For if you dislike them - perhaps you dislike a thing and Allāh makes therein much good.",
+   "text": "O you who have believed, it is not lawful for you to inherit women by compulsion. And do not make difficulties for them in order to take [back] part of what you gave them unless they commit a clear immorality [i.e., adultery]. And live with them in kindness. For if you dislike them - perhaps you dislike a thing and Allāh makes therein much good.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

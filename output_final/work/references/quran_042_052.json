@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "42:52",
+ "label": "Reference text: Quran 42:52, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/42/52?translations=20",
+ "urls_fetched": [
+  "https://quran.com/42/52?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:23:02Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "42:52",
+   "raw": "And thus We have revealed to you an inspiration of Our command [i.e., the Qur’ān]. You did not know what is the Book or [what is] faith, but We have made it a light by which We guide whom We will of Our servants. And indeed, [O Muḥammad], you guide to a straight path -",
+   "text": "And thus We have revealed to you an inspiration of Our command [i.e., the Qur’ān]. You did not know what is the Book or [what is] faith, but We have made it a light by which We guide whom We will of Our servants. And indeed, [O Muḥammad], you guide to a straight path -",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

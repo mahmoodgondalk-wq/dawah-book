@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "7:188",
+ "label": "Reference text: Quran 7:188, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/7/188?translations=20",
+ "urls_fetched": [
+  "https://quran.com/7/188?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:29:19Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "7:188",
+   "raw": "Say, \"I hold not for myself [the power of] benefit or harm, except what Allāh has willed. And if I knew the unseen, I could have acquired much wealth, and no harm would have touched me. I am not except a warner and a bringer of good tidings to a people who believe.\"",
+   "text": "Say, \"I hold not for myself [the power of] benefit or harm, except what Allāh has willed. And if I knew the unseen, I could have acquired much wealth, and no harm would have touched me. I am not except a warner and a bringer of good tidings to a people who believe.\"",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "61:5",
+ "label": "Reference text: Quran 61:5, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/61/5?translations=20",
+ "urls_fetched": [
+  "https://quran.com/61/5?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:27:04Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "61:5",
+   "raw": "And [mention, O Muḥammad], when Moses said to his people, \"O my people, why do you harm me while you certainly know that I am the messenger of Allāh to you?\" And when they deviated, Allāh caused their hearts to deviate. And Allāh does not guide the defiantly disobedient people.",
+   "text": "And [mention, O Muḥammad], when Moses said to his people, \"O my people, why do you harm me while you certainly know that I am the messenger of Allāh to you?\" And when they deviated, Allāh caused their hearts to deviate. And Allāh does not guide the defiantly disobedient people.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

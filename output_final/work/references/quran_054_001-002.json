@@ -1,0 +1,26 @@
+{
+ "kind": "quran",
+ "ref": "54:1-2",
+ "label": "Reference text: Quran 54:1-2, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/54/1-2?translations=20",
+ "urls_fetched": [
+  "https://quran.com/54/1-2?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:25:19Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "54:1",
+   "raw": "The Hour has come near, and the moon has split [in two].<sup foot_note=256830>1</sup>",
+   "text": "The Hour has come near, and the moon has split [in two].",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "54:2",
+   "raw": "And if they see a sign [i.e., miracle], they turn away and say, \"Passing magic.\"<sup foot_note=256832>1</sup>",
+   "text": "And if they see a sign [i.e., miracle], they turn away and say, \"Passing magic.\"",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "4:46",
+ "label": "Reference text: Quran 4:46, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/4/46?translations=20",
+ "urls_fetched": [
+  "https://quran.com/4/46?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:24:32Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "4:46",
+   "raw": "Among the Jews are those who distort words from their [proper] places [i.e., usages] and say, \"We hear and disobey\" and \"Hear but be not heard\" and \"Rāʿinā,\"<sup foot_note=254196>1</sup> twisting their tongues and defaming the religion. And if they had said [instead], \"We hear and obey\" and \"Wait for us [to understand],\" it would have been better for them and more suitable. But Allāh has cursed them for their disbelief, so they believe not, except for a few.<sup foot_note=254197>2</sup>",
+   "text": "Among the Jews are those who distort words from their [proper] places [i.e., usages] and say, \"We hear and disobey\" and \"Hear but be not heard\" and \"Rāʿinā,\" twisting their tongues and defaming the religion. And if they had said [instead], \"We hear and obey\" and \"Wait for us [to understand],\" it would have been better for them and more suitable. But Allāh has cursed them for their disbelief, so they believe not, except for a few.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

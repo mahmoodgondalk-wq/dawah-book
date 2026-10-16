@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "78:38",
+ "label": "Reference text: Quran 78:38, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/78/38?translations=20",
+ "urls_fetched": [
+  "https://quran.com/78/38?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:28:55Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "78:38",
+   "raw": "The Day that the Spirit [i.e., Gabriel] and the angels will stand in rows, they will not speak except for one whom the Most Merciful permits, and he will say what is correct.",
+   "text": "The Day that the Spirit [i.e., Gabriel] and the angels will stand in rows, they will not speak except for one whom the Most Merciful permits, and he will say what is correct.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

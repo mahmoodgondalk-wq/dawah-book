@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "49:6",
+ "label": "Reference text: Quran 49:6, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/49/6?translations=20",
+ "urls_fetched": [
+  "https://quran.com/49/6?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:23:45Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "49:6",
+   "raw": "O you who have believed, if there comes to you a disobedient one with information, investigate, lest you harm a people out of ignorance and become, over what you have done, regretful.",
+   "text": "O you who have believed, if there comes to you a disobedient one with information, investigate, lest you harm a people out of ignorance and become, over what you have done, regretful.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

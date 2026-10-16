@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "67:5",
+ "label": "Reference text: Quran 67:5, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/67/5?translations=20",
+ "urls_fetched": [
+  "https://quran.com/67/5?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:27:32Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "67:5",
+   "raw": "And We have certainly beautified the nearest heaven with lamps [i.e., stars] and have made [from] them what is thrown at the devils<sup foot_note=257096>1</sup> and have prepared for them the punishment of the Blaze.",
+   "text": "And We have certainly beautified the nearest heaven with lamps [i.e., stars] and have made [from] them what is thrown at the devils and have prepared for them the punishment of the Blaze.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

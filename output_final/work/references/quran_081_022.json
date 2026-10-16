@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "81:22",
+ "label": "Reference text: Quran 81:22, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/81/22?translations=20",
+ "urls_fetched": [
+  "https://quran.com/81/22?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:29:53Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "81:22",
+   "raw": "And your companion [i.e., Prophet Muḥammad (ﷺ) ] is not [at all] mad.<sup foot_note=257434>1</sup>",
+   "text": "And your companion [i.e., Prophet Muḥammad (ﷺ) ] is not [at all] mad.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

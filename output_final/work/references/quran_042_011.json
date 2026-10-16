@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "42:11",
+ "label": "Reference text: Quran 42:11, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/42/11?translations=20",
+ "urls_fetched": [
+  "https://quran.com/42/11?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:22:54Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "42:11",
+   "raw": "[He is] Creator of the heavens and the earth. He has made for you from yourselves, mates, and among the cattle, mates; He multiplies you thereby. There is nothing like unto Him,<sup foot_note=256459>1</sup> and He is the Hearing, the Seeing.<sup foot_note=256460>2</sup>",
+   "text": "[He is] Creator of the heavens and the earth. He has made for you from yourselves, mates, and among the cattle, mates; He multiplies you thereby. There is nothing like unto Him, and He is the Hearing, the Seeing.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

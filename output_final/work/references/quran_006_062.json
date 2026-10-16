@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "6:62",
+ "label": "Reference text: Quran 6:62, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/6/62?translations=20",
+ "urls_fetched": [
+  "https://quran.com/6/62?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:28:12Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "6:62",
+   "raw": "Then they [i.e., His servants] are returned to Allāh, their true Lord. Unquestionably, His is the judgement, and He is the swiftest of accountants.",
+   "text": "Then they [i.e., His servants] are returned to Allāh, their true Lord. Unquestionably, His is the judgement, and He is the swiftest of accountants.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

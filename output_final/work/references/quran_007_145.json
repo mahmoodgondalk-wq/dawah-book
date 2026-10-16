@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "7:145",
+ "label": "Reference text: Quran 7:145, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/7/145?translations=20",
+ "urls_fetched": [
+  "https://quran.com/7/145?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:29:10Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "7:145",
+   "raw": "And We wrote for him on the tablets [something] of all things - instruction and explanation for all things, [saying], \"Take them with determination and order your people to take the best of it. I will show you the home of the defiantly disobedient.\"<sup foot_note=254408>1</sup>",
+   "text": "And We wrote for him on the tablets [something] of all things - instruction and explanation for all things, [saying], \"Take them with determination and order your people to take the best of it. I will show you the home of the defiantly disobedient.\"",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "7:33",
+ "label": "Reference text: Quran 7:33, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/7/33?translations=20",
+ "urls_fetched": [
+  "https://quran.com/7/33?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:29:38Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "7:33",
+   "raw": "Say, \"My Lord has only forbidden immoralities - what is apparent of them and what is concealed - and sin,<sup foot_note=254371>1</sup> and oppression without right, and that you associate with Allāh that for which He has not sent down authority, and that you say about Allāh that which you do not know.\"",
+   "text": "Say, \"My Lord has only forbidden immoralities - what is apparent of them and what is concealed - and sin, and oppression without right, and that you associate with Allāh that for which He has not sent down authority, and that you say about Allāh that which you do not know.\"",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "kind": "quran",
+ "ref": "67:8-11",
+ "label": "Reference text: Quran 67:8-11, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/67/8-11?translations=20",
+ "urls_fetched": [
+  "https://quran.com/67/8-11?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:27:33Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "67:8",
+   "raw": "It almost bursts with rage. Every time a company is thrown into it, its keepers ask them, \"Did there not come to you a warner?\"",
+   "text": "It almost bursts with rage. Every time a company is thrown into it, its keepers ask them, \"Did there not come to you a warner?\"",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "67:9",
+   "raw": "They will say, \"Yes, a warner had come to us, but we denied and said, 'Allāh has not sent down anything. You are not but in great error.'\"",
+   "text": "They will say, \"Yes, a warner had come to us, but we denied and said, 'Allāh has not sent down anything. You are not but in great error.'\"",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "67:10",
+   "raw": "And they will say, \"If only we had been listening or reasoning, we would not be among the companions of the Blaze.\"",
+   "text": "And they will say, \"If only we had been listening or reasoning, we would not be among the companions of the Blaze.\"",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "67:11",
+   "raw": "And they will admit their sin, so [it is] alienation<sup foot_note=257100>1</sup> for the companions of the Blaze.",
+   "text": "And they will admit their sin, so [it is] alienation for the companions of the Blaze.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

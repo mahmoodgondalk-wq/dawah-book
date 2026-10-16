@@ -1,0 +1,93 @@
+{
+ "kind": "quran",
+ "ref": "74:11-23",
+ "label": "Reference text: Quran 74:11-23, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/74/11-23?translations=20",
+ "urls_fetched": [
+  "https://quran.com/74/11-23?translations=20",
+  "https://quran.com/74/19?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:28:49Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "74:11",
+   "raw": "Leave Me with the one I created alone<sup foot_note=257273>1</sup>",
+   "text": "Leave Me with the one I created alone",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "74:12",
+   "raw": "And to whom I granted extensive wealth",
+   "text": "And to whom I granted extensive wealth",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "74:13",
+   "raw": "And children present [with him]",
+   "text": "And children present [with him]",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "74:14",
+   "raw": "And spread [everything] before him, easing [his life].",
+   "text": "And spread [everything] before him, easing [his life].",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "74:15",
+   "raw": "Then he desires that I should add more.",
+   "text": "Then he desires that I should add more.",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "74:16",
+   "raw": "No! Indeed, he has been toward Our verses obstinate.",
+   "text": "No! Indeed, he has been toward Our verses obstinate.",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "74:17",
+   "raw": "I will cover him with arduous torment.",
+   "text": "I will cover him with arduous torment.",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "74:18",
+   "raw": "Indeed, he thought and deliberated.<sup foot_note=257276>1</sup>",
+   "text": "Indeed, he thought and deliberated.",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "74:19",
+   "raw": "So may he be destroyed [for] how he deliberated.",
+   "text": "So may he be destroyed [for] how he deliberated.",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "74:20",
+   "raw": "Then may he be destroyed [for] how he deliberated.",
+   "text": "Then may he be destroyed [for] how he deliberated.",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "74:21",
+   "raw": "Then he considered [again];",
+   "text": "Then he considered [again];",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "74:22",
+   "raw": "Then he frowned and scowled;",
+   "text": "Then he frowned and scowled;",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "74:23",
+   "raw": "Then he turned back and was arrogant",
+   "text": "Then he turned back and was arrogant",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

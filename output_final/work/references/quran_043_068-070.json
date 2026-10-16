@@ -1,0 +1,32 @@
+{
+ "kind": "quran",
+ "ref": "43:68-70",
+ "label": "Reference text: Quran 43:68-70, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/43/68-70?translations=20",
+ "urls_fetched": [
+  "https://quran.com/43/68-70?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:23:08Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "43:68",
+   "raw": "[To whom Allāh will say], \"O My servants, no fear will there be concerning you this Day, nor will you grieve,",
+   "text": "[To whom Allāh will say], \"O My servants, no fear will there be concerning you this Day, nor will you grieve,",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "43:69",
+   "raw": "[You] who believed in Our verses and were Muslims.",
+   "text": "[You] who believed in Our verses and were Muslims.",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "43:70",
+   "raw": "Enter Paradise, you and your kinds,<sup foot_note=256540>1</sup> delighted.\"",
+   "text": "Enter Paradise, you and your kinds, delighted.\"",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

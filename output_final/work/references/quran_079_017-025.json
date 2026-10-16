@@ -1,0 +1,68 @@
+{
+ "kind": "quran",
+ "ref": "79:17-25",
+ "label": "Reference text: Quran 79:17-25, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/79/17-25?translations=20",
+ "urls_fetched": [
+  "https://quran.com/79/17-25?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:29:00Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "79:17",
+   "raw": "\"Go to Pharaoh. Indeed, he has transgressed.",
+   "text": "\"Go to Pharaoh. Indeed, he has transgressed.",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "79:18",
+   "raw": "And say to him, 'Would you [be willing to] purify yourself",
+   "text": "And say to him, 'Would you [be willing to] purify yourself",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "79:19",
+   "raw": "And let me guide you to your Lord so you would fear [Him]?'\"",
+   "text": "And let me guide you to your Lord so you would fear [Him]?'\"",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "79:20",
+   "raw": "And he showed him the greatest sign,<sup foot_note=257390>1</sup>",
+   "text": "And he showed him the greatest sign,",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "79:21",
+   "raw": "But he [i.e., Pharaoh] denied and disobeyed.",
+   "text": "But he [i.e., Pharaoh] denied and disobeyed.",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "79:22",
+   "raw": "Then he turned his back, striving [i.e., plotting].<sup foot_note=257391>1</sup>",
+   "text": "Then he turned his back, striving [i.e., plotting].",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "79:23",
+   "raw": "And he gathered [his people] and called out",
+   "text": "And he gathered [his people] and called out",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "79:24",
+   "raw": "And said, \"I am your most exalted lord.\"",
+   "text": "And said, \"I am your most exalted lord.\"",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "79:25",
+   "raw": "So Allāh seized him in exemplary punishment for the last and the first [transgression].<sup foot_note=257392>1</sup>.",
+   "text": "So Allāh seized him in exemplary punishment for the last and the first [transgression]..",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

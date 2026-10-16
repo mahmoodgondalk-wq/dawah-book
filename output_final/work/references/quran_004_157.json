@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "4:157",
+ "label": "Reference text: Quran 4:157, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/4/157?translations=20",
+ "urls_fetched": [
+  "https://quran.com/4/157?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:24:11Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "4:157",
+   "raw": "And [for] their saying, \"Indeed, we have killed the Messiah, Jesus the son of Mary, the messenger of Allāh.\" And they did not kill him, nor did they crucify him; but [another] was made to resemble him to them. And indeed, those who differ over it are in doubt about it. They have no knowledge of it except the following of assumption. And they did not kill him, for certain.<sup foot_note=254239>1</sup>",
+   "text": "And [for] their saying, \"Indeed, we have killed the Messiah, Jesus the son of Mary, the messenger of Allāh.\" And they did not kill him, nor did they crucify him; but [another] was made to resemble him to them. And indeed, those who differ over it are in doubt about it. They have no knowledge of it except the following of assumption. And they did not kill him, for certain.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

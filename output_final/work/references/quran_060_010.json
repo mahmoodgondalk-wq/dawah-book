@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "60:10",
+ "label": "Reference text: Quran 60:10, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/60/10?translations=20",
+ "urls_fetched": [
+  "https://quran.com/60/10?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:26:57Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "60:10",
+   "raw": "O you who have believed, when the believing women come to you as emigrants, examine [i.e., test] them. Allāh is most knowing as to their faith. And if you know them to be believers, then do not return them to the disbelievers; they are not lawful [wives] for them, nor are they lawful [husbands] for them. But give them [i.e., the disbelievers] what they have spent.<sup foot_note=257023>1</sup> And there is no blame upon you if you marry them when you have given them their due compensation [i.e., mahr]. And hold not to marriage bonds with disbelieving women, but ask for what you have spent and let them [i.e., the disbelievers] ask for what they have spent.<sup foot_note=257024>2</sup> That is the judgement of Allāh; He judges between you. And Allāh is Knowing and Wise.",
+   "text": "O you who have believed, when the believing women come to you as emigrants, examine [i.e., test] them. Allāh is most knowing as to their faith. And if you know them to be believers, then do not return them to the disbelievers; they are not lawful [wives] for them, nor are they lawful [husbands] for them. But give them [i.e., the disbelievers] what they have spent. And there is no blame upon you if you marry them when you have given them their due compensation [i.e., mahr]. And hold not to marriage bonds with disbelieving women, but ask for what you have spent and let them [i.e., the disbelievers] ask for what they have spent. That is the judgement of Allāh; He judges between you. And Allāh is Knowing and Wise.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

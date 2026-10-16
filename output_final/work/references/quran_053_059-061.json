@@ -1,0 +1,32 @@
+{
+ "kind": "quran",
+ "ref": "53:59-61",
+ "label": "Reference text: Quran 53:59-61, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/53/59-61?translations=20",
+ "urls_fetched": [
+  "https://quran.com/53/59-61?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:25:16Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "53:59",
+   "raw": "Then at this statement do you wonder?",
+   "text": "Then at this statement do you wonder?",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "53:60",
+   "raw": "And you laugh and do not weep",
+   "text": "And you laugh and do not weep",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "53:61",
+   "raw": "While you are proudly sporting?<sup foot_note=256829>1</sup>",
+   "text": "While you are proudly sporting?",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "5:114",
+ "label": "Reference text: Quran 5:114, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/5/114?translations=20",
+ "urls_fetched": [
+  "https://quran.com/5/114?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:25:46Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "5:114",
+   "raw": "Said Jesus, the son of Mary, \"O Allāh, our Lord, send down to us a table [spread with food] from the heaven to be for us a festival for the first of us and the last of us and a sign from You. And provide for us, and You are the best of providers.\"",
+   "text": "Said Jesus, the son of Mary, \"O Allāh, our Lord, send down to us a table [spread with food] from the heaven to be for us a festival for the first of us and the last of us and a sign from You. And provide for us, and You are the best of providers.\"",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

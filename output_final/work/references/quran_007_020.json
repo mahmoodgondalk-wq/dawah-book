@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "7:20",
+ "label": "Reference text: Quran 7:20, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/7/20?translations=20",
+ "urls_fetched": [
+  "https://quran.com/7/20?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:29:27Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "7:20",
+   "raw": "But Satan whispered to them to make apparent to them that which was concealed from them of their private parts. He said, \"Your Lord did not forbid you this tree except that you become angels or become of the immortal.\"",
+   "text": "But Satan whispered to them to make apparent to them that which was concealed from them of their private parts. He said, \"Your Lord did not forbid you this tree except that you become angels or become of the immortal.\"",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

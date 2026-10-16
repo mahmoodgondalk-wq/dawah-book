@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "4:69",
+ "label": "Reference text: Quran 4:69, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/4/69?translations=20",
+ "urls_fetched": [
+  "https://quran.com/4/69?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:24:40Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "4:69",
+   "raw": "And whoever obeys Allāh and the Messenger - those will be with the ones upon whom Allāh has bestowed favor of the prophets, the steadfast affirmers of truth, the martyrs and the righteous. And excellent are those as companions.",
+   "text": "And whoever obeys Allāh and the Messenger - those will be with the ones upon whom Allāh has bestowed favor of the prophets, the steadfast affirmers of truth, the martyrs and the righteous. And excellent are those as companions.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

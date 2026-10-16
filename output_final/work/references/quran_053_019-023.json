@@ -1,0 +1,44 @@
+{
+ "kind": "quran",
+ "ref": "53:19-23",
+ "label": "Reference text: Quran 53:19-23, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/53/19-23?translations=20",
+ "urls_fetched": [
+  "https://quran.com/53/19-23?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:25:05Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "53:19",
+   "raw": "So have you considered al-Lāt and al-ʿUzzā?",
+   "text": "So have you considered al-Lāt and al-ʿUzzā?",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "53:20",
+   "raw": "And Manāt, the third - the other one?<sup foot_note=256810>1</sup>",
+   "text": "And Manāt, the third - the other one?",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "53:21",
+   "raw": "Is the male for you and for Him the female?",
+   "text": "Is the male for you and for Him the female?",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "53:22",
+   "raw": "That, then, is an unjust division.<sup foot_note=256812>1</sup>",
+   "text": "That, then, is an unjust division.",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "53:23",
+   "raw": "They are not but [mere] names you have named them - you and your forefathers - for which Allāh has sent down no authority. They follow not except assumption and what [their] souls desire, and there has already come to them from their Lord guidance.",
+   "text": "They are not but [mere] names you have named them - you and your forefathers - for which Allāh has sent down no authority. They follow not except assumption and what [their] souls desire, and there has already come to them from their Lord guidance.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

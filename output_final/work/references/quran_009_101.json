@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "9:101",
+ "label": "Reference text: Quran 9:101, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/9/101?translations=20",
+ "urls_fetched": [
+  "https://quran.com/9/101?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:30:46Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "9:101",
+   "raw": "And among those around you of the bedouins are hypocrites, and [also] from the people of Madīnah. They have persisted in hypocrisy. You, [O Muḥammad], do not know them, [but] We know them. We will punish them twice [in this world]; then they will be returned to a great punishment.",
+   "text": "And among those around you of the bedouins are hypocrites, and [also] from the people of Madīnah. They have persisted in hypocrisy. You, [O Muḥammad], do not know them, [but] We know them. We will punish them twice [in this world]; then they will be returned to a great punishment.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

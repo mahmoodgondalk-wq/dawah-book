@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "4:176",
+ "label": "Reference text: Quran 4:176, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/4/176?translations=20",
+ "urls_fetched": [
+  "https://quran.com/4/176?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:24:16Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "4:176",
+   "raw": "They request from you a [legal] ruling. Say, \"Allāh gives you a ruling concerning one having neither descendants nor ascendants [as heirs].\" If a man dies, leaving no child but [only] a sister, she will have half of what he left. And he inherits from her if she [dies and] has no child. But if there are two sisters [or more], they will have two thirds of what he left. If there are both brothers and sisters, the male will have the share of two females.<sup foot_note=254244>1</sup> Allāh makes clear to you [His law], lest you go astray. And Allāh is Knowing of all things.",
+   "text": "They request from you a [legal] ruling. Say, \"Allāh gives you a ruling concerning one having neither descendants nor ascendants [as heirs].\" If a man dies, leaving no child but [only] a sister, she will have half of what he left. And he inherits from her if she [dies and] has no child. But if there are two sisters [or more], they will have two thirds of what he left. If there are both brothers and sisters, the male will have the share of two females. Allāh makes clear to you [His law], lest you go astray. And Allāh is Knowing of all things.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

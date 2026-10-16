@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "5:112",
+ "label": "Reference text: Quran 5:112, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/5/112?translations=20",
+ "urls_fetched": [
+  "https://quran.com/5/112?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:25:44Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "5:112",
+   "raw": "[And remember] when the disciples said, \"O Jesus, Son of Mary, can your Lord<sup foot_note=254295>1</sup> send down to us a table [spread with food] from the heaven?\" [Jesus] said, \"Fear Allāh, if you should be believers.\"",
+   "text": "[And remember] when the disciples said, \"O Jesus, Son of Mary, can your Lord send down to us a table [spread with food] from the heaven?\" [Jesus] said, \"Fear Allāh, if you should be believers.\"",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

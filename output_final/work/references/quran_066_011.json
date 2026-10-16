@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "66:11",
+ "label": "Reference text: Quran 66:11, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/66/11?translations=20",
+ "urls_fetched": [
+  "https://quran.com/66/11?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:27:24Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "66:11",
+   "raw": "And Allāh presents an example of those who believed: the wife of Pharaoh, when she said, \"My Lord, build for me near You a house in Paradise and save me from Pharaoh and his deeds and save me from the wrongdoing people.\"",
+   "text": "And Allāh presents an example of those who believed: the wife of Pharaoh, when she said, \"My Lord, build for me near You a house in Paradise and save me from Pharaoh and his deeds and save me from the wrongdoing people.\"",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

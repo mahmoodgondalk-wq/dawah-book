@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "45:6",
+ "label": "Reference text: Quran 45:6, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/45/6?translations=20",
+ "urls_fetched": [
+  "https://quran.com/45/6?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:23:17Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "45:6",
+   "raw": "These are the verses of Allāh which We recite to you in truth. Then in what statement after Allāh and His verses will they believe?",
+   "text": "These are the verses of Allāh which We recite to you in truth. Then in what statement after Allāh and His verses will they believe?",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

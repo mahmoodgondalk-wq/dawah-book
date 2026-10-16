@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "5:89",
+ "label": "Reference text: Quran 5:89, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/5/89?translations=20",
+ "urls_fetched": [
+  "https://quran.com/5/89?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:26:46Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "5:89",
+   "raw": "Allāh will not impose blame upon you for what is meaningless<sup foot_note=254286>1</sup> in your oaths, but He will impose blame upon you for [breaking] what you intended of oaths. So its expiation<sup foot_note=254285>2</sup> is the feeding of ten needy people from the average of that which you feed your [own] families or clothing them or the freeing of a slave. But whoever cannot find [or afford it] - then a fast of three days [is required]. That is the expiation for oaths when you have sworn. But guard your oaths.<sup foot_note=254287>3</sup> Thus does Allāh make clear to you His verses [i.e., revealed law] that you may be grateful.",
+   "text": "Allāh will not impose blame upon you for what is meaningless in your oaths, but He will impose blame upon you for [breaking] what you intended of oaths. So its expiation is the feeding of ten needy people from the average of that which you feed your [own] families or clothing them or the freeing of a slave. But whoever cannot find [or afford it] - then a fast of three days [is required]. That is the expiation for oaths when you have sworn. But guard your oaths. Thus does Allāh make clear to you His verses [i.e., revealed law] that you may be grateful.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

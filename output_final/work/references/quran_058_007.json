@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "58:7",
+ "label": "Reference text: Quran 58:7, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/58/7?translations=20",
+ "urls_fetched": [
+  "https://quran.com/58/7?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:25:37Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "58:7",
+   "raw": "Have you not considered that Allāh knows what is in the heavens and what is on the earth? There are not three in a private conversation but that He is the fourth of them,<sup foot_note=256970>1</sup> nor are there five but that He is the sixth of them - and no less than that and no more except that He is with them [in knowledge] wherever they are. Then He will inform them of what they did on the Day of Resurrection. Indeed Allāh is, of all things, Knowing.",
+   "text": "Have you not considered that Allāh knows what is in the heavens and what is on the earth? There are not three in a private conversation but that He is the fourth of them, nor are there five but that He is the sixth of them - and no less than that and no more except that He is with them [in knowledge] wherever they are. Then He will inform them of what they did on the Day of Resurrection. Indeed Allāh is, of all things, Knowing.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "4:48",
+ "label": "Reference text: Quran 4:48, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/4/48?translations=20",
+ "urls_fetched": [
+  "https://quran.com/4/48?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:24:34Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "4:48",
+   "raw": "Indeed, Allāh does not forgive association with Him, but He forgives what is less than that for whom He wills. And he who associates others with Allāh has certainly fabricated a tremendous sin.",
+   "text": "Indeed, Allāh does not forgive association with Him, but He forgives what is less than that for whom He wills. And he who associates others with Allāh has certainly fabricated a tremendous sin.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

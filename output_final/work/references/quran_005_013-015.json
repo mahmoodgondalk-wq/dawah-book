@@ -1,0 +1,33 @@
+{
+ "kind": "quran",
+ "ref": "5:13-15",
+ "label": "Reference text: Quran 5:13-15, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/5/13-15?translations=20",
+ "urls_fetched": [
+  "https://quran.com/5/13-15?translations=20",
+  "https://quran.com/5/14?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:25:54Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "5:13",
+   "raw": "So for their breaking of the covenant We cursed them and made their hearts hardened. They distort words from their [proper] places [i.e., usages] and have forgotten a portion of that of which they were reminded.<sup foot_note=254254>1</sup> And you will still observe deceit among them, except a few of them. But pardon them and overlook [their misdeeds]. Indeed, Allāh loves the doers of good.",
+   "text": "So for their breaking of the covenant We cursed them and made their hearts hardened. They distort words from their [proper] places [i.e., usages] and have forgotten a portion of that of which they were reminded. And you will still observe deceit among them, except a few of them. But pardon them and overlook [their misdeeds]. Indeed, Allāh loves the doers of good.",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "5:14",
+   "raw": "And from those who say, \"We are Christians\" We took their covenant; but they forgot a portion of that of which they were reminded.<sup foot_note=254255>1</sup> So We caused among them<sup foot_note=254256>2</sup> animosity and hatred until the Day of Resurrection. And Allāh is going to inform them about what they used to do.",
+   "text": "And from those who say, \"We are Christians\" We took their covenant; but they forgot a portion of that of which they were reminded. So We caused among them animosity and hatred until the Day of Resurrection. And Allāh is going to inform them about what they used to do.",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "5:15",
+   "raw": "O People of the Scripture, there has come to you Our Messenger making clear to you much of what you used to conceal of the Scripture and overlooking much.<sup foot_note=254257>1</sup> There has come to you from Allāh a light and a clear Book [i.e., the Qur’ān]",
+   "text": "O People of the Scripture, there has come to you Our Messenger making clear to you much of what you used to conceal of the Scripture and overlooking much. There has come to you from Allāh a light and a clear Book [i.e., the Qur’ān]",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

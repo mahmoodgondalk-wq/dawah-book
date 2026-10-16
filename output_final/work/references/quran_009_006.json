@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "9:6",
+ "label": "Reference text: Quran 9:6, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/9/6?translations=20",
+ "urls_fetched": [
+  "https://quran.com/9/6?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:31:05Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "9:6",
+   "raw": "And if any one of the polytheists seeks your protection, then grant him protection so that he may hear the words of Allāh [i.e., the Qur’ān]. Then deliver him to his place of safety. That is because they are a people who do not know.",
+   "text": "And if any one of the polytheists seeks your protection, then grant him protection so that he may hear the words of Allāh [i.e., the Qur’ān]. Then deliver him to his place of safety. That is because they are a people who do not know.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

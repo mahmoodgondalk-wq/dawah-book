@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "9:119",
+ "label": "Reference text: Quran 9:119, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/9/119?translations=20",
+ "urls_fetched": [
+  "https://quran.com/9/119?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:30:51Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "9:119",
+   "raw": "O you who have believed, fear Allāh and be with those who are true.",
+   "text": "O you who have believed, fear Allāh and be with those who are true.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "49:13",
+ "label": "Reference text: Quran 49:13, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/49/13?translations=20",
+ "urls_fetched": [
+  "https://quran.com/49/13?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:23:40Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "49:13",
+   "raw": "O mankind, indeed We have created you from male and female and made you peoples and tribes that you may know one another. Indeed, the most noble of you in the sight of Allāh is the most righteous<sup foot_note=256704>1</sup> of you. Indeed, Allāh is Knowing and Aware.",
+   "text": "O mankind, indeed We have created you from male and female and made you peoples and tribes that you may know one another. Indeed, the most noble of you in the sight of Allāh is the most righteous of you. Indeed, Allāh is Knowing and Aware.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "8:60",
+ "label": "Reference text: Quran 8:60, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/8/60?translations=20",
+ "urls_fetched": [
+  "https://quran.com/8/60?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:30:19Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "8:60",
+   "raw": "And prepare against them whatever you are able of power and of steeds of war<sup foot_note=254459>1</sup> by which you may terrify the enemy of Allāh and your enemy and others besides them whom you do not know [but] whom Allāh knows. And whatever you spend in the cause of Allāh will be fully repaid to you, and you will not be wronged.",
+   "text": "And prepare against them whatever you are able of power and of steeds of war by which you may terrify the enemy of Allāh and your enemy and others besides them whom you do not know [but] whom Allāh knows. And whatever you spend in the cause of Allāh will be fully repaid to you, and you will not be wronged.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

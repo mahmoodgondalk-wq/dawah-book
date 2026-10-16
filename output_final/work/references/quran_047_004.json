@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "47:4",
+ "label": "Reference text: Quran 47:4, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/47/4?translations=20",
+ "urls_fetched": [
+  "https://quran.com/47/4?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:23:31Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "47:4",
+   "raw": "So when you meet those who disbelieve [in battle], strike [their] necks until, when you have inflicted slaughter upon them, then secure [their] bonds,<sup foot_note=256648>1</sup> and either [confer] favor<sup foot_note=256646>2</sup> afterwards or ransom [them] until the war lays down its burdens.<sup foot_note=256649>3</sup> That [is the command]. And if Allāh had willed, He could have taken vengeance upon them [Himself], but [He ordered armed struggle] to test some of you by means of others. And those who are killed in the cause of Allāh - never will He waste their deeds.",
+   "text": "So when you meet those who disbelieve [in battle], strike [their] necks until, when you have inflicted slaughter upon them, then secure [their] bonds, and either [confer] favor afterwards or ransom [them] until the war lays down its burdens. That [is the command]. And if Allāh had willed, He could have taken vengeance upon them [Himself], but [He ordered armed struggle] to test some of you by means of others. And those who are killed in the cause of Allāh - never will He waste their deeds.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "kind": "quran",
+ "ref": "80:33-34",
+ "label": "Reference text: Quran 80:33-34, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/80/33-34?translations=20",
+ "urls_fetched": [
+  "https://quran.com/80/33-34?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:29:49Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "80:33",
+   "raw": "But when there comes the Deafening Blast<sup foot_note=257415>1</sup>",
+   "text": "But when there comes the Deafening Blast",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "80:34",
+   "raw": "On the Day a man will flee from his brother",
+   "text": "On the Day a man will flee from his brother",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

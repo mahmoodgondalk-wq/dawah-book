@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "5:67",
+ "label": "Reference text: Quran 5:67, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/5/67?translations=20",
+ "urls_fetched": [
+  "https://quran.com/5/67?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:26:30Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "5:67",
+   "raw": "O Messenger, announce that which has been revealed to you from your Lord, and if you do not, then you have not conveyed His message. And Allāh will protect you from the people. Indeed, Allāh does not guide the disbelieving people.",
+   "text": "O Messenger, announce that which has been revealed to you from your Lord, and if you do not, then you have not conveyed His message. And Allāh will protect you from the people. Indeed, Allāh does not guide the disbelieving people.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

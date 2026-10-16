@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "6:159",
+ "label": "Reference text: Quran 6:159, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/6/159?translations=20",
+ "urls_fetched": [
+  "https://quran.com/6/159?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:28:01Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "6:159",
+   "raw": "Indeed, those who have divided their religion and become sects - you, [O Muḥammad], are not [associated] with them in anything. Their affair is only [left] to Allāh; then He will inform them about what they used to do.",
+   "text": "Indeed, those who have divided their religion and become sects - you, [O Muḥammad], are not [associated] with them in anything. Their affair is only [left] to Allāh; then He will inform them about what they used to do.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

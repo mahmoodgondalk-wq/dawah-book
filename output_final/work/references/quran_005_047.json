@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "5:47",
+ "label": "Reference text: Quran 5:47, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/5/47?translations=20",
+ "urls_fetched": [
+  "https://quran.com/5/47?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:26:18Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "5:47",
+   "raw": "And let the People of the Gospel judge by what Allāh has revealed therein. And whoever does not judge by what Allāh has revealed - then it is those who are the defiantly disobedient.",
+   "text": "And let the People of the Gospel judge by what Allāh has revealed therein. And whoever does not judge by what Allāh has revealed - then it is those who are the defiantly disobedient.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

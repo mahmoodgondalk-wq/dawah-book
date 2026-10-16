@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "45:23",
+ "label": "Reference text: Quran 45:23, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/45/23?translations=20",
+ "urls_fetched": [
+  "https://quran.com/45/23?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:23:16Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "45:23",
+   "raw": "Have you seen he who has taken as his god his [own] desire, and Allāh has sent him astray due to knowledge<sup foot_note=256609>1</sup> and has set a seal upon his hearing and his heart and put over his vision a veil? So who will guide him after Allāh? Then will you not be reminded?",
+   "text": "Have you seen he who has taken as his god his [own] desire, and Allāh has sent him astray due to knowledge and has set a seal upon his hearing and his heart and put over his vision a veil? So who will guide him after Allāh? Then will you not be reminded?",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

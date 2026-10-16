@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "9:31",
+ "label": "Reference text: Quran 9:31, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/9/31?translations=20",
+ "urls_fetched": [
+  "https://quran.com/9/31?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:30:59Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "9:31",
+   "raw": "They have taken their scholars and monks as lords besides Allāh,<sup foot_note=254469>1</sup> and [also] the Messiah, the son of Mary.<sup foot_note=254470>2</sup> And they were not commanded except to worship one God; there is no deity except Him. Exalted is He above whatever they associate with Him.",
+   "text": "They have taken their scholars and monks as lords besides Allāh, and [also] the Messiah, the son of Mary. And they were not commanded except to worship one God; there is no deity except Him. Exalted is He above whatever they associate with Him.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

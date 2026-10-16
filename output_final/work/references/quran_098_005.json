@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "98:5",
+ "label": "Reference text: Quran 98:5, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/98/5?translations=20",
+ "urls_fetched": [
+  "https://quran.com/98/5?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:30:38Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "98:5",
+   "raw": "And they were not commanded except to worship Allāh, [being] sincere to Him in religion, inclining to truth, and to establish prayer and to give zakāh. And that is the correct religion.",
+   "text": "And they were not commanded except to worship Allāh, [being] sincere to Him in religion, inclining to truth, and to establish prayer and to give zakāh. And that is the correct religion.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

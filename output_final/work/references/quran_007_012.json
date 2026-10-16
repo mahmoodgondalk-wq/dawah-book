@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "7:12",
+ "label": "Reference text: Quran 7:12, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/7/12?translations=20",
+ "urls_fetched": [
+  "https://quran.com/7/12?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:29:06Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "7:12",
+   "raw": "[Allāh] said, \"What prevented you from prostrating when I commanded you?\" [Satan] said, \"I am better than him. You created me from fire and created him from clay [i.e., earth].\"",
+   "text": "[Allāh] said, \"What prevented you from prostrating when I commanded you?\" [Satan] said, \"I am better than him. You created me from fire and created him from clay [i.e., earth].\"",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

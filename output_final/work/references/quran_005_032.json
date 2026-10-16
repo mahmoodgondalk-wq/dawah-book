@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "5:32",
+ "label": "Reference text: Quran 5:32, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/5/32?translations=20",
+ "urls_fetched": [
+  "https://quran.com/5/32?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:26:01Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "5:32",
+   "raw": "Because of that, We decreed upon the Children of Israel that whoever kills a soul unless for a soul<sup foot_note=254264>1</sup> or for corruption [done] in the land<sup foot_note=254265>2</sup> - it is as if he had slain mankind entirely. And whoever saves one<sup foot_note=254266>3</sup> - it is as if he had saved mankind entirely. And Our messengers had certainly come to them with clear proofs. Then indeed many of them, [even] after that, throughout the land, were transgressors.<sup foot_note=254267>4</sup>",
+   "text": "Because of that, We decreed upon the Children of Israel that whoever kills a soul unless for a soul or for corruption [done] in the land - it is as if he had slain mankind entirely. And whoever saves one - it is as if he had saved mankind entirely. And Our messengers had certainly come to them with clear proofs. Then indeed many of them, [even] after that, throughout the land, were transgressors.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

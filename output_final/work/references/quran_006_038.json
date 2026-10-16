@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "6:38",
+ "label": "Reference text: Quran 6:38, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/6/38?translations=20",
+ "urls_fetched": [
+  "https://quran.com/6/38?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:28:07Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "6:38",
+   "raw": "And there is no creature on [or within] the earth or bird that flies with its wings except [that they are] communities like you. We have not neglected in the Register<sup foot_note=254307>1</sup> a thing. Then unto their Lord they will be gathered.",
+   "text": "And there is no creature on [or within] the earth or bird that flies with its wings except [that they are] communities like you. We have not neglected in the Register a thing. Then unto their Lord they will be gathered.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

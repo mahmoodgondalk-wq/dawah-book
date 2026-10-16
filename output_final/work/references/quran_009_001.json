@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "9:1",
+ "label": "Reference text: Quran 9:1, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/9/1?translations=20",
+ "urls_fetched": [
+  "https://quran.com/9/1?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:30:42Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "9:1",
+   "raw": "[This is a declaration of] disassociation, from Allāh and His Messenger, to those with whom you had made a treaty among the polytheists.<sup foot_note=254463>1</sup>",
+   "text": "[This is a declaration of] disassociation, from Allāh and His Messenger, to those with whom you had made a treaty among the polytheists.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

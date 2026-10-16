@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "4:56",
+ "label": "Reference text: Quran 4:56, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/4/56?translations=20",
+ "urls_fetched": [
+  "https://quran.com/4/56?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:24:35Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "4:56",
+   "raw": "Indeed, those who disbelieve in Our verses - We will drive them into a fire. Every time their skins are roasted through, We will replace them with other skins so they may taste the punishment. Indeed, Allāh is ever Exalted in Might and Wise.",
+   "text": "Indeed, those who disbelieve in Our verses - We will drive them into a fire. Every time their skins are roasted through, We will replace them with other skins so they may taste the punishment. Indeed, Allāh is ever Exalted in Might and Wise.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

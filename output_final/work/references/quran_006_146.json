@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "6:146",
+ "label": "Reference text: Quran 6:146, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/6/146?translations=20",
+ "urls_fetched": [
+  "https://quran.com/6/146?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:27:55Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "6:146",
+   "raw": "And to those who are Jews We prohibited every animal of uncloven hoof; and of the cattle and the sheep We prohibited to them their fat, except what adheres to their backs or the entrails or what is joined with bone. [By] that We repaid them for their transgression. And indeed, We are truthful.",
+   "text": "And to those who are Jews We prohibited every animal of uncloven hoof; and of the cattle and the sheep We prohibited to them their fat, except what adheres to their backs or the entrails or what is joined with bone. [By] that We repaid them for their transgression. And indeed, We are truthful.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "57:25",
+ "label": "Reference text: Quran 57:25, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/57/25?translations=20",
+ "urls_fetched": [
+  "https://quran.com/57/25?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:25:32Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "57:25",
+   "raw": "We have already sent Our messengers with clear evidences and sent down with them the Scripture and the balance that the people may maintain [their affairs] in justice. And We sent down iron, wherein is great military might and benefits for the people, and so that Allāh may make evident those who support Him and His messengers unseen. Indeed, Allāh is Powerful and Exalted in Might.",
+   "text": "We have already sent Our messengers with clear evidences and sent down with them the Scripture and the balance that the people may maintain [their affairs] in justice. And We sent down iron, wherein is great military might and benefits for the people, and so that Allāh may make evident those who support Him and His messengers unseen. Indeed, Allāh is Powerful and Exalted in Might.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "kind": "quran",
+ "ref": "46:29-30",
+ "label": "Reference text: Quran 46:29-30, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/46/29-30?translations=20",
+ "urls_fetched": [
+  "https://quran.com/46/29-30?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:23:21Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "46:29",
+   "raw": "And [mention, O Muḥammad], when We directed to you a few of the jinn, listening to the Qur’ān. And when they attended it, they said, \"Listen attentively.\" And when it was concluded, they went back to their people as warners.",
+   "text": "And [mention, O Muḥammad], when We directed to you a few of the jinn, listening to the Qur’ān. And when they attended it, they said, \"Listen attentively.\" And when it was concluded, they went back to their people as warners.",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "46:30",
+   "raw": "They said, \"O our people, indeed we have heard a [recited] Book revealed after Moses confirming what was before it which guides to the truth and to a straight path.",
+   "text": "They said, \"O our people, indeed we have heard a [recited] Book revealed after Moses confirming what was before it which guides to the truth and to a straight path.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

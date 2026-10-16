@@ -1,0 +1,46 @@
+{
+ "kind": "quran",
+ "ref": "5:44-48",
+ "label": "Reference text: Quran 5:44-48, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/5/44-48?translations=20",
+ "urls_fetched": [
+  "https://quran.com/5/44-48?translations=20",
+  "https://quran.com/5/46?translations=20",
+  "https://quran.com/5/48?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:26:13Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "5:44",
+   "raw": "Indeed, We sent down the Torah, in which was guidance and light. The prophets who submitted [to Allāh] judged by it for the Jews, as did the rabbis and scholars by that with which they were entrusted of the Scripture of Allāh, and they were witnesses thereto. So do not fear the people but fear Me, and do not exchange My verses for a small price [i.e., worldly gain]. And whoever does not judge by what Allāh has revealed - then it is those who are the disbelievers.",
+   "text": "Indeed, We sent down the Torah, in which was guidance and light. The prophets who submitted [to Allāh] judged by it for the Jews, as did the rabbis and scholars by that with which they were entrusted of the Scripture of Allāh, and they were witnesses thereto. So do not fear the people but fear Me, and do not exchange My verses for a small price [i.e., worldly gain]. And whoever does not judge by what Allāh has revealed - then it is those who are the disbelievers.",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "5:45",
+   "raw": "And We ordained for them therein a life for a life, an eye for an eye, a nose for a nose, an ear for an ear, a tooth for a tooth, and for wounds is legal retribution. But whoever gives [up his right as] charity, it is an expiation for him. And whoever does not judge by what Allāh has revealed - then it is those who are the wrongdoers [i.e., the unjust].",
+   "text": "And We ordained for them therein a life for a life, an eye for an eye, a nose for a nose, an ear for an ear, a tooth for a tooth, and for wounds is legal retribution. But whoever gives [up his right as] charity, it is an expiation for him. And whoever does not judge by what Allāh has revealed - then it is those who are the wrongdoers [i.e., the unjust].",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "5:46",
+   "raw": "And We sent, following in their footsteps,<sup foot_note=254273>1</sup> Jesus, the son of Mary, confirming that which came before him in the Torah; and We gave him the Gospel, in which was guidance and light and confirming that which preceded it of the Torah as guidance and instruction for the righteous.",
+   "text": "And We sent, following in their footsteps, Jesus, the son of Mary, confirming that which came before him in the Torah; and We gave him the Gospel, in which was guidance and light and confirming that which preceded it of the Torah as guidance and instruction for the righteous.",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "5:47",
+   "raw": "And let the People of the Gospel judge by what Allāh has revealed therein. And whoever does not judge by what Allāh has revealed - then it is those who are the defiantly disobedient.",
+   "text": "And let the People of the Gospel judge by what Allāh has revealed therein. And whoever does not judge by what Allāh has revealed - then it is those who are the defiantly disobedient.",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "5:48",
+   "raw": "And We have revealed to you, [O Muḥammad], the Book [i.e., the Qur’ān] in truth, confirming that which preceded it of the Scripture and as a criterion over it. So judge between them by what Allāh has revealed and do not follow their inclinations away from what has come to you of the truth. To each of you We prescribed a law and a method.<sup foot_note=254274>1</sup> Had Allāh willed, He would have made you one nation [united in religion], but [He intended] to test you in what He has given you; so race to [all that is] good.<sup foot_note=254275>2</sup> To Allāh is your return all together, and He will [then] inform you concerning that over which you used to differ.",
+   "text": "And We have revealed to you, [O Muḥammad], the Book [i.e., the Qur’ān] in truth, confirming that which preceded it of the Scripture and as a criterion over it. So judge between them by what Allāh has revealed and do not follow their inclinations away from what has come to you of the truth. To each of you We prescribed a law and a method. Had Allāh willed, He would have made you one nation [united in religion], but [He intended] to test you in what He has given you; so race to [all that is] good. To Allāh is your return all together, and He will [then] inform you concerning that over which you used to differ.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

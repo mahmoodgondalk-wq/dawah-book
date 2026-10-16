@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "4:135",
+ "label": "Reference text: Quran 4:135, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/4/135?translations=20",
+ "urls_fetched": [
+  "https://quran.com/4/135?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:24:02Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "4:135",
+   "raw": "O you who have believed, be persistently standing firm in justice, witnesses for Allāh, even if it be against yourselves or parents and relatives. Whether one is rich or poor, Allāh is more worthy of both.<sup foot_note=254229>1</sup> So follow not [personal] inclination, lest you not be just. And if you distort [your testimony] or refuse [to give it], then indeed Allāh is ever, of what you do, Aware.",
+   "text": "O you who have believed, be persistently standing firm in justice, witnesses for Allāh, even if it be against yourselves or parents and relatives. Whether one is rich or poor, Allāh is more worthy of both. So follow not [personal] inclination, lest you not be just. And if you distort [your testimony] or refuse [to give it], then indeed Allāh is ever, of what you do, Aware.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

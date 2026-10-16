@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "6:65",
+ "label": "Reference text: Quran 6:65, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/6/65?translations=20",
+ "urls_fetched": [
+  "https://quran.com/6/65?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:28:13Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "6:65",
+   "raw": "Say, \"He is the [one] Able to send upon you affliction from above you or from beneath your feet or to confuse you [so you become] sects<sup foot_note=254319>1</sup> and make you taste the violence of one another.\" Look how We diversify the signs that they might understand.",
+   "text": "Say, \"He is the [one] Able to send upon you affliction from above you or from beneath your feet or to confuse you [so you become] sects and make you taste the violence of one another.\" Look how We diversify the signs that they might understand.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

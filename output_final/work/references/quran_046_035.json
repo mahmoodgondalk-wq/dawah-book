@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "46:35",
+ "label": "Reference text: Quran 46:35, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/46/35?translations=20",
+ "urls_fetched": [
+  "https://quran.com/46/35?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:23:23Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "46:35",
+   "raw": "So be patient, [O Muḥammad], as were those of determination among the messengers and do not be impatient for them.<sup foot_note=256642>1</sup> It will be - on the Day they see that which they are promised - as though they had not remained [in the world] except an hour of a day. [This is] notification. And will [any] be destroyed except the defiantly disobedient people?",
+   "text": "So be patient, [O Muḥammad], as were those of determination among the messengers and do not be impatient for them. It will be - on the Day they see that which they are promised - as though they had not remained [in the world] except an hour of a day. [This is] notification. And will [any] be destroyed except the defiantly disobedient people?",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "64:16",
+ "label": "Reference text: Quran 64:16, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/64/16?translations=20",
+ "urls_fetched": [
+  "https://quran.com/64/16?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:27:18Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "64:16",
+   "raw": "So fear Allāh as much as you are able and listen and obey and spend [in the way of Allāh]; it is better for your selves. And whoever is protected from the stinginess of his soul - it is those who will be the successful.",
+   "text": "So fear Allāh as much as you are able and listen and obey and spend [in the way of Allāh]; it is better for your selves. And whoever is protected from the stinginess of his soul - it is those who will be the successful.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "62:10",
+ "label": "Reference text: Quran 62:10, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/62/10?translations=20",
+ "urls_fetched": [
+  "https://quran.com/62/10?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:27:09Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "62:10",
+   "raw": "And when the prayer has been concluded, disperse within the land and seek from the bounty of Allāh, and remember Allāh often that you may succeed.",
+   "text": "And when the prayer has been concluded, disperse within the land and seek from the bounty of Allāh, and remember Allāh often that you may succeed.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

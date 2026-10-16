@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "59:7",
+ "label": "Reference text: Quran 59:7, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/59/7?translations=20",
+ "urls_fetched": [
+  "https://quran.com/59/7?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:25:38Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "59:7",
+   "raw": "And what Allāh restored to His Messenger from the people of the towns - it is for Allāh and for the Messenger and for [his] near relatives<sup foot_note=256988>1</sup> and orphans and the needy and the [stranded] traveler<sup foot_note=256989>2</sup> - so that it will not be a perpetual distribution among the rich from among you. And whatever the Messenger has given you - take; and what he has forbidden you - refrain from. And fear Allāh; indeed, Allāh is severe in penalty.",
+   "text": "And what Allāh restored to His Messenger from the people of the towns - it is for Allāh and for the Messenger and for [his] near relatives and orphans and the needy and the [stranded] traveler - so that it will not be a perpetual distribution among the rich from among you. And whatever the Messenger has given you - take; and what he has forbidden you - refrain from. And fear Allāh; indeed, Allāh is severe in penalty.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

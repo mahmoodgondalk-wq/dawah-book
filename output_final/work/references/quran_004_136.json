@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "4:136",
+ "label": "Reference text: Quran 4:136, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/4/136?translations=20",
+ "urls_fetched": [
+  "https://quran.com/4/136?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:24:03Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "4:136",
+   "raw": "O you who have believed, believe<sup foot_note=254230>1</sup> in Allāh and His Messenger and the Book that He sent down upon His Messenger and the Scripture which He sent down before. And whoever disbelieves in Allāh, His angels, His books, His messengers, and the Last Day has certainly gone far astray.",
+   "text": "O you who have believed, believe in Allāh and His Messenger and the Book that He sent down upon His Messenger and the Scripture which He sent down before. And whoever disbelieves in Allāh, His angels, His books, His messengers, and the Last Day has certainly gone far astray.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

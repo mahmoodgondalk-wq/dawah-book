@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "7:200",
+ "label": "Reference text: Quran 7:200, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/7/200?translations=20",
+ "urls_fetched": [
+  "https://quran.com/7/200?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:29:29Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "7:200",
+   "raw": "And if an evil suggestion comes to you from Satan, then seek refuge in Allāh. Indeed, He is Hearing and Knowing.",
+   "text": "And if an evil suggestion comes to you from Satan, then seek refuge in Allāh. Indeed, He is Hearing and Knowing.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

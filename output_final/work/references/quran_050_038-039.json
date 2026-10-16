@@ -1,0 +1,26 @@
+{
+ "kind": "quran",
+ "ref": "50:38-39",
+ "label": "Reference text: Quran 50:38-39, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/50/38-39?translations=20",
+ "urls_fetched": [
+  "https://quran.com/50/38-39?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:24:52Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "50:38",
+   "raw": "And We did certainly create the heavens and earth and what is between them in six days, and there touched Us no weariness.",
+   "text": "And We did certainly create the heavens and earth and what is between them in six days, and there touched Us no weariness.",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "50:39",
+   "raw": "So be patient, [O Muḥammad], over what they say and exalt [Allāh] with praise of your Lord before the rising of the sun and before its setting,",
+   "text": "So be patient, [O Muḥammad], over what they say and exalt [Allāh] with praise of your Lord before the rising of the sun and before its setting,",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

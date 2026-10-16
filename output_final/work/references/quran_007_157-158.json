@@ -1,0 +1,26 @@
+{
+ "kind": "quran",
+ "ref": "7:157-158",
+ "label": "Reference text: Quran 7:157-158, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/7/157-158?translations=20",
+ "urls_fetched": [
+  "https://quran.com/7/157-158?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:29:12Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "7:157",
+   "raw": "Those who follow the Messenger, the unlettered prophet, whom they find written [i.e., described] in what they have of the Torah and the Gospel, who enjoins upon them what is right and prohibits them from what is wrong and makes lawful for them what is good and forbids them from what is evil and relieves them of their burden<sup foot_note=254414>1</sup> and the shackles which were upon them.<sup foot_note=254415>2</sup> So they who have believed in him, honored him, supported him and followed the light which was sent down with him - it is those who will be the successful.",
+   "text": "Those who follow the Messenger, the unlettered prophet, whom they find written [i.e., described] in what they have of the Torah and the Gospel, who enjoins upon them what is right and prohibits them from what is wrong and makes lawful for them what is good and forbids them from what is evil and relieves them of their burden and the shackles which were upon them. So they who have believed in him, honored him, supported him and followed the light which was sent down with him - it is those who will be the successful.",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "7:158",
+   "raw": "Say, [O Muḥammad], \"O mankind, indeed I am the Messenger of Allāh to you all, [from Him] to whom belongs the dominion of the heavens and the earth. There is no deity except Him; He gives life and causes death.\" So believe in Allāh and His Messenger, the unlettered prophet, who believes in Allāh and His words, and follow him that you may be guided.",
+   "text": "Say, [O Muḥammad], \"O mankind, indeed I am the Messenger of Allāh to you all, [from Him] to whom belongs the dominion of the heavens and the earth. There is no deity except Him; He gives life and causes death.\" So believe in Allāh and His Messenger, the unlettered prophet, who believes in Allāh and His words, and follow him that you may be guided.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

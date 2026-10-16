@@ -1,0 +1,116 @@
+{
+ "kind": "quran",
+ "ref": "68:17-33",
+ "label": "Reference text: Quran 68:17-33, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/68/17-33?translations=20",
+ "urls_fetched": [
+  "https://quran.com/68/17-33?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:27:36Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "68:17",
+   "raw": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning",
+   "text": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "68:18",
+   "raw": "Without making exception.<sup foot_note=257125>1</sup>",
+   "text": "Without making exception.",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "68:19",
+   "raw": "So there came upon it [i.e., the garden] an affliction from your Lord while they were asleep.",
+   "text": "So there came upon it [i.e., the garden] an affliction from your Lord while they were asleep.",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "68:20",
+   "raw": "And it became as though reaped.",
+   "text": "And it became as though reaped.",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "68:21",
+   "raw": "And they called one another at morning,",
+   "text": "And they called one another at morning,",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "68:22",
+   "raw": "[Saying], \"Go early to your crop if you would cut the fruit.\"",
+   "text": "[Saying], \"Go early to your crop if you would cut the fruit.\"",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "68:23",
+   "raw": "So they set out, while lowering their voices,",
+   "text": "So they set out, while lowering their voices,",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "68:24",
+   "raw": "[Saying], \"There will surely not enter it today upon you [any] poor person.\"",
+   "text": "[Saying], \"There will surely not enter it today upon you [any] poor person.\"",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "68:25",
+   "raw": "And they went early in determination, [assuming themselves] able.<sup foot_note=257127>1</sup>",
+   "text": "And they went early in determination, [assuming themselves] able.",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "68:26",
+   "raw": "But when they saw it, they said, \"Indeed, we are lost;",
+   "text": "But when they saw it, they said, \"Indeed, we are lost;",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "68:27",
+   "raw": "Rather, we have been deprived.\"",
+   "text": "Rather, we have been deprived.\"",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "68:28",
+   "raw": "The most moderate of them said, \"Did I not say to you, 'Why do you not exalt [Allāh]?'\"<sup foot_note=257129>1</sup>",
+   "text": "The most moderate of them said, \"Did I not say to you, 'Why do you not exalt [Allāh]?'\"",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "68:29",
+   "raw": "They said, \"Exalted is our Lord! Indeed, we were wrongdoers.\"",
+   "text": "They said, \"Exalted is our Lord! Indeed, we were wrongdoers.\"",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "68:30",
+   "raw": "Then they approached one another, blaming each other.",
+   "text": "Then they approached one another, blaming each other.",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "68:31",
+   "raw": "They said, \"O woe to us; indeed we were transgressors.",
+   "text": "They said, \"O woe to us; indeed we were transgressors.",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "68:32",
+   "raw": "Perhaps our Lord will substitute for us [one] better than it. Indeed, we are toward our Lord desirous.\"<sup foot_note=257131>1</sup>",
+   "text": "Perhaps our Lord will substitute for us [one] better than it. Indeed, we are toward our Lord desirous.\"",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "68:33",
+   "raw": "Such is the punishment [of this world]. And the punishment of the Hereafter is greater, if they only knew.",
+   "text": "Such is the punishment [of this world]. And the punishment of the Hereafter is greater, if they only knew.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

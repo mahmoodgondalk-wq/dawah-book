@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "4:11",
+ "label": "Reference text: Quran 4:11, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/4/11?translations=20",
+ "urls_fetched": [
+  "https://quran.com/4/11?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:23:53Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "4:11",
+   "raw": "Allāh instructs you concerning your children [i.e., their portions of inheritance]: for the male, what is equal to the share of two females. But if there are [only] daughters, two or more, for them is two thirds of one's estate.<sup foot_note=254171>1</sup> And if there is only one, for her is half. And for one's parents, to each one of them is a sixth of his estate if he left children. But if he had no children and the parents [alone] inherit from him, then for his mother is one third. And if he had brothers [and/or sisters], for his mother is a sixth,<sup foot_note=254170>2</sup> after any bequest he [may have] made or debt.<sup foot_note=254172>3</sup> Your parents or your children - you know not which of them are nearest to you in benefit. [These shares are] an obligation [imposed] by Allāh. Indeed, Allāh is ever Knowing and Wise.",
+   "text": "Allāh instructs you concerning your children [i.e., their portions of inheritance]: for the male, what is equal to the share of two females. But if there are [only] daughters, two or more, for them is two thirds of one's estate. And if there is only one, for her is half. And for one's parents, to each one of them is a sixth of his estate if he left children. But if he had no children and the parents [alone] inherit from him, then for his mother is one third. And if he had brothers [and/or sisters], for his mother is a sixth, after any bequest he [may have] made or debt. Your parents or your children - you know not which of them are nearest to you in benefit. [These shares are] an obligation [imposed] by Allāh. Indeed, Allāh is ever Knowing and Wise.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

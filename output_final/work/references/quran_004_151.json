@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "4:151",
+ "label": "Reference text: Quran 4:151, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/4/151?translations=20",
+ "urls_fetched": [
+  "https://quran.com/4/151?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:24:09Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "4:151",
+   "raw": "Those are the disbelievers, truly. And We have prepared for the disbelievers a humiliating punishment.",
+   "text": "Those are the disbelievers, truly. And We have prepared for the disbelievers a humiliating punishment.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

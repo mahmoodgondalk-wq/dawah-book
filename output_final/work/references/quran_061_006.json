@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "61:6",
+ "label": "Reference text: Quran 61:6, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/61/6?translations=20",
+ "urls_fetched": [
+  "https://quran.com/61/6?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:27:06Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "61:6",
+   "raw": "And [mention] when Jesus, the son of Mary, said, \"O Children of Israel, indeed I am the messenger of Allāh to you confirming what came before me of the Torah and bringing good tidings of a messenger to come after me, whose name is Aḥmad.\"<sup foot_note=257031>1</sup> But when he came to them with clear evidences, they said, \"This is obvious magic.\"<sup foot_note=257032>2</sup>",
+   "text": "And [mention] when Jesus, the son of Mary, said, \"O Children of Israel, indeed I am the messenger of Allāh to you confirming what came before me of the Torah and bringing good tidings of a messenger to come after me, whose name is Aḥmad.\" But when he came to them with clear evidences, they said, \"This is obvious magic.\"",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

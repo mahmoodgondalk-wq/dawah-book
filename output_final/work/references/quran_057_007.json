@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "57:7",
+ "label": "Reference text: Quran 57:7, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/57/7?translations=20",
+ "urls_fetched": [
+  "https://quran.com/57/7?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:25:35Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "57:7",
+   "raw": "Believe in Allāh and His Messenger and spend out of that in which He has made you successive inheritors. For those who have believed among you and spent,<sup foot_note=256942>1</sup> there will be a great reward.",
+   "text": "Believe in Allāh and His Messenger and spend out of that in which He has made you successive inheritors. For those who have believed among you and spent, there will be a great reward.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

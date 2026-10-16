@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "42:30",
+ "label": "Reference text: Quran 42:30, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/42/30?translations=20",
+ "urls_fetched": [
+  "https://quran.com/42/30?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:22:58Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "42:30",
+   "raw": "And whatever strikes you of disaster - it is for what your hands have earned; but He pardons much.",
+   "text": "And whatever strikes you of disaster - it is for what your hands have earned; but He pardons much.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

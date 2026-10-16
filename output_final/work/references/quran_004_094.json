@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "4:94",
+ "label": "Reference text: Quran 4:94, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/4/94?translations=20",
+ "urls_fetched": [
+  "https://quran.com/4/94?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:24:46Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "4:94",
+   "raw": "O you who have believed, when you go forth [to fight] in the cause of Allāh, investigate; and do not say to one who gives you [a greeting of] peace, \"You are not a believer,\"<sup foot_note=254217>1</sup> aspiring for the goods of worldly life; for with Allāh are many acquisitions. You [yourselves] were like that before; then Allāh conferred His favor [i.e., guidance] upon you, so investigate. Indeed Allāh is ever, of what you do, Aware.",
+   "text": "O you who have believed, when you go forth [to fight] in the cause of Allāh, investigate; and do not say to one who gives you [a greeting of] peace, \"You are not a believer,\" aspiring for the goods of worldly life; for with Allāh are many acquisitions. You [yourselves] were like that before; then Allāh conferred His favor [i.e., guidance] upon you, so investigate. Indeed Allāh is ever, of what you do, Aware.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

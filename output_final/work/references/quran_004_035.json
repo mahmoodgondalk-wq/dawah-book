@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "4:35",
+ "label": "Reference text: Quran 4:35, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/4/35?translations=20",
+ "urls_fetched": [
+  "https://quran.com/4/35?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:24:26Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "4:35",
+   "raw": "And if you fear dissension between the two, send an arbitrator from his people and an arbitrator from her people. If they both desire reconciliation, Allāh will cause it between them. Indeed, Allāh is ever Knowing and Aware.",
+   "text": "And if you fear dissension between the two, send an arbitrator from his people and an arbitrator from her people. If they both desire reconciliation, Allāh will cause it between them. Indeed, Allāh is ever Knowing and Aware.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

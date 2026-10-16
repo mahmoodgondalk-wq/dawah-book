@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "49:15",
+ "label": "Reference text: Quran 49:15, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/49/15?translations=20",
+ "urls_fetched": [
+  "https://quran.com/49/15?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:23:41Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "49:15",
+   "raw": "The believers are only the ones who have believed in Allāh and His Messenger and then doubt not but strive with their properties and their lives in the cause of Allāh. It is those who are the truthful.",
+   "text": "The believers are only the ones who have believed in Allāh and His Messenger and then doubt not but strive with their properties and their lives in the cause of Allāh. It is those who are the truthful.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

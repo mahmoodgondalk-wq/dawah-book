@@ -1,0 +1,44 @@
+{
+ "kind": "quran",
+ "ref": "6:75-79",
+ "label": "Reference text: Quran 6:75-79, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/6/75-79?translations=20",
+ "urls_fetched": [
+  "https://quran.com/6/75-79?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:28:15Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "6:75",
+   "raw": "And thus did We show Abraham the realm of the heavens and the earth that he would be among the certain [in faith].",
+   "text": "And thus did We show Abraham the realm of the heavens and the earth that he would be among the certain [in faith].",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "6:76",
+   "raw": "So when the night covered him [with darkness], he saw a star. He said, \"This is my lord.\"<sup foot_note=254327>1</sup> But when it set, he said, \"I like not those that set [i.e., disappear].\"",
+   "text": "So when the night covered him [with darkness], he saw a star. He said, \"This is my lord.\" But when it set, he said, \"I like not those that set [i.e., disappear].\"",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "6:77",
+   "raw": "And when he saw the moon rising, he said, \"This is my lord.\" But when it set, he said, \"Unless my Lord guides me, I will surely be among the people gone astray.\"",
+   "text": "And when he saw the moon rising, he said, \"This is my lord.\" But when it set, he said, \"Unless my Lord guides me, I will surely be among the people gone astray.\"",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "6:78",
+   "raw": "And when he saw the sun rising, he said, \"This is my lord; this is greater.\" But when it set, he said, \"O my people, indeed I am free from what you associate with Allāh.",
+   "text": "And when he saw the sun rising, he said, \"This is my lord; this is greater.\" But when it set, he said, \"O my people, indeed I am free from what you associate with Allāh.",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "6:79",
+   "raw": "Indeed, I have turned my face [i.e., self] toward He who created the heavens and the earth, inclining toward truth, and I am not of those who associate others with Allāh.\"",
+   "text": "Indeed, I have turned my face [i.e., self] toward He who created the heavens and the earth, inclining toward truth, and I am not of those who associate others with Allāh.\"",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "41:53",
+ "label": "Reference text: Quran 41:53, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/41/53?translations=20",
+ "urls_fetched": [
+  "https://quran.com/41/53?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:22:50Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "41:53",
+   "raw": "We will show them Our signs in the horizons and within themselves until it becomes clear to them that it is the truth.<sup foot_note=256445>1</sup> But is it not sufficient concerning your Lord that He is, over all things, a Witness?<sup foot_note=256446>2</sup>",
+   "text": "We will show them Our signs in the horizons and within themselves until it becomes clear to them that it is the truth. But is it not sufficient concerning your Lord that He is, over all things, a Witness?",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

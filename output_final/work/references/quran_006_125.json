@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "6:125",
+ "label": "Reference text: Quran 6:125, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/6/125?translations=20",
+ "urls_fetched": [
+  "https://quran.com/6/125?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:27:50Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "6:125",
+   "raw": "So whoever Allāh wants to guide - He expands his breast to [contain] Islām; and whoever He wants to send astray<sup foot_note=254347>1</sup> - He makes his breast tight and constricted as though he were climbing into the sky. Thus does Allāh place defilement upon those who do not believe.",
+   "text": "So whoever Allāh wants to guide - He expands his breast to [contain] Islām; and whoever He wants to send astray - He makes his breast tight and constricted as though he were climbing into the sky. Thus does Allāh place defilement upon those who do not believe.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

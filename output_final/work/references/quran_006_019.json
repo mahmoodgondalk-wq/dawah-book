@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "6:19",
+ "label": "Reference text: Quran 6:19, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/6/19?translations=20",
+ "urls_fetched": [
+  "https://quran.com/6/19?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:28:04Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "6:19",
+   "raw": "Say, \"What thing is greatest in testimony?\" Say, \"Allāh is witness between me and you. And this Qur’ān was revealed to me that I may warn you thereby and whomever it reaches.<sup foot_note=254303>1</sup> Do you [truly] testify that with Allāh there are other deities?\" Say, \"I will not testify [with you].\" Say, \"Indeed, He is but one God, and indeed, I am free of what you associate [with Him].\"",
+   "text": "Say, \"What thing is greatest in testimony?\" Say, \"Allāh is witness between me and you. And this Qur’ān was revealed to me that I may warn you thereby and whomever it reaches. Do you [truly] testify that with Allāh there are other deities?\" Say, \"I will not testify [with you].\" Say, \"Indeed, He is but one God, and indeed, I am free of what you associate [with Him].\"",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "6:91",
+ "label": "Reference text: Quran 6:91, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/6/91?translations=20",
+ "urls_fetched": [
+  "https://quran.com/6/91?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:28:22Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "6:91",
+   "raw": "And they did not appraise Allāh with true appraisal<sup foot_note=254330>1</sup> when they said, \"Allāh did not reveal to a human being anything.\" Say, \"Who revealed the Scripture that Moses brought as light and guidance to the people? You [Jews] make it into pages, disclosing [some of] it and concealing much. And you<sup foot_note=254329>2</sup> were taught that which you knew not - neither you nor your fathers.\" Say, \"Allāh [revealed it].\" Then leave them in their [empty] discourse, amusing themselves.",
+   "text": "And they did not appraise Allāh with true appraisal when they said, \"Allāh did not reveal to a human being anything.\" Say, \"Who revealed the Scripture that Moses brought as light and guidance to the people? You [Jews] make it into pages, disclosing [some of] it and concealing much. And you were taught that which you knew not - neither you nor your fathers.\" Say, \"Allāh [revealed it].\" Then leave them in their [empty] discourse, amusing themselves.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

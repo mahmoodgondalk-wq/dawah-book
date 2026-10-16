@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "9:100",
+ "label": "Reference text: Quran 9:100, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/9/100?translations=20",
+ "urls_fetched": [
+  "https://quran.com/9/100?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:30:44Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "9:100",
+   "raw": "And the first forerunners [in the faith] among the Muhājireen<sup foot_note=254502>1</sup> and the Anṣār<sup foot_note=254503>2</sup> and those who followed them with good conduct - Allāh is pleased with them and they are pleased with Him, and He has prepared for them gardens beneath which rivers flow, wherein they will abide forever. That is the great attainment.",
+   "text": "And the first forerunners [in the faith] among the Muhājireen and the Anṣār and those who followed them with good conduct - Allāh is pleased with them and they are pleased with Him, and He has prepared for them gardens beneath which rivers flow, wherein they will abide forever. That is the great attainment.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

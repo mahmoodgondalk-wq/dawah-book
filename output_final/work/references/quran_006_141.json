@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "6:141",
+ "label": "Reference text: Quran 6:141, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/6/141?translations=20",
+ "urls_fetched": [
+  "https://quran.com/6/141?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:27:53Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "6:141",
+   "raw": "And He it is who causes gardens to grow, [both] trellised and untrellised, and palm trees and crops of different [kinds of] food and olives and pomegranates, similar and dissimilar. Eat of [each of] its fruit when it yields and give its due [zakāh] on the day of its harvest. And be not excessive.<sup foot_note=254360>1</sup> Indeed, He does not like those who commit excess.",
+   "text": "And He it is who causes gardens to grow, [both] trellised and untrellised, and palm trees and crops of different [kinds of] food and olives and pomegranates, similar and dissimilar. Eat of [each of] its fruit when it yields and give its due [zakāh] on the day of its harvest. And be not excessive. Indeed, He does not like those who commit excess.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

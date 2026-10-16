@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "6:59",
+ "label": "Reference text: Quran 6:59, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/6/59?translations=20",
+ "urls_fetched": [
+  "https://quran.com/6/59?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:28:10Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "6:59",
+   "raw": "And with Him are the keys of the unseen; none knows them except Him. And He knows what is on the land and in the sea. Not a leaf falls but that He knows it. And no grain is there within the darknesses of the earth and no moist or dry [thing] but that it is [written] in a clear record.",
+   "text": "And with Him are the keys of the unseen; none knows them except Him. And He knows what is on the land and in the sea. Not a leaf falls but that He knows it. And no grain is there within the darknesses of the earth and no moist or dry [thing] but that it is [written] in a clear record.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "4:43",
+ "label": "Reference text: Quran 4:43, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/4/43?translations=20",
+ "urls_fetched": [
+  "https://quran.com/4/43?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:24:31Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "4:43",
+   "raw": "O you who have believed, do not approach prayer while you are intoxicated until you know what you are saying<sup foot_note=254193>1</sup> or in a state of janābah,<sup foot_note=254194>2</sup> except those passing through [a place of prayer], until you have washed [your whole body]. And if you are ill or on a journey or one of you comes from the place of relieving himself or you have contacted women [i.e., had sexual intercourse] and find no water, then seek clean earth and wipe over your faces and your hands [with it]. Indeed, Allāh is ever Pardoning<sup foot_note=254195>3</sup> and Forgiving.",
+   "text": "O you who have believed, do not approach prayer while you are intoxicated until you know what you are saying or in a state of janābah, except those passing through [a place of prayer], until you have washed [your whole body]. And if you are ill or on a journey or one of you comes from the place of relieving himself or you have contacted women [i.e., had sexual intercourse] and find no water, then seek clean earth and wipe over your faces and your hands [with it]. Indeed, Allāh is ever Pardoning and Forgiving.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

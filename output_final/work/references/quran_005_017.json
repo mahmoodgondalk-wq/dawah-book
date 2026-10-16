@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "5:17",
+ "label": "Reference text: Quran 5:17, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/5/17?translations=20",
+ "urls_fetched": [
+  "https://quran.com/5/17?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:25:55Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "5:17",
+   "raw": "They have certainly disbelieved who say that Allāh is Christ, the son of Mary. Say, \"Then who could prevent Allāh at all if He had intended to destroy Christ, the son of Mary, or his mother or everyone on the earth?\" And to Allāh belongs the dominion of the heavens and the earth and whatever is between them. He creates what He wills, and Allāh is over all things competent.",
+   "text": "They have certainly disbelieved who say that Allāh is Christ, the son of Mary. Say, \"Then who could prevent Allāh at all if He had intended to destroy Christ, the son of Mary, or his mother or everyone on the earth?\" And to Allāh belongs the dominion of the heavens and the earth and whatever is between them. He creates what He wills, and Allāh is over all things competent.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

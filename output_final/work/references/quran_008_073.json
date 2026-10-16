@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "8:73",
+ "label": "Reference text: Quran 8:73, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/8/73?translations=20",
+ "urls_fetched": [
+  "https://quran.com/8/73?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:30:22Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "8:73",
+   "raw": "And those who disbelieved are allies of one another. If you do not do so [i.e., ally yourselves with other believers], there will be fitnah [i.e., disbelief and oppression] on earth and great corruption.",
+   "text": "And those who disbelieved are allies of one another. If you do not do so [i.e., ally yourselves with other believers], there will be fitnah [i.e., disbelief and oppression] on earth and great corruption.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

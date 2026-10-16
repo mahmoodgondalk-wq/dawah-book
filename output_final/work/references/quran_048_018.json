@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "48:18",
+ "label": "Reference text: Quran 48:18, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/48/18?translations=20",
+ "urls_fetched": [
+  "https://quran.com/48/18?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:23:34Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "48:18",
+   "raw": "Certainly was Allāh pleased with the believers when they pledged allegiance to you, [O Muḥammad], under the tree, and He knew what was in their hearts, so He sent down tranquility upon them and rewarded them with an imminent conquest<sup foot_note=256685>1</sup>",
+   "text": "Certainly was Allāh pleased with the believers when they pledged allegiance to you, [O Muḥammad], under the tree, and He knew what was in their hearts, so He sent down tranquility upon them and rewarded them with an imminent conquest",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

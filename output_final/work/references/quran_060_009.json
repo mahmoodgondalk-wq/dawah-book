@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "60:9",
+ "label": "Reference text: Quran 60:9, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/60/9?translations=20",
+ "urls_fetched": [
+  "https://quran.com/60/9?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:27:01Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "60:9",
+   "raw": "Allāh only forbids you from those who fight you because of religion and expel you from your homes and aid in your expulsion - [forbids] that you make allies<sup foot_note=257021>1</sup> of them. And whoever makes allies of them, then it is those who are the wrongdoers.",
+   "text": "Allāh only forbids you from those who fight you because of religion and expel you from your homes and aid in your expulsion - [forbids] that you make allies of them. And whoever makes allies of them, then it is those who are the wrongdoers.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

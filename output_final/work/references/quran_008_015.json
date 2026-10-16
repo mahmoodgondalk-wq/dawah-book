@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "8:15",
+ "label": "Reference text: Quran 8:15, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/8/15?translations=20",
+ "urls_fetched": [
+  "https://quran.com/8/15?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:30:12Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "8:15",
+   "raw": "O you who have believed, when you meet those who disbelieve advancing [in battle], do not turn to them your backs [in flight].",
+   "text": "O you who have believed, when you meet those who disbelieve advancing [in battle], do not turn to them your backs [in flight].",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "98:6",
+ "label": "Reference text: Quran 98:6, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/98/6?translations=20",
+ "urls_fetched": [
+  "https://quran.com/98/6?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:30:39Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "98:6",
+   "raw": "Indeed, they who disbelieved among the People of the Scripture and the polytheists will be in the fire of Hell, abiding eternally therein. Those are the worst of creatures.",
+   "text": "Indeed, they who disbelieved among the People of the Scripture and the polytheists will be in the fire of Hell, abiding eternally therein. Those are the worst of creatures.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

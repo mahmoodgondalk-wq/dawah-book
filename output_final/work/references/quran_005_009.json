@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "5:9",
+ "label": "Reference text: Quran 5:9, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/5/9?translations=20",
+ "urls_fetched": [
+  "https://quran.com/5/9?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:26:48Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "5:9",
+   "raw": "Allāh has promised those who believe and do righteous deeds [that] for them there is forgiveness and great reward.",
+   "text": "Allāh has promised those who believe and do righteous deeds [that] for them there is forgiveness and great reward.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}
