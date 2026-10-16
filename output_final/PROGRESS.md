@@ -22,7 +22,7 @@ All scripts are in `work/scripts/`. Run them from the repository root.
 - Each batch is labeled by one subagent with the identical prompt in `work/scripts/agent_prompt.txt` (replace {FILES}).
 - Outputs: `work/labels/<id>.json` (type, confidence, evidence, speaker ranges, doubts), `work/topics/<id>.json` (topic ranges, refs).
 - Pilot (ML043, FR054, FR002, ML001) done and checked.
-- Labeling status: TOTAL 774/774 files labeled; complete batches: 152/152 (as of 2026-10-16 14:50 UTC)
+- Labeling status: TOTAL 774/774 files labeled; complete batches: 152/152 (as of 2026-10-16 15:11 UTC)
 - NOTE: at ~09:30 UTC the API session limit was hit; batches B54, B57-B63 failed mid-way. To resume: run `batches.py todo 10` and relaunch those batches with the same prompt (files already valid are skipped automatically).
 - USER INSTRUCTION (2026-10-04): labeling subagents must run on the default model (Opus 5.5); do NOT switch them to Sonnet.
 - Oct 2: the weekly usage limit was hit around B57-B64; resumed Oct 4.
@@ -46,3 +46,16 @@ All scripts are in `work/scripts/`. Run them from the repository root.
 - taxonomy: 17 parts, 95 chapters, 804 sub-chapters (work/taxonomy.json, work/mapping.json)
 ## Stage 7: VERIFY (A-F) — DONE (2026-10-16): all checks pass, see output_final/checks.md; final report in output_final/REPORT.md
 - verify.py (A,B,C,D,F) -> work/verify_results.json; check_glyphs.py -> work/glyph_check.json; render_samples.py + visual inspection -> work/visual_check.json; write_checks.py -> output_final/checks.md
+
+## Stage 8: EDITED BOOK (user instruction 2026-10-16) — IN PROGRESS
+- USER INSTRUCTION: the verbatim compilation is unreadable as a book. New goal: a well-written book made of the two hosts' OWN WORDS,
+  "removing the superfluous from the sentences" — not written by me, no dialogues. English. Complete (all arguments).
+  Interpretation: deletion-only editing of the hosts' speech (fillers, repetitions, false starts, chatter, logistics removed; punctuation,
+  capitalization and paragraphs free; never add/change/reorder a word), guests and clips dropped, Part P16 (Other Remarks) dropped,
+  articles kept as embedded pages, references kept as boxes, source of each passage in a footnote.
+- Guide: work/EDITING_GUIDE.md; plan: `python3 output_final/work/scripts/edit_batches.py plan|status|todo N` (147 batches, 5738 passages, 2.32M words)
+  inputs work/edit/in/E###.txt, outputs work/edit/out/E###.txt, checker work/scripts/check_edit.py (deletion-only sub-sequence check).
+- Each batch is edited by one Opus subagent with the prompt in work/scripts/edit_prompt.txt ({BATCH}, {WORDS}, {N}).
+- After all batches: assemble_edited.py -> output_final/book_edited/, build_pdf.py -> output_final/The_Muslim_Lantern_and_Farid_Responds_Edited.pdf,
+  verify_edited.py (fidelity = sub-sequence check against the transcripts, coverage of passages, references), checks_edited.md.
+- The verbatim compilation (Stages 1-7) is kept as ..._A_Topical_Compilation.pdf.
