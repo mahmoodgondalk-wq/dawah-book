@@ -29,6 +29,8 @@ You may freely: change punctuation and capitalization, split or join sentences, 
 You may NOT: add any word (not even "the", "and", "is", "that"), change a word (no tense, number, spelling or synonym changes; keep caption spellings such as "Muhammedﷺ", "Mathew12:25-26", "Quran4:124"), reorder words or sentences, merge sentences from different passages, summarize, paraphrase, write transitions, headings, notes or comments, translate or transliterate Arabic.
 The checker verifies that the words of your output, in order, are a sub-sequence of the words of the input (case and punctuation ignored). Any added or changed word is an error.
 
+One exception, for obvious transcription errors only: when the captions garbled a word (for example "f" or "fitra" for *fitrah*, "Quan" for Quran, "koran", a mangled name or Arabic term), you may replace it with the correct word **in square brackets**: "the [fitrah] is there". The brackets show the reader that the word is an editorial correction. Use this only where the garbled word would make the sentence unreadable; at most 4 words per bracket and at most 2% of the words of a passage. Never use brackets to add content, explanations or missing words.
+
 If a whole passage is superfluous (only greetings, logistics, banter, or an answer that is meaningless without the other person's words), omit it: write `[omitted: <short reason>]` instead of text. Do this sparingly; a passage with any argument in it must be kept (edited).
 
 ## Output: `output_final/work/edit/out/<BATCH>.txt`

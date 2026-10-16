@@ -15,6 +15,15 @@ WORK = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
 EDIT = os.path.join(WORK, "edit")
 TOKEN = re.compile(r"[^\W_]+(?:'[^\W_]+)*")
 OMIT = re.compile(r"^\[omitted:\s*(.+?)\]\s*$", re.S)
+EDITORIAL = re.compile(r"\[([^\[\]]{1,60})\]")
+MAX_EDITORIAL_RATIO = 0.02
+MAX_EDITORIAL_WORDS = 4
+
+
+def strip_editorial(s):
+    """Remove square-bracket editorial corrections [like this]; returns (text without them, list of insertions)."""
+    ins = EDITORIAL.findall(s)
+    return EDITORIAL.sub(" ", s), ins
 _units = None
 
 
