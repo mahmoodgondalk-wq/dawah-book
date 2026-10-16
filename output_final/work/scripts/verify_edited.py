@@ -79,7 +79,7 @@ def main():
                 plain, ins = strip_editorial(" ".join(paras))
                 out = tokens(plain)
                 n_words += len(out)
-                if any(len(tokens(x)) > MAX_EDITORIAL_WORDS for x in ins) or sum(len(tokens(x)) for x in ins) > MAX_EDITORIAL_RATIO * max(1, len(out)):
+                if any(len(tokens(x)) > MAX_EDITORIAL_WORDS for x in ins) or sum(len(tokens(x)) for x in ins) > max(3, MAX_EDITORIAL_RATIO * len(out)):
                     errA.append(f"{where}: {uid}: editorial insertions exceed the allowed limit")
                 n_editorial[0] += len(ins)
                 srcw = tokens(u["text"].replace("⟦…⟧", " "))

@@ -93,7 +93,13 @@ def check(batch):
         if "⟦" in t or "⟧" in t or "[guest" in t.lower() or "[omitted" in t.lower():
             errs.append(f"{uid}: marker or bracketed note left in the text")
         src = tokens(U[uid]["text"].replace("⟦…⟧", " "))
-        out = tokens(t)
+        plain, ins = strip_editorial(t)
+        out = tokens(plain)
+        bad_ins = [x for x in ins if len(tokens(x)) > MAX_EDITORIAL_WORDS or x.lower().startswith(("omitted", "guest"))]
+        if bad_ins:
+            errs.append(f"{uid}: editorial insertion too long or not allowed: {bad_ins[:3]}")
+        if out and sum(len(tokens(x)) for x in ins) > max(3, MAX_EDITORIAL_RATIO * len(out)):
+            errs.append(f"{uid}: too many editorial insertions in square brackets ({len(ins)}; max 2% of the words)")
         if not out:
             errs.append(f"{uid}: empty text (use [omitted: reason] to leave a passage out)")
             continue
