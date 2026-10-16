@@ -1,0 +1,16 @@
+{
+ "kind": "hadith",
+ "ref": "muslim:819",
+ "label": "Reference text: sunnah.com, Sahih Muslim 819a",
+ "source": "sunnah.com (English text as shown on the page)",
+ "url": "https://sunnah.com/muslim:819",
+ "final_url": "https://sunnah.com/muslim:819",
+ "page_title": "Sahih Muslim 819a - The Book of Prayer - Travellers - كتاب صلاة المسافرين وقصرها - Sunnah.com - Sayings and Teachings of Prophet Muhammad (صلى الله عليه و سلم)",
+ "retrieved_utc": "2026-10-16T14:31:53Z",
+ "processing": "narrator line and English text copied verbatim (innerText); split into paragraphs at the page's line breaks",
+ "reference_table": "Reference\t : Sahih Muslim 819a\nIn-book reference\t : Book 6, Hadith 330\nUSC-MSA web (English) reference\t : Book 4, Hadith 1785\n  (deprecated numbering scheme)",
+ "paragraphs": [
+  "Ibn 'Abbas reported Allah's Messenger (ﷺ) as saying:",
+  "Gabriel taught me to recite in one style. I replied to him and kept asking him to give more (styles), till he reached seven modes (of recitation). Ibn Shibab said: It has reached me that these seven styles are essentially one, not differing about what is permitted and what is forbidden."
+ ]
+}

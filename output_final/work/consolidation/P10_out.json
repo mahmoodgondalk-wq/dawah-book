@@ -1,0 +1,243 @@
+{
+ "part": "P10",
+ "chapters": [
+  {
+   "code": "P10.C01",
+   "title": "Judaism and the Jewish people",
+   "subchapters": [
+    {
+     "title": "Abraham, chosenness and Jewish identity",
+     "ranges": [
+      "ML401:44-60",
+      "ML372:171-211",
+      "ML203:59-113",
+      "ML318:423-454",
+      "ML350:281-300",
+      "ML060:1723-1753",
+      "ML001:18-73",
+      "ML064:1452-1505"
+     ]
+    },
+    {
+     "title": "The concept of God in Genesis",
+     "ranges": [
+      "ML318:331-383",
+      "ML376:107-143"
+     ]
+    },
+    {
+     "title": "Rabbinic authority and the Torah's commandments",
+     "ranges": [
+      "ML276:89-98",
+      "ML002:321-340",
+      "ML276:111-142",
+      "ML251:538-601"
+     ]
+    },
+    {
+     "title": "Ezra and Quran 9:30",
+     "ranges": [
+      "ML111:539-562",
+      "ML111:563-685",
+      "ML111:686-733"
+     ]
+    },
+    {
+     "title": "Jewish views of Jesus and the awaited Messiah",
+     "ranges": [
+      "ML060:1259-1321",
+      "ML367:490-563",
+      "ML064:673-741"
+     ]
+    }
+   ]
+  },
+  {
+   "code": "P10.C02",
+   "title": "Hinduism",
+   "subchapters": [
+    {
+     "title": "The concept of God in Hinduism",
+     "ranges": [
+      "ML177:1-38",
+      "ML264:21-59",
+      "ML106:114-154",
+      "ML106:220-246",
+      "ML208:54-125",
+      "ML143:48-75"
+     ]
+    },
+    {
+     "title": "Hindu scriptures: authority and consistency",
+     "ranges": [
+      "ML093:1-42",
+      "ML106:204-219",
+      "ML006:184-227",
+      "ML093:621-662"
+     ]
+    },
+    {
+     "title": "Stories of the gods in the Puranas",
+     "ranges": [
+      "ML106:37-113",
+      "ML093:43-149",
+      "ML106:155-203",
+      "ML177:134-268",
+      "ML093:663-701",
+      "ML177:110-133"
+     ]
+    }
+   ]
+  },
+  {
+   "code": "P10.C03",
+   "title": "Buddhism, Jainism and Sikhism",
+   "subchapters": [
+    {
+     "title": "Buddhist beliefs and the nature of consciousness",
+     "ranges": [
+      "ML232:1-18",
+      "ML033:1-32",
+      "ML232:87-132",
+      "ML232:187-207",
+      "ML033:206-298",
+      "ML060:1021-1058"
+     ]
+    },
+    {
+     "title": "Buddhist pacifism and self-defense",
+     "ranges": [
+      "ML033:33-156",
+      "ML033:157-205"
+     ]
+    },
+    {
+     "title": "Jainism: prophets without God",
+     "ranges": [
+      "ML386:1-66"
+     ]
+    },
+    {
+     "title": "Sikh beliefs about God and salvation",
+     "ranges": [
+      "ML330:208-238",
+      "ML347:112-151",
+      "ML317:77-145",
+      "ML405:106-192"
+     ]
+    },
+    {
+     "title": "Guru Nanak and the claims of Sikh scripture",
+     "ranges": [
+      "ML405:62-105",
+      "ML405:193-272",
+      "ML405:340-359",
+      "ML405:295-339",
+      "ML405:360-421"
+     ]
+    }
+   ]
+  },
+  {
+   "code": "P10.C04",
+   "title": "Other beliefs and movements",
+   "subchapters": [
+    {
+     "title": "Native American and Chinese folk beliefs",
+     "ranges": [
+      "ML401:1-43",
+      "ML122:1-43"
+     ]
+    },
+    {
+     "title": "Reincarnation, energy healing and alien claims",
+     "ranges": [
+      "ML114:351-479",
+      "ML151:523-573",
+      "ML077:340-435"
+     ]
+    },
+    {
+     "title": "The Sacred Treasury",
+     "ranges": [
+      "ML135:1-56",
+      "ML135:86-126",
+      "ML135:225-279",
+      "ML135:418-510"
+     ]
+    }
+   ]
+  },
+  {
+   "code": "P10.C05",
+   "title": "Pre-Islamic Arabia",
+   "subchapters": [
+    {
+     "title": "Religion and superstitions of the pre-Islamic Arabs",
+     "ranges": [
+      "FR041:1-18",
+      "FR041:19-36",
+      "FR023:1-46",
+      "ML382:1-38",
+      "FR023:47-67",
+      "FR023:68-93",
+      "FR023:94-136",
+      "FR023:137-180",
+      "FR023:181-200"
+     ]
+    },
+    {
+     "title": "The origin of the Kaaba and its builders",
+     "ranges": [
+      "FR377:1-16",
+      "ML105:220-340",
+      "ML312:325-404",
+      "ML288:70-97",
+      "FR376:1-41",
+      "ML307:43-100"
+     ]
+    },
+    {
+     "title": "Idols in the Kaaba and praying towards it",
+     "ranges": [
+      "FR377:47-61",
+      "ML254:111-192",
+      "ML288:1-69",
+      "ML084:904-949"
+     ]
+    },
+    {
+     "title": "The Black Stone",
+     "ranges": [
+      "FR379:1-10",
+      "ML307:124-182",
+      "FR379:11-44",
+      "ML059:414-433",
+      "FR335:1-77"
+     ]
+    },
+    {
+     "title": "Hajj rites and the question of pagan origins",
+     "ranges": [
+      "ML307:1-23",
+      "FR376:42-78",
+      "FR376:79-118",
+      "FR344:1-50",
+      "FR344:51-94",
+      "ML307:101-123",
+      "ML307:183-221"
+     ]
+    },
+    {
+     "title": "The Year of the Elephant",
+     "ranges": [
+      "FR006:28-49",
+      "FR006:50-78",
+      "FR006:79-104"
+     ]
+    }
+   ]
+  }
+ ],
+ "moves": []
+}
