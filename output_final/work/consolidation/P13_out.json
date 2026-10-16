@@ -1,0 +1,606 @@
+{
+ "part": "P13",
+ "chapters": [
+  {
+   "code": "P13.C01",
+   "title": "Women's rights and gender roles in Islam",
+   "subchapters": [
+    {
+     "title": "The claim that Islam oppresses women",
+     "ranges": [
+      "ML193:1-31",
+      "FR374:1-33",
+      "FR369:107-114",
+      "ML324:118-209",
+      "ML156:548-566",
+      "ML274:104-221",
+      "ML054:128-163",
+      "ML193:212-239"
+     ]
+    },
+    {
+     "title": "The status of women in Islam",
+     "ranges": [
+      "ML147:411-463",
+      "ML013:70-125",
+      "ML391:320-418",
+      "ML321:137-204",
+      "ML033:549-569",
+      "ML191:377-393",
+      "ML241:689-717",
+      "ML125:454-502",
+      "ML013:312-327",
+      "ML321:263-272"
+     ]
+    },
+    {
+     "title": "Equality and equity: different roles for men and women",
+     "ranges": [
+      "ML226:1-51",
+      "ML175:151-200",
+      "ML348:168-198",
+      "ML147:248-279",
+      "ML193:163-211",
+      "ML038:28-157",
+      "ML378:78-90",
+      "ML324:67-117",
+      "FR374:185-212"
+     ]
+    },
+    {
+     "title": "Men's degree and the husband's authority in marriage",
+     "ranges": [
+      "ML332:64-76",
+      "FR374:118-136",
+      "ML156:567-602",
+      "ML226:151-209",
+      "ML226:210-332",
+      "ML226:333-412",
+      "ML191:123-157",
+      "ML226:413-484",
+      "ML156:603-638",
+      "ML226:587-611",
+      "ML156:639-663"
+     ]
+    },
+    {
+     "title": "Quran 4:34 and striking wives",
+     "ranges": [
+      "FR276:23-53",
+      "FR374:59-71",
+      "ML129:893-978",
+      "ML098:29-107",
+      "ML335:264-380",
+      "ML361:103-250",
+      "FR253:284-336",
+      "ML004:292-373",
+      "ML335:381-499",
+      "FR276:54-74",
+      "FR374:213-245"
+     ]
+    },
+    {
+     "title": "Inheritance shares of men and women",
+     "ranges": [
+      "ML410:1-57",
+      "ML410:58-109",
+      "ML410:110-172",
+      "ML013:155-180",
+      "FR374:72-81",
+      "ML165:68-145"
+     ]
+    },
+    {
+     "title": "Women's testimony and the deficiency hadith",
+     "ranges": [
+      "ML165:1-67",
+      "ML175:29-71",
+      "ML165:316-330",
+      "ML120:452-517",
+      "ML175:72-91"
+     ]
+    },
+    {
+     "title": "Women as rulers, prophets and public preachers",
+     "ranges": [
+      "ML175:92-150",
+      "ML175:201-239",
+      "ML037:346-368",
+      "ML037:296-345",
+      "ML037:369-424",
+      "ML037:425-436",
+      "ML191:339-358"
+     ]
+    },
+    {
+     "title": "Women's education and work",
+     "ranges": [
+      "ML196:73-148",
+      "ML378:43-77",
+      "ML411:78-96",
+      "ML054:272-329",
+      "ML332:105-160"
+     ]
+    },
+    {
+     "title": "Separation of men and women in the mosque",
+     "ranges": [
+      "ML193:32-99",
+      "ML391:261-319",
+      "ML401:168-240",
+      "ML380:305-351",
+      "ML244:462-547"
+     ]
+    },
+    {
+     "title": "Practices in Muslim countries: culture versus religion",
+     "ranges": [
+      "ML030:53-108",
+      "ML348:149-167",
+      "ML054:356-378",
+      "ML147:110-172",
+      "ML147:173-247",
+      "ML054:164-240",
+      "FR407:18-48"
+     ]
+    }
+   ]
+  },
+  {
+   "code": "P13.C02",
+   "title": "Hijab and modesty",
+   "subchapters": [
+    {
+     "title": "Hijab in the Quran and the Bible",
+     "ranges": [
+      "ML082:1-15",
+      "ML082:78-142",
+      "ML082:249-331",
+      "ML411:347-373",
+      "ML411:185-206",
+      "ML314:1021-1068"
+     ]
+    },
+    {
+     "title": "Wisdom behind the hijab",
+     "ranges": [
+      "ML210:201-305",
+      "ML335:750-826",
+      "ML321:205-222",
+      "ML375:374-478",
+      "ML224:222-229",
+      "ML013:141-154",
+      "ML033:570-711",
+      "ML248:1292-1429"
+     ]
+    },
+    {
+     "title": "Covering rules for men and lowering the gaze",
+     "ranges": [
+      "ML175:1-28",
+      "ML033:788-842",
+      "ML243:302-360",
+      "ML243:361-395"
+     ]
+    },
+    {
+     "title": "Hijab as obligation, choice and enforcement",
+     "ranges": [
+      "ML033:712-787",
+      "ML248:1430-1490",
+      "ML054:330-355",
+      "ML054:390-418"
+     ]
+    },
+    {
+     "title": "Wearing hijab in practice: difficulties and advice",
+     "ranges": [
+      "ML332:48-63",
+      "ML375:327-373",
+      "ML314:841-862",
+      "ML248:1491-1515"
+     ]
+    },
+    {
+     "title": "The niqab and face covering",
+     "ranges": [
+      "ML241:472-512",
+      "ML061:1-42",
+      "ML259:86-101"
+     ]
+    },
+    {
+     "title": "Hijab and female captives",
+     "ranges": [
+      "ML086:180-254",
+      "ML086:255-281"
+     ]
+    }
+   ]
+  },
+  {
+   "code": "P13.C03",
+   "title": "Marriage, polygamy and the age of marriage",
+   "subchapters": [
+    {
+     "title": "Polygamy in Islam: conditions and wisdom",
+     "ranges": [
+      "ML038:1-27",
+      "ML084:1-35",
+      "ML381:99-148",
+      "ML123:1-97",
+      "ML038:323-372",
+      "ML044:161-180",
+      "ML013:244-268",
+      "ML038:373-427",
+      "ML191:30-88",
+      "ML191:158-182",
+      "ML038:158-235",
+      "ML038:445-562",
+      "ML038:563-589"
+     ]
+    },
+    {
+     "title": "Stipulating monogamy in the marriage contract",
+     "ranges": [
+      "ML038:428-444",
+      "ML191:89-122",
+      "ML318:920-1014"
+     ]
+    },
+    {
+     "title": "Polygamy compared with Western and biblical practice",
+     "ranges": [
+      "ML038:236-322",
+      "ML123:98-217",
+      "ML084:258-431",
+      "ML191:1-29",
+      "ML044:129-160",
+      "ML314:994-1020",
+      "ML084:140-206",
+      "ML295:677-707",
+      "ML044:215-225"
+     ]
+    },
+    {
+     "title": "Age of marriage in Islamic law: puberty, contract and guardian",
+     "ranges": [
+      "ML115:1-22",
+      "ML069:1-28",
+      "ML069:181-243",
+      "ML115:23-238",
+      "ML115:239-277",
+      "ML115:278-362",
+      "ML110:216-326",
+      "ML069:115-180",
+      "ML115:363-432",
+      "ML321:223-262"
+     ]
+    },
+    {
+     "title": "Age of marriage: the harm criterion and the schools of law",
+     "ranges": [
+      "ML353:170-224",
+      "ML072:263-415",
+      "ML072:737-870",
+      "ML072:871-910",
+      "ML069:244-323",
+      "ML086:729-781",
+      "ML060:32-68"
+     ]
+    },
+    {
+     "title": "Age of marriage laws in modern and historical societies",
+     "ranges": [
+      "ML353:121-169",
+      "ML025:502-525",
+      "ML025:469-501",
+      "ML060:282-324"
+     ]
+    },
+    {
+     "title": "Early marriage and teenage desire",
+     "ranges": [
+      "ML110:417-553",
+      "ML021:906-976",
+      "ML115:433-512"
+     ]
+    },
+    {
+     "title": "Cousin marriage",
+     "ranges": [
+      "FR401:20-41",
+      "ML025:641-703",
+      "ML025:704-721",
+      "ML025:722-752"
+     ]
+    },
+    {
+     "title": "Interfaith marriage",
+     "ranges": [
+      "ML226:52-150",
+      "ML284:579-697",
+      "ML274:222-267",
+      "ML369:282-299",
+      "ML204:31-43",
+      "ML293:93-143"
+     ]
+    },
+    {
+     "title": "Divorce: talaq, khul' and its effects",
+     "ranges": [
+      "ML013:269-293",
+      "ML038:590-666",
+      "ML236:990-1012",
+      "ML038:730-768",
+      "ML038:769-841",
+      "ML038:667-729",
+      "ML348:234-298",
+      "ML054:241-258",
+      "ML391:419-466"
+     ]
+    },
+    {
+     "title": "Temporary (mut'ah) marriage",
+     "ranges": [
+      "ML219:1342-1358"
+     ]
+    }
+   ]
+  },
+  {
+   "code": "P13.C04",
+   "title": "Family, children and the marriage crisis",
+   "subchapters": [
+    {
+     "title": "Children leaving Islam and the influences on them",
+     "ranges": [
+      "ML022:1-51",
+      "ML284:46-145",
+      "ML022:52-102",
+      "ML174:609-627",
+      "ML022:103-130",
+      "ML022:131-158",
+      "ML022:159-200",
+      "ML022:237-258"
+     ]
+    },
+    {
+     "title": "Raising children: parental responsibility, example and teaching",
+     "ranges": [
+      "ML022:201-236",
+      "ML022:259-306",
+      "ML284:1305-1377",
+      "ML227:278-306",
+      "ML022:307-332",
+      "ML233:1878-2010",
+      "ML022:333-353",
+      "ML221:19-66",
+      "ML006:1082-1163",
+      "ML022:354-392",
+      "ML022:393-420",
+      "ML022:421-450",
+      "ML022:451-481"
+     ]
+    },
+    {
+     "title": "Discipline, environment and parental accountability",
+     "ranges": [
+      "ML022:482-516",
+      "ML022:517-540",
+      "ML233:2216-2314",
+      "ML022:541-559",
+      "ML022:560-579"
+     ]
+    },
+    {
+     "title": "When a child leaves Islam: disowning and family conflict",
+     "ranges": [
+      "ML094:321-364",
+      "ML094:365-405",
+      "ML094:436-492",
+      "ML094:493-515",
+      "ML094:516-545",
+      "ML299:1-48",
+      "ML299:49-94",
+      "ML299:128-157",
+      "ML299:200-252",
+      "ML346:132-160"
+     ]
+    },
+    {
+     "title": "The marriage crisis: the role of parents",
+     "ranges": [
+      "ML009:1-24",
+      "ML009:25-55",
+      "ML009:56-98",
+      "ML009:99-124",
+      "ML009:125-158",
+      "ML009:159-176",
+      "ML009:177-198"
+     ]
+    },
+    {
+     "title": "The marriage crisis: delayed marriage and expectations",
+     "ranges": [
+      "ML009:199-231",
+      "ML009:232-253",
+      "ML196:149-221",
+      "ML009:254-290",
+      "ML009:291-310",
+      "ML009:311-330",
+      "ML009:331-363",
+      "ML009:364-385"
+     ]
+    },
+    {
+     "title": "The marriage crisis: men's responsibilities and conduct",
+     "ranges": [
+      "ML009:420-457",
+      "ML009:458-473",
+      "ML009:474-534",
+      "ML009:535-544",
+      "ML009:545-571"
+     ]
+    }
+   ]
+  },
+  {
+   "code": "P13.C05",
+   "title": "Homosexuality, gender identity and sexual ethics",
+   "subchapters": [
+    {
+     "title": "Relationships outside marriage, dating and pornography",
+     "ranges": [
+      "ML180:1-21",
+      "ML048:122-219",
+      "ML049:487-535",
+      "ML394:277-313",
+      "ML369:240-281",
+      "ML253:513-535",
+      "ML248:1720-1779"
+     ]
+    },
+    {
+     "title": "The Islamic position on homosexuality",
+     "ranges": [
+      "ML399:1-44",
+      "FR235:1-33",
+      "FR235:34-66",
+      "ML418:575-629",
+      "ML399:45-113",
+      "FR235:67-112",
+      "ML125:601-643",
+      "ML289:268-306",
+      "ML340:326-345",
+      "ML385:36-64",
+      "ML378:18-42",
+      "ML385:339-366"
+     ]
+    },
+    {
+     "title": "Punishment for homosexual acts",
+     "ranges": [
+      "FR369:168-194",
+      "ML130:477-571",
+      "ML130:572-601",
+      "ML250:264-290"
+     ]
+    },
+    {
+     "title": "Same-sex attraction versus action: Muslims with such desires",
+     "ranges": [
+      "ML151:156-208",
+      "ML385:289-338",
+      "ML378:194-205",
+      "ML340:400-412",
+      "ML269:41-100",
+      "ML269:101-111",
+      "ML269:112-133",
+      "ML269:134-170"
+     ]
+    },
+    {
+     "title": "Homosexuality, love and shifting moral standards",
+     "ranges": [
+      "ML216:222-266",
+      "ML235:329-392",
+      "ML289:307-397"
+     ]
+    },
+    {
+     "title": "Whether homosexuality is innate: studies and evidence",
+     "ranges": [
+      "ML130:1-26",
+      "ML385:96-148",
+      "ML378:306-342",
+      "ML385:190-288",
+      "ML130:138-227",
+      "ML385:149-189",
+      "ML238:271-368",
+      "ML130:27-137",
+      "ML151:209-262",
+      "ML238:203-270",
+      "ML378:233-305",
+      "ML378:343-359",
+      "ML378:395-421",
+      "ML378:450-468"
+     ]
+    },
+    {
+     "title": "Transgender identity and the definition of gender",
+     "ranges": [
+      "ML332:77-104",
+      "ML332:161-185",
+      "ML238:128-202",
+      "ML399:114-242",
+      "ML238:369-436",
+      "ML399:243-360",
+      "ML347:1020-1051",
+      "ML238:437-483",
+      "ML399:361-386",
+      "ML399:475-492"
+     ]
+    }
+   ]
+  },
+  {
+   "code": "P13.C06",
+   "title": "Feminism and liberal values",
+   "subchapters": [
+    {
+     "title": "Liberalism and the harm principle",
+     "ranges": [
+      "ML145:283-303",
+      "ML145:499-516",
+      "ML378:206-232",
+      "ML049:199-243",
+      "ML378:360-381"
+     ]
+    },
+    {
+     "title": "Liberal morality, tolerance and subjective standards",
+     "ranges": [
+      "ML378:382-394",
+      "ML221:766-817",
+      "ML240:66-102",
+      "ML378:422-449",
+      "ML321:115-136",
+      "ML324:463-483"
+     ]
+    },
+    {
+     "title": "Feminism and the meaning of gender equality",
+     "ranges": [
+      "ML165:146-170",
+      "ML013:1-69",
+      "ML226:647-697",
+      "ML348:199-233",
+      "ML038:842-883",
+      "FR374:246-262"
+     ]
+    },
+    {
+     "title": "Claims of female superiority and the Red Pill ideology",
+     "ranges": [
+      "ML332:34-47",
+      "ML263:817-968"
+     ]
+    },
+    {
+     "title": "Liberalism and feminism among Muslims",
+     "ranges": [
+      "ML332:1-33",
+      "ML284:146-234",
+      "ML284:235-336",
+      "ML284:443-464",
+      "ML013:126-140",
+      "ML054:72-127",
+      "ML009:386-419"
+     ]
+    }
+   ]
+  }
+ ],
+ "moves": []
+}

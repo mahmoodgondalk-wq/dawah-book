@@ -1,0 +1,22 @@
+#import "template.typ": *
+#show: book-setup
+#include "front.typ"
+#body-start()
+#include "content/P01.typ"
+#include "content/P02.typ"
+#include "content/P03.typ"
+#include "content/P04.typ"
+#include "content/P05.typ"
+#include "content/P06.typ"
+#include "content/P07.typ"
+#include "content/P11.typ"
+#include "content/P12.typ"
+#include "content/P13.typ"
+#include "content/P14.typ"
+#include "content/P15.typ"
+#include "content/P08.typ"
+#include "content/P09.typ"
+#include "content/P10.typ"
+#include "content/P17.typ"
+#include "content/P16.typ"
+#include "sources.typ"

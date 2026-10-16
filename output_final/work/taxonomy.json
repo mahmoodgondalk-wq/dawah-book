@@ -1351,6 +1351,1128 @@
    ]
   },
   {
+   "id": "P06",
+   "title": "The Sunnah and the Hadith",
+   "chapters": [
+    {
+     "id": "P06.C01",
+     "title": "The authority of the Sunnah and the Quran-only claim",
+     "subchapters": [
+      {
+       "id": "P06.C01.S01",
+       "title": "The Quran and the Hadith: nature and status"
+      },
+      {
+       "id": "P06.C01.S02",
+       "title": "The Quranic basis for following the Prophet"
+      },
+      {
+       "id": "P06.C01.S03",
+       "title": "Why the Quran needs the Sunnah for its explanation"
+      },
+      {
+       "id": "P06.C01.S04",
+       "title": "Transmission of the Quran and of the hadith compared"
+      },
+      {
+       "id": "P06.C01.S05",
+       "title": "Why people reject hadith"
+      },
+      {
+       "id": "P06.C01.S06",
+       "title": "Rejecting all hadith because of some"
+      },
+      {
+       "id": "P06.C01.S07",
+       "title": "Hadith, the historical Prophet and Islamic history"
+      }
+     ]
+    },
+    {
+     "id": "P06.C02",
+     "title": "The reliability and methodology of hadith",
+     "subchapters": [
+      {
+       "id": "P06.C02.S01",
+       "title": "Isnad, matn and the conditions of authenticity"
+      },
+      {
+       "id": "P06.C02.S02",
+       "title": "Mutawatir and ahad reports"
+      },
+      {
+       "id": "P06.C02.S03",
+       "title": "Early origins of the isnad and the rigour of early scholars"
+      },
+      {
+       "id": "P06.C02.S04",
+       "title": "Corroboration of chains and the fabrication claim"
+      },
+      {
+       "id": "P06.C02.S05",
+       "title": "Narrator errors and narration by meaning"
+      },
+      {
+       "id": "P06.C02.S06",
+       "title": "Evaluating individual narrators"
+      },
+      {
+       "id": "P06.C02.S07",
+       "title": "Weak and mursal reports and their use"
+      },
+      {
+       "id": "P06.C02.S08",
+       "title": "Case studies in narrator grading: Asim and the well of Buda'ah"
+      },
+      {
+       "id": "P06.C02.S09",
+       "title": "Hadith compared with general history and the Gospels"
+      },
+      {
+       "id": "P06.C02.S10",
+       "title": "Hadith methodology and historical reports"
+      },
+      {
+       "id": "P06.C02.S11",
+       "title": "Academic hadith criticism and the common link"
+      },
+      {
+       "id": "P06.C02.S12",
+       "title": "Questions posed to hadith rejecters in debate"
+      }
+     ]
+    },
+    {
+     "id": "P06.C03",
+     "title": "Specific hadiths explained",
+     "subchapters": [
+      {
+       "id": "P06.C03.S01",
+       "title": "Reading a hadith in its context"
+      },
+      {
+       "id": "P06.C03.S02",
+       "title": "Hadiths on sin, forgiveness and the decree"
+      },
+      {
+       "id": "P06.C03.S03",
+       "title": "Hadiths on prophets and angels"
+      },
+      {
+       "id": "P06.C03.S04",
+       "title": "The hadith of Jews and Christians as ransom"
+      },
+      {
+       "id": "P06.C03.S05",
+       "title": "The sun's prostration beneath the Throne"
+      },
+      {
+       "id": "P06.C03.S06",
+       "title": "The camel urine hadith and the Uraniyyin"
+      },
+      {
+       "id": "P06.C03.S07",
+       "title": "The fly in the drink and other medical hadiths"
+      },
+      {
+       "id": "P06.C03.S08",
+       "title": "Hadiths concerning women"
+      },
+      {
+       "id": "P06.C03.S09",
+       "title": "Hadiths on purity, bathing and bodily matters"
+      },
+      {
+       "id": "P06.C03.S10",
+       "title": "Hadiths on slaves, rulers and non-Muslims"
+      },
+      {
+       "id": "P06.C03.S11",
+       "title": "The grading of particular reports"
+      },
+      {
+       "id": "P06.C03.S12",
+       "title": "Lesser-known narrations of Anas and the Ansar"
+      }
+     ]
+    },
+    {
+     "id": "P06.C04",
+     "title": "Hadith collections and scholars",
+     "subchapters": [
+      {
+       "id": "P06.C04.S01",
+       "title": "The hadith compilers and the early imams"
+      },
+      {
+       "id": "P06.C04.S02",
+       "title": "Hadith works before al-Bukhari and early manuscripts"
+      },
+      {
+       "id": "P06.C04.S03",
+       "title": "Claims about the text of Sahih al-Bukhari and Sahih Muslim"
+      },
+      {
+       "id": "P06.C04.S04",
+       "title": "Weak hadiths in the collections and books of fabrications"
+      },
+      {
+       "id": "P06.C04.S05",
+       "title": "Sunan Ibn Majah, commentaries and other works"
+      },
+      {
+       "id": "P06.C04.S06",
+       "title": "The life and work of al-Albani"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "P07",
+   "title": "The Prophet Muhammad: Life and Criticisms",
+   "chapters": [
+    {
+     "id": "P07.C01",
+     "title": "The life of the Prophet (Seerah)",
+     "subchapters": [
+      {
+       "id": "P07.C01.S01",
+       "title": "Overview of the Prophet's life, lineage and sources"
+      },
+      {
+       "id": "P07.C01.S02",
+       "title": "Early life in Mecca and the first revelation"
+      },
+      {
+       "id": "P07.C01.S03",
+       "title": "Persecution in Mecca and the emigration to Medina"
+      },
+      {
+       "id": "P07.C01.S04",
+       "title": "The Prophet's community in Medina"
+      },
+      {
+       "id": "P07.C01.S05",
+       "title": "The Battle of the Trench and the conquest of Mecca"
+      },
+      {
+       "id": "P07.C01.S06",
+       "title": "The delegation of the Christians of Najran"
+      }
+     ]
+    },
+    {
+     "id": "P07.C02",
+     "title": "The marriage to Aisha",
+     "subchapters": [
+      {
+       "id": "P07.C02.S01",
+       "title": "The objection and its place in the discussion"
+      },
+      {
+       "id": "P07.C02.S02",
+       "title": "Historical context and marriage norms"
+      },
+      {
+       "id": "P07.C02.S03",
+       "title": "Puberty, maturity and marriageable age"
+      },
+      {
+       "id": "P07.C02.S04",
+       "title": "The marriage contract, consummation and consent"
+      },
+      {
+       "id": "P07.C02.S05",
+       "title": "Comparison with Biblical and modern standards"
+      },
+      {
+       "id": "P07.C02.S06",
+       "title": "The narrations on Aisha's age and the claim of fabrication"
+      },
+      {
+       "id": "P07.C02.S07",
+       "title": "Muslim attitudes toward the question"
+      }
+     ]
+    },
+    {
+     "id": "P07.C03",
+     "title": "The Prophet's other marriages",
+     "subchapters": [
+      {
+       "id": "P07.C03.S01",
+       "title": "The Prophet's marriages: reasons and context"
+      },
+      {
+       "id": "P07.C03.S02",
+       "title": "Rulings specific to the Prophet in marriage"
+      },
+      {
+       "id": "P07.C03.S03",
+       "title": "The marriage to Zaynab and the abolition of adoption"
+      },
+      {
+       "id": "P07.C03.S04",
+       "title": "The Tabari report on Zaynab and the early sources"
+      },
+      {
+       "id": "P07.C03.S05",
+       "title": "Safiyya bint Huyay and the Prophet's concubine"
+      }
+     ]
+    },
+    {
+     "id": "P07.C04",
+     "title": "Other criticisms of the Prophet",
+     "subchapters": [
+      {
+       "id": "P07.C04.S01",
+       "title": "Standards for judging the Prophet's conduct"
+      },
+      {
+       "id": "P07.C04.S02",
+       "title": "The warlord accusation and the Prophet's battles"
+      },
+      {
+       "id": "P07.C04.S03",
+       "title": "The Jewish tribes of Medina and Banu Qurayza"
+      },
+      {
+       "id": "P07.C04.S04",
+       "title": "Executions and punishments: specific cases"
+      },
+      {
+       "id": "P07.C04.S05",
+       "title": "Poisoning, the aorta verse and the Prophet's death"
+      },
+      {
+       "id": "P07.C04.S06",
+       "title": "Possession claims and the suicide reports"
+      },
+      {
+       "id": "P07.C04.S07",
+       "title": "Epilepsy: medical background"
+      },
+      {
+       "id": "P07.C04.S08",
+       "title": "The epilepsy claim: diagnosis and method"
+      },
+      {
+       "id": "P07.C04.S09",
+       "title": "Reported states of the Prophet during revelation"
+      },
+      {
+       "id": "P07.C04.S10",
+       "title": "Visions of the angel and the chest-splitting incident"
+      },
+      {
+       "id": "P07.C04.S11",
+       "title": "Miracle reports cited as seizure symptoms"
+      },
+      {
+       "id": "P07.C04.S12",
+       "title": "Claims about the Prophet's mother and family history"
+      },
+      {
+       "id": "P07.C04.S13",
+       "title": "Other allegations: clothing, names and curses"
+      }
+     ]
+    },
+    {
+     "id": "P07.C05",
+     "title": "Honouring the Prophet; mockery and insults",
+     "subchapters": [
+      {
+       "id": "P07.C05.S01",
+       "title": "Love, veneration and the salutation on the Prophet"
+      },
+      {
+       "id": "P07.C05.S02",
+       "title": "Depicting, mocking and insulting the Prophet"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "P11",
+   "title": "Sunni and Shia, Sects and Groups",
+   "chapters": [
+    {
+     "id": "P11.C01",
+     "title": "Imamah, the Twelve Imams and the Shia Mahdi",
+     "subchapters": [
+      {
+       "id": "P11.C01.S01",
+       "title": "Twelver Shia beliefs and the doctrine of Imamah"
+      },
+      {
+       "id": "P11.C01.S02",
+       "title": "Imamah and the Twelve Imams in the Quran"
+      },
+      {
+       "id": "P11.C01.S03",
+       "title": "Ghadir Khum and the designation of Ali"
+      },
+      {
+       "id": "P11.C01.S04",
+       "title": "Proving the Twelve Imams from Shia sources"
+      },
+      {
+       "id": "P11.C01.S05",
+       "title": "The status of those who reject Imamah"
+      },
+      {
+       "id": "P11.C01.S06",
+       "title": "Hasan, Husayn and the divinely appointed imamate"
+      },
+      {
+       "id": "P11.C01.S07",
+       "title": "The Hidden Imam and the occultation"
+      }
+     ]
+    },
+    {
+     "id": "P11.C02",
+     "title": "The Companions and Ahl al-Bayt",
+     "subchapters": [
+      {
+       "id": "P11.C02.S01",
+       "title": "The Companions in the Quran and Sunni belief"
+      },
+      {
+       "id": "P11.C02.S02",
+       "title": "Cursing the Companions and the Prophet's wives"
+      },
+      {
+       "id": "P11.C02.S03",
+       "title": "Hypocrites among the Companions and the Aqaba plot"
+      },
+      {
+       "id": "P11.C02.S04",
+       "title": "Ahl al-Bayt and the status of Ali"
+      },
+      {
+       "id": "P11.C02.S05",
+       "title": "Saqifa and the caliphate of Abu Bakr"
+      },
+      {
+       "id": "P11.C02.S06",
+       "title": "The pen and paper incident"
+      },
+      {
+       "id": "P11.C02.S07",
+       "title": "The attack on Fatima's house and her death"
+      },
+      {
+       "id": "P11.C02.S08",
+       "title": "The sincerity of Abu Bakr and Umar"
+      },
+      {
+       "id": "P11.C02.S09",
+       "title": "Accusations against Aisha and Hafsa"
+      }
+     ]
+    },
+    {
+     "id": "P11.C03",
+     "title": "Shia sources, narrators and theology",
+     "subchapters": [
+      {
+       "id": "P11.C03.S01",
+       "title": "The sources of Sunni and Shia beliefs"
+      },
+      {
+       "id": "P11.C03.S02",
+       "title": "Shia preaching, hadith books and practices"
+      },
+      {
+       "id": "P11.C03.S03",
+       "title": "Al-Kafi, the four books and Shia hadith methodology"
+      },
+      {
+       "id": "P11.C03.S04",
+       "title": "Mass-transmitted reports in Shia hadith"
+      },
+      {
+       "id": "P11.C03.S05",
+       "title": "Early Shia sources on the twelve Imams"
+      },
+      {
+       "id": "P11.C03.S06",
+       "title": "Zurarah and narrators cursed by the Imams"
+      },
+      {
+       "id": "P11.C03.S07",
+       "title": "Altered narrations and the evolution of Shia theology"
+      },
+      {
+       "id": "P11.C03.S08",
+       "title": "Wilayah takwiniyyah and the powers of the Imams"
+      },
+      {
+       "id": "P11.C03.S09",
+       "title": "Shia works on the biography of the Prophet"
+      }
+     ]
+    },
+    {
+     "id": "P11.C04",
+     "title": "Sectarianism and Muslim unity",
+     "subchapters": [
+      {
+       "id": "P11.C04.S01",
+       "title": "Why Muslims are divided into sects"
+      },
+      {
+       "id": "P11.C04.S02",
+       "title": "The hadith of the 73 sects"
+      },
+      {
+       "id": "P11.C04.S03",
+       "title": "Returning disputes to the Quran and the Sunnah"
+      },
+      {
+       "id": "P11.C04.S04",
+       "title": "Scholars, madhhabs and juristic disagreement"
+      },
+      {
+       "id": "P11.C04.S05",
+       "title": "Group names, Ahl al-Sunnah and the Salaf"
+      },
+      {
+       "id": "P11.C04.S06",
+       "title": "Sunni and Shia: differences and shared beliefs"
+      },
+      {
+       "id": "P11.C04.S07",
+       "title": "Sunni-Shia unity"
+      },
+      {
+       "id": "P11.C04.S08",
+       "title": "Takfir and leaving the fold of Islam"
+      },
+      {
+       "id": "P11.C04.S09",
+       "title": "Folding hands in prayer"
+      }
+     ]
+    },
+    {
+     "id": "P11.C05",
+     "title": "Early Islamic history: the Fitna",
+     "subchapters": [
+      {
+       "id": "P11.C05.S01",
+       "title": "Origins of the Sunni-Shia split"
+      },
+      {
+       "id": "P11.C05.S02",
+       "title": "Sources and method for early Islamic history"
+      },
+      {
+       "id": "P11.C05.S03",
+       "title": "The martyrdom of Uthman"
+      },
+      {
+       "id": "P11.C05.S04",
+       "title": "The Battle of al-Jamal"
+      },
+      {
+       "id": "P11.C05.S05",
+       "title": "Karbala and its sources"
+      }
+     ]
+    },
+    {
+     "id": "P11.C06",
+     "title": "Other groups and contemporary figures",
+     "subchapters": [
+      {
+       "id": "P11.C06.S01",
+       "title": "Wahhabism and Ibn Abd al-Wahhab"
+      },
+      {
+       "id": "P11.C06.S02",
+       "title": "The Khawarij, Sufism and the Ash'ari creed"
+      },
+      {
+       "id": "P11.C06.S03",
+       "title": "Critiquing contemporary preachers and their expertise"
+      },
+      {
+       "id": "P11.C06.S04",
+       "title": "Yasir Qadhi: hadith credentials and the zombie theory"
+      },
+      {
+       "id": "P11.C06.S05",
+       "title": "Abu Layth's methods and views"
+      },
+      {
+       "id": "P11.C06.S06",
+       "title": "Hany Atchan and the Marvelous Quran channel"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "P12",
+   "title": "Islamic Law and Ethics",
+   "chapters": [
+    {
+     "id": "P12.C01",
+     "title": "Sharia: its nature and relevance",
+     "subchapters": [
+      {
+       "id": "P12.C01.S01",
+       "title": "Meaning and scope of Sharia"
+      },
+      {
+       "id": "P12.C01.S02",
+       "title": "Sources, categories and derivation of rulings"
+      },
+      {
+       "id": "P12.C01.S03",
+       "title": "Are Islamic laws outdated"
+      },
+      {
+       "id": "P12.C01.S04",
+       "title": "Purpose of punishments: deterrence and security"
+      },
+      {
+       "id": "P12.C01.S05",
+       "title": "Punishment for adultery and its evidentiary conditions"
+      },
+      {
+       "id": "P12.C01.S06",
+       "title": "Theft, murder and the hirabah verse"
+      },
+      {
+       "id": "P12.C01.S07",
+       "title": "Application of Islamic law by the state and Muslim countries"
+      }
+     ]
+    },
+    {
+     "id": "P12.C02",
+     "title": "Apostasy",
+     "subchapters": [
+      {
+       "id": "P12.C02.S01",
+       "title": "Textual basis and conditions of the apostasy law"
+      },
+      {
+       "id": "P12.C02.S02",
+       "title": "The period of repentance and the hypocrites"
+      },
+      {
+       "id": "P12.C02.S03",
+       "title": "No compulsion in religion and the apostasy law"
+      },
+      {
+       "id": "P12.C02.S04",
+       "title": "Wisdom of the law: treason, social order and freedom of thought"
+      },
+      {
+       "id": "P12.C02.S05",
+       "title": "Application in an Islamic state and the freedom to leave"
+      },
+      {
+       "id": "P12.C02.S06",
+       "title": "Apostates in the Hereafter"
+      }
+     ]
+    },
+    {
+     "id": "P12.C03",
+     "title": "Jihad, warfare and violence",
+     "subchapters": [
+      {
+       "id": "P12.C03.S01",
+       "title": "Meaning of jihad and the rules of war"
+      },
+      {
+       "id": "P12.C03.S02",
+       "title": "Violent verses in context: Quran 9:5 and 9:29"
+      },
+      {
+       "id": "P12.C03.S03",
+       "title": "The Prophet's battles and comparisons with the Bible"
+      },
+      {
+       "id": "P12.C03.S04",
+       "title": "The early conquests and the spread of Islam"
+      },
+      {
+       "id": "P12.C03.S05",
+       "title": "Extremist groups and mainstream Islam"
+      },
+      {
+       "id": "P12.C03.S06",
+       "title": "Terrorism, media coverage and the image of Islam"
+      }
+     ]
+    },
+    {
+     "id": "P12.C04",
+     "title": "Slavery",
+     "subchapters": [
+      {
+       "id": "P12.C04.S01",
+       "title": "Definition of slavery and captives of war in Islam"
+      },
+      {
+       "id": "P12.C04.S02",
+       "title": "Treatment, rights and freeing of captives"
+      },
+      {
+       "id": "P12.C04.S03",
+       "title": "Captives compared with modern prisoners of war"
+      },
+      {
+       "id": "P12.C04.S04",
+       "title": "Female captives and milk al-yamin"
+      },
+      {
+       "id": "P12.C04.S05",
+       "title": "Gradual abolition and historical comparisons"
+      }
+     ]
+    },
+    {
+     "id": "P12.C05",
+     "title": "Non-Muslims under Islam",
+     "subchapters": [
+      {
+       "id": "P12.C05.S01",
+       "title": "No compulsion in religion"
+      },
+      {
+       "id": "P12.C05.S02",
+       "title": "Jizya: definition, purpose and amount"
+      },
+      {
+       "id": "P12.C05.S03",
+       "title": "Dhimmis and the treatment of Jews and Christians under Muslim rule"
+      },
+      {
+       "id": "P12.C05.S04",
+       "title": "Christians in Muslim countries today"
+      },
+      {
+       "id": "P12.C05.S05",
+       "title": "Non-Muslims entering Mecca"
+      },
+      {
+       "id": "P12.C05.S06",
+       "title": "Loyalty, friendship and honesty towards non-Muslims"
+      },
+      {
+       "id": "P12.C05.S07",
+       "title": "Respect, disagreement and kindness between faiths"
+      }
+     ]
+    },
+    {
+     "id": "P12.C06",
+     "title": "Animals, food and lifestyle",
+     "subchapters": [
+      {
+       "id": "P12.C06.S01",
+       "title": "Kindness to animals and animal welfare"
+      },
+      {
+       "id": "P12.C06.S02",
+       "title": "Eating meat and the vegan objection"
+      },
+      {
+       "id": "P12.C06.S03",
+       "title": "Halal slaughter and the meat of the People of the Book"
+      },
+      {
+       "id": "P12.C06.S04",
+       "title": "Pork, forbidden foods, excess and hygiene"
+      },
+      {
+       "id": "P12.C06.S05",
+       "title": "Prohibition of alcohol and its harms"
+      },
+      {
+       "id": "P12.C06.S06",
+       "title": "Gradual prohibition of alcohol and alcohol in Christianity"
+      }
+     ]
+    },
+    {
+     "id": "P12.C07",
+     "title": "Other legal and ethical questions",
+     "subchapters": [
+      {
+       "id": "P12.C07.S01",
+       "title": "Interest, gambling and money matters"
+      },
+      {
+       "id": "P12.C07.S02",
+       "title": "Music, art and image-making"
+      },
+      {
+       "id": "P12.C07.S03",
+       "title": "Celebrations, imitation of non-Muslims and innovations"
+      },
+      {
+       "id": "P12.C07.S04",
+       "title": "Interaction between men and women"
+      },
+      {
+       "id": "P12.C07.S05",
+       "title": "Prayer, purification and handling the Quran"
+      },
+      {
+       "id": "P12.C07.S06",
+       "title": "Circumcision, tattoos, smoking and combat sports"
+      },
+      {
+       "id": "P12.C07.S07",
+       "title": "Ruling on masturbation"
+      },
+      {
+       "id": "P12.C07.S08",
+       "title": "Protests, emigration and found property"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "P13",
+   "title": "Women, Marriage, Family and Sexuality",
+   "chapters": [
+    {
+     "id": "P13.C01",
+     "title": "Women's rights and gender roles in Islam",
+     "subchapters": [
+      {
+       "id": "P13.C01.S01",
+       "title": "The claim that Islam oppresses women"
+      },
+      {
+       "id": "P13.C01.S02",
+       "title": "The status of women in Islam"
+      },
+      {
+       "id": "P13.C01.S03",
+       "title": "Equality and equity: different roles for men and women"
+      },
+      {
+       "id": "P13.C01.S04",
+       "title": "Men's degree and the husband's authority in marriage"
+      },
+      {
+       "id": "P13.C01.S05",
+       "title": "Quran 4:34 and striking wives"
+      },
+      {
+       "id": "P13.C01.S06",
+       "title": "Inheritance shares of men and women"
+      },
+      {
+       "id": "P13.C01.S07",
+       "title": "Women's testimony and the deficiency hadith"
+      },
+      {
+       "id": "P13.C01.S08",
+       "title": "Women as rulers, prophets and public preachers"
+      },
+      {
+       "id": "P13.C01.S09",
+       "title": "Women's education and work"
+      },
+      {
+       "id": "P13.C01.S10",
+       "title": "Separation of men and women in the mosque"
+      },
+      {
+       "id": "P13.C01.S11",
+       "title": "Practices in Muslim countries: culture versus religion"
+      }
+     ]
+    },
+    {
+     "id": "P13.C02",
+     "title": "Hijab and modesty",
+     "subchapters": [
+      {
+       "id": "P13.C02.S01",
+       "title": "Hijab in the Quran and the Bible"
+      },
+      {
+       "id": "P13.C02.S02",
+       "title": "Wisdom behind the hijab"
+      },
+      {
+       "id": "P13.C02.S03",
+       "title": "Covering rules for men and lowering the gaze"
+      },
+      {
+       "id": "P13.C02.S04",
+       "title": "Hijab as obligation, choice and enforcement"
+      },
+      {
+       "id": "P13.C02.S05",
+       "title": "Wearing hijab in practice: difficulties and advice"
+      },
+      {
+       "id": "P13.C02.S06",
+       "title": "The niqab and face covering"
+      },
+      {
+       "id": "P13.C02.S07",
+       "title": "Hijab and female captives"
+      }
+     ]
+    },
+    {
+     "id": "P13.C03",
+     "title": "Marriage, polygamy and the age of marriage",
+     "subchapters": [
+      {
+       "id": "P13.C03.S01",
+       "title": "Polygamy in Islam: conditions and wisdom"
+      },
+      {
+       "id": "P13.C03.S02",
+       "title": "Stipulating monogamy in the marriage contract"
+      },
+      {
+       "id": "P13.C03.S03",
+       "title": "Polygamy compared with Western and biblical practice"
+      },
+      {
+       "id": "P13.C03.S04",
+       "title": "Age of marriage in Islamic law: puberty, contract and guardian"
+      },
+      {
+       "id": "P13.C03.S05",
+       "title": "Age of marriage: the harm criterion and the schools of law"
+      },
+      {
+       "id": "P13.C03.S06",
+       "title": "Age of marriage laws in modern and historical societies"
+      },
+      {
+       "id": "P13.C03.S07",
+       "title": "Early marriage and teenage desire"
+      },
+      {
+       "id": "P13.C03.S08",
+       "title": "Cousin marriage"
+      },
+      {
+       "id": "P13.C03.S09",
+       "title": "Interfaith marriage"
+      },
+      {
+       "id": "P13.C03.S10",
+       "title": "Divorce: talaq, khul' and its effects"
+      },
+      {
+       "id": "P13.C03.S11",
+       "title": "Temporary (mut'ah) marriage"
+      }
+     ]
+    },
+    {
+     "id": "P13.C04",
+     "title": "Family, children and the marriage crisis",
+     "subchapters": [
+      {
+       "id": "P13.C04.S01",
+       "title": "Children leaving Islam and the influences on them"
+      },
+      {
+       "id": "P13.C04.S02",
+       "title": "Raising children: parental responsibility, example and teaching"
+      },
+      {
+       "id": "P13.C04.S03",
+       "title": "Discipline, environment and parental accountability"
+      },
+      {
+       "id": "P13.C04.S04",
+       "title": "When a child leaves Islam: disowning and family conflict"
+      },
+      {
+       "id": "P13.C04.S05",
+       "title": "The marriage crisis: the role of parents"
+      },
+      {
+       "id": "P13.C04.S06",
+       "title": "The marriage crisis: delayed marriage and expectations"
+      },
+      {
+       "id": "P13.C04.S07",
+       "title": "The marriage crisis: men's responsibilities and conduct"
+      }
+     ]
+    },
+    {
+     "id": "P13.C05",
+     "title": "Homosexuality, gender identity and sexual ethics",
+     "subchapters": [
+      {
+       "id": "P13.C05.S01",
+       "title": "Relationships outside marriage, dating and pornography"
+      },
+      {
+       "id": "P13.C05.S02",
+       "title": "The Islamic position on homosexuality"
+      },
+      {
+       "id": "P13.C05.S03",
+       "title": "Punishment for homosexual acts"
+      },
+      {
+       "id": "P13.C05.S04",
+       "title": "Same-sex attraction versus action: Muslims with such desires"
+      },
+      {
+       "id": "P13.C05.S05",
+       "title": "Homosexuality, love and shifting moral standards"
+      },
+      {
+       "id": "P13.C05.S06",
+       "title": "Whether homosexuality is innate: studies and evidence"
+      },
+      {
+       "id": "P13.C05.S07",
+       "title": "Transgender identity and the definition of gender"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "P14",
+   "title": "Society, Politics and History",
+   "chapters": [
+    {
+     "id": "P14.C01",
+     "title": "Palestine and Israel",
+     "subchapters": [
+      {
+       "id": "P14.C01.S01",
+       "title": "Historical right to the land of Palestine"
+      },
+      {
+       "id": "P14.C01.S02",
+       "title": "Zionism, Jewish immigration and the creation of Israel"
+      },
+      {
+       "id": "P14.C01.S03",
+       "title": "Occupation, settlements and displacement since 1948"
+      },
+      {
+       "id": "P14.C01.S04",
+       "title": "October 7 and the claim of self-defence"
+      },
+      {
+       "id": "P14.C01.S05",
+       "title": "Civilian deaths in Gaza and their justification"
+      },
+      {
+       "id": "P14.C01.S06",
+       "title": "Media coverage and world opinion"
+      },
+      {
+       "id": "P14.C01.S07",
+       "title": "Prospects for peace and the Muslim response"
+      }
+     ]
+    },
+    {
+     "id": "P14.C02",
+     "title": "Immigration, nationalism and racism",
+     "subchapters": [
+      {
+       "id": "P14.C02.S01",
+       "title": "Race and racial equality in Islam"
+      },
+      {
+       "id": "P14.C02.S02",
+       "title": "Nationalism, colonialism and allegiance to Islam"
+      },
+      {
+       "id": "P14.C02.S03",
+       "title": "Why Muslims emigrate: Western wars and immigration"
+      },
+      {
+       "id": "P14.C02.S04",
+       "title": "Anti-immigration protests in the UK"
+      },
+      {
+       "id": "P14.C02.S05",
+       "title": "Hostility toward Muslims and its sources"
+      },
+      {
+       "id": "P14.C02.S06",
+       "title": "Muslim immigrants, Western values and claims of domination"
+      },
+      {
+       "id": "P14.C02.S07",
+       "title": "Muslim Americans and public prayer"
+      }
+     ]
+    },
+    {
+     "id": "P14.C03",
+     "title": "Islamic civilization and history",
+     "subchapters": [
+      {
+       "id": "P14.C03.S01",
+       "title": "The spread of Islam and the early conquests"
+      },
+      {
+       "id": "P14.C03.S02",
+       "title": "The Golden Age, Muslim science and its decline"
+      },
+      {
+       "id": "P14.C03.S03",
+       "title": "The Muslim conquest of Egypt and the Copts"
+      },
+      {
+       "id": "P14.C03.S04",
+       "title": "The Crusades, al-Aqsa and the Black Stone"
+      }
+     ]
+    },
+    {
+     "id": "P14.C05",
+     "title": "The state of the Muslim Ummah",
+     "subchapters": [
+      {
+       "id": "P14.C05.S01",
+       "title": "Weakness of the Ummah and its causes"
+      },
+      {
+       "id": "P14.C05.S02",
+       "title": "Muslim-majority countries and their rulers"
+      },
+      {
+       "id": "P14.C05.S03",
+       "title": "Muslims in the West: fame, fear and hostility"
+      },
+      {
+       "id": "P14.C05.S04",
+       "title": "Enjoining good, the duty to act and righteous company"
+      }
+     ]
+    }
+   ]
+  },
+  {
    "id": "P15",
    "title": "Dawah, Doubts and Conversion",
    "chapters": [
@@ -2547,6 +3669,220 @@
       {
        "id": "P01.C07.S04",
        "title": "Love as the motive of human actions"
+      }
+     ]
+    },
+    {
+     "id": "P13.C06",
+     "title": "Feminism and liberal values",
+     "subchapters": [
+      {
+       "id": "P13.C06.S01",
+       "title": "Liberalism and the harm principle"
+      },
+      {
+       "id": "P13.C06.S02",
+       "title": "Liberal morality, tolerance and subjective standards"
+      },
+      {
+       "id": "P13.C06.S03",
+       "title": "Feminism and the meaning of gender equality"
+      },
+      {
+       "id": "P13.C06.S04",
+       "title": "Claims of female superiority and the Red Pill ideology"
+      },
+      {
+       "id": "P13.C06.S05",
+       "title": "Liberalism and feminism among Muslims"
+      }
+     ]
+    },
+    {
+     "id": "P14.C04",
+     "title": "The modern world and Western society",
+     "subchapters": [
+      {
+       "id": "P14.C04.S01",
+       "title": "Religion, Islam and the modern world"
+      },
+      {
+       "id": "P14.C04.S02",
+       "title": "Muslim countries compared with the West"
+      },
+      {
+       "id": "P14.C04.S03",
+       "title": "Secularism and the decline of Christianity in the West"
+      },
+      {
+       "id": "P14.C04.S04",
+       "title": "Free speech and its limits"
+      },
+      {
+       "id": "P14.C04.S05",
+       "title": "Media portrayal of Islam and Muslims"
+      },
+      {
+       "id": "P14.C04.S06",
+       "title": "Wars, politics and public trust in the West"
+      },
+      {
+       "id": "P14.C04.S07",
+       "title": "Muslims on social media and in the workplace"
+      },
+      {
+       "id": "P14.C04.S08",
+       "title": "Artificial intelligence and technology"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "P16",
+   "title": "Other Remarks",
+   "chapters": [
+    {
+     "id": "P16.C01",
+     "title": "Greetings, introductions and closing remarks",
+     "subchapters": [
+      {
+       "id": "P16.C01.S01",
+       "title": "Video previews and opening teasers"
+      },
+      {
+       "id": "P16.C01.S02",
+       "title": "Greetings and introductions of callers"
+      },
+      {
+       "id": "P16.C01.S03",
+       "title": "Introductions of guests and debate opponents"
+      },
+      {
+       "id": "P16.C01.S04",
+       "title": "Street conversation openings"
+      },
+      {
+       "id": "P16.C01.S05",
+       "title": "Opening remarks of response videos and lectures"
+      },
+      {
+       "id": "P16.C01.S06",
+       "title": "Closing remarks and farewells in conversations with Christians"
+      },
+      {
+       "id": "P16.C01.S07",
+       "title": "Closing remarks and farewells in conversations with atheists and agnostics"
+      },
+      {
+       "id": "P16.C01.S08",
+       "title": "Closing remarks and farewells in other conversations"
+      },
+      {
+       "id": "P16.C01.S09",
+       "title": "Closing invitations to Islam and advice to read the Quran"
+      },
+      {
+       "id": "P16.C01.S10",
+       "title": "Parting gifts: Quran copies, books and recommended resources"
+      },
+      {
+       "id": "P16.C01.S11",
+       "title": "Contact details and arranging follow-up"
+      },
+      {
+       "id": "P16.C01.S12",
+       "title": "Closing a stream: schedule and announcements"
+      },
+      {
+       "id": "P16.C01.S13",
+       "title": "Closing remarks of response videos and debates"
+      },
+      {
+       "id": "P16.C01.S14",
+       "title": "Closing remarks of lectures and events"
+      },
+      {
+       "id": "P16.C01.S15",
+       "title": "Salam, handshakes and parting etiquette"
+      }
+     ]
+    },
+    {
+     "id": "P16.C02",
+     "title": "Channel announcements and personal matters",
+     "subchapters": [
+      {
+       "id": "P16.C02.S01",
+       "title": "Channel news, projects and video referrals"
+      },
+      {
+       "id": "P16.C02.S02",
+       "title": "Video takedowns and complaints on YouTube"
+      },
+      {
+       "id": "P16.C02.S03",
+       "title": "Books, courses and publications"
+      },
+      {
+       "id": "P16.C02.S04",
+       "title": "Sponsor segments and the clothing brand"
+      },
+      {
+       "id": "P16.C02.S05",
+       "title": "Personal matters: residence, travels and family"
+      }
+     ]
+    },
+    {
+     "id": "P16.C03",
+     "title": "Conversation logistics",
+     "subchapters": [
+      {
+       "id": "P16.C03.S01",
+       "title": "Stream rules and ground rules for discussion"
+      },
+      {
+       "id": "P16.C03.S02",
+       "title": "Debate format, timing and video transitions"
+      },
+      {
+       "id": "P16.C03.S03",
+       "title": "Technical problems: audio, camera and connection"
+      },
+      {
+       "id": "P16.C03.S04",
+       "title": "Managing questions and the flow of the call"
+      },
+      {
+       "id": "P16.C03.S05",
+       "title": "Interruptions, muting and turn-taking"
+      },
+      {
+       "id": "P16.C03.S06",
+       "title": "Disputes with callers and ending calls"
+      },
+      {
+       "id": "P16.C03.S07",
+       "title": "Street conversations: recording, passers-by and crowds"
+      }
+     ]
+    },
+    {
+     "id": "P16.C04",
+     "title": "Miscellaneous",
+     "subchapters": [
+      {
+       "id": "P16.C04.S01",
+       "title": "Small talk and banter"
+      },
+      {
+       "id": "P16.C04.S02",
+       "title": "Remarks on languages and pronunciation"
+      },
+      {
+       "id": "P16.C04.S03",
+       "title": "Fragmentary captions without recoverable content"
       }
      ]
     }

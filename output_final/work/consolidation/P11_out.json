@@ -1,0 +1,601 @@
+{
+ "part": "P11",
+ "chapters": [
+  {
+   "code": "P11.C01",
+   "title": "Imamah, the Twelve Imams and the Shia Mahdi",
+   "subchapters": [
+    {
+     "title": "Twelver Shia beliefs and the doctrine of Imamah",
+     "ranges": [
+      "ML223:53-153",
+      "ML337:820-864",
+      "FR127:93-131",
+      "ML223:791-867",
+      "FR099:254-295"
+     ]
+    },
+    {
+     "title": "Imamah and the Twelve Imams in the Quran",
+     "ranges": [
+      "ML092:1-39",
+      "ML223:342-375",
+      "ML291:785-858",
+      "ML140:186-202",
+      "ML092:354-405",
+      "ML092:250-283",
+      "ML092:40-139",
+      "ML092:284-353",
+      "ML092:406-470",
+      "ML092:471-575",
+      "ML291:535-706",
+      "ML223:224-288",
+      "ML092:576-597",
+      "ML291:1003-1033"
+     ]
+    },
+    {
+     "title": "Ghadir Khum and the designation of Ali",
+     "ranges": [
+      "ML064:1334-1384",
+      "ML291:248-277",
+      "FR174:1315-1350",
+      "ML291:1034-1081",
+      "ML223:1061-1085",
+      "FR087:183-192"
+     ]
+    },
+    {
+     "title": "Proving the Twelve Imams from Shia sources",
+     "ranges": [
+      "FR127:1-92",
+      "FR097:1-32",
+      "FR097:33-102",
+      "FR097:103-202",
+      "FR097:203-298",
+      "FR097:299-350",
+      "FR097:351-378",
+      "FR097:379-393",
+      "FR127:723-821",
+      "FR127:1379-1435"
+     ]
+    },
+    {
+     "title": "The status of those who reject Imamah",
+     "ranges": [
+      "FR174:277-546",
+      "FR175:94-196",
+      "FR174:547-660",
+      "FR174:695-850",
+      "FR174:851-1064"
+     ]
+    },
+    {
+     "title": "Hasan, Husayn and the divinely appointed imamate",
+     "ranges": [
+      "FR122:1-31",
+      "FR122:32-102",
+      "FR122:103-139",
+      "FR122:140-170"
+     ]
+    },
+    {
+     "title": "The Hidden Imam and the occultation",
+     "ranges": [
+      "FR056:1-39",
+      "FR089:63-153",
+      "FR056:40-122",
+      "FR056:123-171",
+      "FR089:273-319",
+      "FR056:172-253",
+      "FR089:154-272",
+      "FR089:320-398",
+      "FR089:399-465",
+      "FR119:268-409",
+      "FR056:254-317",
+      "FR056:318-338"
+     ]
+    }
+   ]
+  },
+  {
+   "code": "P11.C02",
+   "title": "The Companions and Ahl al-Bayt",
+   "subchapters": [
+    {
+     "title": "The Companions in the Quran and Sunni belief",
+     "ranges": [
+      "ML291:42-86",
+      "ML291:278-344",
+      "ML060:458-546",
+      "ML364:200-229",
+      "ML347:755-781",
+      "ML223:670-790",
+      "ML291:405-534",
+      "ML140:203-319",
+      "ML291:155-247",
+      "ML064:1106-1143",
+      "ML140:425-479"
+     ]
+    },
+    {
+     "title": "Cursing the Companions and the Prophet's wives",
+     "ranges": [
+      "ML239:3573-3698",
+      "FR054:280-311",
+      "ML060:547-578"
+     ]
+    },
+    {
+     "title": "Hypocrites among the Companions and the Aqaba plot",
+     "ranges": [
+      "ML223:376-435",
+      "FR098:1-66",
+      "FR098:67-143",
+      "FR098:144-168"
+     ]
+    },
+    {
+     "title": "Ahl al-Bayt and the status of Ali",
+     "ranges": [
+      "ML291:859-905",
+      "ML223:868-938",
+      "ML223:289-341",
+      "ML223:939-987",
+      "ML424:1-33",
+      "ML368:11-57"
+     ]
+    },
+    {
+     "title": "Saqifa and the caliphate of Abu Bakr",
+     "ranges": [
+      "FR087:23-93",
+      "FR087:94-146",
+      "FR087:147-182",
+      "FR174:1837-1909",
+      "FR175:415-436"
+     ]
+    },
+    {
+     "title": "The pen and paper incident",
+     "ranges": [
+      "FR099:26-74",
+      "ML136:544-634",
+      "ML223:1015-1060",
+      "ML239:4218-4254",
+      "FR099:75-162",
+      "FR099:163-204",
+      "ML136:635-697",
+      "ML136:698-751",
+      "FR099:205-253"
+     ]
+    },
+    {
+     "title": "The attack on Fatima's house and her death",
+     "ranges": [
+      "FR233:1-99",
+      "FR233:170-247",
+      "FR233:248-321",
+      "FR233:322-376",
+      "FR233:377-488",
+      "FR171:1-79",
+      "FR171:80-132",
+      "FR171:133-189",
+      "FR171:190-277",
+      "FR171:278-338",
+      "FR171:339-399",
+      "FR171:400-433"
+     ]
+    },
+    {
+     "title": "The sincerity of Abu Bakr and Umar",
+     "ranges": [
+      "FR019:1-44",
+      "FR019:45-76",
+      "FR019:77-96"
+     ]
+    },
+    {
+     "title": "Accusations against Aisha and Hafsa",
+     "ranges": [
+      "FR100:1-61",
+      "FR100:62-164",
+      "FR100:165-205",
+      "FR100:206-254",
+      "FR100:255-353",
+      "FR100:354-404",
+      "FR100:405-444",
+      "FR100:445-460"
+     ]
+    }
+   ]
+  },
+  {
+   "code": "P11.C03",
+   "title": "Shia sources, narrators and theology",
+   "subchapters": [
+    {
+     "title": "The sources of Sunni and Shia beliefs",
+     "ranges": [
+      "ML239:3497-3572",
+      "ML364:183-199",
+      "FR130:1-100",
+      "FR094:16-49",
+      "ML223:1-52",
+      "ML223:154-223",
+      "ML092:140-191",
+      "ML092:192-249",
+      "ML140:320-359",
+      "ML140:360-383"
+     ]
+    },
+    {
+     "title": "Shia preaching, hadith books and practices",
+     "ranges": [
+      "ML140:1-33",
+      "ML140:76-116",
+      "ML140:117-185",
+      "ML140:34-75",
+      "ML223:988-1014",
+      "ML140:384-424",
+      "ML337:891-947"
+     ]
+    },
+    {
+     "title": "Al-Kafi, the four books and Shia hadith methodology",
+     "ranges": [
+      "FR130:101-199",
+      "FR094:50-101",
+      "FR130:200-290",
+      "FR130:291-378",
+      "FR130:379-468",
+      "FR130:469-507",
+      "FR130:508-591",
+      "FR130:592-693",
+      "FR130:694-793",
+      "ML108:502-562",
+      "FR130:794-835"
+     ]
+    },
+    {
+     "title": "Mass-transmitted reports in Shia hadith",
+     "ranges": [
+      "FR175:265-414",
+      "FR174:1065-1259",
+      "FR174:1351-1642",
+      "FR175:437-485",
+      "FR174:1910-1969"
+     ]
+    },
+    {
+     "title": "Early Shia sources on the twelve Imams",
+     "ranges": [
+      "FR124:1-148",
+      "FR124:267-377",
+      "FR124:378-444",
+      "FR124:445-662",
+      "FR124:663-768",
+      "FR124:851-1097",
+      "FR124:1098-1148",
+      "FR124:1149-1291",
+      "FR127:132-268",
+      "FR127:269-427",
+      "FR127:428-560",
+      "FR127:561-722",
+      "FR127:822-937",
+      "FR127:938-1113",
+      "FR127:1114-1212",
+      "FR127:1213-1378"
+     ]
+    },
+    {
+     "title": "Zurarah and narrators cursed by the Imams",
+     "ranges": [
+      "FR053:1-36",
+      "FR053:37-74",
+      "FR053:75-90",
+      "FR053:91-100",
+      "FR053:101-128",
+      "ARTICLE:FA04"
+     ]
+    },
+    {
+     "title": "Altered narrations and the evolution of Shia theology",
+     "ranges": [
+      "FR119:1-37",
+      "FR119:38-90",
+      "FR119:91-194",
+      "FR119:195-225",
+      "FR119:226-267",
+      "FR119:410-449",
+      "FR119:450-498",
+      "FR119:499-521",
+      "ARTICLE:FA05"
+     ]
+    },
+    {
+     "title": "Wilayah takwiniyyah and the powers of the Imams",
+     "ranges": [
+      "FR057:362-465",
+      "FR057:323-361",
+      "FR057:466-511",
+      "FR057:512-562",
+      "FR057:563-587"
+     ]
+    },
+    {
+     "title": "Shia works on the biography of the Prophet",
+     "ranges": [
+      "FR095:1-79",
+      "FR095:80-149",
+      "FR095:262-280"
+     ]
+    }
+   ]
+  },
+  {
+   "code": "P11.C04",
+   "title": "Sectarianism and Muslim unity",
+   "subchapters": [
+    {
+     "title": "Why Muslims are divided into sects",
+     "ranges": [
+      "ML364:1-23",
+      "ML347:698-754",
+      "ML337:703-819",
+      "ML210:577-602",
+      "ML364:161-182",
+      "ML284:352-396",
+      "ML422:55-93"
+     ]
+    },
+    {
+     "title": "The hadith of the 73 sects",
+     "ranges": [
+      "FR134:1-69",
+      "FR134:70-172",
+      "FR134:173-242",
+      "FR134:243-296",
+      "FR134:297-319",
+      "FR134:320-381",
+      "FR134:382-449",
+      "FR134:450-467",
+      "FR134:527-552",
+      "FR134:553-598",
+      "FR134:599-641",
+      "FR134:701-820",
+      "FR134:930-944"
+     ]
+    },
+    {
+     "title": "Returning disputes to the Quran and the Sunnah",
+     "ranges": [
+      "ML364:82-113",
+      "ML174:355-438",
+      "ML041:94-132",
+      "ML364:230-259",
+      "ML364:260-290",
+      "ML206:346-390",
+      "ML248:1780-1870",
+      "ML174:439-500",
+      "ML040:1176-1207"
+     ]
+    },
+    {
+     "title": "Scholars, madhhabs and juristic disagreement",
+     "ranges": [
+      "ML260:36-55",
+      "ML246:177-187",
+      "ML246:205-253",
+      "ML246:254-275",
+      "ML001:153-192",
+      "ML025:815-839",
+      "ML001:255-307",
+      "ML233:2425-2434",
+      "ML258:250-329",
+      "ML236:1150-1232",
+      "ML354:252-345",
+      "ML246:276-340",
+      "ML246:341-362"
+     ]
+    },
+    {
+     "title": "Group names, Ahl al-Sunnah and the Salaf",
+     "ranges": [
+      "ML167:91-113",
+      "ML412:401-414",
+      "ML239:1218-1309",
+      "ML248:2702-2744",
+      "ML239:2824-2869",
+      "ML239:4143-4164",
+      "ML248:2493-2701",
+      "ML239:4075-4097",
+      "ML239:4165-4217"
+     ]
+    },
+    {
+     "title": "Sunni and Shia: differences and shared beliefs",
+     "ranges": [
+      "ML064:69-102",
+      "ML340:223-254",
+      "ML311:241-347",
+      "ML091:853-877",
+      "FR089:29-62",
+      "ML291:1-41",
+      "ML057:1246-1289"
+     ]
+    },
+    {
+     "title": "Sunni-Shia unity",
+     "ranges": [
+      "ML060:363-403",
+      "ML060:404-457",
+      "ML060:579-605",
+      "ML060:660-709",
+      "ML002:73-93",
+      "ML002:341-368"
+     ]
+    },
+    {
+     "title": "Takfir and leaving the fold of Islam",
+     "ranges": [
+      "ML291:128-154",
+      "ML248:2867-2949",
+      "FR054:191-207",
+      "FR054:208-244"
+     ]
+    },
+    {
+     "title": "Folding hands in prayer",
+     "ranges": [
+      "ML108:317-358",
+      "ML108:359-396",
+      "ML108:563-671"
+     ]
+    }
+   ]
+  },
+  {
+   "code": "P11.C05",
+   "title": "Early Islamic history: the Fitna",
+   "subchapters": [
+    {
+     "title": "Origins of the Sunni-Shia split",
+     "ranges": [
+      "ML408:260-275",
+      "ML408:304-352",
+      "ML040:1116-1175",
+      "ML337:865-890",
+      "ML224:101-152",
+      "FR087:1-22"
+     ]
+    },
+    {
+     "title": "Sources and method for early Islamic history",
+     "ranges": [
+      "FR223:1-65",
+      "FR223:66-115",
+      "ML064:1268-1308"
+     ]
+    },
+    {
+     "title": "The martyrdom of Uthman",
+     "ranges": [
+      "FR223:116-235",
+      "FR223:236-351",
+      "FR223:352-396",
+      "FR223:397-577",
+      "FR223:578-762",
+      "FR223:763-897",
+      "FR223:898-961",
+      "FR223:962-1018",
+      "FR223:1019-1044",
+      "FR223:1045-1077",
+      "FR223:1078-1141",
+      "FR223:1142-1188",
+      "FR223:1189-1254",
+      "FR223:1255-1289"
+     ]
+    },
+    {
+     "title": "The Battle of al-Jamal",
+     "ranges": [
+      "FR222:1-68",
+      "FR222:69-107",
+      "FR222:137-189",
+      "FR222:190-253",
+      "FR222:254-317",
+      "FR222:318-350",
+      "FR222:351-395",
+      "FR222:396-477",
+      "FR222:478-562",
+      "FR222:563-618",
+      "FR222:619-703",
+      "FR222:704-812",
+      "FR222:813-877",
+      "FR222:878-946",
+      "FR222:947-1037",
+      "FR222:1038-1073",
+      "FR222:1074-1128"
+     ]
+    },
+    {
+     "title": "Karbala and its sources",
+     "ranges": [
+      "FR254:1-35",
+      "ML137:1-61",
+      "ML137:62-235",
+      "FR254:36-110",
+      "FR122:171-193"
+     ]
+    }
+   ]
+  },
+  {
+   "code": "P11.C06",
+   "title": "Other groups and contemporary figures",
+   "subchapters": [
+    {
+     "title": "Wahhabism and Ibn Abd al-Wahhab",
+     "ranges": [
+      "ML127:410-494",
+      "ML040:1006-1049",
+      "FR049:1-23",
+      "FR049:24-51",
+      "FR049:52-69",
+      "FR049:70-122",
+      "FR049:123-138"
+     ]
+    },
+    {
+     "title": "The Khawarij, Sufism and the Ash'ari creed",
+     "ranges": [
+      "ML239:3699-3738",
+      "ML239:3739-3800",
+      "ML001:319-348",
+      "ML264:118-149",
+      "ML239:4098-4142"
+     ]
+    },
+    {
+     "title": "Critiquing contemporary preachers and their expertise",
+     "ranges": [
+      "FR231:1-41",
+      "FR231:229-272",
+      "FR231:582-689",
+      "FR231:850-920",
+      "FR232:1-43",
+      "FR232:237-260"
+     ]
+    },
+    {
+     "title": "Yasir Qadhi: hadith credentials and the zombie theory",
+     "ranges": [
+      "FR046:32-48",
+      "FR141:1-24",
+      "FR141:62-150",
+      "FR141:151-218"
+     ]
+    },
+    {
+     "title": "Abu Layth's methods and views",
+     "ranges": [
+      "FR227:1-82",
+      "FR226:171-198",
+      "FR227:886-976"
+     ]
+    },
+    {
+     "title": "Hany Atchan and the Marvelous Quran channel",
+     "ranges": [
+      "FR170:1-60",
+      "FR167:1-55",
+      "FR167:678-716",
+      "FR170:705-731"
+     ]
+    }
+   ]
+  }
+ ],
+ "moves": []
+}

@@ -1,0 +1,95 @@
+P01.C01 | Arguments for the existence of God | 12 sub-chapters
+P01.C02 | Atheism, agnosticism and the burden of proof | 8 sub-chapters
+P01.C03 | Reason, knowledge and evidence | 11 sub-chapters
+P01.C04 | Morality and its foundation | 10 sub-chapters
+P01.C05 | Evil, suffering and the wisdom of trials | 6 sub-chapters
+P01.C06 | Science, evolution and creation | 9 sub-chapters
+P01.C07 | Pantheism, deism and other conceptions of God | 4 sub-chapters
+P01.C08 | Divine decree and free will | 4 sub-chapters
+P01.C09 | The purpose of life and why God communicates through prophets | 8 sub-chapters
+P02.C01 | Tawheed and the Islamic concept of God | 15 sub-chapters
+P02.C02 | Shirk, intercession and calling upon others besides Allah | 6 sub-chapters
+P02.C03 | Aqeedah, its sources and theological schools | 5 sub-chapters
+P02.C04 | Angels, jinn, magic and the evil eye | 7 sub-chapters
+P02.C05 | Death, the grave and the Day of Judgment | 4 sub-chapters
+P02.C06 | Paradise and Hellfire | 4 sub-chapters
+P02.C07 | Salvation and the fate of non-Muslims | 8 sub-chapters
+P02.C08 | Worship, spirituality and connection with God | 12 sub-chapters
+P03.C01 | How to know which religion is from God | 14 sub-chapters
+P03.C02 | General evidences for the truth of Islam | 9 sub-chapters
+P03.C03 | Islam and the message of all the prophets | 13 sub-chapters
+P04.C01 | Proofs of prophethood: prophecies | 12 sub-chapters
+P04.C02 | Proofs of prophethood: miracles | 7 sub-chapters
+P04.C03 | Proofs of prophethood: character, life and other evidences | 13 sub-chapters
+P04.C04 | Muhammad in previous scriptures | 7 sub-chapters
+P04.C05 | The historical existence of Muhammad and the early sources | 3 sub-chapters
+P04.C06 | The finality of prophethood and later claimants | 7 sub-chapters
+P05.C01 | The challenge and inimitability of the Quran | 8 sub-chapters
+P05.C02 | Revelation, compilation and preservation of the Quran | 9 sub-chapters
+P05.C03 | Qira'at, ahruf, variants and manuscripts | 13 sub-chapters
+P05.C04 | Alleged sources of the Quran | 7 sub-chapters
+P05.C05 | Alleged contradictions and errors in the Quran | 6 sub-chapters
+P05.C06 | The Quran and science | 16 sub-chapters
+P05.C07 | The Quran and history | 8 sub-chapters
+P05.C08 | Understanding the Quran: language and interpretation | 16 sub-chapters
+P05.C09 | The Satanic Verses | 2 sub-chapters
+P06.C01 | The authority of the Sunnah and the Quran-only claim | 7 sub-chapters
+P06.C02 | The reliability and methodology of hadith | 12 sub-chapters
+P06.C03 | Specific hadiths explained | 12 sub-chapters
+P06.C04 | Hadith collections and scholars | 6 sub-chapters
+P07.C01 | The life of the Prophet (Seerah) | 6 sub-chapters
+P07.C02 | The marriage to Aisha | 7 sub-chapters
+P07.C03 | The Prophet's other marriages | 5 sub-chapters
+P07.C04 | Other criticisms of the Prophet | 13 sub-chapters
+P07.C05 | Honouring the Prophet; mockery and insults | 2 sub-chapters
+P08.C01 | The Trinity | 11 sub-chapters
+P08.C02 | The divinity of Jesus | 25 sub-chapters
+P08.C03 | Jesus in Islam | 10 sub-chapters
+P08.C04 | The crucifixion and the resurrection | 8 sub-chapters
+P08.C05 | Original sin, atonement and salvation in Christianity | 7 sub-chapters
+P08.C06 | Paul and early Christianity | 7 sub-chapters
+P09.C01 | Authorship of the Bible and the Gospels | 10 sub-chapters
+P09.C02 | Preservation, corruption and textual criticism of the Bible | 15 sub-chapters
+P09.C03 | The Quran's stance on the Torah and the Gospel | 13 sub-chapters
+P09.C04 | Biblical prophecies | 7 sub-chapters
+P09.C05 | Biblical ethics, laws and contradictions | 11 sub-chapters
+P09.C06 | Christian denominations and practices | 5 sub-chapters
+P10.C01 | Judaism and the Jewish people | 5 sub-chapters
+P10.C02 | Hinduism | 3 sub-chapters
+P10.C03 | Buddhism, Jainism and Sikhism | 5 sub-chapters
+P10.C04 | Other beliefs and movements | 3 sub-chapters
+P10.C05 | Pre-Islamic Arabia | 6 sub-chapters
+P11.C01 | Imamah, the Twelve Imams and the Shia Mahdi | 7 sub-chapters
+P11.C02 | The Companions and Ahl al-Bayt | 9 sub-chapters
+P11.C03 | Shia sources, narrators and theology | 9 sub-chapters
+P11.C04 | Sectarianism and Muslim unity | 9 sub-chapters
+P11.C05 | Early Islamic history: the Fitna | 5 sub-chapters
+P11.C06 | Other groups and contemporary figures | 6 sub-chapters
+P12.C01 | Sharia: its nature and relevance | 7 sub-chapters
+P12.C02 | Apostasy | 6 sub-chapters
+P12.C03 | Jihad, warfare and violence | 6 sub-chapters
+P12.C04 | Slavery | 5 sub-chapters
+P12.C05 | Non-Muslims under Islam | 7 sub-chapters
+P12.C06 | Animals, food and lifestyle | 6 sub-chapters
+P12.C07 | Other legal and ethical questions | 8 sub-chapters
+P13.C01 | Women's rights and gender roles in Islam | 11 sub-chapters
+P13.C02 | Hijab and modesty | 7 sub-chapters
+P13.C03 | Marriage, polygamy and the age of marriage | 11 sub-chapters
+P13.C04 | Family, children and the marriage crisis | 7 sub-chapters
+P13.C05 | Homosexuality, gender identity and sexual ethics | 7 sub-chapters
+P13.C06 | Feminism and liberal values | 5 sub-chapters
+P14.C01 | Palestine and Israel | 7 sub-chapters
+P14.C02 | Immigration, nationalism and racism | 7 sub-chapters
+P14.C03 | Islamic civilization and history | 4 sub-chapters
+P14.C04 | The modern world and Western society | 8 sub-chapters
+P14.C05 | The state of the Muslim Ummah | 4 sub-chapters
+P15.C01 | Dealing with doubts | 6 sub-chapters
+P15.C02 | Seeking knowledge | 8 sub-chapters
+P15.C03 | Dawah: methods, conduct and debates | 20 sub-chapters
+P15.C04 | Conversion and accepting Islam | 19 sub-chapters
+P15.C05 | Ex-Muslims and reasons for leaving Islam | 6 sub-chapters
+P15.C06 | Critics and apologists: methods and honesty | 23 sub-chapters
+P16.C01 | Greetings, introductions and closing remarks | 15 sub-chapters
+P16.C02 | Channel announcements and personal matters | 5 sub-chapters
+P16.C03 | Conversation logistics | 7 sub-chapters
+P16.C04 | Miscellaneous | 3 sub-chapters
