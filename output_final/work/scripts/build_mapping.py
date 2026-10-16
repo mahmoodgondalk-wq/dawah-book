@@ -93,7 +93,9 @@ def main():
           f"subchapters {len(mapping)}, placed {len(placed)}; missing {len(missing)}, extra {len(extra)}, duplicated {len(dup)}")
     if missing or extra or dup:
         print("missing:", missing[:20]); print("extra:", extra[:20]); print("dup:", dup[:20])
-        sys.exit(1)
+        if "--partial" not in sys.argv:
+            sys.exit(1)
+        print("--partial: writing taxonomy/mapping anyway (test build only)")
     json.dump(tax, open(os.path.join(WORK, "taxonomy.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=1)
     json.dump(mapping, open(os.path.join(WORK, "mapping.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=0)
 

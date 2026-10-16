@@ -1,0 +1,400 @@
+{
+ "part": "P14",
+ "chapters": [
+  {
+   "code": "P14.C01",
+   "title": "Palestine and Israel",
+   "subchapters": [
+    {
+     "title": "Historical right to the land of Palestine",
+     "ranges": [
+      "ML423:1-61",
+      "ML075:167-218",
+      "ML249:1-57",
+      "ML423:62-103",
+      "ML091:953-966",
+      "ML423:118-134"
+     ]
+    },
+    {
+     "title": "Zionism, Jewish immigration and the creation of Israel",
+     "ranges": [
+      "ML271:61-116",
+      "ML075:122-166",
+      "ML249:121-198",
+      "ML423:104-117",
+      "ML075:219-268",
+      "ML075:269-367",
+      "ML075:368-419",
+      "ML372:212-286",
+      "ML268:991-1016",
+      "ML268:930-945",
+      "ML268:1017-1064",
+      "ML268:946-990"
+     ]
+    },
+    {
+     "title": "Occupation, settlements and displacement since 1948",
+     "ranges": [
+      "ML203:114-194",
+      "ML197:33-95",
+      "ML203:240-302",
+      "ML249:58-120",
+      "ML290:159-220",
+      "ML075:420-481",
+      "ML233:755-808",
+      "ML249:199-231",
+      "ML197:244-340",
+      "ML249:323-379",
+      "ML075:1111-1153",
+      "ML075:782-882"
+     ]
+    },
+    {
+     "title": "October 7 and the claim of self-defence",
+     "ranges": [
+      "ML249:232-259",
+      "ML075:541-605",
+      "ML075:722-781",
+      "ML075:482-496",
+      "ML075:976-1075",
+      "ML249:460-543",
+      "ML075:883-975",
+      "ML203:195-239",
+      "ML249:260-322"
+     ]
+    },
+    {
+     "title": "Civilian deaths in Gaza and their justification",
+     "ranges": [
+      "ML075:1-78",
+      "ML075:79-121",
+      "ML075:606-663",
+      "ML249:380-459",
+      "ML271:1-47",
+      "ML250:123-173",
+      "ML094:59-77",
+      "ML290:252-320",
+      "ML197:341-378",
+      "ML030:626-691",
+      "ML271:156-213",
+      "ML271:465-494"
+     ]
+    },
+    {
+     "title": "Media coverage and world opinion",
+     "ranges": [
+      "ML303:1-22",
+      "ML303:23-58",
+      "ML233:120-183",
+      "ML075:664-721",
+      "ML075:497-540",
+      "ML303:59-93",
+      "ML041:518-561"
+     ]
+    },
+    {
+     "title": "Prospects for peace and the Muslim response",
+     "ranges": [
+      "ML290:321-415",
+      "ML249:544-650",
+      "ML290:37-128",
+      "ML284:397-442",
+      "ML240:153-169",
+      "ML248:2353-2440",
+      "ML248:2102-2249"
+     ]
+    }
+   ]
+  },
+  {
+   "code": "P14.C02",
+   "title": "Immigration, nationalism and racism",
+   "subchapters": [
+    {
+     "title": "Race and racial equality in Islam",
+     "ranges": [
+      "ML025:114-133",
+      "ML281:474-524",
+      "ML183:446-532",
+      "ML296:63-79"
+     ]
+    },
+    {
+     "title": "Nationalism, colonialism and allegiance to Islam",
+     "ranges": [
+      "ML284:337-351",
+      "ML324:210-262",
+      "ML324:263-310",
+      "ML324:484-543",
+      "ML324:796-899",
+      "ML324:900-1030"
+     ]
+    },
+    {
+     "title": "Why Muslims emigrate: Western wars and immigration",
+     "ranges": [
+      "ML244:207-279",
+      "ML048:485-513",
+      "ML060:1322-1408",
+      "ML060:1773-1804",
+      "ML324:311-402"
+     ]
+    },
+    {
+     "title": "Anti-immigration protests in the UK",
+     "ranges": [
+      "ML103:1-18",
+      "ML103:19-65",
+      "ML103:79-118",
+      "ML103:119-168",
+      "ML103:169-233",
+      "ML103:234-315",
+      "ML103:316-364",
+      "ML103:365-402",
+      "ML103:403-421"
+     ]
+    },
+    {
+     "title": "Hostility toward Muslims and its sources",
+     "ranges": [
+      "ML409:1-38",
+      "ML048:43-94",
+      "ML048:313-348",
+      "ML048:514-560",
+      "ML048:561-604",
+      "ML030:692-725",
+      "ML106:1-36"
+     ]
+    },
+    {
+     "title": "Muslim immigrants, Western values and claims of domination",
+     "ranges": [
+      "ML105:46-87",
+      "ML250:452-486",
+      "ML250:174-232"
+     ]
+    },
+    {
+     "title": "Muslim Americans and public prayer",
+     "ranges": [
+      "ML101:748-795",
+      "ML101:836-866",
+      "ML101:900-1010",
+      "ML101:431-523",
+      "ML101:590-747",
+      "ML101:1034-1075"
+     ]
+    }
+   ]
+  },
+  {
+   "code": "P14.C03",
+   "title": "Islamic civilization and history",
+   "subchapters": [
+    {
+     "title": "The spread of Islam and the early conquests",
+     "ranges": [
+      "ML340:1-57",
+      "ML064:519-539",
+      "ML064:1144-1164",
+      "FR027:1621-1634",
+      "FR369:48-63",
+      "ML421:130-246",
+      "FR411:46-84",
+      "FR411:115-133",
+      "ML011:97-112",
+      "FR411:187-235"
+     ]
+    },
+    {
+     "title": "The Golden Age, Muslim science and its decline",
+     "ranges": [
+      "ML064:260-287",
+      "ML064:288-353",
+      "ML064:354-388",
+      "ML064:389-456",
+      "ML064:480-518",
+      "ML000:240-270",
+      "ML325:208-231",
+      "ML411:97-117",
+      "ML064:457-479",
+      "ML161:204-225",
+      "ML401:241-265",
+      "ML033:1118-1222",
+      "ML244:548-613"
+     ]
+    },
+    {
+     "title": "The Muslim conquest of Egypt and the Copts",
+     "ranges": [
+      "ML045:1-20",
+      "ML045:21-65",
+      "ML045:66-102",
+      "ML025:203-237",
+      "ML045:103-132",
+      "ML045:133-179",
+      "ML045:180-224"
+     ]
+    },
+    {
+     "title": "The Crusades, al-Aqsa and the Black Stone",
+     "ranges": [
+      "ML301:56-77",
+      "ML064:165-210",
+      "ML064:1385-1451",
+      "ML060:854-880",
+      "FR362:1-56"
+     ]
+    }
+   ]
+  },
+  {
+   "code": "P14.C04",
+   "title": "The modern world and Western society",
+   "subchapters": [
+    {
+     "title": "Religion, Islam and the modern world",
+     "ranges": [
+      "ML025:599-621",
+      "ML407:184-234",
+      "ML347:873-906",
+      "ML030:35-52"
+     ]
+    },
+    {
+     "title": "Muslim countries compared with the West",
+     "ranges": [
+      "ML277:187-242",
+      "ML101:1011-1033",
+      "ML277:243-326",
+      "ML094:95-136",
+      "ML115:513-563",
+      "ML324:544-579",
+      "ML130:340-459",
+      "ML130:736-903"
+     ]
+    },
+    {
+     "title": "Secularism and the decline of Christianity in the West",
+     "ranges": [
+      "ML146:28-87",
+      "ML324:403-462",
+      "ML378:1-17",
+      "ML101:284-355",
+      "ML101:796-835",
+      "ML221:67-149",
+      "ML318:490-604",
+      "ML394:114-133"
+     ]
+    },
+    {
+     "title": "Free speech and its limits",
+     "ranges": [
+      "ML263:698-731",
+      "ML199:777-808",
+      "ML101:524-589",
+      "ML105:88-111",
+      "ML263:339-401"
+     ]
+    },
+    {
+     "title": "Media portrayal of Islam and Muslims",
+     "ranges": [
+      "ML054:259-271",
+      "ML376:336-353",
+      "ML270:287-384",
+      "ML048:95-121",
+      "ML040:35-64",
+      "ML422:133-164",
+      "ML263:969-1005",
+      "ML250:50-80",
+      "ML368:550-615"
+     ]
+    },
+    {
+     "title": "Wars, politics and public trust in the West",
+     "ranges": [
+      "ML060:1409-1500",
+      "ML060:1501-1552",
+      "ML041:467-517",
+      "ML025:526-582",
+      "ML183:1005-1043"
+     ]
+    },
+    {
+     "title": "Muslims on social media and in the workplace",
+     "ranges": [
+      "ML240:170-227",
+      "ML263:54-107",
+      "ML263:232-338",
+      "ML263:1249-1286",
+      "ML340:545-569"
+     ]
+    },
+    {
+     "title": "Artificial intelligence and technology",
+     "ranges": [
+      "ML128:1-24",
+      "ML128:25-106",
+      "ML128:151-211",
+      "ML128:212-242",
+      "ML128:243-268",
+      "ML128:269-342",
+      "ML006:1417-1460"
+     ]
+    }
+   ]
+  },
+  {
+   "code": "P14.C05",
+   "title": "The state of the Muslim Ummah",
+   "subchapters": [
+    {
+     "title": "Weakness of the Ummah and its causes",
+     "ranges": [
+      "ML239:1-127",
+      "ML284:28-45",
+      "FR081:193-217",
+      "ML290:129-158",
+      "ML303:94-112"
+     ]
+    },
+    {
+     "title": "Muslim-majority countries and their rulers",
+     "ranges": [
+      "ML025:294-345",
+      "ML324:580-684",
+      "ML025:263-293",
+      "ML271:48-60",
+      "ML271:117-155",
+      "ML233:2360-2424"
+     ]
+    },
+    {
+     "title": "Muslims in the West: fame, fear and hostility",
+     "ranges": [
+      "ML283:72-92",
+      "ML283:114-124",
+      "ML283:249-265",
+      "ML014:12-43",
+      "ML027:594-651",
+      "ML250:29-49",
+      "ML250:509-527",
+      "ML103:422-446"
+     ]
+    },
+    {
+     "title": "Enjoining good, the duty to act and righteous company",
+     "ranges": [
+      "ML332:186-216",
+      "ML041:562-647",
+      "ML025:365-435",
+      "ML284:1221-1304"
+     ]
+    }
+   ]
+  }
+ ],
+ "moves": []
+}

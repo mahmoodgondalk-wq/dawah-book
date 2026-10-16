@@ -1,0 +1,405 @@
+{
+ "part": "P07",
+ "chapters": [
+  {
+   "code": "P07.C01",
+   "title": "The life of the Prophet (Seerah)",
+   "subchapters": [
+    {
+     "title": "Overview of the Prophet's life, lineage and sources",
+     "ranges": [
+      "ML320:349-401",
+      "ML165:554-595",
+      "ML105:341-384",
+      "FR310:19-49"
+     ]
+    },
+    {
+     "title": "Early life in Mecca and the first revelation",
+     "ranges": [
+      "ML408:140-219",
+      "ML422:315-385",
+      "ML418:91-181",
+      "FR095:214-261",
+      "FR360:1-54"
+     ]
+    },
+    {
+     "title": "Persecution in Mecca and the emigration to Medina",
+     "ranges": [
+      "FR123:74-148",
+      "FR411:1-45",
+      "FR393:1-31"
+     ]
+    },
+    {
+     "title": "The Prophet's community in Medina",
+     "ranges": [
+      "ML064:642-672",
+      "FR325:1-41",
+      "FR325:42-98",
+      "FR013:37-63",
+      "FR013:64-86"
+     ]
+    },
+    {
+     "title": "The Battle of the Trench and the conquest of Mecca",
+     "ranges": [
+      "FR014:1-43",
+      "ML233:521-649"
+     ]
+    },
+    {
+     "title": "The delegation of the Christians of Najran",
+     "ranges": [
+      "FR343:1-45",
+      "FR343:46-104"
+     ]
+    }
+   ]
+  },
+  {
+   "code": "P07.C02",
+   "title": "The marriage to Aisha",
+   "subchapters": [
+    {
+     "title": "The objection and its place in the discussion",
+     "ranges": [
+      "ML110:1-28",
+      "ML089:775-797",
+      "ML278:21-38",
+      "ML138:281-301",
+      "ML056:1-51",
+      "ML179:542-625",
+      "ML138:364-378",
+      "FR224:41-90",
+      "FR224:91-156",
+      "ML060:218-257",
+      "ML353:1-36"
+     ]
+    },
+    {
+     "title": "Historical context and marriage norms",
+     "ranges": [
+      "ML110:29-85",
+      "ML138:213-280",
+      "ML025:622-640",
+      "ML339:57-169",
+      "ML021:866-905",
+      "ML353:69-120",
+      "ML021:805-865",
+      "ML179:626-655",
+      "ML056:144-218",
+      "ML353:225-256",
+      "ML110:554-635"
+     ]
+    },
+    {
+     "title": "Puberty, maturity and marriageable age",
+     "ranges": [
+      "ML110:86-145",
+      "ML084:432-595",
+      "ML056:860-898",
+      "FR306:1-32",
+      "ML138:302-339"
+     ]
+    },
+    {
+     "title": "The marriage contract, consummation and consent",
+     "ranges": [
+      "ML110:146-215",
+      "FR369:132-167",
+      "FR185:23-46",
+      "ML111:152-169"
+     ]
+    },
+    {
+     "title": "Comparison with Biblical and modern standards",
+     "ranges": [
+      "ML138:75-140",
+      "ML021:693-735",
+      "FR253:617-682",
+      "ML300:371-415",
+      "ML056:83-143"
+     ]
+    },
+    {
+     "title": "The narrations on Aisha's age and the claim of fabrication",
+     "ranges": [
+      "ML353:272-315",
+      "ML056:241-293",
+      "ML056:294-394",
+      "ML056:395-491",
+      "ML056:492-565",
+      "ML056:566-591",
+      "ML056:592-627",
+      "ML056:628-707",
+      "ML056:708-748",
+      "ML056:749-797",
+      "ML056:798-833",
+      "ML056:834-859"
+     ]
+    },
+    {
+     "title": "Muslim attitudes toward the question",
+     "ranges": [
+      "ML056:52-82",
+      "ML056:219-240",
+      "ML056:899-917"
+     ]
+    }
+   ]
+  },
+  {
+   "code": "P07.C03",
+   "title": "The Prophet's other marriages",
+   "subchapters": [
+    {
+     "title": "The Prophet's marriages: reasons and context",
+     "ranges": [
+      "FR385:1-14",
+      "ML084:207-257",
+      "ML044:67-107",
+      "ML353:257-271",
+      "ML138:340-363",
+      "ML339:170-181",
+      "FR385:29-41",
+      "ML073:932-990",
+      "ML103:66-78"
+     ]
+    },
+    {
+     "title": "Rulings specific to the Prophet in marriage",
+     "ranges": [
+      "FR385:15-28",
+      "ML044:1-66",
+      "ML073:991-1035",
+      "FR331:40-96",
+      "FR250:44-62",
+      "FR318:189-240",
+      "FR331:1-39",
+      "FR317:23-41",
+      "FR331:133-203"
+     ]
+    },
+    {
+     "title": "The marriage to Zaynab and the abolition of adoption",
+     "ranges": [
+      "FR349:149-247",
+      "FR253:379-525",
+      "FR240:76-110",
+      "FR240:38-75",
+      "FR240:111-144"
+     ]
+    },
+    {
+     "title": "The Tabari report on Zaynab and the early sources",
+     "ranges": [
+      "FR394:1-59",
+      "FR240:1-37",
+      "FR330:1-73",
+      "FR355:71-119",
+      "FR394:60-76",
+      "FR240:145-206",
+      "FR240:207-236"
+     ]
+    },
+    {
+     "title": "Safiyya bint Huyay and the Prophet's concubine",
+     "ranges": [
+      "ML111:252-295",
+      "ML165:669-698"
+     ]
+    }
+   ]
+  },
+  {
+   "code": "P07.C04",
+   "title": "Other criticisms of the Prophet",
+   "subchapters": [
+    {
+     "title": "Standards for judging the Prophet's conduct",
+     "ranges": [
+      "ML165:623-668",
+      "ML219:874-913",
+      "ML059:350-413"
+     ]
+    },
+    {
+     "title": "The warlord accusation and the Prophet's battles",
+     "ranges": [
+      "ML176:26-69",
+      "ML007:1201-1263",
+      "ML138:379-446",
+      "ML045:286-322",
+      "ML084:36-139",
+      "ML219:997-1062",
+      "ML089:869-898",
+      "ML412:339-400",
+      "ML412:415-448",
+      "ML408:220-259",
+      "ML219:949-996",
+      "ML219:1176-1200"
+     ]
+    },
+    {
+     "title": "The Jewish tribes of Medina and Banu Qurayza",
+     "ranges": [
+      "FR393:32-75",
+      "FR393:76-101",
+      "FR113:27-55",
+      "FR113:56-101",
+      "FR113:102-153",
+      "FR114:1-31",
+      "FR393:102-140"
+     ]
+    },
+    {
+     "title": "Executions and punishments: specific cases",
+     "ranges": [
+      "ML111:170-208",
+      "FR104:125-149",
+      "ML111:209-251",
+      "FR146:50-68"
+     ]
+    },
+    {
+     "title": "Poisoning, the aorta verse and the Prophet's death",
+     "ranges": [
+      "ML319:70-88",
+      "FR253:526-616",
+      "FR180:1-35",
+      "ML083:542-649",
+      "ML205:23-112",
+      "ML073:904-931",
+      "ML205:113-143",
+      "FR180:36-66",
+      "ML205:144-185",
+      "FR082:39-84"
+     ]
+    },
+    {
+     "title": "Possession claims and the suicide reports",
+     "ranges": [
+      "FR253:25-145",
+      "ML416:201-230",
+      "FR095:150-213",
+      "FR253:146-210"
+     ]
+    },
+    {
+     "title": "Epilepsy: medical background",
+     "ranges": [
+      "FR150:30-79",
+      "FR150:80-115",
+      "FR150:116-142",
+      "FR150:143-207",
+      "FR150:208-275",
+      "FR150:276-314"
+     ]
+    },
+    {
+     "title": "The epilepsy claim: diagnosis and method",
+     "ranges": [
+      "FR257:1-45",
+      "FR257:46-128",
+      "FR257:129-216",
+      "FR257:217-284",
+      "FR257:376-482",
+      "FR257:483-558",
+      "FR257:975-1014",
+      "FR142:150-207"
+     ]
+    },
+    {
+     "title": "Reported states of the Prophet during revelation",
+     "ranges": [
+      "FR163:209-292",
+      "FR163:461-567",
+      "FR163:568-723",
+      "FR163:724-836",
+      "FR155:1-17",
+      "FR155:18-36",
+      "FR155:37-77",
+      "FR257:559-675",
+      "FR257:809-848",
+      "FR155:78-105",
+      "FR256:162-171",
+      "FR257:676-808",
+      "FR163:871-961",
+      "FR257:849-974",
+      "FR157:1-30",
+      "FR158:69-110",
+      "FR096:1-52",
+      "FR158:58-68"
+     ]
+    },
+    {
+     "title": "Visions of the angel and the chest-splitting incident",
+     "ranges": [
+      "FR256:1-65",
+      "FR256:66-135",
+      "FR256:136-161",
+      "FR157:31-63",
+      "FR157:64-113"
+     ]
+    },
+    {
+     "title": "Miracle reports cited as seizure symptoms",
+     "ranges": [
+      "FR158:1-22",
+      "FR158:23-57",
+      "FR159:1-46",
+      "FR159:47-99",
+      "FR159:100-205",
+      "FR159:206-244",
+      "FR257:1110-1148"
+     ]
+    },
+    {
+     "title": "Claims about the Prophet's mother and family history",
+     "ranges": [
+      "FR160:1-47",
+      "FR160:48-66",
+      "FR160:67-108",
+      "FR160:109-128"
+     ]
+    },
+    {
+     "title": "Other allegations: clothing, names and curses",
+     "ranges": [
+      "FR307:1-57",
+      "FR307:58-108",
+      "FR345:1-52",
+      "ML278:39-91",
+      "ML278:151-196",
+      "FR042:1-22"
+     ]
+    }
+   ]
+  },
+  {
+   "code": "P07.C05",
+   "title": "Honouring the Prophet; mockery and insults",
+   "subchapters": [
+    {
+     "title": "Love, veneration and the salutation on the Prophet",
+     "ranges": [
+      "FR369:210-230",
+      "ML066:1585-1622",
+      "ML108:92-105"
+     ]
+    },
+    {
+     "title": "Depicting, mocking and insulting the Prophet",
+     "ranges": [
+      "ML376:238-335",
+      "ML380:943-976",
+      "ML011:523-546"
+     ]
+    }
+   ]
+  }
+ ],
+ "moves": []
+}

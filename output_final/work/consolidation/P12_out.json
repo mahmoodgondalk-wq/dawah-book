@@ -1,0 +1,580 @@
+{
+ "part": "P12",
+ "chapters": [
+  {
+   "code": "P12.C01",
+   "title": "Sharia: its nature and relevance",
+   "subchapters": [
+    {
+     "title": "Meaning and scope of Sharia",
+     "ranges": [
+      "ML233:1170-1234",
+      "ML263:732-816",
+      "ML411:38-77",
+      "ML233:998-1059",
+      "ML236:1082-1113",
+      "ML401:61-90",
+      "ML180:451-522"
+     ]
+    },
+    {
+     "title": "Sources, categories and derivation of rulings",
+     "ranges": [
+      "ML171:1-31",
+      "ML255:113-179",
+      "ML069:48-79",
+      "ML221:333-370",
+      "ML064:1566-1618"
+     ]
+    },
+    {
+     "title": "Are Islamic laws outdated",
+     "ranges": [
+      "ML049:1-15",
+      "ML049:16-60",
+      "ML133:247-282",
+      "ML206:781-808",
+      "FR369:64-106",
+      "FR231:159-228",
+      "ML049:536-581"
+     ]
+    },
+    {
+     "title": "Purpose of punishments: deterrence and security",
+     "ranges": [
+      "ML049:61-163",
+      "FR231:273-363",
+      "ML233:1363-1476",
+      "ML236:1013-1041",
+      "ML233:1521-1562",
+      "ML049:423-486"
+     ]
+    },
+    {
+     "title": "Punishment for adultery and its evidentiary conditions",
+     "ranges": [
+      "ML235:570-619",
+      "ML421:301-394",
+      "ML049:244-276",
+      "ML233:1060-1144",
+      "ML421:469-497",
+      "ML049:277-338",
+      "ML421:395-468",
+      "ML235:393-501",
+      "ML049:339-422"
+     ]
+    },
+    {
+     "title": "Theft, murder and the hirabah verse",
+     "ranges": [
+      "ML233:1235-1362",
+      "ML113:109-143",
+      "FR387:1-55",
+      "FR146:162-209",
+      "ML108:782-810"
+     ]
+    },
+    {
+     "title": "Application of Islamic law by the state and Muslim countries",
+     "ranges": [
+      "ML130:248-315",
+      "ML130:316-339",
+      "FR231:364-464",
+      "ML025:436-458",
+      "ML025:346-364",
+      "ML250:291-351",
+      "ML130:460-476"
+     ]
+    }
+   ]
+  },
+  {
+   "code": "P12.C02",
+   "title": "Apostasy",
+   "subchapters": [
+    {
+     "title": "Textual basis and conditions of the apostasy law",
+     "ranges": [
+      "ML199:1-63",
+      "ML098:357-423",
+      "ML286:359-430",
+      "ML194:314-363",
+      "ML314:964-993",
+      "ML086:499-541",
+      "ML194:99-147",
+      "ML183:699-780",
+      "ML331:62-96"
+     ]
+    },
+    {
+     "title": "The period of repentance and the hypocrites",
+     "ranges": [
+      "ML086:542-609",
+      "ML318:180-262",
+      "ML183:613-698",
+      "ML194:148-208"
+     ]
+    },
+    {
+     "title": "No compulsion in religion and the apostasy law",
+     "ranges": [
+      "ML194:14-98",
+      "ML194:364-494",
+      "ML331:1-39",
+      "FR369:115-131",
+      "FR346:28-49"
+     ]
+    },
+    {
+     "title": "Wisdom of the law: treason, social order and freedom of thought",
+     "ranges": [
+      "ML199:64-124",
+      "ML199:698-776",
+      "ML199:905-958",
+      "ML011:609-626",
+      "ML199:649-697",
+      "ML086:666-728",
+      "ML331:40-61",
+      "ML183:781-819",
+      "ML059:434-471"
+     ]
+    },
+    {
+     "title": "Application in an Islamic state and the freedom to leave",
+     "ranges": [
+      "ML183:533-612",
+      "ML199:125-258",
+      "ML250:233-263",
+      "FR247:19-69",
+      "ML086:610-665",
+      "ML199:809-904",
+      "ML194:209-313",
+      "ML194:516-534",
+      "ML059:472-489",
+      "ML264:150-202"
+     ]
+    },
+    {
+     "title": "Apostates in the Hereafter",
+     "ranges": [
+      "ML201:733-759"
+     ]
+    }
+   ]
+  },
+  {
+   "code": "P12.C03",
+   "title": "Jihad, warfare and violence",
+   "subchapters": [
+    {
+     "title": "Meaning of jihad and the rules of war",
+     "ranges": [
+      "ML233:2047-2188",
+      "ML322:123-152",
+      "ML040:1050-1115",
+      "ML216:157-221",
+      "ML401:628-665",
+      "ML127:254-379",
+      "ML079:153-184",
+      "ML127:380-409"
+     ]
+    },
+    {
+     "title": "Violent verses in context: Quran 9:5 and 9:29",
+     "ranges": [
+      "ML098:134-211",
+      "ML250:352-390",
+      "ML094:1-58",
+      "FR389:1-27",
+      "FR389:28-71",
+      "ML335:700-749",
+      "ML262:330-420",
+      "ML090:465-507",
+      "ML045:323-361",
+      "FR369:1-47",
+      "ML108:692-781"
+     ]
+    },
+    {
+     "title": "The Prophet's battles and comparisons with the Bible",
+     "ranges": [
+      "ML098:212-243",
+      "ML032:177-249",
+      "ML032:250-317",
+      "FR273:1-50",
+      "FR273:51-118",
+      "FR246:1369-1403",
+      "ML004:197-238"
+     ]
+    },
+    {
+     "title": "The early conquests and the spread of Islam",
+     "ranges": [
+      "ML025:151-176",
+      "ML090:149-186",
+      "ML286:431-534",
+      "ML007:1264-1312",
+      "ML025:177-202",
+      "ML007:1313-1361"
+     ]
+    },
+    {
+     "title": "Extremist groups and mainstream Islam",
+     "ranges": [
+      "ML216:99-156",
+      "ML127:130-253",
+      "ML210:437-501",
+      "ML401:506-533",
+      "ML322:1-49",
+      "ML401:607-627"
+     ]
+    },
+    {
+     "title": "Terrorism, media coverage and the image of Islam",
+     "ranges": [
+      "ML250:1-28",
+      "ML392:332-376",
+      "ML048:421-484",
+      "ML322:50-93",
+      "ML127:33-129",
+      "ML322:94-122"
+     ]
+    }
+   ]
+  },
+  {
+   "code": "P12.C04",
+   "title": "Slavery",
+   "subchapters": [
+    {
+     "title": "Definition of slavery and captives of war in Islam",
+     "ranges": [
+      "FR372:1-36",
+      "ML176:294-321",
+      "ML220:89-109",
+      "ML185:202-284",
+      "ML086:142-179",
+      "ML007:1007-1095",
+      "ML086:396-466",
+      "ML296:180-189",
+      "ML185:411-467"
+     ]
+    },
+    {
+     "title": "Treatment, rights and freeing of captives",
+     "ranges": [
+      "ML176:70-126",
+      "ML296:131-179",
+      "ML185:285-362",
+      "ML132:183-233",
+      "ML086:467-498",
+      "FR372:37-65",
+      "FR372:145-166",
+      "ML185:363-410",
+      "FR372:79-94",
+      "FR372:66-78",
+      "FR372:95-144"
+     ]
+    },
+    {
+     "title": "Captives compared with modern prisoners of war",
+     "ranges": [
+      "ML176:127-205",
+      "ML185:468-558",
+      "ML007:1362-1388",
+      "ML132:315-333"
+     ]
+    },
+    {
+     "title": "Female captives and milk al-yamin",
+     "ranges": [
+      "ML132:1-43",
+      "ML296:42-62",
+      "ML296:80-130",
+      "ML132:234-257",
+      "FR374:82-117",
+      "ML132:258-314",
+      "ML007:1096-1200",
+      "FR253:211-283",
+      "ML086:282-336",
+      "ML086:337-395",
+      "FR370:90-150",
+      "FR370:46-89",
+      "FR370:306-348"
+     ]
+    },
+    {
+     "title": "Gradual abolition and historical comparisons",
+     "ranges": [
+      "ML185:559-624",
+      "FR370:1-32",
+      "FR372:167-215",
+      "FR372:216-252",
+      "ML025:134-150",
+      "ML025:238-262"
+     ]
+    }
+   ]
+  },
+  {
+   "code": "P12.C05",
+   "title": "Non-Muslims under Islam",
+   "subchapters": [
+    {
+     "title": "No compulsion in religion",
+     "ranges": [
+      "FR388:1-44",
+      "ML378:91-102",
+      "ML401:421-479",
+      "FR388:45-67",
+      "ML240:254-288"
+     ]
+    },
+    {
+     "title": "Jizya: definition, purpose and amount",
+     "ranges": [
+      "FR410:1-29",
+      "FR388:68-102",
+      "ML137:236-348",
+      "ML045:362-389",
+      "ML137:349-421",
+      "FR410:30-80",
+      "FR410:81-105",
+      "FR388:103-144"
+     ]
+    },
+    {
+     "title": "Dhimmis and the treatment of Jews and Christians under Muslim rule",
+     "ranges": [
+      "ML401:480-505",
+      "ML137:422-465",
+      "ML064:1248-1267",
+      "ML075:1076-1110",
+      "ML392:306-331",
+      "ML059:327-349",
+      "ML137:466-629",
+      "ML286:535-578"
+     ]
+    },
+    {
+     "title": "Christians in Muslim countries today",
+     "ranges": [
+      "ML094:78-94",
+      "ML301:78-100",
+      "ML152:505-583",
+      "ML101:356-430",
+      "ML113:1-32",
+      "ML105:112-165",
+      "ML419:198-233",
+      "ML051:429-460"
+     ]
+    },
+    {
+     "title": "Non-Muslims entering Mecca",
+     "ranges": [
+      "ML093:432-498",
+      "ML033:299-328"
+     ]
+    },
+    {
+     "title": "Loyalty, friendship and honesty towards non-Muslims",
+     "ranges": [
+      "ML167:25-39",
+      "ML361:251-305",
+      "ML018:129-160",
+      "ML004:255-291",
+      "ML006:1387-1416",
+      "ML006:1461-1475",
+      "ML301:101-146",
+      "ML090:21-98"
+     ]
+    },
+    {
+     "title": "Respect, disagreement and kindness between faiths",
+     "ranges": [
+      "ML167:40-67",
+      "ML424:418-445",
+      "ML060:1214-1258",
+      "ML245:69-87",
+      "ML273:254-273"
+     ]
+    }
+   ]
+  },
+  {
+   "code": "P12.C06",
+   "title": "Animals, food and lifestyle",
+   "subchapters": [
+    {
+     "title": "Kindness to animals and animal welfare",
+     "ranges": [
+      "ML071:1-44",
+      "ML270:418-470",
+      "ML200:100-140",
+      "ML141:379-396"
+     ]
+    },
+    {
+     "title": "Eating meat and the vegan objection",
+     "ranges": [
+      "ML071:45-123",
+      "ML071:124-181",
+      "ML071:182-233",
+      "ML071:291-321",
+      "ML071:322-344",
+      "ML404:1-81",
+      "ML404:82-122",
+      "ML289:215-267",
+      "ML071:467-524",
+      "ML071:525-554"
+     ]
+    },
+    {
+     "title": "Halal slaughter and the meat of the People of the Book",
+     "ranges": [
+      "ML071:345-393",
+      "ML071:394-466",
+      "ML359:364-413",
+      "ML387:109-160"
+     ]
+    },
+    {
+     "title": "Pork, forbidden foods, excess and hygiene",
+     "ranges": [
+      "ML210:502-561",
+      "ML221:150-232",
+      "ML221:619-643",
+      "ML221:233-302",
+      "FR306:262-313"
+     ]
+    },
+    {
+     "title": "Prohibition of alcohol and its harms",
+     "ranges": [
+      "ML236:1042-1067",
+      "ML147:33-109",
+      "ML179:207-336",
+      "ML394:237-276",
+      "ML357:341-377",
+      "ML401:91-131",
+      "ML044:393-443",
+      "ML284:773-805"
+     ]
+    },
+    {
+     "title": "Gradual prohibition of alcohol and alcohol in Christianity",
+     "ranges": [
+      "ML122:44-79",
+      "ML155:310-345",
+      "ML004:54-167",
+      "ML241:376-401",
+      "ML219:582-614"
+     ]
+    }
+   ]
+  },
+  {
+   "code": "P12.C07",
+   "title": "Other legal and ethical questions",
+   "subchapters": [
+    {
+     "title": "Interest, gambling and money matters",
+     "ranges": [
+      "ML315:1-48",
+      "ML030:499-513",
+      "ML284:698-772",
+      "ML236:963-989",
+      "ML315:83-147",
+      "ML418:399-490",
+      "ML311:136-172",
+      "ML122:105-128",
+      "ML236:1068-1081",
+      "ML283:159-187"
+     ]
+    },
+    {
+     "title": "Music, art and image-making",
+     "ranges": [
+      "ML302:108-235",
+      "ML284:806-936",
+      "ML190:357-379",
+      "ML311:173-240",
+      "ML197:221-243",
+      "ML188:19-109",
+      "ML188:110-140",
+      "ML188:141-168",
+      "ML188:190-218",
+      "ML248:1871-1961"
+     ]
+    },
+    {
+     "title": "Celebrations, imitation of non-Muslims and innovations",
+     "ranges": [
+      "ML340:530-544",
+      "ML282:1-76",
+      "ML282:77-93",
+      "ML282:94-129",
+      "ML282:165-209",
+      "ML282:210-257",
+      "ML227:395-440",
+      "ML060:69-120",
+      "ML122:375-437",
+      "ML285:324-425",
+      "ML227:348-394"
+     ]
+    },
+    {
+     "title": "Interaction between men and women",
+     "ranges": [
+      "ML248:1516-1655",
+      "ML248:1656-1719",
+      "ML340:468-529",
+      "ML238:646-668",
+      "ML399:387-430"
+     ]
+    },
+    {
+     "title": "Prayer, purification and handling the Quran",
+     "ranges": [
+      "ML169:405-445",
+      "ML163:518-536",
+      "ML025:840-884",
+      "ML411:517-553",
+      "ML297:93-107"
+     ]
+    },
+    {
+     "title": "Circumcision, tattoos, smoking and combat sports",
+     "ranges": [
+      "ML224:252-265",
+      "ML221:644-765",
+      "ML274:268-313",
+      "ML290:452-478",
+      "ML302:236-303",
+      "ML233:1690-1797",
+      "ML263:459-526"
+     ]
+    },
+    {
+     "title": "Ruling on masturbation",
+     "ranges": [
+      "FR232:44-61",
+      "FR232:135-158",
+      "FR232:159-206",
+      "FR232:207-236",
+      "FR232:261-313"
+     ]
+    },
+    {
+     "title": "Protests, emigration and found property",
+     "ranges": [
+      "ML233:1563-1613",
+      "ML233:2477-2527",
+      "ML233:1477-1520"
+     ]
+    }
+   ]
+  }
+ ],
+ "moves": []
+}

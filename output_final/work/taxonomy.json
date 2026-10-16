@@ -1,0 +1,2556 @@
+{
+ "parts": [
+  {
+   "id": "P01",
+   "title": "God: Existence and Knowledge of God",
+   "chapters": [
+    {
+     "id": "P01.C01",
+     "title": "Arguments for the existence of God",
+     "subchapters": [
+      {
+       "id": "P01.C01.S01",
+       "title": "Ways of knowing that God exists"
+      },
+      {
+       "id": "P01.C01.S02",
+       "title": "Innate belief in God: the fitrah"
+      },
+      {
+       "id": "P01.C01.S03",
+       "title": "Universal innate beliefs and naturalistic explanations"
+      },
+      {
+       "id": "P01.C01.S04",
+       "title": "Something cannot come from nothing"
+      },
+      {
+       "id": "P01.C01.S05",
+       "title": "The beginning of the universe and its cause"
+      },
+      {
+       "id": "P01.C01.S06",
+       "title": "Infinite regress and the question of who created God"
+      },
+      {
+       "id": "P01.C01.S07",
+       "title": "Eternal universe, eternal energy and natural causes"
+      },
+      {
+       "id": "P01.C01.S08",
+       "title": "Attributes of the cause of the universe"
+      },
+      {
+       "id": "P01.C01.S09",
+       "title": "Knowledge, will and agency of the first cause"
+      },
+      {
+       "id": "P01.C01.S10",
+       "title": "The necessary being and the name God"
+      },
+      {
+       "id": "P01.C01.S11",
+       "title": "The design argument from nature and made objects"
+      },
+      {
+       "id": "P01.C01.S12",
+       "title": "Fine-tuning, chance and the multiverse"
+      }
+     ]
+    },
+    {
+     "id": "P01.C03",
+     "title": "Reason, knowledge and evidence",
+     "subchapters": [
+      {
+       "id": "P01.C03.S01",
+       "title": "Objective truth versus relativism"
+      },
+      {
+       "id": "P01.C03.S02",
+       "title": "Feelings and personal experience as criteria of truth"
+      },
+      {
+       "id": "P01.C03.S03",
+       "title": "Hyper-skepticism and the certainty of one's own existence"
+      },
+      {
+       "id": "P01.C03.S04",
+       "title": "Trusting experience, doubt and conjecture"
+      },
+      {
+       "id": "P01.C03.S05",
+       "title": "The laws of logic and invalid questions"
+      },
+      {
+       "id": "P01.C03.S06",
+       "title": "Western philosophy, common sense and the limits of reason"
+      },
+      {
+       "id": "P01.C03.S07",
+       "title": "Sources of knowledge: testimony, intuition and certainty"
+      },
+      {
+       "id": "P01.C03.S08",
+       "title": "The scientific method and its limits"
+      },
+      {
+       "id": "P01.C03.S09",
+       "title": "Consciousness and the soul"
+      },
+      {
+       "id": "P01.C03.S10",
+       "title": "Faith, reason and revelation in Islam"
+      },
+      {
+       "id": "P01.C03.S11",
+       "title": "Blind faith versus evidence-based belief"
+      }
+     ]
+    },
+    {
+     "id": "P01.C04",
+     "title": "Morality and its foundation",
+     "subchapters": [
+      {
+       "id": "P01.C04.S01",
+       "title": "Approaches to knowing right and wrong"
+      },
+      {
+       "id": "P01.C04.S02",
+       "title": "Subjective versus objective morality"
+      },
+      {
+       "id": "P01.C04.S03",
+       "title": "Society, law, feelings and the golden rule as moral standards"
+      },
+      {
+       "id": "P01.C04.S04",
+       "title": "The harm principle"
+      },
+      {
+       "id": "P01.C04.S05",
+       "title": "Grounding morality without God"
+      },
+      {
+       "id": "P01.C04.S06",
+       "title": "Atheism, human rights and the value of human life"
+      },
+      {
+       "id": "P01.C04.S07",
+       "title": "God as the source of objective morality"
+      },
+      {
+       "id": "P01.C04.S08",
+       "title": "Divine command and following God's guidance"
+      },
+      {
+       "id": "P01.C04.S09",
+       "title": "Conscience, fitrah and the need for revelation"
+      },
+      {
+       "id": "P01.C04.S10",
+       "title": "Moral criticisms of Islam and the need for an objective standard"
+      }
+     ]
+    },
+    {
+     "id": "P01.C05",
+     "title": "Evil, suffering and the wisdom of trials",
+     "subchapters": [
+      {
+       "id": "P01.C05.S01",
+       "title": "Why God allows evil and suffering"
+      },
+      {
+       "id": "P01.C05.S02",
+       "title": "Life as a test"
+      },
+      {
+       "id": "P01.C05.S03",
+       "title": "The wisdom and benefits of suffering"
+      },
+      {
+       "id": "P01.C05.S04",
+       "title": "Suffering and death of children, innocents and animals"
+      },
+      {
+       "id": "P01.C05.S05",
+       "title": "Suffering in Gaza and the weakness of Muslims"
+      },
+      {
+       "id": "P01.C05.S06",
+       "title": "Divine punishment of past nations"
+      }
+     ]
+    },
+    {
+     "id": "P01.C08",
+     "title": "Divine decree and free will",
+     "subchapters": [
+      {
+       "id": "P01.C08.S01",
+       "title": "Qadar and human free will"
+      },
+      {
+       "id": "P01.C08.S02",
+       "title": "Divine foreknowledge and human responsibility"
+      },
+      {
+       "id": "P01.C08.S03",
+       "title": "Guidance, misguidance and the sealing of hearts"
+      },
+      {
+       "id": "P01.C08.S04",
+       "title": "Qadar in practice: prayer, means and peace of mind"
+      }
+     ]
+    },
+    {
+     "id": "P01.C09",
+     "title": "The purpose of life and why God communicates through prophets",
+     "subchapters": [
+      {
+       "id": "P01.C09.S01",
+       "title": "The purpose of life"
+      },
+      {
+       "id": "P01.C09.S02",
+       "title": "Death, wealth and reflecting on life's purpose"
+      },
+      {
+       "id": "P01.C09.S03",
+       "title": "Not choosing to be created"
+      },
+      {
+       "id": "P01.C09.S04",
+       "title": "Human insignificance in a vast universe"
+      },
+      {
+       "id": "P01.C09.S05",
+       "title": "The need for revelation and divine guidance"
+      },
+      {
+       "id": "P01.C09.S06",
+       "title": "Why God sends prophets and messengers"
+      },
+      {
+       "id": "P01.C09.S07",
+       "title": "Why God does not show Himself directly"
+      },
+      {
+       "id": "P01.C09.S08",
+       "title": "Religion as human invention and its benefits"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "P02",
+   "title": "Tawheed and Islamic Creed",
+   "chapters": [
+    {
+     "id": "P02.C01",
+     "title": "Tawheed and the Islamic concept of God",
+     "subchapters": [
+      {
+       "id": "P02.C01.S01",
+       "title": "Meaning of Islam, Allah and the shahada"
+      },
+      {
+       "id": "P02.C01.S02",
+       "title": "Categories of Tawheed and belief in Allah"
+      },
+      {
+       "id": "P02.C01.S03",
+       "title": "The Quranic description of God: Surah al-Ikhlas"
+      },
+      {
+       "id": "P02.C01.S04",
+       "title": "The Islamic concept of God compared with other conceptions"
+      },
+      {
+       "id": "P02.C01.S05",
+       "title": "God does not resemble His creation"
+      },
+      {
+       "id": "P02.C01.S06",
+       "title": "Can a human be God; humans in God's image"
+      },
+      {
+       "id": "P02.C01.S07",
+       "title": "Where is God: Allah above the Throne"
+      },
+      {
+       "id": "P02.C01.S08",
+       "title": "Principles concerning Allah's names and attributes"
+      },
+      {
+       "id": "P02.C01.S09",
+       "title": "Attributes of essence and action; divine immutability"
+      },
+      {
+       "id": "P02.C01.S10",
+       "title": "God's love, mercy and justice"
+      },
+      {
+       "id": "P02.C01.S11",
+       "title": "The omnipotence paradox"
+      },
+      {
+       "id": "P02.C01.S12",
+       "title": "Does God need worship"
+      },
+      {
+       "id": "P02.C01.S13",
+       "title": "Sonship and fatherhood attributed to God"
+      },
+      {
+       "id": "P02.C01.S14",
+       "title": "Do Muslims and Christians worship the same God"
+      },
+      {
+       "id": "P02.C01.S15",
+       "title": "The claim that Allah is Satan"
+      }
+     ]
+    },
+    {
+     "id": "P02.C02",
+     "title": "Shirk, intercession and calling upon others besides Allah",
+     "subchapters": [
+      {
+       "id": "P02.C02.S01",
+       "title": "Definition and gravity of shirk"
+      },
+      {
+       "id": "P02.C02.S02",
+       "title": "Supplication as worship and calling upon the dead"
+      },
+      {
+       "id": "P02.C02.S03",
+       "title": "Saints and intercession"
+      },
+      {
+       "id": "P02.C02.S04",
+       "title": "Calling upon Ali and the dead among the Shia"
+      },
+      {
+       "id": "P02.C02.S05",
+       "title": "Belief in the imams' cosmic authority"
+      },
+      {
+       "id": "P02.C02.S06",
+       "title": "Claims of widespread shirk among Muslims"
+      }
+     ]
+    },
+    {
+     "id": "P02.C03",
+     "title": "Aqeedah, its sources and theological schools",
+     "subchapters": [
+      {
+       "id": "P02.C03.S01",
+       "title": "Meaning of aqeedah and the articles of faith"
+      },
+      {
+       "id": "P02.C03.S02",
+       "title": "Definition of iman: belief, statement and action"
+      },
+      {
+       "id": "P02.C03.S03",
+       "title": "Sources of creed and the understanding of the Salaf"
+      },
+      {
+       "id": "P02.C03.S04",
+       "title": "The Jahmiyyah, Mu'tazila, Ash'aris and Maturidis"
+      },
+      {
+       "id": "P02.C03.S05",
+       "title": "Discussions with Ash'aris on reason and hadith"
+      }
+     ]
+    },
+    {
+     "id": "P02.C04",
+     "title": "Angels, jinn, magic and the evil eye",
+     "subchapters": [
+      {
+       "id": "P02.C04.S01",
+       "title": "The unseen world and the angels"
+      },
+      {
+       "id": "P02.C04.S02",
+       "title": "The nature of the jinn"
+      },
+      {
+       "id": "P02.C04.S03",
+       "title": "Iblis and Satan"
+      },
+      {
+       "id": "P02.C04.S04",
+       "title": "Magic in Islam"
+      },
+      {
+       "id": "P02.C04.S05",
+       "title": "Jinn possession and ruqyah"
+      },
+      {
+       "id": "P02.C04.S06",
+       "title": "The evil eye"
+      },
+      {
+       "id": "P02.C04.S07",
+       "title": "Protection from jinn and the evil eye"
+      }
+     ]
+    },
+    {
+     "id": "P02.C05",
+     "title": "Death, the grave and the Day of Judgment",
+     "subchapters": [
+      {
+       "id": "P02.C05.S01",
+       "title": "Death and its remembrance"
+      },
+      {
+       "id": "P02.C05.S02",
+       "title": "The grave, the Barzakh and resurrection"
+      },
+      {
+       "id": "P02.C05.S03",
+       "title": "The Day of Judgment and divine justice"
+      },
+      {
+       "id": "P02.C05.S04",
+       "title": "Signs of the Hour, the Dajjal and the Mahdi"
+      }
+     ]
+    },
+    {
+     "id": "P02.C06",
+     "title": "Paradise and Hellfire",
+     "subchapters": [
+      {
+       "id": "P02.C06.S01",
+       "title": "Paradise: nature and rewards"
+      },
+      {
+       "id": "P02.C06.S02",
+       "title": "Spouses, houris and wine in Paradise"
+      },
+      {
+       "id": "P02.C06.S03",
+       "title": "Purpose and justice of Hellfire"
+      },
+      {
+       "id": "P02.C06.S04",
+       "title": "Eternal punishment for finite sin"
+      }
+     ]
+    },
+    {
+     "id": "P02.C07",
+     "title": "Salvation and the fate of non-Muslims",
+     "subchapters": [
+      {
+       "id": "P02.C07.S01",
+       "title": "Criteria for salvation: faith and the messengers"
+      },
+      {
+       "id": "P02.C07.S02",
+       "title": "Entering Paradise by God's mercy and deeds"
+      },
+      {
+       "id": "P02.C07.S03",
+       "title": "Fate of sinful Muslims"
+      },
+      {
+       "id": "P02.C07.S04",
+       "title": "Good deeds of non-Muslims and the meaning of disbelief"
+      },
+      {
+       "id": "P02.C07.S05",
+       "title": "Those who received the message and rejected it"
+      },
+      {
+       "id": "P02.C07.S06",
+       "title": "Those who never received the message"
+      },
+      {
+       "id": "P02.C07.S07",
+       "title": "Jews, Christians and Quran 2:62"
+      },
+      {
+       "id": "P02.C07.S08",
+       "title": "Non-Muslim family members and loved ones"
+      }
+     ]
+    },
+    {
+     "id": "P02.C08",
+     "title": "Worship, spirituality and connection with God",
+     "subchapters": [
+      {
+       "id": "P02.C08.S01",
+       "title": "Meaning of worship and the five pillars"
+      },
+      {
+       "id": "P02.C08.S02",
+       "title": "Wisdom and benefits of the daily prayer"
+      },
+      {
+       "id": "P02.C08.S03",
+       "title": "Form of the prayer: wudu, Arabic, qibla and Fajr"
+      },
+      {
+       "id": "P02.C08.S04",
+       "title": "Abandoning the prayer"
+      },
+      {
+       "id": "P02.C08.S05",
+       "title": "Spiritual connection and feeling close to God"
+      },
+      {
+       "id": "P02.C08.S06",
+       "title": "Supplication and its acceptance"
+      },
+      {
+       "id": "P02.C08.S07",
+       "title": "Fasting, Hajj, charity and other acts of worship"
+      },
+      {
+       "id": "P02.C08.S08",
+       "title": "Sincerity, intention and showing off"
+      },
+      {
+       "id": "P02.C08.S09",
+       "title": "Sins and human imperfection"
+      },
+      {
+       "id": "P02.C08.S10",
+       "title": "Repentance and God's forgiveness"
+      },
+      {
+       "id": "P02.C08.S11",
+       "title": "Worldly life, wealth and gratitude"
+      },
+      {
+       "id": "P02.C08.S12",
+       "title": "Religious innovation (bid'ah)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "P03",
+   "title": "Finding the True Religion: The Case for Islam",
+   "chapters": [
+    {
+     "id": "P03.C01",
+     "title": "How to know which religion is from God",
+     "subchapters": [
+      {
+       "id": "P03.C01.S01",
+       "title": "The search for the true religion"
+      },
+      {
+       "id": "P03.C01.S02",
+       "title": "Can all religions be true"
+      },
+      {
+       "id": "P03.C01.S03",
+       "title": "From the Creator to revelation and prophets"
+      },
+      {
+       "id": "P03.C01.S04",
+       "title": "Blind faith, inherited belief and the demand for evidence"
+      },
+      {
+       "id": "P03.C01.S05",
+       "title": "Criteria for identifying the true religion"
+      },
+      {
+       "id": "P03.C01.S06",
+       "title": "Reason, common sense and fitrah as criteria"
+      },
+      {
+       "id": "P03.C01.S07",
+       "title": "Criteria for a scripture from God"
+      },
+      {
+       "id": "P03.C01.S08",
+       "title": "Antiquity, history, numbers and followers as criteria"
+      },
+      {
+       "id": "P03.C01.S09",
+       "title": "Objective evidence versus personal experience"
+      },
+      {
+       "id": "P03.C01.S10",
+       "title": "Dreams and visions as evidence"
+      },
+      {
+       "id": "P03.C01.S11",
+       "title": "Reasons given for Christianity and the Bible"
+      },
+      {
+       "id": "P03.C01.S12",
+       "title": "Consistent standards and reading the scriptures"
+      },
+      {
+       "id": "P03.C01.S13",
+       "title": "Comparing Islam with Christianity and Judaism"
+      },
+      {
+       "id": "P03.C01.S14",
+       "title": "Sincere investigation and prayer for guidance"
+      }
+     ]
+    },
+    {
+     "id": "P03.C02",
+     "title": "General evidences for the truth of Islam",
+     "subchapters": [
+      {
+       "id": "P03.C02.S01",
+       "title": "Why Muslims believe Islam is true"
+      },
+      {
+       "id": "P03.C02.S02",
+       "title": "Islam as an evidence-based religion"
+      },
+      {
+       "id": "P03.C02.S03",
+       "title": "Types of evidence for Islam"
+      },
+      {
+       "id": "P03.C02.S04",
+       "title": "Evidences that the Quran is from God"
+      },
+      {
+       "id": "P03.C02.S05",
+       "title": "The cumulative case for the Prophet Muhammad"
+      },
+      {
+       "id": "P03.C02.S06",
+       "title": "Growth, universality and other indirect signs"
+      },
+      {
+       "id": "P03.C02.S07",
+       "title": "Clarity and simplicity of the Islamic message"
+      },
+      {
+       "id": "P03.C02.S08",
+       "title": "Religion as man-made or a means of control"
+      },
+      {
+       "id": "P03.C02.S09",
+       "title": "Closing summaries and invitations to investigate Islam"
+      }
+     ]
+    },
+    {
+     "id": "P03.C03",
+     "title": "Islam and the message of all the prophets",
+     "subchapters": [
+      {
+       "id": "P03.C03.S01",
+       "title": "Meaning of Islam and belief in all the prophets"
+      },
+      {
+       "id": "P03.C03.S02",
+       "title": "Prophets, messengers and revelation"
+      },
+      {
+       "id": "P03.C03.S03",
+       "title": "Messengers sent to every nation"
+      },
+      {
+       "id": "P03.C03.S04",
+       "title": "One message of all the prophets"
+      },
+      {
+       "id": "P03.C03.S05",
+       "title": "Islam as the religion of all prophets since Adam"
+      },
+      {
+       "id": "P03.C03.S06",
+       "title": "Islam's relation to Judaism and Christianity"
+      },
+      {
+       "id": "P03.C03.S07",
+       "title": "Same creed, different laws: progressive revelation"
+      },
+      {
+       "id": "P03.C03.S08",
+       "title": "Abraham and the religion of Abraham"
+      },
+      {
+       "id": "P03.C03.S09",
+       "title": "Continuity with the Old Testament and Moses"
+      },
+      {
+       "id": "P03.C03.S10",
+       "title": "Jesus as a prophet who submitted to God"
+      },
+      {
+       "id": "P03.C03.S11",
+       "title": "The message of Jesus and the message of Muhammad"
+      },
+      {
+       "id": "P03.C03.S12",
+       "title": "The final universal messenger after Jesus"
+      },
+      {
+       "id": "P03.C03.S13",
+       "title": "Infallibility and sins of the prophets"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "P04",
+   "title": "The Prophethood of Muhammad",
+   "chapters": [
+    {
+     "id": "P04.C01",
+     "title": "Proofs of prophethood: prophecies",
+     "subchapters": [
+      {
+       "id": "P04.C01.S01",
+       "title": "Prophecy as a criterion of prophethood"
+      },
+      {
+       "id": "P04.C01.S02",
+       "title": "Overview of the Prophet's fulfilled prophecies"
+      },
+      {
+       "id": "P04.C01.S03",
+       "title": "The Roman victory over Persia (Surah ar-Rum)"
+      },
+      {
+       "id": "P04.C01.S04",
+       "title": "The prophecy about Abu Lahab"
+      },
+      {
+       "id": "P04.C01.S05",
+       "title": "Badr and the bracelets of Suraqa"
+      },
+      {
+       "id": "P04.C01.S06",
+       "title": "Prophecies about the Prophet's enemies and the early community"
+      },
+      {
+       "id": "P04.C01.S07",
+       "title": "The spread of Islam, the conquests and the Mongols"
+      },
+      {
+       "id": "P04.C01.S08",
+       "title": "Bedouins competing in tall buildings"
+      },
+      {
+       "id": "P04.C01.S09",
+       "title": "Arabia returning to meadows and rivers"
+      },
+      {
+       "id": "P04.C01.S10",
+       "title": "Usury, new diseases and other social changes"
+      },
+      {
+       "id": "P04.C01.S11",
+       "title": "Objections: vagueness, coincidence and self-fulfilment"
+      },
+      {
+       "id": "P04.C01.S12",
+       "title": "Alleged unfulfilled prophecies and end-time narrations"
+      }
+     ]
+    },
+    {
+     "id": "P04.C02",
+     "title": "Proofs of prophethood: miracles",
+     "subchapters": [
+      {
+       "id": "P04.C02.S01",
+       "title": "Miracles as evidence and the claim that Muhammad performed none"
+      },
+      {
+       "id": "P04.C02.S02",
+       "title": "Quranic verses on the signs demanded by disbelievers"
+      },
+      {
+       "id": "P04.C02.S03",
+       "title": "Hadith reports and criteria for miracle accounts"
+      },
+      {
+       "id": "P04.C02.S04",
+       "title": "Comparing the attestation of Jesus' and Muhammad's miracles"
+      },
+      {
+       "id": "P04.C02.S05",
+       "title": "Miracles reported by the Companions"
+      },
+      {
+       "id": "P04.C02.S06",
+       "title": "The splitting of the moon"
+      },
+      {
+       "id": "P04.C02.S07",
+       "title": "The Night Journey"
+      }
+     ]
+    },
+    {
+     "id": "P04.C03",
+     "title": "Proofs of prophethood: character, life and other evidences",
+     "subchapters": [
+      {
+       "id": "P04.C03.S01",
+       "title": "Prophethood claims and the need for evidence"
+      },
+      {
+       "id": "P04.C03.S02",
+       "title": "Cumulative evidence for Muhammad's prophethood"
+      },
+      {
+       "id": "P04.C03.S03",
+       "title": "The Prophet's truthfulness, sacrifices and persecution"
+      },
+      {
+       "id": "P04.C03.S04",
+       "title": "Humility, simple life and conduct of the Prophet"
+      },
+      {
+       "id": "P04.C03.S05",
+       "title": "Alternative explanations of the prophetic claim"
+      },
+      {
+       "id": "P04.C03.S06",
+       "title": "Motives of a false prophet: power, wealth and women"
+      },
+      {
+       "id": "P04.C03.S07",
+       "title": "Delusion and the claim of a satanic source"
+      },
+      {
+       "id": "P04.C03.S08",
+       "title": "Witnesses to the revelation and the angel Jibril"
+      },
+      {
+       "id": "P04.C03.S09",
+       "title": "The Prophet's certainty: Mubahala, letters and risky claims"
+      },
+      {
+       "id": "P04.C03.S10",
+       "title": "Knowledge of previous prophets and the Prophet's illiteracy"
+      },
+      {
+       "id": "P04.C03.S11",
+       "title": "Aisha as a witness to prophethood"
+      },
+      {
+       "id": "P04.C03.S12",
+       "title": "The transformation of the Companions"
+      },
+      {
+       "id": "P04.C03.S13",
+       "title": "Accepting Muhammad as the Messenger of God"
+      }
+     ]
+    },
+    {
+     "id": "P04.C04",
+     "title": "Muhammad in previous scriptures",
+     "subchapters": [
+      {
+       "id": "P04.C04.S01",
+       "title": "Is Muhammad mentioned in the Bible"
+      },
+      {
+       "id": "P04.C04.S02",
+       "title": "Criteria and consistent standards for identifying Muhammad"
+      },
+      {
+       "id": "P04.C04.S03",
+       "title": "Prophets after Jesus in the Bible"
+      },
+      {
+       "id": "P04.C04.S04",
+       "title": "Isaiah 42"
+      },
+      {
+       "id": "P04.C04.S05",
+       "title": "Deuteronomy 18 and 'that Prophet' in John 1"
+      },
+      {
+       "id": "P04.C04.S06",
+       "title": "The Paraclete and the prophecy of Ahmad"
+      },
+      {
+       "id": "P04.C04.S07",
+       "title": "Ishmael and the valley of Baca"
+      }
+     ]
+    },
+    {
+     "id": "P04.C05",
+     "title": "The historical existence of Muhammad and the early sources",
+     "subchapters": [
+      {
+       "id": "P04.C05.S01",
+       "title": "The claim that Muhammad did not exist"
+      },
+      {
+       "id": "P04.C05.S02",
+       "title": "Early written sources of Islam"
+      },
+      {
+       "id": "P04.C05.S03",
+       "title": "Revisionist theories about early Islam and Mecca"
+      }
+     ]
+    },
+    {
+     "id": "P04.C06",
+     "title": "The finality of prophethood and later claimants",
+     "subchapters": [
+      {
+       "id": "P04.C06.S01",
+       "title": "Why Muhammad is the last prophet"
+      },
+      {
+       "id": "P04.C06.S02",
+       "title": "Seal of the prophets and the prophet-messenger distinction"
+      },
+      {
+       "id": "P04.C06.S03",
+       "title": "Finality of revelation and claims of restoration"
+      },
+      {
+       "id": "P04.C06.S04",
+       "title": "Baha'i claims"
+      },
+      {
+       "id": "P04.C06.S05",
+       "title": "Ahmadiyya claims and the return of Jesus"
+      },
+      {
+       "id": "P04.C06.S06",
+       "title": "The prophecies of Mirza Ghulam Ahmad"
+      },
+      {
+       "id": "P04.C06.S07",
+       "title": "Claims to be the Mahdi and the motives of claimants"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "P05",
+   "title": "The Quran",
+   "chapters": [
+    {
+     "id": "P05.C01",
+     "title": "The challenge and inimitability of the Quran",
+     "subchapters": [
+      {
+       "id": "P05.C01.S01",
+       "title": "The Quran as the lasting miracle of the Prophet"
+      },
+      {
+       "id": "P05.C01.S02",
+       "title": "The challenge to produce a surah like it"
+      },
+      {
+       "id": "P05.C01.S03",
+       "title": "Linguistic features of the Quran's inimitability"
+      },
+      {
+       "id": "P05.C01.S04",
+       "title": "Judging the eloquence without knowing Arabic"
+      },
+      {
+       "id": "P05.C01.S05",
+       "title": "Examples of eloquence: Surat al-Kafirun and Quranic wordplay"
+      },
+      {
+       "id": "P05.C01.S06",
+       "title": "Al-Nadr ibn al-Harith and the challenge"
+      },
+      {
+       "id": "P05.C01.S07",
+       "title": "Musaylima, al-Ma'arri and Umar's agreements with revelation"
+      },
+      {
+       "id": "P05.C01.S08",
+       "title": "Modern imitation attempts: Surah Corona and the True Furqan"
+      }
+     ]
+    },
+    {
+     "id": "P05.C02",
+     "title": "Revelation, compilation and preservation of the Quran",
+     "subchapters": [
+      {
+       "id": "P05.C02.S01",
+       "title": "The Quran as the word of God and the promise of its preservation"
+      },
+      {
+       "id": "P05.C02.S02",
+       "title": "How the Quran was revealed"
+      },
+      {
+       "id": "P05.C02.S03",
+       "title": "Writing of the Quran in the Prophet's lifetime"
+      },
+      {
+       "id": "P05.C02.S04",
+       "title": "Memorization as a means of preservation"
+      },
+      {
+       "id": "P05.C02.S05",
+       "title": "Oral and written transmission together"
+      },
+      {
+       "id": "P05.C02.S06",
+       "title": "Compilation under Abu Bakr and standardisation under Uthman"
+      },
+      {
+       "id": "P05.C02.S07",
+       "title": "Uthman's burning of the other codices"
+      },
+      {
+       "id": "P05.C02.S08",
+       "title": "The Quran's preservation compared with the Bible"
+      },
+      {
+       "id": "P05.C02.S09",
+       "title": "Critics' claims about the standard narrative"
+      }
+     ]
+    },
+    {
+     "id": "P05.C03",
+     "title": "Qira'at, ahruf, variants and manuscripts",
+     "subchapters": [
+      {
+       "id": "P05.C03.S01",
+       "title": "The seven ahruf: revelation and meaning"
+      },
+      {
+       "id": "P05.C03.S02",
+       "title": "Ahruf, qira'at and the canonical readings"
+      },
+      {
+       "id": "P05.C03.S03",
+       "title": "The claim of different versions and public awareness of the readings"
+      },
+      {
+       "id": "P05.C03.S04",
+       "title": "Whether the readings are errors of memory"
+      },
+      {
+       "id": "P05.C03.S05",
+       "title": "Transmission of the readings: chains, rasm and diacritics"
+      },
+      {
+       "id": "P05.C03.S06",
+       "title": "Asim, al-Sulami and the transmitters of the reading"
+      },
+      {
+       "id": "P05.C03.S07",
+       "title": "Hafs: his standing in hadith and in recitation"
+      },
+      {
+       "id": "P05.C03.S08",
+       "title": "Spread and dominance of the Hafs reading"
+      },
+      {
+       "id": "P05.C03.S09",
+       "title": "Examples of variant readings and their meanings"
+      },
+      {
+       "id": "P05.C03.S10",
+       "title": "Al-bariyya and al-bari'a in Surah 98"
+      },
+      {
+       "id": "P05.C03.S11",
+       "title": "Claimed readings of al-Fatiha and the spelling of bismillah"
+      },
+      {
+       "id": "P05.C03.S12",
+       "title": "Early manuscripts and the Sana'a palimpsest"
+      },
+      {
+       "id": "P05.C03.S13",
+       "title": "Corrections in manuscripts and Brubaker's thesis"
+      }
+     ]
+    },
+    {
+     "id": "P05.C04",
+     "title": "Alleged sources of the Quran",
+     "subchapters": [
+      {
+       "id": "P05.C04.S01",
+       "title": "The copying claim and the Prophet's access to sources"
+      },
+      {
+       "id": "P05.C04.S02",
+       "title": "Apocryphal gospels and Christian legends"
+      },
+      {
+       "id": "P05.C04.S03",
+       "title": "The Talmud and Hebrew phrases"
+      },
+      {
+       "id": "P05.C04.S04",
+       "title": "Pre-Islamic poetry"
+      },
+      {
+       "id": "P05.C04.S05",
+       "title": "The Syriac Alexander legend and Surat al-Kahf"
+      },
+      {
+       "id": "P05.C04.S06",
+       "title": "Alleged Zoroastrian parallels"
+      },
+      {
+       "id": "P05.C04.S07",
+       "title": "The claim of a demonic origin"
+      }
+     ]
+    },
+    {
+     "id": "P05.C05",
+     "title": "Alleged contradictions and errors in the Quran",
+     "subchapters": [
+      {
+       "id": "P05.C05.S01",
+       "title": "The Quran's claim to be free of contradictions"
+      },
+      {
+       "id": "P05.C05.S02",
+       "title": "Alleged contradictions in the creation accounts"
+      },
+      {
+       "id": "P05.C05.S03",
+       "title": "Alleged theological contradictions"
+      },
+      {
+       "id": "P05.C05.S04",
+       "title": "Alleged contradictions in legal verses"
+      },
+      {
+       "id": "P05.C05.S05",
+       "title": "The Quran's portrayal of Christian beliefs"
+      },
+      {
+       "id": "P05.C05.S06",
+       "title": "Alleged grammatical and lexical errors"
+      }
+     ]
+    },
+    {
+     "id": "P05.C06",
+     "title": "The Quran and science",
+     "subchapters": [
+      {
+       "id": "P05.C06.S01",
+       "title": "Scientific statements in the Quran as a sign"
+      },
+      {
+       "id": "P05.C06.S02",
+       "title": "The Quran and the scientific beliefs of its time"
+      },
+      {
+       "id": "P05.C06.S03",
+       "title": "How to assess alleged scientific errors"
+      },
+      {
+       "id": "P05.C06.S04",
+       "title": "The expanding universe"
+      },
+      {
+       "id": "P05.C06.S05",
+       "title": "Creation and structure of the heavens"
+      },
+      {
+       "id": "P05.C06.S06",
+       "title": "The sun, the moon and the stars"
+      },
+      {
+       "id": "P05.C06.S07",
+       "title": "The sun setting in a muddy spring"
+      },
+      {
+       "id": "P05.C06.S08",
+       "title": "The shape of the earth"
+      },
+      {
+       "id": "P05.C06.S09",
+       "title": "Mountains as pegs"
+      },
+      {
+       "id": "P05.C06.S10",
+       "title": "Clouds, winds, rain and the two seas"
+      },
+      {
+       "id": "P05.C06.S11",
+       "title": "Water as the basis of life"
+      },
+      {
+       "id": "P05.C06.S12",
+       "title": "Embryology"
+      },
+      {
+       "id": "P05.C06.S13",
+       "title": "Fluid from between the backbone and the ribs"
+      },
+      {
+       "id": "P05.C06.S14",
+       "title": "Milk, livestock and bees"
+      },
+      {
+       "id": "P05.C06.S15",
+       "title": "Ants, animal communities and creation in pairs"
+      },
+      {
+       "id": "P05.C06.S16",
+       "title": "Resurrection, the tailbone and the moth simile"
+      }
+     ]
+    },
+    {
+     "id": "P05.C07",
+     "title": "The Quran and history",
+     "subchapters": [
+      {
+       "id": "P05.C07.S01",
+       "title": "Historical details in the Quran absent from the Bible"
+      },
+      {
+       "id": "P05.C07.S02",
+       "title": "King in Joseph's time, Pharaoh in Moses' time"
+      },
+      {
+       "id": "P05.C07.S03",
+       "title": "Pharaoh's claim to divinity and his drowning"
+      },
+      {
+       "id": "P05.C07.S04",
+       "title": "Haman, Abraham's people and the Samiri"
+      },
+      {
+       "id": "P05.C07.S05",
+       "title": "The sacrificed son: Isaac or Ishmael"
+      },
+      {
+       "id": "P05.C07.S06",
+       "title": "Mary, sister of Aaron and daughter of Imran"
+      },
+      {
+       "id": "P05.C07.S07",
+       "title": "The identity of Dhu al-Qarnayn"
+      },
+      {
+       "id": "P05.C07.S08",
+       "title": "The Seven Sleepers of the cave"
+      }
+     ]
+    },
+    {
+     "id": "P05.C08",
+     "title": "Understanding the Quran: language and interpretation",
+     "subchapters": [
+      {
+       "id": "P05.C08.S01",
+       "title": "Why the Quran was revealed in Arabic"
+      },
+      {
+       "id": "P05.C08.S02",
+       "title": "Reading the Quran in translation"
+      },
+      {
+       "id": "P05.C08.S03",
+       "title": "Clarity of the Quran and the need for explanation"
+      },
+      {
+       "id": "P05.C08.S04",
+       "title": "Sources and method of interpretation"
+      },
+      {
+       "id": "P05.C08.S05",
+       "title": "Structure of the Quran and how to read it"
+      },
+      {
+       "id": "P05.C08.S06",
+       "title": "Foreign words and the clear Arabic Quran"
+      },
+      {
+       "id": "P05.C08.S07",
+       "title": "Meanings of particular Arabic words"
+      },
+      {
+       "id": "P05.C08.S08",
+       "title": "The word Allahumma"
+      },
+      {
+       "id": "P05.C08.S09",
+       "title": "Grammar and style: pronouns, tense and word order"
+      },
+      {
+       "id": "P05.C08.S10",
+       "title": "Context of particular surahs and verses"
+      },
+      {
+       "id": "P05.C08.S11",
+       "title": "Verses on God, the prophets and the People of the Book"
+      },
+      {
+       "id": "P05.C08.S12",
+       "title": "Verses on the stories of the prophets"
+      },
+      {
+       "id": "P05.C08.S13",
+       "title": "Verses concerning the Prophet and his household"
+      },
+      {
+       "id": "P05.C08.S14",
+       "title": "Verses on legal and social matters"
+      },
+      {
+       "id": "P05.C08.S15",
+       "title": "Reinterpretations rejecting classical tafsir"
+      },
+      {
+       "id": "P05.C08.S16",
+       "title": "Naturalistic reinterpretations of Quranic miracles"
+      }
+     ]
+    },
+    {
+     "id": "P05.C09",
+     "title": "The Satanic Verses",
+     "subchapters": [
+      {
+       "id": "P05.C09.S01",
+       "title": "The story and its authenticity"
+      },
+      {
+       "id": "P05.C09.S02",
+       "title": "Chains of narration and the origin of the story"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "P15",
+   "title": "Dawah, Doubts and Conversion",
+   "chapters": [
+    {
+     "id": "P15.C01",
+     "title": "Dealing with doubts",
+     "subchapters": [
+      {
+       "id": "P15.C01.S01",
+       "title": "Doubts, questions and levels of certainty"
+      },
+      {
+       "id": "P15.C01.S02",
+       "title": "Building a foundation before facing doubts"
+      },
+      {
+       "id": "P15.C01.S03",
+       "title": "Unanswered questions and patience"
+      },
+      {
+       "id": "P15.C01.S04",
+       "title": "Seeking answers from people of knowledge"
+      },
+      {
+       "id": "P15.C01.S05",
+       "title": "Sins and bad company as sources of doubt"
+      },
+      {
+       "id": "P15.C01.S06",
+       "title": "Doubts of seekers and new Muslims"
+      }
+     ]
+    },
+    {
+     "id": "P15.C02",
+     "title": "Seeking knowledge",
+     "subchapters": [
+      {
+       "id": "P15.C02.S01",
+       "title": "The importance of seeking knowledge"
+      },
+      {
+       "id": "P15.C02.S02",
+       "title": "Taking knowledge from scholars and qualified people"
+      },
+      {
+       "id": "P15.C02.S03",
+       "title": "Sources to avoid: polemicists, debates and AI"
+      },
+      {
+       "id": "P15.C02.S04",
+       "title": "Starting with the Quran"
+      },
+      {
+       "id": "P15.C02.S05",
+       "title": "Primary sources and the Arabic language"
+      },
+      {
+       "id": "P15.C02.S06",
+       "title": "A daily habit of learning"
+      },
+      {
+       "id": "P15.C02.S07",
+       "title": "Reading books and building a library"
+      },
+      {
+       "id": "P15.C02.S08",
+       "title": "Recommended books and resources"
+      }
+     ]
+    },
+    {
+     "id": "P15.C03",
+     "title": "Dawah: methods, conduct and debates",
+     "subchapters": [
+      {
+       "id": "P15.C03.S01",
+       "title": "Dawah as conveying the message, not convincing"
+      },
+      {
+       "id": "P15.C03.S02",
+       "title": "The duty of dawah and every Muslim's role"
+      },
+      {
+       "id": "P15.C03.S03",
+       "title": "No compulsion: dawah without pressure"
+      },
+      {
+       "id": "P15.C03.S04",
+       "title": "Wisdom, good manners and respect in dawah"
+      },
+      {
+       "id": "P15.C03.S05",
+       "title": "Dawah in daily life: family, colleagues and new Muslims"
+      },
+      {
+       "id": "P15.C03.S06",
+       "title": "Dawah to atheists"
+      },
+      {
+       "id": "P15.C03.S07",
+       "title": "Inviting non-Muslims to read the Quran"
+      },
+      {
+       "id": "P15.C03.S08",
+       "title": "Sincerity and preparedness in discussion"
+      },
+      {
+       "id": "P15.C03.S09",
+       "title": "Etiquette of dialogue: listening, answering and interruptions"
+      },
+      {
+       "id": "P15.C03.S10",
+       "title": "Hostile callers and ending unproductive discussions"
+      },
+      {
+       "id": "P15.C03.S11",
+       "title": "Conversation formats, debates and call-outs"
+      },
+      {
+       "id": "P15.C03.S12",
+       "title": "Street dawah and Speakers' Corner"
+      },
+      {
+       "id": "P15.C03.S13",
+       "title": "Heckling and confrontations in street dawah"
+      },
+      {
+       "id": "P15.C03.S14",
+       "title": "Christian missionaries and preaching to Muslim children"
+      },
+      {
+       "id": "P15.C03.S15",
+       "title": "Aggressive dawah and insulting language"
+      },
+      {
+       "id": "P15.C03.S16",
+       "title": "Debating anti-Islam critics: value and harms"
+      },
+      {
+       "id": "P15.C03.S17",
+       "title": "Researching and answering anti-Islam arguments"
+      },
+      {
+       "id": "P15.C03.S18",
+       "title": "Dawah content online: channels and clips"
+      },
+      {
+       "id": "P15.C03.S19",
+       "title": "Infighting among dawah carriers"
+      },
+      {
+       "id": "P15.C03.S20",
+       "title": "Platforming deviant preachers and dawah priorities"
+      }
+     ]
+    },
+    {
+     "id": "P15.C04",
+     "title": "Conversion and accepting Islam",
+     "subchapters": [
+      {
+       "id": "P15.C04.S01",
+       "title": "Growth of Islam and conversion numbers"
+      },
+      {
+       "id": "P15.C04.S02",
+       "title": "Who converts to Islam and why"
+      },
+      {
+       "id": "P15.C04.S03",
+       "title": "What makes someone a Muslim: the shahada"
+      },
+      {
+       "id": "P15.C04.S04",
+       "title": "Invitations to accept Islam"
+      },
+      {
+       "id": "P15.C04.S05",
+       "title": "Invitations to research, read the Quran and seek guidance"
+      },
+      {
+       "id": "P15.C04.S06",
+       "title": "Not delaying acceptance of Islam"
+      },
+      {
+       "id": "P15.C04.S07",
+       "title": "What prevents people from accepting Islam"
+      },
+      {
+       "id": "P15.C04.S08",
+       "title": "Hesitation before the shahada"
+      },
+      {
+       "id": "P15.C04.S09",
+       "title": "Wanting more knowledge before converting"
+      },
+      {
+       "id": "P15.C04.S10",
+       "title": "Fear of not being a good enough Muslim"
+      },
+      {
+       "id": "P15.C04.S11",
+       "title": "Forgiveness of past sins upon conversion"
+      },
+      {
+       "id": "P15.C04.S12",
+       "title": "Family, friends and conversion"
+      },
+      {
+       "id": "P15.C04.S13",
+       "title": "Journeys of seekers toward Islam"
+      },
+      {
+       "id": "P15.C04.S14",
+       "title": "Conversion stories of reverts"
+      },
+      {
+       "id": "P15.C04.S15",
+       "title": "Taking the shahada"
+      },
+      {
+       "id": "P15.C04.S16",
+       "title": "Advice and first steps for new Muslims"
+      },
+      {
+       "id": "P15.C04.S17",
+       "title": "Gradual practice after conversion"
+      },
+      {
+       "id": "P15.C04.S18",
+       "title": "Community, company and support for converts"
+      },
+      {
+       "id": "P15.C04.S19",
+       "title": "Returning to Islam"
+      }
+     ]
+    },
+    {
+     "id": "P15.C05",
+     "title": "Ex-Muslims and reasons for leaving Islam",
+     "subchapters": [
+      {
+       "id": "P15.C05.S01",
+       "title": "Why people leave Islam"
+      },
+      {
+       "id": "P15.C05.S02",
+       "title": "Ex-Muslim callers and their backgrounds"
+      },
+      {
+       "id": "P15.C05.S03",
+       "title": "Leaving Islam over feelings and personal experiences"
+      },
+      {
+       "id": "P15.C05.S04",
+       "title": "Leaving Islam because of Muslims' behaviour"
+      },
+      {
+       "id": "P15.C05.S05",
+       "title": "Ex-Muslims' knowledge of Islamic basics"
+      },
+      {
+       "id": "P15.C05.S06",
+       "title": "Verifying claimed ex-Muslims"
+      }
+     ]
+    },
+    {
+     "id": "P15.C06",
+     "title": "Critics and apologists: methods and honesty",
+     "subchapters": [
+      {
+       "id": "P15.C06.S01",
+       "title": "Motives and tactics of critics"
+      },
+      {
+       "id": "P15.C06.S02",
+       "title": "Clips, titles and online gotcha culture"
+      },
+      {
+       "id": "P15.C06.S03",
+       "title": "Verifying callers' sources and claims"
+      },
+      {
+       "id": "P15.C06.S04",
+       "title": "Insults and conduct of hostile callers"
+      },
+      {
+       "id": "P15.C06.S05",
+       "title": "Accusations of dishonesty against the host and fairness in responses"
+      },
+      {
+       "id": "P15.C06.S06",
+       "title": "Invitations to online personalities and podcasters"
+      },
+      {
+       "id": "P15.C06.S07",
+       "title": "Challenges to Professor Dave and Professor Jiang"
+      },
+      {
+       "id": "P15.C06.S08",
+       "title": "Academics and scholars cited by critics"
+      },
+      {
+       "id": "P15.C06.S09",
+       "title": "The exchange with GodLogic"
+      },
+      {
+       "id": "P15.C06.S10",
+       "title": "David Wood's use of sources"
+      },
+      {
+       "id": "P15.C06.S11",
+       "title": "Exchanges and challenges with David Wood"
+      },
+      {
+       "id": "P15.C06.S12",
+       "title": "Sam Shamoun"
+      },
+      {
+       "id": "P15.C06.S13",
+       "title": "Apostate Prophet"
+      },
+      {
+       "id": "P15.C06.S14",
+       "title": "Christian Prince's show and treatment of callers"
+      },
+      {
+       "id": "P15.C06.S15",
+       "title": "The Afzal caller controversy"
+      },
+      {
+       "id": "P15.C06.S16",
+       "title": "Christian Prince's reading of sources"
+      },
+      {
+       "id": "P15.C06.S17",
+       "title": "Christian Prince's responses and debate challenges"
+      },
+      {
+       "id": "P15.C06.S18",
+       "title": "Ex-Muslim critics and Ridvan Aydemir"
+      },
+      {
+       "id": "P15.C06.S19",
+       "title": "Other Christian apologists"
+      },
+      {
+       "id": "P15.C06.S20",
+       "title": "Debate challenges, aftermaths and referencing standards"
+      },
+      {
+       "id": "P15.C06.S21",
+       "title": "Disputes with Daniel Haqiqatjou"
+      },
+      {
+       "id": "P15.C06.S22",
+       "title": "Dispute with Hany Atchan"
+      },
+      {
+       "id": "P15.C06.S23",
+       "title": "Islam Critiqued and response videos"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "P08",
+   "title": "Christianity: God and Jesus",
+   "chapters": [
+    {
+     "id": "P08.C01",
+     "title": "The Trinity",
+     "subchapters": [
+      {
+       "id": "P08.C01.S01",
+       "title": "Definition of the Trinity"
+      },
+      {
+       "id": "P08.C01.S02",
+       "title": "One being and three persons: coherence of the doctrine"
+      },
+      {
+       "id": "P08.C01.S03",
+       "title": "Three gods or one: the Trinity and polytheism"
+      },
+      {
+       "id": "P08.C01.S04",
+       "title": "Analogies used to explain the Trinity"
+      },
+      {
+       "id": "P08.C01.S05",
+       "title": "The Father, the Son and the co-equality of the persons"
+      },
+      {
+       "id": "P08.C01.S06",
+       "title": "The Trinity as mystery, tradition or inference"
+      },
+      {
+       "id": "P08.C01.S07",
+       "title": "Is the Trinity taught in the Bible?"
+      },
+      {
+       "id": "P08.C01.S08",
+       "title": "The Trinity in the Old Testament"
+      },
+      {
+       "id": "P08.C01.S09",
+       "title": "The baptismal formula of Matthew 28:19"
+      },
+      {
+       "id": "P08.C01.S10",
+       "title": "The Quran on the Trinity"
+      },
+      {
+       "id": "P08.C01.S11",
+       "title": "Tawheed compared with the Trinity"
+      }
+     ]
+    },
+    {
+     "id": "P08.C02",
+     "title": "The divinity of Jesus",
+     "subchapters": [
+      {
+       "id": "P08.C02.S01",
+       "title": "Islam and Christianity on who Jesus is"
+      },
+      {
+       "id": "P08.C02.S02",
+       "title": "Did Jesus ever say 'I am God'?"
+      },
+      {
+       "id": "P08.C02.S03",
+       "title": "Can God become a man?"
+      },
+      {
+       "id": "P08.C02.S04",
+       "title": "Fully God and fully man: the hypostatic union"
+      },
+      {
+       "id": "P08.C02.S05",
+       "title": "Can God die? The immortality of God"
+      },
+      {
+       "id": "P08.C02.S06",
+       "title": "Jesus as a man, prophet and servant of God"
+      },
+      {
+       "id": "P08.C02.S07",
+       "title": "The Father is greater: authority given to Jesus"
+      },
+      {
+       "id": "P08.C02.S08",
+       "title": "Matthew 7:21 and doing the Father's will"
+      },
+      {
+       "id": "P08.C02.S09",
+       "title": "Jesus prayed to God"
+      },
+      {
+       "id": "P08.C02.S10",
+       "title": "Jesus did not know the Hour (Mark 13:32)"
+      },
+      {
+       "id": "P08.C02.S11",
+       "title": "Jesus has a God (John 20:17)"
+      },
+      {
+       "id": "P08.C02.S12",
+       "title": "The Father as the only true God (John 17:3)"
+      },
+      {
+       "id": "P08.C02.S13",
+       "title": "The meaning of 'son of God'"
+      },
+      {
+       "id": "P08.C02.S14",
+       "title": "Divine titles applied to others in the Bible"
+      },
+      {
+       "id": "P08.C02.S15",
+       "title": "'I and the Father are one' (John 10:30)"
+      },
+      {
+       "id": "P08.C02.S16",
+       "title": "'He who has seen me has seen the Father' (John 14:9)"
+      },
+      {
+       "id": "P08.C02.S17",
+       "title": "'I am the way, the truth and the life' (John 14:6)"
+      },
+      {
+       "id": "P08.C02.S18",
+       "title": "'Before Abraham was, I am' (John 8:58)"
+      },
+      {
+       "id": "P08.C02.S19",
+       "title": "Alpha and Omega, the first and the last"
+      },
+      {
+       "id": "P08.C02.S20",
+       "title": "John 1:1 and the Word made flesh"
+      },
+      {
+       "id": "P08.C02.S21",
+       "title": "Titus 2:13, 2 Peter 1:1 and Philippians 2"
+      },
+      {
+       "id": "P08.C02.S22",
+       "title": "Thomas's confession and the worship of Jesus"
+      },
+      {
+       "id": "P08.C02.S23",
+       "title": "Forgiving sins and performing miracles"
+      },
+      {
+       "id": "P08.C02.S24",
+       "title": "Did Mary and the disciples believe Jesus was God?"
+      },
+      {
+       "id": "P08.C02.S25",
+       "title": "Was Jesus sinless?"
+      }
+     ]
+    },
+    {
+     "id": "P08.C03",
+     "title": "Jesus in Islam",
+     "subchapters": [
+      {
+       "id": "P08.C03.S01",
+       "title": "Muslim beliefs about Jesus"
+      },
+      {
+       "id": "P08.C03.S02",
+       "title": "The Quranic Jesus and the Christian Jesus"
+      },
+      {
+       "id": "P08.C03.S03",
+       "title": "Jesus as the Messiah"
+      },
+      {
+       "id": "P08.C03.S04",
+       "title": "The virgin birth, Mary and the creation of Jesus"
+      },
+      {
+       "id": "P08.C03.S05",
+       "title": "Miracles of Jesus in the Quran"
+      },
+      {
+       "id": "P08.C03.S06",
+       "title": "Is Jesus sinless in the Quran?"
+      },
+      {
+       "id": "P08.C03.S07",
+       "title": "The disciples and followers of Jesus in the Quran"
+      },
+      {
+       "id": "P08.C03.S08",
+       "title": "The mission of Jesus"
+      },
+      {
+       "id": "P08.C03.S09",
+       "title": "Jesus' practices and teachings compared with Islam"
+      },
+      {
+       "id": "P08.C03.S10",
+       "title": "The ascension and return of Jesus"
+      }
+     ]
+    },
+    {
+     "id": "P08.C04",
+     "title": "The crucifixion and the resurrection",
+     "subchapters": [
+      {
+       "id": "P08.C04.S01",
+       "title": "The Islamic view of the crucifixion (Quran 4:157)"
+      },
+      {
+       "id": "P08.C04.S02",
+       "title": "Substitution, appearance and the question of deception"
+      },
+      {
+       "id": "P08.C04.S03",
+       "title": "Conjecture, historical evidence and the burden of proof"
+      },
+      {
+       "id": "P08.C04.S04",
+       "title": "Eyewitnesses and the Gospel accounts"
+      },
+      {
+       "id": "P08.C04.S05",
+       "title": "Psalm 91 and God's protection of Jesus"
+      },
+      {
+       "id": "P08.C04.S06",
+       "title": "The sign of Jonah and the three days"
+      },
+      {
+       "id": "P08.C04.S07",
+       "title": "Evidence for the resurrection"
+      },
+      {
+       "id": "P08.C04.S08",
+       "title": "The martyrdom of the apostles as evidence"
+      }
+     ]
+    },
+    {
+     "id": "P08.C05",
+     "title": "Original sin, atonement and salvation in Christianity",
+     "subchapters": [
+      {
+       "id": "P08.C05.S01",
+       "title": "The gospel message and original sin"
+      },
+      {
+       "id": "P08.C05.S02",
+       "title": "Adam's fall and repentance in the Quran"
+      },
+      {
+       "id": "P08.C05.S03",
+       "title": "The justice of atonement: punishing the innocent"
+      },
+      {
+       "id": "P08.C05.S04",
+       "title": "Forgiveness, repentance and sacrifice in the Old Testament"
+      },
+      {
+       "id": "P08.C05.S05",
+       "title": "Salvation before Jesus and the fairness of the test"
+      },
+      {
+       "id": "P08.C05.S06",
+       "title": "Faith, works and accountability"
+      },
+      {
+       "id": "P08.C05.S07",
+       "title": "Sin after accepting Christ's sacrifice (1 John 3)"
+      }
+     ]
+    },
+    {
+     "id": "P08.C06",
+     "title": "Paul and early Christianity",
+     "subchapters": [
+      {
+       "id": "P08.C06.S01",
+       "title": "Following Jesus or Paul: Paul's authority"
+      },
+      {
+       "id": "P08.C06.S02",
+       "title": "Paul's Damascus vision and the evidence for his claims"
+      },
+      {
+       "id": "P08.C06.S03",
+       "title": "Jesus, the Mosaic Law and Paul"
+      },
+      {
+       "id": "P08.C06.S04",
+       "title": "Is Paul mentioned in the Quran?"
+      },
+      {
+       "id": "P08.C06.S05",
+       "title": "Early Christian groups and the development of doctrine"
+      },
+      {
+       "id": "P08.C06.S06",
+       "title": "Church councils and the origin of the Trinity doctrine"
+      },
+      {
+       "id": "P08.C06.S07",
+       "title": "The Church Fathers and their beliefs"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "P09",
+   "title": "The Bible",
+   "chapters": [
+    {
+     "id": "P09.C01",
+     "title": "Authorship of the Bible and the Gospels",
+     "subchapters": [
+      {
+       "id": "P09.C01.S01",
+       "title": "Anonymous authorship of the Gospels"
+      },
+      {
+       "id": "P09.C01.S02",
+       "title": "Gospel titles and church fathers' attributions"
+      },
+      {
+       "id": "P09.C01.S03",
+       "title": "Papias and Eusebius as witnesses"
+      },
+      {
+       "id": "P09.C01.S04",
+       "title": "The Gospel of Matthew"
+      },
+      {
+       "id": "P09.C01.S05",
+       "title": "The Gospel of Mark and Peter"
+      },
+      {
+       "id": "P09.C01.S06",
+       "title": "The Gospel of Luke"
+      },
+      {
+       "id": "P09.C01.S07",
+       "title": "The Gospel of John"
+      },
+      {
+       "id": "P09.C01.S08",
+       "title": "Dating of the Gospels"
+      },
+      {
+       "id": "P09.C01.S09",
+       "title": "Authorship of the other biblical books"
+      },
+      {
+       "id": "P09.C01.S10",
+       "title": "Gospel attribution judged by hadith standards"
+      }
+     ]
+    },
+    {
+     "id": "P09.C02",
+     "title": "Preservation, corruption and textual criticism of the Bible",
+     "subchapters": [
+      {
+       "id": "P09.C02.S01",
+       "title": "What corruption means and how it is known"
+      },
+      {
+       "id": "P09.C02.S02",
+       "title": "Where is the original Bible"
+      },
+      {
+       "id": "P09.C02.S03",
+       "title": "Textual criticism: method and types of variants"
+      },
+      {
+       "id": "P09.C02.S04",
+       "title": "Number and significance of New Testament variants"
+      },
+      {
+       "id": "P09.C02.S05",
+       "title": "Christian scholars and church fathers on corruption"
+      },
+      {
+       "id": "P09.C02.S06",
+       "title": "Earliest New Testament manuscripts and their dating"
+      },
+      {
+       "id": "P09.C02.S07",
+       "title": "Dating of the papyri P52 and P75"
+      },
+      {
+       "id": "P09.C02.S08",
+       "title": "The Old Testament and the Dead Sea Scrolls"
+      },
+      {
+       "id": "P09.C02.S09",
+       "title": "Formation of the canon and differing canons"
+      },
+      {
+       "id": "P09.C02.S10",
+       "title": "The ending of Mark and the pericope adulterae"
+      },
+      {
+       "id": "P09.C02.S11",
+       "title": "1 John 5:7 (Comma Johanneum)"
+      },
+      {
+       "id": "P09.C02.S12",
+       "title": "Matthew 28:19 and the baptismal formula"
+      },
+      {
+       "id": "P09.C02.S13",
+       "title": "Translations and versions of the Bible"
+      },
+      {
+       "id": "P09.C02.S14",
+       "title": "The divine name and its transmission"
+      },
+      {
+       "id": "P09.C02.S15",
+       "title": "Historical reliability and the words of Jesus"
+      }
+     ]
+    },
+    {
+     "id": "P09.C03",
+     "title": "The Quran's stance on the Torah and the Gospel",
+     "subchapters": [
+      {
+       "id": "P09.C03.S01",
+       "title": "The Islamic dilemma: the argument stated"
+      },
+      {
+       "id": "P09.C03.S02",
+       "title": "Tawrah and Injil versus the present Bible"
+      },
+      {
+       "id": "P09.C03.S03",
+       "title": "The Muslim view of the Bible: truth and alteration"
+      },
+      {
+       "id": "P09.C03.S04",
+       "title": "Quranic verses on the alteration of scripture"
+      },
+      {
+       "id": "P09.C03.S05",
+       "title": "Hadith and companion reports on tahrif"
+      },
+      {
+       "id": "P09.C03.S06",
+       "title": "Classical scholars on the preservation of the Bible"
+      },
+      {
+       "id": "P09.C03.S07",
+       "title": "The Quran confirming previous scriptures"
+      },
+      {
+       "id": "P09.C03.S08",
+       "title": "The Quran as criterion and corrector of previous scriptures"
+      },
+      {
+       "id": "P09.C03.S09",
+       "title": "Quran 5:43-48: judging by the Torah and the Gospel"
+      },
+      {
+       "id": "P09.C03.S10",
+       "title": "Quran 5:66-68: establishing the Torah and the Gospel"
+      },
+      {
+       "id": "P09.C03.S11",
+       "title": "Quran 10:94: asking the People of the Book"
+      },
+      {
+       "id": "P09.C03.S12",
+       "title": "Quran 6:115 and 18:27: no one can change God's words"
+      },
+      {
+       "id": "P09.C03.S13",
+       "title": "Assessment of the Islamic dilemma argument"
+      }
+     ]
+    },
+    {
+     "id": "P09.C04",
+     "title": "Biblical prophecies",
+     "subchapters": [
+      {
+       "id": "P09.C04.S01",
+       "title": "Messianic prophecies as evidence: method and objections"
+      },
+      {
+       "id": "P09.C04.S02",
+       "title": "Isaiah 53: the suffering servant"
+      },
+      {
+       "id": "P09.C04.S03",
+       "title": "Isaiah 7:14 and 9:6: Immanuel and the child born"
+      },
+      {
+       "id": "P09.C04.S04",
+       "title": "Psalm 22 and Zechariah 12: the pierced one"
+      },
+      {
+       "id": "P09.C04.S05",
+       "title": "Other Old Testament passages cited for Jesus"
+      },
+      {
+       "id": "P09.C04.S06",
+       "title": "End-times and other prophecy claims"
+      },
+      {
+       "id": "P09.C04.S07",
+       "title": "Assessment of the messianic prophecy claims"
+      }
+     ]
+    },
+    {
+     "id": "P09.C05",
+     "title": "Biblical ethics, laws and contradictions",
+     "subchapters": [
+      {
+       "id": "P09.C05.S01",
+       "title": "Violence in the Old Testament"
+      },
+      {
+       "id": "P09.C05.S02",
+       "title": "Jesus, love of enemies and harsh sayings"
+      },
+      {
+       "id": "P09.C05.S03",
+       "title": "Women in the Bible"
+      },
+      {
+       "id": "P09.C05.S04",
+       "title": "Marriage, divorce and polygamy in the Bible"
+      },
+      {
+       "id": "P09.C05.S05",
+       "title": "Age of marriage in the Bible"
+      },
+      {
+       "id": "P09.C05.S06",
+       "title": "Slavery and female captives in the Bible"
+      },
+      {
+       "id": "P09.C05.S07",
+       "title": "Biblical laws compared with Islamic rulings"
+      },
+      {
+       "id": "P09.C05.S08",
+       "title": "Portrayal of the prophets and sins attributed to them"
+      },
+      {
+       "id": "P09.C05.S09",
+       "title": "Human attributes and deficiencies ascribed to God"
+      },
+      {
+       "id": "P09.C05.S10",
+       "title": "Contradictions between biblical accounts"
+      },
+      {
+       "id": "P09.C05.S11",
+       "title": "The Bible and science"
+      }
+     ]
+    },
+    {
+     "id": "P09.C06",
+     "title": "Christian denominations and practices",
+     "subchapters": [
+      {
+       "id": "P09.C06.S01",
+       "title": "Denominations and divisions in Christianity"
+      },
+      {
+       "id": "P09.C06.S02",
+       "title": "Church authority and circular reasoning"
+      },
+      {
+       "id": "P09.C06.S03",
+       "title": "Baptism, the Eucharist and prayer in the name of Jesus"
+      },
+      {
+       "id": "P09.C06.S04",
+       "title": "Church life and the practice of scripture"
+      },
+      {
+       "id": "P09.C06.S05",
+       "title": "Mormonism and Joseph Smith"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "P10",
+   "title": "Judaism and Other Religions",
+   "chapters": [
+    {
+     "id": "P10.C01",
+     "title": "Judaism and the Jewish people",
+     "subchapters": [
+      {
+       "id": "P10.C01.S01",
+       "title": "Abraham, chosenness and Jewish identity"
+      },
+      {
+       "id": "P10.C01.S02",
+       "title": "The concept of God in Genesis"
+      },
+      {
+       "id": "P10.C01.S03",
+       "title": "Rabbinic authority and the Torah's commandments"
+      },
+      {
+       "id": "P10.C01.S04",
+       "title": "Ezra and Quran 9:30"
+      },
+      {
+       "id": "P10.C01.S05",
+       "title": "Jewish views of Jesus and the awaited Messiah"
+      }
+     ]
+    },
+    {
+     "id": "P10.C02",
+     "title": "Hinduism",
+     "subchapters": [
+      {
+       "id": "P10.C02.S01",
+       "title": "The concept of God in Hinduism"
+      },
+      {
+       "id": "P10.C02.S02",
+       "title": "Hindu scriptures: authority and consistency"
+      },
+      {
+       "id": "P10.C02.S03",
+       "title": "Stories of the gods in the Puranas"
+      }
+     ]
+    },
+    {
+     "id": "P10.C03",
+     "title": "Buddhism, Jainism and Sikhism",
+     "subchapters": [
+      {
+       "id": "P10.C03.S01",
+       "title": "Buddhist beliefs and the nature of consciousness"
+      },
+      {
+       "id": "P10.C03.S02",
+       "title": "Buddhist pacifism and self-defense"
+      },
+      {
+       "id": "P10.C03.S03",
+       "title": "Jainism: prophets without God"
+      },
+      {
+       "id": "P10.C03.S04",
+       "title": "Sikh beliefs about God and salvation"
+      },
+      {
+       "id": "P10.C03.S05",
+       "title": "Guru Nanak and the claims of Sikh scripture"
+      }
+     ]
+    },
+    {
+     "id": "P10.C04",
+     "title": "Other beliefs and movements",
+     "subchapters": [
+      {
+       "id": "P10.C04.S01",
+       "title": "Native American and Chinese folk beliefs"
+      },
+      {
+       "id": "P10.C04.S02",
+       "title": "Reincarnation, energy healing and alien claims"
+      },
+      {
+       "id": "P10.C04.S03",
+       "title": "The Sacred Treasury"
+      }
+     ]
+    },
+    {
+     "id": "P10.C05",
+     "title": "Pre-Islamic Arabia",
+     "subchapters": [
+      {
+       "id": "P10.C05.S01",
+       "title": "Religion and superstitions of the pre-Islamic Arabs"
+      },
+      {
+       "id": "P10.C05.S02",
+       "title": "The origin of the Kaaba and its builders"
+      },
+      {
+       "id": "P10.C05.S03",
+       "title": "Idols in the Kaaba and praying towards it"
+      },
+      {
+       "id": "P10.C05.S04",
+       "title": "The Black Stone"
+      },
+      {
+       "id": "P10.C05.S05",
+       "title": "Hajj rites and the question of pagan origins"
+      },
+      {
+       "id": "P10.C05.S06",
+       "title": "The Year of the Elephant"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "P17",
+   "title": "Atheism, Secularism and Other Worldviews",
+   "chapters": [
+    {
+     "id": "P01.C02",
+     "title": "Atheism, agnosticism and the burden of proof",
+     "subchapters": [
+      {
+       "id": "P01.C02.S01",
+       "title": "Definitions of atheism, agnosticism and God"
+      },
+      {
+       "id": "P01.C02.S02",
+       "title": "Positions and backgrounds of atheist and agnostic interlocutors"
+      },
+      {
+       "id": "P01.C02.S03",
+       "title": "The burden of proof"
+      },
+      {
+       "id": "P01.C02.S04",
+       "title": "Agnosticism as a position"
+      },
+      {
+       "id": "P01.C02.S05",
+       "title": "What evidence would convince: criteria for God's existence"
+      },
+      {
+       "id": "P01.C02.S06",
+       "title": "The many religions and religious wars objections"
+      },
+      {
+       "id": "P01.C02.S07",
+       "title": "Psychological reasons for rejecting belief"
+      },
+      {
+       "id": "P01.C02.S08",
+       "title": "The rationality and implications of atheism"
+      }
+     ]
+    },
+    {
+     "id": "P01.C06",
+     "title": "Science, evolution and creation",
+     "subchapters": [
+      {
+       "id": "P01.C06.S01",
+       "title": "Science and religion"
+      },
+      {
+       "id": "P01.C06.S02",
+       "title": "Creation of the world and the age of the earth"
+      },
+      {
+       "id": "P01.C06.S03",
+       "title": "The Islamic position on evolution and the creation of Adam"
+      },
+      {
+       "id": "P01.C06.S04",
+       "title": "Evolution as fact, falsifiability and the burden of proof"
+      },
+      {
+       "id": "P01.C06.S05",
+       "title": "The fossil record, gradualism and the Cambrian explosion"
+      },
+      {
+       "id": "P01.C06.S06",
+       "title": "Hominid fossils, reconstructions and forgeries"
+      },
+      {
+       "id": "P01.C06.S07",
+       "title": "Vestigial organs, homology, genetics and mutations"
+      },
+      {
+       "id": "P01.C06.S08",
+       "title": "Naturalism, academic pressure and motives behind evolution"
+      },
+      {
+       "id": "P01.C06.S09",
+       "title": "Abiogenesis and the origin of life"
+      }
+     ]
+    },
+    {
+     "id": "P01.C07",
+     "title": "Pantheism, deism and other conceptions of God",
+     "subchapters": [
+      {
+       "id": "P01.C07.S01",
+       "title": "Belief in God without religion and personal spirituality"
+      },
+      {
+       "id": "P01.C07.S02",
+       "title": "Pantheism and the distinction between Creator and creation"
+      },
+      {
+       "id": "P01.C07.S03",
+       "title": "Omnism and the claim that all religions are true"
+      },
+      {
+       "id": "P01.C07.S04",
+       "title": "Love as the motive of human actions"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
