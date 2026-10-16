@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "35:24",
+ "label": "Reference text: Quran 35:24, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/35/24?translations=20",
+ "urls_fetched": [
+  "https://quran.com/35/24?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T09:07:05Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "35:24",
+   "raw": "Indeed, We have sent you with the truth as a bringer of good tidings and a warner. And there was no nation but that there had passed within it a warner.",
+   "text": "Indeed, We have sent you with the truth as a bringer of good tidings and a warner. And there was no nation but that there had passed within it a warner.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

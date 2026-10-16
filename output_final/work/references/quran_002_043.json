@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "2:43",
+ "label": "Reference text: Quran 2:43, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/2/43?translations=20",
+ "urls_fetched": [
+  "https://quran.com/2/43?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T09:05:51Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "2:43",
+   "raw": "And establish prayer and give zakāh<sup foot_note=254032>1</sup> and bow with those who bow [in worship and obedience].",
+   "text": "And establish prayer and give zakāh and bow with those who bow [in worship and obedience].",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

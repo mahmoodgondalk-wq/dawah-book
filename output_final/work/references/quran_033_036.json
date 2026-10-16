@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "33:36",
+ "label": "Reference text: Quran 33:36, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/33/36?translations=20",
+ "urls_fetched": [
+  "https://quran.com/33/36?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T09:06:49Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "33:36",
+   "raw": "It is not for a believing man or a believing woman, when Allāh and His Messenger have decided a matter, that they should [thereafter] have any choice about their affair. And whoever disobeys Allāh and His Messenger has certainly strayed into clear error.",
+   "text": "It is not for a believing man or a believing woman, when Allāh and His Messenger have decided a matter, that they should [thereafter] have any choice about their affair. And whoever disobeys Allāh and His Messenger has certainly strayed into clear error.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "17:106",
+ "label": "Reference text: Quran 17:106, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/17/106?translations=20",
+ "urls_fetched": [
+  "https://quran.com/17/106?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T09:00:42Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "17:106",
+   "raw": "And [it is] a Qur’ān which We have separated [by intervals] that you might recite it to the people over a prolonged period. And We have sent it down progressively.",
+   "text": "And [it is] a Qur’ān which We have separated [by intervals] that you might recite it to the people over a prolonged period. And We have sent it down progressively.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "kind": "quran",
+ "ref": "33:32-33",
+ "label": "Reference text: Quran 33:32-33, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/33/32-33?translations=20",
+ "urls_fetched": [
+  "https://quran.com/33/32-33?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T09:06:45Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "33:32",
+   "raw": "O wives of the Prophet, you are not like anyone among women. If you fear Allāh, then do not be soft in speech [to men],<sup foot_note=255996>1</sup> lest he in whose heart is disease should covet, but speak with appropriate speech.",
+   "text": "O wives of the Prophet, you are not like anyone among women. If you fear Allāh, then do not be soft in speech [to men], lest he in whose heart is disease should covet, but speak with appropriate speech.",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "33:33",
+   "raw": "And abide in your houses and do not display yourselves as [was] the display of the former times of ignorance. And establish prayer and give zakāh and obey Allāh and His Messenger. Allāh intends only to remove from you the impurity [of sin], O people of the [Prophet's] household, and to purify you with [extensive] purification.",
+   "text": "And abide in your houses and do not display yourselves as [was] the display of the former times of ignorance. And establish prayer and give zakāh and obey Allāh and His Messenger. Allāh intends only to remove from you the impurity [of sin], O people of the [Prophet's] household, and to purify you with [extensive] purification.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

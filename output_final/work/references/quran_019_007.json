@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "19:7",
+ "label": "Reference text: Quran 19:7, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/19/7?translations=20",
+ "urls_fetched": [
+  "https://quran.com/19/7?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T09:01:30Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "19:7",
+   "raw": "[He was told],<sup foot_note=255018>1</sup> \"O Zechariah, indeed We give you good tidings of a boy whose name will be John. We have not assigned to any before [this] name.\"",
+   "text": "[He was told], \"O Zechariah, indeed We give you good tidings of a boy whose name will be John. We have not assigned to any before [this] name.\"",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

@@ -30100,6 +30100,46 @@
   "context": "I could give you even references for that. | Chapter 7 of the Quran, | verse 158, for example, 157, 158, 159, they talk about this."
  },
  {
+  "file": "ML369",
+  "seg": 206,
+  "ref": "Quran 35:18",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "I am the one responsible no one else is responsible | Allah says in the (Quran35:18) وَلَا تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَى | The burden of sin of a one person can not be put on another person, your burden of sin is yours, it can not be placed on someone else..ok?"
+ },
+ {
+  "file": "ML369",
+  "seg": 206,
+  "ref": "[quran] Quran35:18",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "I am the one responsible no one else is responsible | Allah says in the (Quran35:18) وَلَا تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَى | The burden of sin of a one person can not be put on another person, your burden of sin is yours, it can not be placed on someone else..ok?"
+ },
+ {
+  "file": "ML369",
+  "seg": 206,
+  "ref": "[glued] (Quran35:18)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "I am the one responsible no one else is responsible | Allah says in the (Quran35:18) وَلَا تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَى | The burden of sin of a one person can not be put on another person, your burden of sin is yours, it can not be placed on someone else..ok?"
+ },
+ {
+  "file": "ML369",
+  "seg": 285,
+  "ref": "Quran 5:5",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Ok | Alright, so chapter 5 of Quran verse 5 clearly stipulates that Muslims, Muslim men specifically not women, Muslin men are allowed to marry a Jewish or a Christian woman | Right"
+ },
+ {
   "file": "ML371",
   "seg": 60,
   "ref": "Quran 18:51",
@@ -30418,6 +30458,246 @@
   ],
   "speaker": "The Muslim Lantern",
   "context": "And electrocuting the meat is Haram by consensus of all Muslims | Allahﷻ mentions that in the Quran (Almaidah5:3) | So even if they were Christians, they're not slaughtering in the way which the people of the Book would do, right!"
+ },
+ {
+  "file": "ML388",
+  "seg": 35,
+  "ref": "[glued] (Jo10:29)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "How can he say that? | And then he says: \"My Father, who is greater than all\" (Jo10:29), which is the attribute of God! | So we say whoever's called \"The Father\" in the Bible is what we call \"God\""
+ },
+ {
+  "file": "ML388",
+  "seg": 91,
+  "ref": "Quran 4:157",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "The Quran has something very interesting | It says it appeared to the people that Jesus was crucified (Annisa4:157). | That's why history will record Jesus was crucified"
+ },
+ {
+  "file": "ML388",
+  "seg": 91,
+  "ref": "[glued] (Annisa4:157)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "The Quran has something very interesting | It says it appeared to the people that Jesus was crucified (Annisa4:157). | That's why history will record Jesus was crucified"
+ },
+ {
+  "file": "ML388",
+  "seg": 199,
+  "ref": "Quran 3:49",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Which is what all Muslims believe. | Allah says in the Quran (Alimran3:49) | وَرَسُولًا إِلَىٰ بَنِي إِسْرَائِيلَ (And a Messenger to the Children of Israel)"
+ },
+ {
+  "file": "ML388",
+  "seg": 199,
+  "ref": "[glued] (Alimran3:49)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Which is what all Muslims believe. | Allah says in the Quran (Alimran3:49) | وَرَسُولًا إِلَىٰ بَنِي إِسْرَائِيلَ (And a Messenger to the Children of Israel)"
+ },
+ {
+  "file": "ML388",
+  "seg": 223,
+  "ref": "[glued] (Lu3:38)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "– The angels yeah, it's used for the angels as well (Gen6:2) | And it is used for specific individuals like Adam (Lu3:38) | For David, he is called \"the begotten son of God\" in (Psalms2:7)"
+ },
+ {
+  "file": "ML388",
+  "seg": 244,
+  "ref": "Quran 3:59",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "which is very interesting isn't it? | The Quran (Alimran3:59) says: | \"The example of Jesus onto God is like Adam."
+ },
+ {
+  "file": "ML388",
+  "seg": 244,
+  "ref": "[glued] (Alimran3:59)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "which is very interesting isn't it? | The Quran (Alimran3:59) says: | \"The example of Jesus onto God is like Adam."
+ },
+ {
+  "file": "ML388",
+  "seg": 309,
+  "ref": "Quran 4:171",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "That's why Allah says: | (Glory be to Him, He does not take a son He does not take a son) (Annisa4:171) | This is the Islamic perspective on this issue."
+ },
+ {
+  "file": "ML388",
+  "seg": 309,
+  "ref": "[glued] (Annisa4:171)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "That's why Allah says: | (Glory be to Him, He does not take a son He does not take a son) (Annisa4:171) | This is the Islamic perspective on this issue."
+ },
+ {
+  "file": "ML388",
+  "seg": 495,
+  "ref": "Quran 2:186",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Muslim is to submit to God. | Allah says if they ask you about Me, indeed I am near, I answer the call of the person (Albaqara2:186) | So Allah is saying straight away, I'm near."
+ },
+ {
+  "file": "ML388",
+  "seg": 495,
+  "ref": "[glued] (Albaqara2:186)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Muslim is to submit to God. | Allah says if they ask you about Me, indeed I am near, I answer the call of the person (Albaqara2:186) | So Allah is saying straight away, I'm near."
+ },
+ {
+  "file": "ML388",
+  "seg": 499,
+  "ref": "Quran 50:16",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "How close is He when He says near? | Allah says in the Quran as well, He's closer to us than our jugular vein (Qaf50:16) | You know the jugular vein, Allah is saying He's closer to you than your jugular veins"
+ },
+ {
+  "file": "ML388",
+  "seg": 499,
+  "ref": "[glued] (Qaf50:16)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "How close is He when He says near? | Allah says in the Quran as well, He's closer to us than our jugular vein (Qaf50:16) | You know the jugular vein, Allah is saying He's closer to you than your jugular veins"
+ },
+ {
+  "file": "ML389",
+  "seg": 337,
+  "ref": "Quran 50:38",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "In Arabic, the Quran uses the term us | Like \"We created the Heavens\" (Qaf50:38). | But no Muslim on earth believes that God is persons or more than one."
+ },
+ {
+  "file": "ML389",
+  "seg": 337,
+  "ref": "[glued] (Qaf50:38)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "In Arabic, the Quran uses the term us | Like \"We created the Heavens\" (Qaf50:38). | But no Muslim on earth believes that God is persons or more than one."
+ },
+ {
+  "file": "ML390",
+  "seg": 78,
+  "ref": "Quran 15:22",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "they fertilise the plants, they fertilise the clouds.. | (Alhijr15:22) | Today we know this information but 1400years ago a Desert Arabian without telescopes, microscopes, no technology.."
+ },
+ {
+  "file": "ML390",
+  "seg": 78,
+  "ref": "[glued] (Alhijr15:22)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "they fertilise the plants, they fertilise the clouds.. | (Alhijr15:22) | Today we know this information but 1400years ago a Desert Arabian without telescopes, microscopes, no technology.."
+ },
+ {
+  "file": "ML390",
+  "seg": 81,
+  "ref": "Quran 51:47",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "How would he know that? | The Quran talks about the universe expanding (Addhariyat51:47) we learned that in the 1900s. | We used the Hubble Telescope, we saw the universe expanding"
+ },
+ {
+  "file": "ML390",
+  "seg": 81,
+  "ref": "[glued] (Addhariyat51:47)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "How would he know that? | The Quran talks about the universe expanding (Addhariyat51:47) we learned that in the 1900s. | We used the Hubble Telescope, we saw the universe expanding"
+ },
+ {
+  "file": "ML390",
+  "seg": 83,
+  "ref": "Quran 78:7",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "We used the Hubble Telescope, we saw the universe expanding | It talks about mountains, how they have deep roots within the Earth and how they work in stabilising the earth (Annaba'78:7) | Mountains stabilises the Earth stops a higher number of earthquakes occurring (Luqman31:10)"
+ },
+ {
+  "file": "ML390",
+  "seg": 83,
+  "ref": "[glued] (Annaba'78:7)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "We used the Hubble Telescope, we saw the universe expanding | It talks about mountains, how they have deep roots within the Earth and how they work in stabilising the earth (Annaba'78:7) | Mountains stabilises the Earth stops a higher number of earthquakes occurring (Luqman31:10)"
+ },
+ {
+  "file": "ML390",
+  "seg": 84,
+  "ref": "Quran 31:10",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "It talks about mountains, how they have deep roots within the Earth and how they work in stabilising the earth (Annaba'78:7) | Mountains stabilises the Earth stops a higher number of earthquakes occurring (Luqman31:10) | Now how would a Desert Arabian, 1400years ago know this information?"
+ },
+ {
+  "file": "ML390",
+  "seg": 84,
+  "ref": "[glued] (Luqman31:10)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "It talks about mountains, how they have deep roots within the Earth and how they work in stabilising the earth (Annaba'78:7) | Mountains stabilises the Earth stops a higher number of earthquakes occurring (Luqman31:10) | Now how would a Desert Arabian, 1400years ago know this information?"
  },
  {
   "file": "ML391",
@@ -31000,6 +31280,216 @@
   "context": "\"I found my fathers Sikh, so I'm going to be Sikh!\" | What you're saying, the Quran (Albaqara2:170) is saying about you. | Before meeting you.."
  },
  {
+  "file": "ML406",
+  "seg": 15,
+  "ref": "Quran 2:36",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Adam repented to God, and God forgave Adam. | Allah calls that a slip (Albaqara2:36) | You know when you slip; you make a small mistake or something, you slip."
+ },
+ {
+  "file": "ML406",
+  "seg": 15,
+  "ref": "[glued] (Albaqara2:36)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Adam repented to God, and God forgave Adam. | Allah calls that a slip (Albaqara2:36) | You know when you slip; you make a small mistake or something, you slip."
+ },
+ {
+  "file": "ML407",
+  "seg": 204,
+  "ref": "Quran 2:2",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Because look, Islam's goal is not.. | Allah says that He sends Guidance (Albaqara2:2) and this life is a test (Almulk67:2) | And Allah tells us there will be those who fail the test and those who succeed"
+ },
+ {
+  "file": "ML407",
+  "seg": 204,
+  "ref": "Quran 67:2",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Because look, Islam's goal is not.. | Allah says that He sends Guidance (Albaqara2:2) and this life is a test (Almulk67:2) | And Allah tells us there will be those who fail the test and those who succeed"
+ },
+ {
+  "file": "ML407",
+  "seg": 204,
+  "ref": "[glued] (Albaqara2:2)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Because look, Islam's goal is not.. | Allah says that He sends Guidance (Albaqara2:2) and this life is a test (Almulk67:2) | And Allah tells us there will be those who fail the test and those who succeed"
+ },
+ {
+  "file": "ML407",
+  "seg": 204,
+  "ref": "[glued] (Almulk67:2)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Because look, Islam's goal is not.. | Allah says that He sends Guidance (Albaqara2:2) and this life is a test (Almulk67:2) | And Allah tells us there will be those who fail the test and those who succeed"
+ },
+ {
+  "file": "ML407",
+  "seg": 300,
+  "ref": "Quran 5:104",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "The Quran says here: Can you read 104 and tell me what you understand? | Chapter:5 (Almaida), verse:104 | – Tell me what you understand"
+ },
+ {
+  "file": "ML407",
+  "seg": 365,
+  "ref": "Quran 23:12-15",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "But how did Prophet Muhammad, 1400 years ago, describe the stages of Embryology from beginning to end? | (Almuminun23:12-15) | Professor Keith Moore was in the 1900s, who had a microscope who can actually see"
+ },
+ {
+  "file": "ML407",
+  "seg": 365,
+  "ref": "[glued] (Almuminun23:12-15)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "But how did Prophet Muhammad, 1400 years ago, describe the stages of Embryology from beginning to end? | (Almuminun23:12-15) | Professor Keith Moore was in the 1900s, who had a microscope who can actually see"
+ },
+ {
+  "file": "ML407",
+  "seg": 369,
+  "ref": "Quran 78:7",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Because he's saying I'm an Embryologist today, I'm looking at it, and it is exactly what the Quran is saying | When the Quran is talking about knowledge of mountains; how they have deep roots in the earth (Annaba78:7) | How the universe is expanding (Adharijat51:47), origin of biological life (Alanbiya21:30), I can go on and on and on"
+ },
+ {
+  "file": "ML407",
+  "seg": 369,
+  "ref": "[glued] (Annaba78:7)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Because he's saying I'm an Embryologist today, I'm looking at it, and it is exactly what the Quran is saying | When the Quran is talking about knowledge of mountains; how they have deep roots in the earth (Annaba78:7) | How the universe is expanding (Adharijat51:47), origin of biological life (Alanbiya21:30), I can go on and on and on"
+ },
+ {
+  "file": "ML407",
+  "seg": 370,
+  "ref": "Quran 51:47",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "When the Quran is talking about knowledge of mountains; how they have deep roots in the earth (Annaba78:7) | How the universe is expanding (Adharijat51:47), origin of biological life (Alanbiya21:30), I can go on and on and on | How did Prophet Muhammad do that?"
+ },
+ {
+  "file": "ML407",
+  "seg": 370,
+  "ref": "Quran 21:30",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "When the Quran is talking about knowledge of mountains; how they have deep roots in the earth (Annaba78:7) | How the universe is expanding (Adharijat51:47), origin of biological life (Alanbiya21:30), I can go on and on and on | How did Prophet Muhammad do that?"
+ },
+ {
+  "file": "ML407",
+  "seg": 370,
+  "ref": "[glued] (Adharijat51:47)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "When the Quran is talking about knowledge of mountains; how they have deep roots in the earth (Annaba78:7) | How the universe is expanding (Adharijat51:47), origin of biological life (Alanbiya21:30), I can go on and on and on | How did Prophet Muhammad do that?"
+ },
+ {
+  "file": "ML407",
+  "seg": 370,
+  "ref": "[glued] (Alanbiya21:30)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "When the Quran is talking about knowledge of mountains; how they have deep roots in the earth (Annaba78:7) | How the universe is expanding (Adharijat51:47), origin of biological life (Alanbiya21:30), I can go on and on and on | How did Prophet Muhammad do that?"
+ },
+ {
+  "file": "ML407",
+  "seg": 372,
+  "ref": "Quran 29:48",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "How did Prophet Muhammad do that? | With his limited knowledge, he couldn't read or write (Al'ankabut29:48) | His people believed in superstitious wrong beliefs."
+ },
+ {
+  "file": "ML407",
+  "seg": 372,
+  "ref": "[glued] (Al'ankabut29:48)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "How did Prophet Muhammad do that? | With his limited knowledge, he couldn't read or write (Al'ankabut29:48) | His people believed in superstitious wrong beliefs."
+ },
+ {
+  "file": "ML407",
+  "seg": 623,
+  "ref": "Quran 49:13",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "What kind of a world is that! | Allah says it’s one of his signs, he created us in different colours with different languages so we can get to know one another (Alhujurat49:13) | This is a sign of the Creator, this difference within this life is a sign of an intent and a knowledgeable Creator"
+ },
+ {
+  "file": "ML407",
+  "seg": 623,
+  "ref": "[glued] (Alhujurat49:13)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "What kind of a world is that! | Allah says it’s one of his signs, he created us in different colours with different languages so we can get to know one another (Alhujurat49:13) | This is a sign of the Creator, this difference within this life is a sign of an intent and a knowledgeable Creator"
+ },
+ {
+  "file": "ML407",
+  "seg": 709,
+  "ref": "Quran 53:23",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "But, there's different words | But coming back, we were saying that people who do not follow the Quran, who are not Muslims, it says (Annajm53:23) | إِن یَتَّبِعُونَ إِلَّا ٱلظَّنَّ وَمَا تَهۡوَى ٱلۡأَنفُسُۖ وَلَقَدۡ جَاۤءَهُم مِّن رَّبِّهِمُ ٱلۡهُدَىٰۤ (They only follow conjecture, assumptions) So, what you're saying.."
+ },
+ {
+  "file": "ML407",
+  "seg": 709,
+  "ref": "[glued] (Annajm53:23)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "But, there's different words | But coming back, we were saying that people who do not follow the Quran, who are not Muslims, it says (Annajm53:23) | إِن یَتَّبِعُونَ إِلَّا ٱلظَّنَّ وَمَا تَهۡوَى ٱلۡأَنفُسُۖ وَلَقَدۡ جَاۤءَهُم مِّن رَّبِّهِمُ ٱلۡهُدَىٰۤ (They only follow conjecture, assumptions) So, what you're saying.."
+ },
+ {
   "file": "ML408",
   "seg": 138,
   "ref": "Quran 80:1-10",
@@ -31110,6 +31600,196 @@
   "context": "– OK, so somewhere in the Quran Allah said.. | – Chapter:24 (An-Nur) Verse:31, Chapter:33 (Alahzab) Verse:59 | – Can you read one?"
  },
  {
+  "file": "ML412",
+  "seg": 193,
+  "ref": "Quran 51:47",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Like for example, the Quran talking about the expansion of the universe. | This was learned in the 1900s (AdhDhariyat51:47) | I know that the Quran talks about, I think a lot of Muslim scholars talked about"
+ },
+ {
+  "file": "ML412",
+  "seg": 193,
+  "ref": "[glued] (AdhDhariyat51:47)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Like for example, the Quran talking about the expansion of the universe. | This was learned in the 1900s (AdhDhariyat51:47) | I know that the Quran talks about, I think a lot of Muslim scholars talked about"
+ },
+ {
+  "file": "ML412",
+  "seg": 197,
+  "ref": "Quran 36:38",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Yeah, so the Quran speaks about the sun having an orbit, moving, not being static | because the Quran says that the sun is running to its due course (YaSin36:38) meaning it's moving, or swimming.. | Quran also uses the word swimming (alAnbiya21:33) and it is literally swimming in space"
+ },
+ {
+  "file": "ML412",
+  "seg": 197,
+  "ref": "[glued] (YaSin36:38)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Yeah, so the Quran speaks about the sun having an orbit, moving, not being static | because the Quran says that the sun is running to its due course (YaSin36:38) meaning it's moving, or swimming.. | Quran also uses the word swimming (alAnbiya21:33) and it is literally swimming in space"
+ },
+ {
+  "file": "ML412",
+  "seg": 198,
+  "ref": "Quran 21:33",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "because the Quran says that the sun is running to its due course (YaSin36:38) meaning it's moving, or swimming.. | Quran also uses the word swimming (alAnbiya21:33) and it is literally swimming in space | So the Quran uses that, but in the past, they used to believe that the sun is static"
+ },
+ {
+  "file": "ML412",
+  "seg": 198,
+  "ref": "[glued] (alAnbiya21:33)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "because the Quran says that the sun is running to its due course (YaSin36:38) meaning it's moving, or swimming.. | Quran also uses the word swimming (alAnbiya21:33) and it is literally swimming in space | So the Quran uses that, but in the past, they used to believe that the sun is static"
+ },
+ {
+  "file": "ML412",
+  "seg": 203,
+  "ref": "Quran 23:12-14",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "but still what the Quran says is what -accurately- is happening in the universe | The Quran talks about embryology and the baby in the mother's womb developing, stage by stage (alMuminun23:12-14) | Professor Keith Moore, who is a Christian, he said that this has to be from God, Prophet Muhammad has to be a Prophet"
+ },
+ {
+  "file": "ML412",
+  "seg": 203,
+  "ref": "[glued] (alMuminun23:12-14)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "but still what the Quran says is what -accurately- is happening in the universe | The Quran talks about embryology and the baby in the mother's womb developing, stage by stage (alMuminun23:12-14) | Professor Keith Moore, who is a Christian, he said that this has to be from God, Prophet Muhammad has to be a Prophet"
+ },
+ {
+  "file": "ML412",
+  "seg": 208,
+  "ref": "Quran 79:32-33",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "to tell us the exact stages for the development of the embryo in the mother's womb | The Quran talks about mountains and how they have deep roots within the earth, (anNazi'at32-33) | How they stabilise the earth (anNaba78:6-7), which is a process called isostasy we just learned like 20, 30, 40 years ago"
+ },
+ {
+  "file": "ML412",
+  "seg": 209,
+  "ref": "Quran 78:6-7",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "The Quran talks about mountains and how they have deep roots within the earth, (anNazi'at32-33) | How they stabilise the earth (anNaba78:6-7), which is a process called isostasy we just learned like 20, 30, 40 years ago | So this information that I'm describing, the Quran does not contradict the physical reality"
+ },
+ {
+  "file": "ML412",
+  "seg": 209,
+  "ref": "[glued] (anNaba78:6-7)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "The Quran talks about mountains and how they have deep roots within the earth, (anNazi'at32-33) | How they stabilise the earth (anNaba78:6-7), which is a process called isostasy we just learned like 20, 30, 40 years ago | So this information that I'm describing, the Quran does not contradict the physical reality"
+ },
+ {
+  "file": "ML412",
+  "seg": 281,
+  "ref": "Quran 74:1-2",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Allah revealed to him a verse | یَـٰۤأَیُّهَا ٱلۡمُدَّثِّرُ ۝ قُمۡ فَأَنذِرۡ (Stand up and deliver the Message) (alMuddaththir74:1-2) | So he went and he started delivering the Message."
+ },
+ {
+  "file": "ML412",
+  "seg": 281,
+  "ref": "[glued] (alMuddaththir74:1-2)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Allah revealed to him a verse | یَـٰۤأَیُّهَا ٱلۡمُدَّثِّرُ ۝ قُمۡ فَأَنذِرۡ (Stand up and deliver the Message) (alMuddaththir74:1-2) | So he went and he started delivering the Message."
+ },
+ {
+  "file": "ML412",
+  "seg": 409,
+  "ref": "Quran 22:78",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "That's it | Allah says in the Quran, call yourselves Muslims (alHajj22:78) | Allah says in the Quran, do not get divided and become sects (ashShura42:13)"
+ },
+ {
+  "file": "ML412",
+  "seg": 409,
+  "ref": "[glued] (alHajj22:78)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "That's it | Allah says in the Quran, call yourselves Muslims (alHajj22:78) | Allah says in the Quran, do not get divided and become sects (ashShura42:13)"
+ },
+ {
+  "file": "ML412",
+  "seg": 410,
+  "ref": "Quran 42:13",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Allah says in the Quran, call yourselves Muslims (alHajj22:78) | Allah says in the Quran, do not get divided and become sects (ashShura42:13) | – What can you tell me about Shias?"
+ },
+ {
+  "file": "ML412",
+  "seg": 410,
+  "ref": "[glued] (ashShura42:13)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Allah says in the Quran, call yourselves Muslims (alHajj22:78) | Allah says in the Quran, do not get divided and become sects (ashShura42:13) | – What can you tell me about Shias?"
+ },
+ {
+  "file": "ML412",
+  "seg": 457,
+  "ref": "Quran 79:17-25",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "and then you have the Quran speaking about things in history which were not known to anyone as well! | The Quran mentions things about the Egyptian civilisation, about Pharaoh claiming to be God (anNazi'at79:17-25) | And that's not even in the Bible, Old or New Testament, and today we discovered it's true!"
+ },
+ {
+  "file": "ML412",
+  "seg": 457,
+  "ref": "[glued] (anNazi'at79:17-25)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "and then you have the Quran speaking about things in history which were not known to anyone as well! | The Quran mentions things about the Egyptian civilisation, about Pharaoh claiming to be God (anNazi'at79:17-25) | And that's not even in the Bible, Old or New Testament, and today we discovered it's true!"
+ },
+ {
   "file": "ML415",
   "seg": 99,
   "ref": "Quran 51:47",
@@ -31178,5 +31858,555 @@
   ],
   "speaker": "The Muslim Lantern",
   "context": "– Abraham has nothing to do with Islam. | – Chapter 3 of the Quran. | – Abraham has nothing to do with Islam."
+ },
+ {
+  "file": "ML417",
+  "seg": 13,
+  "ref": "Quran 112:1-4",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Allah is describing Himself in chapter:112 (alikhlass) | Allah says (alIIkhlas112:1-4) (Say, Allah is uniquely One) | Uniquely One means in his oneness, He's unique."
+ },
+ {
+  "file": "ML417",
+  "seg": 13,
+  "ref": "[glued] (alIIkhlas112:1-4)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Allah is describing Himself in chapter:112 (alikhlass) | Allah says (alIIkhlas112:1-4) (Say, Allah is uniquely One) | Uniquely One means in his oneness, He's unique."
+ },
+ {
+  "file": "ML418",
+  "seg": 141,
+  "ref": "Quran 96:1-5",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Then, the first verses of the Quran were revealed. | He said to him (al'Alaq96:1-5) \"recite in the name of your Lord\" | ٱقۡرَأۡ بِٱسۡمِ رَبِّكَ ٱلَّذِی خَلَقَ (Recite in the name of your Lord Who created)"
+ },
+ {
+  "file": "ML418",
+  "seg": 141,
+  "ref": "[glued] (al'Alaq96:1-5)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Then, the first verses of the Quran were revealed. | He said to him (al'Alaq96:1-5) \"recite in the name of your Lord\" | ٱقۡرَأۡ بِٱسۡمِ رَبِّكَ ٱلَّذِی خَلَقَ (Recite in the name of your Lord Who created)"
+ },
+ {
+  "file": "ML418",
+  "seg": 173,
+  "ref": "Quran 74:1-4",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Then Prophet Muhammad was given the command to deliver now, to preach. | Allahﷻ said (alMuddathir74:1-4) | يَـٰٓأَيُّهَا ٱلْمُدَّثِّرُ، قُمْ فَأَنذِرْ (O you one who's covered stand up and deliver the Message)"
+ },
+ {
+  "file": "ML418",
+  "seg": 173,
+  "ref": "[glued] (alMuddathir74:1-4)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Then Prophet Muhammad was given the command to deliver now, to preach. | Allahﷻ said (alMuddathir74:1-4) | يَـٰٓأَيُّهَا ٱلْمُدَّثِّرُ، قُمْ فَأَنذِرْ (O you one who's covered stand up and deliver the Message)"
+ },
+ {
+  "file": "ML418",
+  "seg": 187,
+  "ref": "Quran 64:16",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Third is to do the actions that Islam tells you to do as much as you can | Allahﷻ says in the Quran, obey Allah as much as you CAN (atTaghabun64:16) | As much as you can."
+ },
+ {
+  "file": "ML418",
+  "seg": 187,
+  "ref": "[glued] (atTaghabun64:16)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Third is to do the actions that Islam tells you to do as much as you can | Allahﷻ says in the Quran, obey Allah as much as you CAN (atTaghabun64:16) | As much as you can."
+ },
+ {
+  "file": "ML418",
+  "seg": 383,
+  "ref": "Quran 76:8-9",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "This is why I'm here | The Surah of (alInsan76:8-9), can you read here? | This is the characteristics of believers"
+ },
+ {
+  "file": "ML418",
+  "seg": 383,
+  "ref": "[glued] (alInsan76:8-9)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "This is why I'm here | The Surah of (alInsan76:8-9), can you read here? | This is the characteristics of believers"
+ },
+ {
+  "file": "ML418",
+  "seg": 413,
+  "ref": "Quran 2:275",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "That is because they say, trade is [just] like interest.) | (alBaqara2:275) | Now look here what Allah says:"
+ },
+ {
+  "file": "ML418",
+  "seg": 413,
+  "ref": "[glued] (alBaqara2:275)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "That is because they say, trade is [just] like interest.) | (alBaqara2:275) | Now look here what Allah says:"
+ },
+ {
+  "file": "ML418",
+  "seg": 416,
+  "ref": "Quran 2:278-279",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "(And for you who believe, give up what remains of your interest if you should be believers) | (And if you do not, be informed of a war against you from Allah and his Messenger) (alBaqara2:278-279) | – So, interest is one of the biggest major sins in Islam"
+ },
+ {
+  "file": "ML418",
+  "seg": 416,
+  "ref": "[glued] (alBaqara2:278-279)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "(And for you who believe, give up what remains of your interest if you should be believers) | (And if you do not, be informed of a war against you from Allah and his Messenger) (alBaqara2:278-279) | – So, interest is one of the biggest major sins in Islam"
+ },
+ {
+  "file": "ML418",
+  "seg": 499,
+  "ref": "Quran 2:155-157",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "(Those are the ones who are upon them blessings from their Lord and mercy,..) | (and those are the rightly guided) (alBaqara2:155-157) | Allah is saying (We will surely test you)"
+ },
+ {
+  "file": "ML418",
+  "seg": 499,
+  "ref": "[glued] (alBaqara2:155-157)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "(Those are the ones who are upon them blessings from their Lord and mercy,..) | (and those are the rightly guided) (alBaqara2:155-157) | Allah is saying (We will surely test you)"
+ },
+ {
+  "file": "ML418",
+  "seg": 513,
+  "ref": "Quran 29:2-3",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "You want to see? | Allah says (al'Ankabut29:2-3) (Do you think We will leave you to say I believe, and you will not be tested?) | (We surely have tested those who came before you."
+ },
+ {
+  "file": "ML418",
+  "seg": 513,
+  "ref": "[glued] (al'Ankabut29:2-3)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "You want to see? | Allah says (al'Ankabut29:2-3) (Do you think We will leave you to say I believe, and you will not be tested?) | (We surely have tested those who came before you."
+ },
+ {
+  "file": "ML418",
+  "seg": 588,
+  "ref": "Quran 29:28",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "We call them Lot | So Allah destroyed the village with them, and Allah said to them (al'Ankabut29:28) that | (you come with indecency that no one preceded you before in the world) You invented a way of evil"
+ },
+ {
+  "file": "ML418",
+  "seg": 588,
+  "ref": "[glued] (al'Ankabut29:28)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "We call them Lot | So Allah destroyed the village with them, and Allah said to them (al'Ankabut29:28) that | (you come with indecency that no one preceded you before in the world) You invented a way of evil"
+ },
+ {
+  "file": "ML418",
+  "seg": 595,
+  "ref": "Quran 27:55",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Yes, that's right Then Allah said (you come to men for your lust, and you leave the women). | (That you are indeed people of ignorance) (anNaml27:55) | That's what the Quran says, clearly in Islam, it's one of the Major Sins in Islam to do that,"
+ },
+ {
+  "file": "ML418",
+  "seg": 595,
+  "ref": "[glued] (anNaml27:55)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Yes, that's right Then Allah said (you come to men for your lust, and you leave the women). | (That you are indeed people of ignorance) (anNaml27:55) | That's what the Quran says, clearly in Islam, it's one of the Major Sins in Islam to do that,"
+ },
+ {
+  "file": "ML419",
+  "seg": 226,
+  "ref": "Sahih al-Bukhari 6114",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "The man is the one who controls his anger. | (Bukhari6114) | Of course."
+ },
+ {
+  "file": "ML419",
+  "seg": 444,
+  "ref": "[chapverse] chapter 5, verse 17 [bible-context?]",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "I've come to perfect it\" | – Yeah, Matthew chapter 5, verse 17 | – Exactly"
+ },
+ {
+  "file": "ML420",
+  "seg": 399,
+  "ref": "Sahih al-Bukhari 6464",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "– Which part of the hadith is that? | – This is (Bukhari:6464). | This is.."
+ },
+ {
+  "file": "ML420",
+  "seg": 408,
+  "ref": "Sahih Muslim 2816c",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "He said, ‘Even me, unless Allahﷻ gives me from His mercy, I'll never enter Paradise.” | (Muslim:2816c) | So, the first point that you made is incorrect."
+ },
+ {
+  "file": "ML421",
+  "seg": 453,
+  "ref": "Quran 4:147",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Because Allah put that criteria because He doesn't want to punish | Allah says in the Quran (anNisa4:147) مَّا يَفْعَلُ اللَّهُ بِعَذَابِكُمْ | (What would Allah do with your punishment?)"
+ },
+ {
+  "file": "ML421",
+  "seg": 453,
+  "ref": "[glued] (anNisa4:147)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Because Allah put that criteria because He doesn't want to punish | Allah says in the Quran (anNisa4:147) مَّا يَفْعَلُ اللَّهُ بِعَذَابِكُمْ | (What would Allah do with your punishment?)"
+ },
+ {
+  "file": "ML424",
+  "seg": 22,
+  "ref": "Quran 4:59",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "He says in the Quran (Obey Allah..) | Chapter 4 (Annisa'), verse 59, if you want to read | He tells us (Obey Allah..)"
+ },
+ {
+  "file": "ML424",
+  "seg": 40,
+  "ref": "Quran 2:186",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "That's what I'm saying | Ok, Allah Subhanahu wa ta'ala says (Albaqara2:186) | وَإِذَا سَأَلَكَ عِبَادِي عَنِّي فَإِنِّي قَرِيبٌ (If My servants ask you about Me..)"
+ },
+ {
+  "file": "ML424",
+  "seg": 40,
+  "ref": "[glued] (Albaqara2:186)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "That's what I'm saying | Ok, Allah Subhanahu wa ta'ala says (Albaqara2:186) | وَإِذَا سَأَلَكَ عِبَادِي عَنِّي فَإِنِّي قَرِيبٌ (If My servants ask you about Me..)"
+ },
+ {
+  "file": "ML424",
+  "seg": 51,
+  "ref": "Quran 35:14",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Even Prophet Muhammad, you don't go to his grave and ask him for help | Allahﷻ says in the Quran (Fatir35:14) إِن تَدۡعُوهُمۡ لَا یَسۡمَعُوا۟ دُعَاۤءَكُمۡ وَلَوۡ سَمِعُوا۟ مَا ٱسۡتَجَابُوا۟ لَكُمۡۖ وَیَوۡمَ ٱلۡقِیَـٰمَةِ یَكۡفُرُونَ بِشِرۡكِكُمۡۚ | (If you call upon them –the dead or these people, righteous people that you call upon them– they will not hear your Du'a)"
+ },
+ {
+  "file": "ML424",
+  "seg": 51,
+  "ref": "[glued] (Fatir35:14)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Even Prophet Muhammad, you don't go to his grave and ask him for help | Allahﷻ says in the Quran (Fatir35:14) إِن تَدۡعُوهُمۡ لَا یَسۡمَعُوا۟ دُعَاۤءَكُمۡ وَلَوۡ سَمِعُوا۟ مَا ٱسۡتَجَابُوا۟ لَكُمۡۖ وَیَوۡمَ ٱلۡقِیَـٰمَةِ یَكۡفُرُونَ بِشِرۡكِكُمۡۚ | (If you call upon them –the dead or these people, righteous people that you call upon them– they will not hear your Du'a)"
+ },
+ {
+  "file": "ML424",
+  "seg": 57,
+  "ref": "Quran 27:80",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "This is the Quran, but it's not my word. | Allahﷻ says (Annaml27:80) | إِنَّكَ لَا تُسْمِعُ ٱلْمَوْتَىٰ (Prophet Muhammad, you cannot make the dead hear)"
+ },
+ {
+  "file": "ML424",
+  "seg": 57,
+  "ref": "[glued] (Annaml27:80)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "This is the Quran, but it's not my word. | Allahﷻ says (Annaml27:80) | إِنَّكَ لَا تُسْمِعُ ٱلْمَوْتَىٰ (Prophet Muhammad, you cannot make the dead hear)"
+ },
+ {
+  "file": "ML424",
+  "seg": 91,
+  "ref": "Quran 4:122",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "And to us as well, Allah says, your righteous deeds are going to benefit you. | (Annisa'4:122) | Nothing else will benefit you!"
+ },
+ {
+  "file": "ML424",
+  "seg": 91,
+  "ref": "[glued] (Annisa'4:122)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "And to us as well, Allah says, your righteous deeds are going to benefit you. | (Annisa'4:122) | Nothing else will benefit you!"
+ },
+ {
+  "file": "ML424",
+  "seg": 99,
+  "ref": "Quran 4:48",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Allah says that's Shirk –association of partnership– and Allah says he doesn't forgive that | Allah says He forgives every sin except that, (Annisa4:48). | How can you do that?"
+ },
+ {
+  "file": "ML424",
+  "seg": 99,
+  "ref": "[glued] (Annisa4:48)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Allah says that's Shirk –association of partnership– and Allah says he doesn't forgive that | Allah says He forgives every sin except that, (Annisa4:48). | How can you do that?"
+ },
+ {
+  "file": "ML424",
+  "seg": 123,
+  "ref": "Quran 5:104",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Do you know what Allah says about the Kuffar in the Quran? | (Almaida5:104) | He says (they said that's what we found our forefathers upon)."
+ },
+ {
+  "file": "ML424",
+  "seg": 123,
+  "ref": "[glued] (Almaida5:104)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Do you know what Allah says about the Kuffar in the Quran? | (Almaida5:104) | He says (they said that's what we found our forefathers upon)."
+ },
+ {
+  "file": "ML424",
+  "seg": 127,
+  "ref": "Quran 5:104",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "What if they didn't know?) | Chapter:5, Verse:104; He says (what if your forefathers didn't know? | What if they were not guided?)"
+ },
+ {
+  "file": "ML424",
+  "seg": 153,
+  "ref": "Quran 28:56",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Prophet Muhammadﷺ! | Allah says to Prophet Muhammadﷺ (Alqasas28:56) | إِنَّكَ لَا تَهْدِي مَنْ أَحْبَبْتَ (You do not guide the ones you love)"
+ },
+ {
+  "file": "ML424",
+  "seg": 153,
+  "ref": "[glued] (Alqasas28:56)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Prophet Muhammadﷺ! | Allah says to Prophet Muhammadﷺ (Alqasas28:56) | إِنَّكَ لَا تَهْدِي مَنْ أَحْبَبْتَ (You do not guide the ones you love)"
+ },
+ {
+  "file": "ML424",
+  "seg": 192,
+  "ref": "Quran 39:65",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Allah said, those who commit shirk, Allah will remove their deeds, | they will not enter paradise, they are Kuffar, Disbelievers (Azzumar39:65) | Some things, even if you believe in the Quran, my brother, even if you say I'm a Muslim, will take you out of the fold of Islam"
+ },
+ {
+  "file": "ML424",
+  "seg": 192,
+  "ref": "[glued] (Azzumar39:65)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "Allah said, those who commit shirk, Allah will remove their deeds, | they will not enter paradise, they are Kuffar, Disbelievers (Azzumar39:65) | Some things, even if you believe in the Quran, my brother, even if you say I'm a Muslim, will take you out of the fold of Islam"
+ },
+ {
+  "file": "ML424",
+  "seg": 214,
+  "ref": "Quran 80:34-36",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "I'm telling you the same thing Akhi (My brother), your forefathers are not going to benefit you. | Allah says on يوم القيامة (Yawm Alqiyyamah: the Day of Judgment), ('Abasa80:34-36) | يَوْمَ يَفِرُّ الْمَرْءُ مِنْ أَخِيهِ (When you run away from your brother)"
+ },
+ {
+  "file": "ML424",
+  "seg": 226,
+  "ref": "Quran 43:67",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "He never knew you! | Allah says (Azzukhruf43:67) الأخِّلاء (alakhila': the closest friends) | are enemies on the Day of Judgment, except those who are pious following the Quran"
+ },
+ {
+  "file": "ML424",
+  "seg": 226,
+  "ref": "[glued] (Azzukhruf43:67)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "He never knew you! | Allah says (Azzukhruf43:67) الأخِّلاء (alakhila': the closest friends) | are enemies on the Day of Judgment, except those who are pious following the Quran"
+ },
+ {
+  "file": "ML424",
+  "seg": 251,
+  "ref": "Quran 2:186",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "\"I'm the One Who answers the call of the person..\" | (Albaqara2:186) | It's pure monotheism, my brother."
+ },
+ {
+  "file": "ML424",
+  "seg": 251,
+  "ref": "[glued] (Albaqara2:186)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "\"I'm the One Who answers the call of the person..\" | (Albaqara2:186) | It's pure monotheism, my brother."
+ },
+ {
+  "file": "ML424",
+  "seg": 262,
+  "ref": "Quran 39:3",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "When he went to them, do you know what they said? | They said we worship the idols so they can bring us closer to Allah (Azzumar39:3) | What is the difference between that and saying \"I worship Ali to bring me closer to Allah?\""
+ },
+ {
+  "file": "ML424",
+  "seg": 262,
+  "ref": "[glued] (Azzumar39:3)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "When he went to them, do you know what they said? | They said we worship the idols so they can bring us closer to Allah (Azzumar39:3) | What is the difference between that and saying \"I worship Ali to bring me closer to Allah?\""
+ },
+ {
+  "file": "ML424",
+  "seg": 332,
+  "ref": "Quran 42:49-50",
+  "sources": [
+   "labeler"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "She believes a dead man in a grave is giving her sons and daughters. | Allahﷻ says in the Quran (Ashurah42:49-50) | يَهَبُ لِمَن يَشَاءُ إِنَاثًا وَيَهَبُ لِمَن يَشَاءُ الذُّكُورَ () أَوْ يُزَوِّجُهُمْ ذُكْرَانًا وَإِنَاثًا ۖ وَيَجْعَلُ مَن يَشَاءُ عَقِيمًا ۚ إِنَّهُ عَلِيمٌ قَدِيرٌ"
+ },
+ {
+  "file": "ML424",
+  "seg": 332,
+  "ref": "[glued] (Ashurah42:49-50)",
+  "sources": [
+   "regex"
+  ],
+  "speaker": "The Muslim Lantern",
+  "context": "She believes a dead man in a grave is giving her sons and daughters. | Allahﷻ says in the Quran (Ashurah42:49-50) | يَهَبُ لِمَن يَشَاءُ إِنَاثًا وَيَهَبُ لِمَن يَشَاءُ الذُّكُورَ () أَوْ يُزَوِّجُهُمْ ذُكْرَانًا وَإِنَاثًا ۖ وَيَجْعَلُ مَن يَشَاءُ عَقِيمًا ۚ إِنَّهُ عَلِيمٌ قَدِيرٌ"
  }
 ]

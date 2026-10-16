@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "20:114",
+ "label": "Reference text: Quran 20:114, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/20/114?translations=20",
+ "urls_fetched": [
+  "https://quran.com/20/114?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T09:01:41Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "20:114",
+   "raw": "So high [above all] is Allāh, the Sovereign,<sup foot_note=255090>1</sup> the Truth.<sup foot_note=255091>2</sup> And, [O Muḥammad], do not hasten with [recitation of] the Qur’ān before its revelation is completed to you, and say, \"My Lord, increase me in knowledge.\"",
+   "text": "So high [above all] is Allāh, the Sovereign, the Truth. And, [O Muḥammad], do not hasten with [recitation of] the Qur’ān before its revelation is completed to you, and say, \"My Lord, increase me in knowledge.\"",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

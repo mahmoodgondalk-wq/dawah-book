@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "3:164",
+ "label": "Reference text: Quran 3:164, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/3/164?translations=20",
+ "urls_fetched": [
+  "https://quran.com/3/164?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T09:07:56Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "3:164",
+   "raw": "Certainly did Allāh confer [great] favor upon the believers when He sent among them a Messenger from themselves, reciting to them His verses and purifying them and teaching them the Book [i.e., the Qur’ān] and wisdom,<sup foot_note=254156>1</sup> although they had been before in manifest error.",
+   "text": "Certainly did Allāh confer [great] favor upon the believers when He sent among them a Messenger from themselves, reciting to them His verses and purifying them and teaching them the Book [i.e., the Qur’ān] and wisdom, although they had been before in manifest error.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

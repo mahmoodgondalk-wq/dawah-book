@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "23:26",
+ "label": "Reference text: Quran 23:26, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/23/26?translations=20",
+ "urls_fetched": [
+  "https://quran.com/23/26?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T09:02:24Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "23:26",
+   "raw": "[Noah] said, \"My Lord, support me because they have denied me.\"",
+   "text": "[Noah] said, \"My Lord, support me because they have denied me.\"",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

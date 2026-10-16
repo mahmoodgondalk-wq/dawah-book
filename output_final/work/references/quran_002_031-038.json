@@ -1,0 +1,63 @@
+{
+ "kind": "quran",
+ "ref": "2:31-38",
+ "label": "Reference text: Quran 2:31-38, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/2/31-38?translations=20",
+ "urls_fetched": [
+  "https://quran.com/2/31-38?translations=20",
+  "https://quran.com/2/38?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T09:05:18Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "2:31",
+   "raw": "And He taught Adam the names - all of them. Then He showed them to the angels and said, \"Inform Me of the names of these, if you are truthful.\"",
+   "text": "And He taught Adam the names - all of them. Then He showed them to the angels and said, \"Inform Me of the names of these, if you are truthful.\"",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "2:32",
+   "raw": "They said, \"Exalted are You; we have no knowledge except what You have taught us. Indeed, it is You who is the Knowing,<sup foot_note=254027>1</sup> the Wise.\"<sup foot_note=254028>2</sup>",
+   "text": "They said, \"Exalted are You; we have no knowledge except what You have taught us. Indeed, it is You who is the Knowing, the Wise.\"",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "2:33",
+   "raw": "He said, \"O Adam, inform them of their names.\" And when he had informed them of their names, He said, \"Did I not tell you that I know the unseen [aspects] of the heavens and the earth? And I know what you reveal and what you have concealed.\"",
+   "text": "He said, \"O Adam, inform them of their names.\" And when he had informed them of their names, He said, \"Did I not tell you that I know the unseen [aspects] of the heavens and the earth? And I know what you reveal and what you have concealed.\"",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "2:34",
+   "raw": "And [mention] when We said to the angels, \"Prostrate before Adam\"; so they prostrated, except for Iblees.<sup foot_note=254029>1</sup> He refused and was arrogant and became of the disbelievers.",
+   "text": "And [mention] when We said to the angels, \"Prostrate before Adam\"; so they prostrated, except for Iblees. He refused and was arrogant and became of the disbelievers.",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "2:35",
+   "raw": "And We said, \"O Adam, dwell, you and your wife, in Paradise and eat therefrom in [ease and] abundance from wherever you will. But do not approach this tree, lest you be among the wrongdoers.\"",
+   "text": "And We said, \"O Adam, dwell, you and your wife, in Paradise and eat therefrom in [ease and] abundance from wherever you will. But do not approach this tree, lest you be among the wrongdoers.\"",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "2:36",
+   "raw": "But Satan caused them to slip out of it and removed them from that [condition] in which they had been. And We said, \"Go down, [all of you], as enemies to one another, and you will have upon the earth a place of settlement and provision for a time.\"",
+   "text": "But Satan caused them to slip out of it and removed them from that [condition] in which they had been. And We said, \"Go down, [all of you], as enemies to one another, and you will have upon the earth a place of settlement and provision for a time.\"",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "2:37",
+   "raw": "Then Adam received from his Lord [some] words,<sup foot_note=254031>1</sup> and He accepted his repentance. Indeed, it is He who is the Accepting of Repentance,<sup foot_note=254030>2</sup> the Merciful.",
+   "text": "Then Adam received from his Lord [some] words, and He accepted his repentance. Indeed, it is He who is the Accepting of Repentance, the Merciful.",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "2:38",
+   "raw": "We said, \"Go down from it, all of you. And when guidance comes to you from Me, whoever follows My guidance - there will be no fear concerning them, nor will they grieve.",
+   "text": "We said, \"Go down from it, all of you. And when guidance comes to you from Me, whoever follows My guidance - there will be no fear concerning them, nor will they grieve.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

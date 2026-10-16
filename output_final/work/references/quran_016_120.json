@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "16:120",
+ "label": "Reference text: Quran 16:120, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/16/120?translations=20",
+ "urls_fetched": [
+  "https://quran.com/16/120?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T09:00:18Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "16:120",
+   "raw": "Indeed, Abraham was a [comprehensive] leader,<sup foot_note=254869>1</sup> devoutly obedient to Allāh, inclining toward truth, and he was not of those who associate others with Allāh.",
+   "text": "Indeed, Abraham was a [comprehensive] leader, devoutly obedient to Allāh, inclining toward truth, and he was not of those who associate others with Allāh.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "16:106",
+ "label": "Reference text: Quran 16:106, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/16/106?translations=20",
+ "urls_fetched": [
+  "https://quran.com/16/106?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T09:00:10Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "16:106",
+   "raw": "Whoever disbelieves in [i.e., denies] Allāh after his belief...<sup foot_note=254864>1</sup> except for one who is forced [to renounce his religion] while his heart is secure in faith. But those who [willingly] open their breasts to disbelief, upon them is wrath from Allāh, and for them is a great punishment;",
+   "text": "Whoever disbelieves in [i.e., denies] Allāh after his belief... except for one who is forced [to renounce his religion] while his heart is secure in faith. But those who [willingly] open their breasts to disbelief, upon them is wrath from Allāh, and for them is a great punishment;",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

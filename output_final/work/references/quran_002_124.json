@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "2:124",
+ "label": "Reference text: Quran 2:124, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/2/124?translations=20",
+ "urls_fetched": [
+  "https://quran.com/2/124?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T09:03:55Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "2:124",
+   "raw": "And [mention, O Muḥammad], when Abraham was tried by his Lord with words [i.e., commands] and he fulfilled them. [Allāh] said, \"Indeed, I will make you a leader for the people.\" [Abraham] said, \"And of my descendants?\" [Allāh] said, \"My covenant does not include the wrongdoers.\"",
+   "text": "And [mention, O Muḥammad], when Abraham was tried by his Lord with words [i.e., commands] and he fulfilled them. [Allāh] said, \"Indeed, I will make you a leader for the people.\" [Abraham] said, \"And of my descendants?\" [Allāh] said, \"My covenant does not include the wrongdoers.\"",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

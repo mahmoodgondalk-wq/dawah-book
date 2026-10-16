@@ -1,0 +1,38 @@
+{
+ "kind": "quran",
+ "ref": "111:1-4",
+ "label": "Reference text: Quran 111:1-4, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/111/1-4?translations=20",
+ "urls_fetched": [
+  "https://quran.com/111/1-4?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T08:59:15Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "111:1",
+   "raw": "May the hands of Abū Lahab be ruined, and ruined is he.<sup foot_note=257688>1</sup>",
+   "text": "May the hands of Abū Lahab be ruined, and ruined is he.",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "111:2",
+   "raw": "His wealth will not avail him or that which he gained.",
+   "text": "His wealth will not avail him or that which he gained.",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "111:3",
+   "raw": "He will [enter to] burn in a Fire of [blazing] flame",
+   "text": "He will [enter to] burn in a Fire of [blazing] flame",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "111:4",
+   "raw": "And his wife [as well] - the carrier of firewood.<sup foot_note=257691>1</sup>",
+   "text": "And his wife [as well] - the carrier of firewood.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

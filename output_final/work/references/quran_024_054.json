@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "24:54",
+ "label": "Reference text: Quran 24:54, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/24/54?translations=20",
+ "urls_fetched": [
+  "https://quran.com/24/54?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T09:02:38Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "24:54",
+   "raw": "Say, \"Obey Allāh and obey the Messenger; but if you turn away - then upon him is only that [duty] with which he has been charged, and upon you is that with which you have been charged. And if you obey him, you will be [rightly] guided. And there is not upon the Messenger except the [responsibility for] clear notification.\"",
+   "text": "Say, \"Obey Allāh and obey the Messenger; but if you turn away - then upon him is only that [duty] with which he has been charged, and upon you is that with which you have been charged. And if you obey him, you will be [rightly] guided. And there is not upon the Messenger except the [responsibility for] clear notification.\"",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

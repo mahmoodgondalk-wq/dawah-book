@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "2:221",
+ "label": "Reference text: Quran 2:221, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/2/221?translations=20",
+ "urls_fetched": [
+  "https://quran.com/2/221?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T09:04:46Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "2:221",
+   "raw": "And do not marry polytheistic women until they believe.<sup foot_note=254089>1</sup> And a believing slave woman is better than a polytheist, even though she might please you. And do not marry polytheistic men [to your women] until they believe. And a believing slave is better than a polytheist, even though he might please you. Those invite [you] to the Fire, but Allāh invites to Paradise and to forgiveness, by His permission. And He makes clear His verses [i.e., ordinances] to the people that perhaps they may remember.",
+   "text": "And do not marry polytheistic women until they believe. And a believing slave woman is better than a polytheist, even though she might please you. And do not marry polytheistic men [to your women] until they believe. And a believing slave is better than a polytheist, even though he might please you. Those invite [you] to the Fire, but Allāh invites to Paradise and to forgiveness, by His permission. And He makes clear His verses [i.e., ordinances] to the people that perhaps they may remember.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

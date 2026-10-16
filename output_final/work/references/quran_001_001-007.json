@@ -1,0 +1,56 @@
+{
+ "kind": "quran",
+ "ref": "1:1-7",
+ "label": "Reference text: Quran 1:1-7, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/1/1-7?translations=20",
+ "urls_fetched": [
+  "https://quran.com/1/1-7?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T09:01:34Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "1:1",
+   "raw": "In the name of Allāh,<sup foot_note=254011>1</sup> the Entirely Merciful, the Especially Merciful.<sup foot_note=254012>2</sup>",
+   "text": "In the name of Allāh, the Entirely Merciful, the Especially Merciful.",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "1:2",
+   "raw": "[All] praise is [due] to Allāh, Lord<sup foot_note=254013>1</sup> of the worlds -",
+   "text": "[All] praise is [due] to Allāh, Lord of the worlds -",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "1:3",
+   "raw": "The Entirely Merciful, the Especially Merciful,",
+   "text": "The Entirely Merciful, the Especially Merciful,",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "1:4",
+   "raw": "Sovereign of the Day of Recompense.<sup foot_note=254014>1</sup>",
+   "text": "Sovereign of the Day of Recompense.",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "1:5",
+   "raw": "It is You we worship and You we ask for help.",
+   "text": "It is You we worship and You we ask for help.",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "1:6",
+   "raw": "Guide us to the straight path -",
+   "text": "Guide us to the straight path -",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "1:7",
+   "raw": "The path of those upon whom You have bestowed favor, not of those who have earned [Your] anger or of those who are astray.",
+   "text": "The path of those upon whom You have bestowed favor, not of those who have earned [Your] anger or of those who are astray.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

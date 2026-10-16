@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "3:45",
+ "label": "Reference text: Quran 3:45, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/3/45?translations=20",
+ "urls_fetched": [
+  "https://quran.com/3/45?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T09:08:13Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "3:45",
+   "raw": "[And mention] when the angels said, \"O Mary, indeed Allāh gives you good tidings of a word<sup foot_note=254132>1</sup> from Him, whose name will be the Messiah, Jesus, the son of Mary - distinguished in this world and the Hereafter and among those brought near [to Allāh].",
+   "text": "[And mention] when the angels said, \"O Mary, indeed Allāh gives you good tidings of a word from Him, whose name will be the Messiah, Jesus, the son of Mary - distinguished in this world and the Hereafter and among those brought near [to Allāh].",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "33:59",
+ "label": "Reference text: Quran 33:59, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/33/59?translations=20",
+ "urls_fetched": [
+  "https://quran.com/33/59?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T09:06:53Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "33:59",
+   "raw": "O Prophet, tell your wives and your daughters and the women of the believers to bring down over themselves [part] of their outer garments.<sup foot_note=256023>1</sup> That is more suitable that they will be known<sup foot_note=256020>2</sup> and not be abused. And ever is Allāh Forgiving and Merciful.<sup foot_note=256022>3</sup>",
+   "text": "O Prophet, tell your wives and your daughters and the women of the believers to bring down over themselves [part] of their outer garments. That is more suitable that they will be known and not be abused. And ever is Allāh Forgiving and Merciful.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "3:49",
+ "label": "Reference text: Quran 3:49, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/3/49?translations=20",
+ "urls_fetched": [
+  "https://quran.com/3/49?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T09:08:22Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "3:49",
+   "raw": "And [make him] a messenger to the Children of Israel, [who will say], 'Indeed I have come to you with a sign from your Lord in that I design for you from clay [that which is] like the form of a bird, then I breathe into it and it becomes a bird by permission of Allāh. And I cure the blind [from birth] and the leper, and I give life to the dead - by permission of Allāh. And I inform you of what you eat and what you store in your houses. Indeed in that is a sign for you, if you are believers.",
+   "text": "And [make him] a messenger to the Children of Israel, [who will say], 'Indeed I have come to you with a sign from your Lord in that I design for you from clay [that which is] like the form of a bird, then I breathe into it and it becomes a bird by permission of Allāh. And I cure the blind [from birth] and the leper, and I give life to the dead - by permission of Allāh. And I inform you of what you eat and what you store in your houses. Indeed in that is a sign for you, if you are believers.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

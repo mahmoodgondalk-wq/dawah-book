@@ -1,0 +1,46 @@
+{
+ "kind": "quran",
+ "ref": "2:75-79",
+ "label": "Reference text: Quran 2:75-79, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/2/75-79?translations=20",
+ "urls_fetched": [
+  "https://quran.com/2/75-79?translations=20",
+  "https://quran.com/2/77?translations=20",
+  "https://quran.com/2/79?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T09:06:01Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "2:75",
+   "raw": "Do you covet [the hope, O believers], that they would believe for you while a party of them used to hear the words of Allāh and then distort it [i.e., the Torah] after they had understood it while they were knowing?",
+   "text": "Do you covet [the hope, O believers], that they would believe for you while a party of them used to hear the words of Allāh and then distort it [i.e., the Torah] after they had understood it while they were knowing?",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "2:76",
+   "raw": "And when they meet those who believe, they say, \"We have believed\"; but when they are alone with one another, they say, \"Do you talk to them about what Allāh has revealed to you so they can argue with you about it before your Lord?\" Then will you not reason?",
+   "text": "And when they meet those who believe, they say, \"We have believed\"; but when they are alone with one another, they say, \"Do you talk to them about what Allāh has revealed to you so they can argue with you about it before your Lord?\" Then will you not reason?",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "2:77",
+   "raw": "But do they not know that Allāh knows what they conceal and what they declare?",
+   "text": "But do they not know that Allāh knows what they conceal and what they declare?",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "2:78",
+   "raw": "And among them are unlettered ones who do not know the Scripture except [indulgement in] wishful thinking, but they are only assuming.",
+   "text": "And among them are unlettered ones who do not know the Scripture except [indulgement in] wishful thinking, but they are only assuming.",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "2:79",
+   "raw": "So woe<sup foot_note=254040>1</sup> to those who write the \"scripture\" with their own hands, then say, \"This is from Allāh,\" in order to exchange it for a small price. Woe to them for what their hands have written and woe to them for what they earn.",
+   "text": "So woe to those who write the \"scripture\" with their own hands, then say, \"This is from Allāh,\" in order to exchange it for a small price. Woe to them for what their hands have written and woe to them for what they earn.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

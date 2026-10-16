@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "38:79",
+ "label": "Reference text: Quran 38:79, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/38/79?translations=20",
+ "urls_fetched": [
+  "https://quran.com/38/79?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T09:07:30Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "38:79",
+   "raw": "He said, \"My Lord, then reprieve me until the Day they are resurrected.\"",
+   "text": "He said, \"My Lord, then reprieve me until the Day they are resurrected.\"",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

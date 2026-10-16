@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "2:109",
+ "label": "Reference text: Quran 2:109, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/2/109?translations=20",
+ "urls_fetched": [
+  "https://quran.com/2/109?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T09:03:48Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "2:109",
+   "raw": "Many of the People of the Scripture wish they could turn you back to disbelief after you have believed, out of envy from themselves [even] after the truth has become clear to them. So pardon and overlook until Allāh delivers His command. Indeed, Allāh is over all things competent.",
+   "text": "Many of the People of the Scripture wish they could turn you back to disbelief after you have believed, out of envy from themselves [even] after the truth has become clear to them. So pardon and overlook until Allāh delivers His command. Indeed, Allāh is over all things competent.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "12:20",
+ "label": "Reference text: Quran 12:20, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/12/20?translations=20",
+ "urls_fetched": [
+  "https://quran.com/12/20?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T08:59:38Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "12:20",
+   "raw": "And they sold him for a reduced price - a few dirhams - and they were, concerning him, of those content with little.",
+   "text": "And they sold him for a reduced price - a few dirhams - and they were, concerning him, of those content with little.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

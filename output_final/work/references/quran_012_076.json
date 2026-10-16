@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "12:76",
+ "label": "Reference text: Quran 12:76, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/12/76?translations=20",
+ "urls_fetched": [
+  "https://quran.com/12/76?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T08:59:41Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "12:76",
+   "raw": "So he began [the search] with their bags before the bag of his brother; then he extracted it from the bag of his brother. Thus did We plan for Joseph. He could not have taken his brother within the religion [i.e., law] of the king except that Allāh willed. We raise in degrees whom We will, but over every possessor of knowledge is one [more] knowing.<sup foot_note=254678>1</sup>",
+   "text": "So he began [the search] with their bags before the bag of his brother; then he extracted it from the bag of his brother. Thus did We plan for Joseph. He could not have taken his brother within the religion [i.e., law] of the king except that Allāh willed. We raise in degrees whom We will, but over every possessor of knowledge is one [more] knowing.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

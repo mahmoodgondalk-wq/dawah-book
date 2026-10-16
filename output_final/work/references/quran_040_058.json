@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "40:58",
+ "label": "Reference text: Quran 40:58, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/40/58?translations=20",
+ "urls_fetched": [
+  "https://quran.com/40/58?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:22:30Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "40:58",
+   "raw": "And not equal are the blind and the seeing, nor are those who believe and do righteous deeds and the evildoer. Little do you remember.",
+   "text": "And not equal are the blind and the seeing, nor are those who believe and do righteous deeds and the evildoer. Little do you remember.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

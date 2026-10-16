@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "3:185",
+ "label": "Reference text: Quran 3:185, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/3/185?translations=20",
+ "urls_fetched": [
+  "https://quran.com/3/185?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T09:08:02Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "3:185",
+   "raw": "Every soul will taste death, and you will only be given your [full] compensation on the Day of Resurrection. So he who is drawn away from the Fire and admitted to Paradise has attained [his desire]. And what is the life of this world except the enjoyment of delusion.",
+   "text": "Every soul will taste death, and you will only be given your [full] compensation on the Day of Resurrection. So he who is drawn away from the Fire and admitted to Paradise has attained [his desire]. And what is the life of this world except the enjoyment of delusion.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

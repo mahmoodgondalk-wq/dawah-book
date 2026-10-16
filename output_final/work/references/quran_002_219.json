@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "2:219",
+ "label": "Reference text: Quran 2:219, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/2/219?translations=20",
+ "urls_fetched": [
+  "https://quran.com/2/219?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T09:04:45Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "2:219",
+   "raw": "They ask you about wine<sup foot_note=254088>1</sup> and gambling. Say, \"In them is great sin and [yet, some] benefit for people. But their sin is greater than their benefit.\" And they ask you what they should spend. Say, \"The excess [beyond needs].\" Thus Allāh makes clear to you the verses [of revelation] that you might give thought",
+   "text": "They ask you about wine and gambling. Say, \"In them is great sin and [yet, some] benefit for people. But their sin is greater than their benefit.\" And they ask you what they should spend. Say, \"The excess [beyond needs].\" Thus Allāh makes clear to you the verses [of revelation] that you might give thought",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

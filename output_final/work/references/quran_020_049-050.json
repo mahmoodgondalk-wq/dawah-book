@@ -1,0 +1,26 @@
+{
+ "kind": "quran",
+ "ref": "20:49-50",
+ "label": "Reference text: Quran 20:49-50, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/20/49-50?translations=20",
+ "urls_fetched": [
+  "https://quran.com/20/49-50?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T09:01:45Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "20:49",
+   "raw": "[Pharaoh] said, \"So who is the Lord of you two, O Moses?\"",
+   "text": "[Pharaoh] said, \"So who is the Lord of you two, O Moses?\"",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "20:50",
+   "raw": "He said, \"Our Lord is He who gave each thing its form and then guided [it].\"",
+   "text": "He said, \"Our Lord is He who gave each thing its form and then guided [it].\"",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

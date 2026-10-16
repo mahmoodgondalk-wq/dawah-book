@@ -1,0 +1,38 @@
+{
+ "kind": "quran",
+ "ref": "19:27-30",
+ "label": "Reference text: Quran 19:27-30, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/19/27-30?translations=20",
+ "urls_fetched": [
+  "https://quran.com/19/27-30?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T09:01:25Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "19:27",
+   "raw": "Then she brought him to her people, carrying him. They said, \"O Mary, you have certainly done a thing unprecedented.",
+   "text": "Then she brought him to her people, carrying him. They said, \"O Mary, you have certainly done a thing unprecedented.",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "19:28",
+   "raw": "O sister [i.e., descendant] of Aaron, your father was not a man of evil, nor was your mother unchaste.\"",
+   "text": "O sister [i.e., descendant] of Aaron, your father was not a man of evil, nor was your mother unchaste.\"",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "19:29",
+   "raw": "So she pointed to him. They said, \"How can we speak to one who is in the cradle a child?\"",
+   "text": "So she pointed to him. They said, \"How can we speak to one who is in the cradle a child?\"",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "19:30",
+   "raw": "[Jesus] said, \"Indeed, I am the servant of Allāh. He has given me the Scripture and made me a prophet.",
+   "text": "[Jesus] said, \"Indeed, I am the servant of Allāh. He has given me the Scripture and made me a prophet.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

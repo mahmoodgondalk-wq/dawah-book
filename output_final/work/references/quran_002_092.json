@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "2:92",
+ "label": "Reference text: Quran 2:92, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/2/92?translations=20",
+ "urls_fetched": [
+  "https://quran.com/2/92?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T09:06:11Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "2:92",
+   "raw": "And Moses had certainly brought you clear proofs. Then you took the calf [in worship] after that, while you were wrongdoers.",
+   "text": "And Moses had certainly brought you clear proofs. Then you took the calf [in worship] after that, while you were wrongdoers.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

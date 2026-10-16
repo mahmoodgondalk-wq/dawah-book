@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "39:7",
+ "label": "Reference text: Quran 39:7, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/39/7?translations=20",
+ "urls_fetched": [
+  "https://quran.com/39/7?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T09:07:45Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "39:7",
+   "raw": "If you disbelieve - indeed, Allāh is Free from need of you. And He does not approve for His servants disbelief. And if you are grateful, He approves [i.e., likes] it for you; and no bearer of burdens will bear the burden of another. Then to your Lord is your return, and He will inform you about what you used to do. Indeed, He is Knowing of that within the breasts.",
+   "text": "If you disbelieve - indeed, Allāh is Free from need of you. And He does not approve for His servants disbelief. And if you are grateful, He approves [i.e., likes] it for you; and no bearer of burdens will bear the burden of another. Then to your Lord is your return, and He will inform you about what you used to do. Indeed, He is Knowing of that within the breasts.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

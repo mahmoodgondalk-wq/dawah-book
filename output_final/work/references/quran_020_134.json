@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "20:134",
+ "label": "Reference text: Quran 20:134, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/20/134?translations=20",
+ "urls_fetched": [
+  "https://quran.com/20/134?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T09:01:44Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "20:134",
+   "raw": "And if We had destroyed them with a punishment before him,<sup foot_note=255119>1</sup> they would have said, \"Our Lord, why did You not send to us a messenger so we could have followed Your verses [i.e., teachings] before we were humiliated and disgraced?\"",
+   "text": "And if We had destroyed them with a punishment before him, they would have said, \"Our Lord, why did You not send to us a messenger so we could have followed Your verses [i.e., teachings] before we were humiliated and disgraced?\"",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

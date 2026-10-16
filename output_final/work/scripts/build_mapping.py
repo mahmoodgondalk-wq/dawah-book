@@ -56,14 +56,22 @@ def main():
             sc["ranges"].insert(sc["ranges"].index(pl["after"]) + 1, pl["range"])
         else:
             sc["ranges"].append(pl["range"])
+    # optional work/chapter_parts.json: {"<chapter code>": "<part id>"} moves whole chapters to another part
+    # (used to put the chapters about other worldviews after the parts about Islam; see part_order.json)
+    cpp = os.path.join(WORK, "chapter_parts.json")
+    chapter_parts = json.load(open(cpp, encoding="utf-8")) if os.path.exists(cpp) else {}
+    by_part = {}
+    for part in [p["code"] for p in seed["parts"]]:
+        for ch in outs.get(part, {}).get("chapters", []):
+            by_part.setdefault(chapter_parts.get(ch["code"], part), []).append(ch)
     tax = {"parts": []}
     mapping = {}
     placed = {}
     for part in part_order:
-        if part not in outs:
+        if not by_part.get(part):
             continue
         P = {"id": part, "title": part_titles[part], "chapters": []}
-        for ci, ch in enumerate(outs[part]["chapters"], 1):
+        for ci, ch in enumerate(by_part[part], 1):
             cid = ch["code"]
             C = {"id": cid, "title": ch["title"], "subchapters": []}
             for si, sc in enumerate(ch["subchapters"], 1):

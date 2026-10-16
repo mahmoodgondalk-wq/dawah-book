@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "3:124",
+ "label": "Reference text: Quran 3:124, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/3/124?translations=20",
+ "urls_fetched": [
+  "https://quran.com/3/124?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T09:07:53Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "3:124",
+   "raw": "[Remember] when you said to the believers, \"Is it not sufficient for you that your Lord should reinforce you with three thousand angels sent down?",
+   "text": "[Remember] when you said to the believers, \"Is it not sufficient for you that your Lord should reinforce you with three thousand angels sent down?",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

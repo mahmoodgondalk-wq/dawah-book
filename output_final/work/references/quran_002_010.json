@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "2:10",
+ "label": "Reference text: Quran 2:10, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/2/10?translations=20",
+ "urls_fetched": [
+  "https://quran.com/2/10?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T09:03:44Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "2:10",
+   "raw": "In their hearts is disease, so Allāh has increased their disease;<sup foot_note=254021>1</sup> and for them is a painful punishment because they [habitually] used to lie.",
+   "text": "In their hearts is disease, so Allāh has increased their disease; and for them is a painful punishment because they [habitually] used to lie.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

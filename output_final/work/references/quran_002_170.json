@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "2:170",
+ "label": "Reference text: Quran 2:170, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/2/170?translations=20",
+ "urls_fetched": [
+  "https://quran.com/2/170?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T09:04:19Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "2:170",
+   "raw": "And when it is said to them, \"Follow what Allāh has revealed,\" they say, \"Rather, we will follow that which we found our fathers doing.\" Even though their fathers understood nothing, nor were they guided?",
+   "text": "And when it is said to them, \"Follow what Allāh has revealed,\" they say, \"Rather, we will follow that which we found our fathers doing.\" Even though their fathers understood nothing, nor were they guided?",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

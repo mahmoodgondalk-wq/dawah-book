@@ -1,0 +1,75 @@
+{
+ "kind": "quran",
+ "ref": "37:101-110",
+ "label": "Reference text: Quran 37:101-110, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/37/101-110?translations=20",
+ "urls_fetched": [
+  "https://quran.com/37/101-110?translations=20",
+  "https://quran.com/37/103?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T09:07:13Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "37:101",
+   "raw": "So We gave him good tidings of a forbearing boy.",
+   "text": "So We gave him good tidings of a forbearing boy.",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "37:102",
+   "raw": "And when he reached with him [the age of] exertion,<sup foot_note=256221>1</sup> he said, \"O my son, indeed I have seen in a dream that I [must] sacrifice you, so see what you think.\" He said, \"O my father, do as you are commanded. You will find me, if Allāh wills, of the steadfast.\"",
+   "text": "And when he reached with him [the age of] exertion, he said, \"O my son, indeed I have seen in a dream that I [must] sacrifice you, so see what you think.\" He said, \"O my father, do as you are commanded. You will find me, if Allāh wills, of the steadfast.\"",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "37:103",
+   "raw": "And when they had both submitted<sup foot_note=256224>1</sup> and he put him down upon his forehead,",
+   "text": "And when they had both submitted and he put him down upon his forehead,",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "37:104",
+   "raw": "We called to him, \"O Abraham,",
+   "text": "We called to him, \"O Abraham,",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "37:105",
+   "raw": "You have fulfilled the vision.\" Indeed, We thus reward the doers of good.",
+   "text": "You have fulfilled the vision.\" Indeed, We thus reward the doers of good.",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "37:106",
+   "raw": "Indeed, this was the clear trial.",
+   "text": "Indeed, this was the clear trial.",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "37:107",
+   "raw": "And We ransomed him with a great sacrifice,<sup foot_note=256227>1</sup>",
+   "text": "And We ransomed him with a great sacrifice,",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "37:108",
+   "raw": "And We left for him [favorable mention] among later generations:",
+   "text": "And We left for him [favorable mention] among later generations:",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "37:109",
+   "raw": "\"Peace upon Abraham.\"",
+   "text": "\"Peace upon Abraham.\"",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "37:110",
+   "raw": "Indeed, We thus reward the doers of good.",
+   "text": "Indeed, We thus reward the doers of good.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

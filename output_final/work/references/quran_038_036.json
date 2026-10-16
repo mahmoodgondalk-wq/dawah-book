@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "38:36",
+ "label": "Reference text: Quran 38:36, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/38/36?translations=20",
+ "urls_fetched": [
+  "https://quran.com/38/36?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T09:07:23Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "38:36",
+   "raw": "So We subjected to him the wind blowing by his command, gently, wherever he directed,",
+   "text": "So We subjected to him the wind blowing by his command, gently, wherever he directed,",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

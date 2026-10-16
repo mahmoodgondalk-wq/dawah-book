@@ -1,0 +1,38 @@
+{
+ "kind": "quran",
+ "ref": "23:12-15",
+ "label": "Reference text: Quran 23:12-15, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/23/12-15?translations=20",
+ "urls_fetched": [
+  "https://quran.com/23/12-15?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T09:02:19Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "23:12",
+   "raw": "And certainly did We create man from an extract of clay.",
+   "text": "And certainly did We create man from an extract of clay.",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "23:13",
+   "raw": "Then We placed him as a sperm-drop<sup foot_note=255322>1</sup> in a firm lodging [i.e., the womb].",
+   "text": "Then We placed him as a sperm-drop in a firm lodging [i.e., the womb].",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "23:14",
+   "raw": "Then We made the sperm-drop into a clinging clot, and We made the clot into a lump [of flesh], and We made [from] the lump, bones, and We covered the bones with flesh; then We developed him into another creation. So blessed is Allāh, the best of creators.<sup foot_note=255324>1</sup>",
+   "text": "Then We made the sperm-drop into a clinging clot, and We made the clot into a lump [of flesh], and We made [from] the lump, bones, and We covered the bones with flesh; then We developed him into another creation. So blessed is Allāh, the best of creators.",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "23:15",
+   "raw": "Then indeed, after that you are to die.",
+   "text": "Then indeed, after that you are to die.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

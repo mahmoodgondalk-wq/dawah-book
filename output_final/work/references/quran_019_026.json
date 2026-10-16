@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "19:26",
+ "label": "Reference text: Quran 19:26, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/19/26?translations=20",
+ "urls_fetched": [
+  "https://quran.com/19/26?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T09:01:24Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "19:26",
+   "raw": "So eat and drink and be contented. And if you see from among humanity anyone, say, 'Indeed, I have vowed to the Most Merciful abstention, so I will not speak today to [any] man.'\"",
+   "text": "So eat and drink and be contented. And if you see from among humanity anyone, say, 'Indeed, I have vowed to the Most Merciful abstention, so I will not speak today to [any] man.'\"",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

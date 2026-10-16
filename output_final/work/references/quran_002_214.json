@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "2:214",
+ "label": "Reference text: Quran 2:214, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/2/214?translations=20",
+ "urls_fetched": [
+  "https://quran.com/2/214?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T09:04:40Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "2:214",
+   "raw": "Or do you think that you will enter Paradise while such [trial] has not yet come to you as came to those who passed on before you? They were touched by poverty and hardship and were shaken until [even their] messenger and those who believed with him said, \"When is the help of Allāh?\" Unquestionably, the help of Allāh is near.",
+   "text": "Or do you think that you will enter Paradise while such [trial] has not yet come to you as came to those who passed on before you? They were touched by poverty and hardship and were shaken until [even their] messenger and those who believed with him said, \"When is the help of Allāh?\" Unquestionably, the help of Allāh is near.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "29:17",
+ "label": "Reference text: Quran 29:17, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/29/17?translations=20",
+ "urls_fetched": [
+  "https://quran.com/29/17?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T09:03:23Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "29:17",
+   "raw": "You only worship, besides Allāh, idols, and you produce a falsehood. Indeed, those you worship besides Allāh do not possess for you [the power of] provision. So seek from Allāh provision and worship Him and be grateful to Him. To Him you will be returned.\"",
+   "text": "You only worship, besides Allāh, idols, and you produce a falsehood. Indeed, those you worship besides Allāh do not possess for you [the power of] provision. So seek from Allāh provision and worship Him and be grateful to Him. To Him you will be returned.\"",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

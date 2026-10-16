@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "2:155",
+ "label": "Reference text: Quran 2:155, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/2/155?translations=20",
+ "urls_fetched": [
+  "https://quran.com/2/155?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T09:04:10Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "2:155",
+   "raw": "And We will surely test you with something of fear and hunger and a loss of wealth and lives and fruits, but give good tidings to the patient,",
+   "text": "And We will surely test you with something of fear and hunger and a loss of wealth and lives and fruits, but give good tidings to the patient,",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

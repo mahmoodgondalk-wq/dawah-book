@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "28:77",
+ "label": "Reference text: Quran 28:77, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/28/77?translations=20",
+ "urls_fetched": [
+  "https://quran.com/28/77?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T09:03:18Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "28:77",
+   "raw": "But seek, through that which Allāh has given you, the home of the Hereafter; and [yet], do not forget your share of the world. And do good as Allāh has done good to you. And desire not corruption in the land. Indeed, Allāh does not like corrupters.\"",
+   "text": "But seek, through that which Allāh has given you, the home of the Hereafter; and [yet], do not forget your share of the world. And do good as Allāh has done good to you. And desire not corruption in the land. Indeed, Allāh does not like corrupters.\"",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

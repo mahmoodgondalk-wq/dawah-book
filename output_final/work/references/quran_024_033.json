@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "24:33",
+ "label": "Reference text: Quran 24:33, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/24/33?translations=20",
+ "urls_fetched": [
+  "https://quran.com/24/33?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T09:02:35Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "24:33",
+   "raw": "But let them who find not [the means for] marriage abstain [from sexual relations] until Allāh enriches them from His bounty. And those who seek a contract [for eventual emancipation] from among whom your right hands possess<sup foot_note=255464>1</sup> - then make a contract with them if you know there is within them goodness and give them from the wealth of Allāh which He has given you. And do not compel your slave girls to prostitution, if they desire chastity, to seek [thereby] the temporary interests of worldly life. And if someone should compel them, then indeed, Allāh is [to them], after their compulsion, Forgiving and Merciful.",
+   "text": "But let them who find not [the means for] marriage abstain [from sexual relations] until Allāh enriches them from His bounty. And those who seek a contract [for eventual emancipation] from among whom your right hands possess - then make a contract with them if you know there is within them goodness and give them from the wealth of Allāh which He has given you. And do not compel your slave girls to prostitution, if they desire chastity, to seek [thereby] the temporary interests of worldly life. And if someone should compel them, then indeed, Allāh is [to them], after their compulsion, Forgiving and Merciful.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

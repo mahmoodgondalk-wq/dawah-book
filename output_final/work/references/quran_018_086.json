@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "18:86",
+ "label": "Reference text: Quran 18:86, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/18/86?translations=20",
+ "urls_fetched": [
+  "https://quran.com/18/86?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T09:01:14Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "18:86",
+   "raw": "Until, when he reached the setting of the sun [i.e., the west], he found it [as if] setting in a body of dark water,<sup foot_note=255000>1</sup> and he found near it a people. We [i.e., Allāh] said, \"O Dhul-Qarnayn, either you punish [them] or else adopt among them [a way of] goodness.\"",
+   "text": "Until, when he reached the setting of the sun [i.e., the west], he found it [as if] setting in a body of dark water, and he found near it a people. We [i.e., Allāh] said, \"O Dhul-Qarnayn, either you punish [them] or else adopt among them [a way of] goodness.\"",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

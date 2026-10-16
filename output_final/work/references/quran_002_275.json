@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "2:275",
+ "label": "Reference text: Quran 2:275, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/2/275?translations=20",
+ "urls_fetched": [
+  "https://quran.com/2/275?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T09:05:02Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "2:275",
+   "raw": "Those who consume interest<sup foot_note=254118>1</sup> cannot stand [on the Day of Resurrection] except as one stands who is being beaten by Satan into insanity. That is because they say, \"Trade is [just] like interest.\" But Allāh has permitted trade and has forbidden interest. So whoever has received an admonition from his Lord and desists may have what is past, and his affair rests with Allāh. But whoever returns [to dealing in interest or usury] - those are the companions of the Fire; they will abide eternally therein.",
+   "text": "Those who consume interest cannot stand [on the Day of Resurrection] except as one stands who is being beaten by Satan into insanity. That is because they say, \"Trade is [just] like interest.\" But Allāh has permitted trade and has forbidden interest. So whoever has received an admonition from his Lord and desists may have what is past, and his affair rests with Allāh. But whoever returns [to dealing in interest or usury] - those are the companions of the Fire; they will abide eternally therein.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

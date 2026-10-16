@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "23:14",
+ "label": "Reference text: Quran 23:14, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/23/14?translations=20",
+ "urls_fetched": [
+  "https://quran.com/23/14?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T09:02:22Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "23:14",
+   "raw": "Then We made the sperm-drop into a clinging clot, and We made the clot into a lump [of flesh], and We made [from] the lump, bones, and We covered the bones with flesh; then We developed him into another creation. So blessed is Allāh, the best of creators.<sup foot_note=255324>1</sup>",
+   "text": "Then We made the sperm-drop into a clinging clot, and We made the clot into a lump [of flesh], and We made [from] the lump, bones, and We covered the bones with flesh; then We developed him into another creation. So blessed is Allāh, the best of creators.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

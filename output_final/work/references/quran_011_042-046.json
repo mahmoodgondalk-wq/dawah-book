@@ -1,0 +1,45 @@
+{
+ "kind": "quran",
+ "ref": "11:42-46",
+ "label": "Reference text: Quran 11:42-46, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/11/42-46?translations=20",
+ "urls_fetched": [
+  "https://quran.com/11/42-46?translations=20",
+  "https://quran.com/11/46?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T08:59:31Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "11:42",
+   "raw": "And it sailed with them through waves like mountains, and Noah called to his son who was apart [from them], \"O my son, come aboard with us and be not with the disbelievers.\"",
+   "text": "And it sailed with them through waves like mountains, and Noah called to his son who was apart [from them], \"O my son, come aboard with us and be not with the disbelievers.\"",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "11:43",
+   "raw": "[But] he said, \"I will take refuge on a mountain to protect me from the water.\" [Noah] said, \"There is no protector today from the decree of Allāh, except for whom He gives mercy.\" And the waves came between them, and he was among the drowned.",
+   "text": "[But] he said, \"I will take refuge on a mountain to protect me from the water.\" [Noah] said, \"There is no protector today from the decree of Allāh, except for whom He gives mercy.\" And the waves came between them, and he was among the drowned.",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "11:44",
+   "raw": "And it was said, \"O earth, swallow your water, and O sky, withhold [your rain].\" And the water subsided, and the matter was accomplished, and it [i.e., the ship] came to rest on the [mountain of] Jūdiyy. And it was said, \"Away with the wrongdoing people.\"",
+   "text": "And it was said, \"O earth, swallow your water, and O sky, withhold [your rain].\" And the water subsided, and the matter was accomplished, and it [i.e., the ship] came to rest on the [mountain of] Jūdiyy. And it was said, \"Away with the wrongdoing people.\"",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "11:45",
+   "raw": "And Noah called to his Lord and said, \"My Lord, indeed my son is of my family; and indeed, Your promise is true; and You are the most just of judges!\"",
+   "text": "And Noah called to his Lord and said, \"My Lord, indeed my son is of my family; and indeed, Your promise is true; and You are the most just of judges!\"",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "11:46",
+   "raw": "He said, \"O Noah, indeed he is not of your family; indeed, he is [one whose] work was other than righteous, so ask Me not for that about which you have no knowledge. Indeed, I advise you, lest you be among the ignorant.\"",
+   "text": "He said, \"O Noah, indeed he is not of your family; indeed, he is [one whose] work was other than righteous, so ask Me not for that about which you have no knowledge. Indeed, I advise you, lest you be among the ignorant.\"",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

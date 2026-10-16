@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "3:113",
+ "label": "Reference text: Quran 3:113, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/3/113?translations=20",
+ "urls_fetched": [
+  "https://quran.com/3/113?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T09:07:51Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "3:113",
+   "raw": "They are not [all] the same; among the People of the Scripture is a community<sup foot_note=254152>1</sup> standing [in obedience], reciting the verses of Allāh during periods of the night and prostrating [in prayer].",
+   "text": "They are not [all] the same; among the People of the Scripture is a community standing [in obedience], reciting the verses of Allāh during periods of the night and prostrating [in prayer].",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

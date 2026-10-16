@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "21:31",
+ "label": "Reference text: Quran 21:31, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/21/31?translations=20",
+ "urls_fetched": [
+  "https://quran.com/21/31?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T09:01:57Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "21:31",
+   "raw": "And We placed within the earth firmly set mountains, lest it should shift with them, and We made therein [mountain] passes [as] roads that they might be guided.",
+   "text": "And We placed within the earth firmly set mountains, lest it should shift with them, and We made therein [mountain] passes [as] roads that they might be guided.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

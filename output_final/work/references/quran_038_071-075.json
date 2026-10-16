@@ -1,0 +1,44 @@
+{
+ "kind": "quran",
+ "ref": "38:71-75",
+ "label": "Reference text: Quran 38:71-75, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/38/71-75?translations=20",
+ "urls_fetched": [
+  "https://quran.com/38/71-75?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T09:07:25Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "38:71",
+   "raw": "[So mention] when your Lord said to the angels, \"Indeed, I am going to create a human being from clay.",
+   "text": "[So mention] when your Lord said to the angels, \"Indeed, I am going to create a human being from clay.",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "38:72",
+   "raw": "So when I have proportioned him and breathed into him of My [created] soul,<sup foot_note=256323>1</sup> then fall down to him in prostration.\"",
+   "text": "So when I have proportioned him and breathed into him of My [created] soul, then fall down to him in prostration.\"",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "38:73",
+   "raw": "So the angels prostrated - all of them entirely,",
+   "text": "So the angels prostrated - all of them entirely,",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "38:74",
+   "raw": "Except Iblees;<sup foot_note=256326>1</sup> he was arrogant and became among the disbelievers.",
+   "text": "Except Iblees; he was arrogant and became among the disbelievers.",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "38:75",
+   "raw": "[Allāh] said, \"O Iblees, what prevented you from prostrating to that which I created with My hands?<sup foot_note=256327>1</sup> Were you arrogant [then], or were you [already] among the haughty?\"",
+   "text": "[Allāh] said, \"O Iblees, what prevented you from prostrating to that which I created with My hands? Were you arrogant [then], or were you [already] among the haughty?\"",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

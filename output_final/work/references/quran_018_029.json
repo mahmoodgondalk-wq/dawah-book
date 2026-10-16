@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "18:29",
+ "label": "Reference text: Quran 18:29, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/18/29?translations=20",
+ "urls_fetched": [
+  "https://quran.com/18/29?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T09:01:10Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "18:29",
+   "raw": "And say, \"The truth is from your Lord, so whoever wills - let him believe; and whoever wills - let him disbelieve.\" Indeed, We have prepared for the wrongdoers a fire whose walls will surround them. And if they call for relief, they will be relieved with water like murky oil, which scalds [their] faces. Wretched is the drink, and evil is the resting place.",
+   "text": "And say, \"The truth is from your Lord, so whoever wills - let him believe; and whoever wills - let him disbelieve.\" Indeed, We have prepared for the wrongdoers a fire whose walls will surround them. And if they call for relief, they will be relieved with water like murky oil, which scalds [their] faces. Wretched is the drink, and evil is the resting place.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

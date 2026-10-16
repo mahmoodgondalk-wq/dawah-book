@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "16:40",
+ "label": "Reference text: Quran 16:40, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/16/40?translations=20",
+ "urls_fetched": [
+  "https://quran.com/16/40?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T09:00:27Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "16:40",
+   "raw": "Indeed, Our word to a thing when We intend it is but that We say to it, \"Be,\" and it is.",
+   "text": "Indeed, Our word to a thing when We intend it is but that We say to it, \"Be,\" and it is.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

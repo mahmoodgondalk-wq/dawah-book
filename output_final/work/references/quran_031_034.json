@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "31:34",
+ "label": "Reference text: Quran 31:34, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/31/34?translations=20",
+ "urls_fetched": [
+  "https://quran.com/31/34?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T09:06:34Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "31:34",
+   "raw": "Indeed, Allāh [alone] has knowledge of the Hour and sends down the rain and knows what is in the wombs.<sup foot_note=255932>1</sup> And no soul perceives what it will earn tomorrow, and no soul perceives in what land it will die. Indeed, Allāh is Knowing and Aware.",
+   "text": "Indeed, Allāh [alone] has knowledge of the Hour and sends down the rain and knows what is in the wombs. And no soul perceives what it will earn tomorrow, and no soul perceives in what land it will die. Indeed, Allāh is Knowing and Aware.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

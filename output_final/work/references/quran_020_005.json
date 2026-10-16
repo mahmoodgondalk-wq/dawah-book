@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "20:5",
+ "label": "Reference text: Quran 20:5, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/20/5?translations=20",
+ "urls_fetched": [
+  "https://quran.com/20/5?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T09:01:47Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "20:5",
+   "raw": "The Most Merciful [who is] above the Throne established.<sup foot_note=255054>1</sup>",
+   "text": "The Most Merciful [who is] above the Throne established.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

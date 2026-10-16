@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "2:41",
+ "label": "Reference text: Quran 2:41, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/2/41?translations=20",
+ "urls_fetched": [
+  "https://quran.com/2/41?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T09:05:49Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "2:41",
+   "raw": "And believe in what I have sent down confirming that which is [already] with you, and be not the first to disbelieve in it. And do not exchange My signs for a small price, and fear [only] Me.",
+   "text": "And believe in what I have sent down confirming that which is [already] with you, and be not the first to disbelieve in it. And do not exchange My signs for a small price, and fear [only] Me.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

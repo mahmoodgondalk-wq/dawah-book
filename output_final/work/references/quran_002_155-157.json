@@ -1,0 +1,32 @@
+{
+ "kind": "quran",
+ "ref": "2:155-157",
+ "label": "Reference text: Quran 2:155-157, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/2/155-157?translations=20",
+ "urls_fetched": [
+  "https://quran.com/2/155-157?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T09:04:11Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "2:155",
+   "raw": "And We will surely test you with something of fear and hunger and a loss of wealth and lives and fruits, but give good tidings to the patient,",
+   "text": "And We will surely test you with something of fear and hunger and a loss of wealth and lives and fruits, but give good tidings to the patient,",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "2:156",
+   "raw": "Who, when disaster strikes them, say, \"Indeed we belong to Allāh, and indeed to Him we will return.\"",
+   "text": "Who, when disaster strikes them, say, \"Indeed we belong to Allāh, and indeed to Him we will return.\"",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "2:157",
+   "raw": "Those are the ones upon whom are blessings from their Lord and mercy. And it is those who are the [rightly] guided.",
+   "text": "Those are the ones upon whom are blessings from their Lord and mercy. And it is those who are the [rightly] guided.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

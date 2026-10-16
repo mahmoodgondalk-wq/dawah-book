@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "3:187",
+ "label": "Reference text: Quran 3:187, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/3/187?translations=20",
+ "urls_fetched": [
+  "https://quran.com/3/187?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T09:08:03Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "3:187",
+   "raw": "And [mention, O Muḥammad], when Allāh took a covenant from those who were given the Scripture, [saying], \"You must make it clear [i.e., explain it] to the people and not conceal it.\" But they threw it away behind their backs and exchanged it for a small price. And wretched is that which they purchased.",
+   "text": "And [mention, O Muḥammad], when Allāh took a covenant from those who were given the Scripture, [saying], \"You must make it clear [i.e., explain it] to the people and not conceal it.\" But they threw it away behind their backs and exchanged it for a small price. And wretched is that which they purchased.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

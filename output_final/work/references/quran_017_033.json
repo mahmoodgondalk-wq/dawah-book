@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "17:33",
+ "label": "Reference text: Quran 17:33, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/17/33?translations=20",
+ "urls_fetched": [
+  "https://quran.com/17/33?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T09:00:50Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "17:33",
+   "raw": "And do not kill the soul [i.e., person] which Allāh has forbidden, except by right.<sup foot_note=254902>1</sup> And whoever is killed unjustly - We have given his heir authority,<sup foot_note=254903>2</sup> but let him not exceed limits in [the matter of] taking life. Indeed, he has been supported [by the law].",
+   "text": "And do not kill the soul [i.e., person] which Allāh has forbidden, except by right. And whoever is killed unjustly - We have given his heir authority, but let him not exceed limits in [the matter of] taking life. Indeed, he has been supported [by the law].",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

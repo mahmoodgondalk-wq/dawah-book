@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "2:261",
+ "label": "Reference text: Quran 2:261, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/2/261?translations=20",
+ "urls_fetched": [
+  "https://quran.com/2/261?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T09:05:00Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "2:261",
+   "raw": "The example of those who spend their wealth in the way of Allāh is like a seed [of grain] which grows seven spikes; in each spike is a hundred grains. And Allāh multiplies [His reward] for whom He wills. And Allāh is all-Encompassing and Knowing.",
+   "text": "The example of those who spend their wealth in the way of Allāh is like a seed [of grain] which grows seven spikes; in each spike is a hundred grains. And Allāh multiplies [His reward] for whom He wills. And Allāh is all-Encompassing and Knowing.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

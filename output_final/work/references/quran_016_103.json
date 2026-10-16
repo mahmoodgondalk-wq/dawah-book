@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "16:103",
+ "label": "Reference text: Quran 16:103, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/16/103?translations=20",
+ "urls_fetched": [
+  "https://quran.com/16/103?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T09:00:08Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "16:103",
+   "raw": "And We certainly know that they say, \"It is only a human being who teaches him [i.e., the Prophet (ﷺ)].\" The tongue of the one they refer to is foreign,<sup foot_note=254862>1</sup> and this [recitation, i.e., Qur’ān] is [in] a clear Arabic language.",
+   "text": "And We certainly know that they say, \"It is only a human being who teaches him [i.e., the Prophet (ﷺ)].\" The tongue of the one they refer to is foreign, and this [recitation, i.e., Qur’ān] is [in] a clear Arabic language.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

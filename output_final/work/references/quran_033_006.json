@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "33:6",
+ "label": "Reference text: Quran 33:6, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/33/6?translations=20",
+ "urls_fetched": [
+  "https://quran.com/33/6?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T09:06:54Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "33:6",
+   "raw": "The Prophet is more worthy of the believers than themselves,<sup foot_note=255967>1</sup> and his wives are [in the position of] their mothers. And those of [blood] relationship are more entitled [to inheritance] in the decree of Allāh than the [other] believers and the emigrants, except that you may do to your close associates a kindness [through bequest]. That was in the Book<sup foot_note=255968>2</sup> inscribed.",
+   "text": "The Prophet is more worthy of the believers than themselves, and his wives are [in the position of] their mothers. And those of [blood] relationship are more entitled [to inheritance] in the decree of Allāh than the [other] believers and the emigrants, except that you may do to your close associates a kindness [through bequest]. That was in the Book inscribed.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

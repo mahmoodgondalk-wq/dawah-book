@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "25:16",
+ "label": "Reference text: Quran 25:16, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/25/16?translations=20",
+ "urls_fetched": [
+  "https://quran.com/25/16?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T09:02:41Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "25:16",
+   "raw": "For them therein is whatever they wish, [while] abiding eternally. It is ever upon your Lord a promise [worthy to be] requested.<sup foot_note=255495>1</sup>",
+   "text": "For them therein is whatever they wish, [while] abiding eternally. It is ever upon your Lord a promise [worthy to be] requested.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

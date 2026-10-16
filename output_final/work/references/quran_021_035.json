@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "21:35",
+ "label": "Reference text: Quran 21:35, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/21/35?translations=20",
+ "urls_fetched": [
+  "https://quran.com/21/35?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T09:02:00Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "21:35",
+   "raw": "Every soul will taste death. And We test you with evil and with good as trial; and to Us you will be returned.",
+   "text": "Every soul will taste death. And We test you with evil and with good as trial; and to Us you will be returned.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

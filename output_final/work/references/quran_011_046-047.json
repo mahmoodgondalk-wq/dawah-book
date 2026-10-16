@@ -1,0 +1,26 @@
+{
+ "kind": "quran",
+ "ref": "11:46-47",
+ "label": "Reference text: Quran 11:46-47, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/11/46-47?translations=20",
+ "urls_fetched": [
+  "https://quran.com/11/46-47?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T08:59:32Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "11:46",
+   "raw": "He said, \"O Noah, indeed he is not of your family; indeed, he is [one whose] work was other than righteous, so ask Me not for that about which you have no knowledge. Indeed, I advise you, lest you be among the ignorant.\"",
+   "text": "He said, \"O Noah, indeed he is not of your family; indeed, he is [one whose] work was other than righteous, so ask Me not for that about which you have no knowledge. Indeed, I advise you, lest you be among the ignorant.\"",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "11:47",
+   "raw": "[Noah] said, \"My Lord, I seek refuge in You from asking that of which I have no knowledge. And unless You forgive me and have mercy upon me, I will be among the losers.\"",
+   "text": "[Noah] said, \"My Lord, I seek refuge in You from asking that of which I have no knowledge. And unless You forgive me and have mercy upon me, I will be among the losers.\"",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

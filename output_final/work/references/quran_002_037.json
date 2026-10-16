@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "2:37",
+ "label": "Reference text: Quran 2:37, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/2/37?translations=20",
+ "urls_fetched": [
+  "https://quran.com/2/37?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T09:05:23Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "2:37",
+   "raw": "Then Adam received from his Lord [some] words,<sup foot_note=254031>1</sup> and He accepted his repentance. Indeed, it is He who is the Accepting of Repentance,<sup foot_note=254030>2</sup> the Merciful.",
+   "text": "Then Adam received from his Lord [some] words, and He accepted his repentance. Indeed, it is He who is the Accepting of Repentance, the Merciful.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

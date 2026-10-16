@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "3:103",
+ "label": "Reference text: Quran 3:103, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/3/103?translations=20",
+ "urls_fetched": [
+  "https://quran.com/3/103?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T09:07:48Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "3:103",
+   "raw": "And hold firmly to the rope<sup foot_note=254149>1</sup> of Allāh all together and do not become divided. And remember the favor of Allāh upon you - when you were enemies and He brought your hearts together and you became, by His favor, brothers. And you were on the edge of a pit of the Fire, and He saved you from it. Thus does Allāh make clear to you His verses that you may be guided.",
+   "text": "And hold firmly to the rope of Allāh all together and do not become divided. And remember the favor of Allāh upon you - when you were enemies and He brought your hearts together and you became, by His favor, brothers. And you were on the edge of a pit of the Fire, and He saved you from it. Thus does Allāh make clear to you His verses that you may be guided.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

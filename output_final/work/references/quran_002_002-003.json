@@ -1,0 +1,26 @@
+{
+ "kind": "quran",
+ "ref": "2:2-3",
+ "label": "Reference text: Quran 2:2-3, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/2/2-3?translations=20",
+ "urls_fetched": [
+  "https://quran.com/2/2-3?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T09:04:32Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "2:2",
+   "raw": "This is the Book about which there is no doubt, a guidance for those conscious of Allāh<sup foot_note=254016>1</sup> -",
+   "text": "This is the Book about which there is no doubt, a guidance for those conscious of Allāh -",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "2:3",
+   "raw": "Who believe in the unseen, establish prayer,<sup foot_note=254018>1</sup> and spend out of what We<sup foot_note=254017>2</sup> have provided for them,",
+   "text": "Who believe in the unseen, establish prayer, and spend out of what We have provided for them,",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

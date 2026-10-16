@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "24:2",
+ "label": "Reference text: Quran 24:2, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/24/2?translations=20",
+ "urls_fetched": [
+  "https://quran.com/24/2?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T09:02:30Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "24:2",
+   "raw": "The [unmarried] woman or [unmarried] man found guilty of sexual intercourse<sup foot_note=255423>1</sup> - lash each one of them with a hundred lashes,<sup foot_note=255425>2</sup> and do not be taken by pity for them in the religion [i.e., law] of Allāh,<sup foot_note=255424>3</sup> if you should believe in Allāh and the Last Day. And let a group of the believers witness their punishment.",
+   "text": "The [unmarried] woman or [unmarried] man found guilty of sexual intercourse - lash each one of them with a hundred lashes, and do not be taken by pity for them in the religion [i.e., law] of Allāh, if you should believe in Allāh and the Last Day. And let a group of the believers witness their punishment.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "28:38",
+ "label": "Reference text: Quran 28:38, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/28/38?translations=20",
+ "urls_fetched": [
+  "https://quran.com/28/38?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T09:03:11Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "28:38",
+   "raw": "And Pharaoh said, \"O eminent ones, I have not known you to have a god other than me. Then ignite for me, O Hāmān, [a fire] upon the clay<sup foot_note=255782>1</sup> and make for me a tower that I may look at the God of Moses. And indeed, I do think he is among the liars.\"",
+   "text": "And Pharaoh said, \"O eminent ones, I have not known you to have a god other than me. Then ignite for me, O Hāmān, [a fire] upon the clay and make for me a tower that I may look at the God of Moses. And indeed, I do think he is among the liars.\"",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

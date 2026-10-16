@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "3:78",
+ "label": "Reference text: Quran 3:78, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/3/78?translations=20",
+ "urls_fetched": [
+  "https://quran.com/3/78?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T09:08:39Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "3:78",
+   "raw": "And indeed, there is among them a party who alter the Scripture with their tongues so you may think it is from the Scripture, but it is not from the Scripture. And they say, \"This is from Allāh,\" but it is not from Allāh. And they speak untruth about Allāh while they know.",
+   "text": "And indeed, there is among them a party who alter the Scripture with their tongues so you may think it is from the Scripture, but it is not from the Scripture. And they say, \"This is from Allāh,\" but it is not from Allāh. And they speak untruth about Allāh while they know.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

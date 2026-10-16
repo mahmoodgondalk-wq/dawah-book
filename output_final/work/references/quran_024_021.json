@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "24:21",
+ "label": "Reference text: Quran 24:21, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/24/21?translations=20",
+ "urls_fetched": [
+  "https://quran.com/24/21?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T09:02:31Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "24:21",
+   "raw": "O you who have believed, do not follow the footsteps of Satan. And whoever follows the footsteps of Satan - indeed, he enjoins immorality and wrongdoing. And if not for the favor of Allāh upon you and His mercy, not one of you would have been pure, ever, but Allāh purifies whom He wills, and Allāh is Hearing and Knowing.",
+   "text": "O you who have believed, do not follow the footsteps of Satan. And whoever follows the footsteps of Satan - indeed, he enjoins immorality and wrongdoing. And if not for the favor of Allāh upon you and His mercy, not one of you would have been pure, ever, but Allāh purifies whom He wills, and Allāh is Hearing and Knowing.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

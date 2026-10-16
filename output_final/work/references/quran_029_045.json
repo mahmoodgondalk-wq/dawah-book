@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "29:45",
+ "label": "Reference text: Quran 29:45, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/29/45?translations=20",
+ "urls_fetched": [
+  "https://quran.com/29/45?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T09:03:30Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "29:45",
+   "raw": "Recite, [O Muḥammad], what has been revealed to you of the Book and establish prayer. Indeed, prayer prohibits immorality and wrongdoing, and the remembrance of Allāh is greater. And Allāh knows that which you do.",
+   "text": "Recite, [O Muḥammad], what has been revealed to you of the Book and establish prayer. Indeed, prayer prohibits immorality and wrongdoing, and the remembrance of Allāh is greater. And Allāh knows that which you do.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

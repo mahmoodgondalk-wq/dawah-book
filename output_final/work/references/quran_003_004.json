@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "3:4",
+ "label": "Reference text: Quran 3:4, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/3/4?translations=20",
+ "urls_fetched": [
+  "https://quran.com/3/4?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T09:08:10Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "3:4",
+   "raw": "Before, as guidance for the people. And He revealed the Criterion [i.e., the Qur’ān]. Indeed, those who disbelieve in the verses of Allāh will have a severe punishment, and Allāh is Exalted in Might, the Owner of Retribution.<sup foot_note=254122>1</sup>",
+   "text": "Before, as guidance for the people. And He revealed the Criterion [i.e., the Qur’ān]. Indeed, those who disbelieve in the verses of Allāh will have a severe punishment, and Allāh is Exalted in Might, the Owner of Retribution.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

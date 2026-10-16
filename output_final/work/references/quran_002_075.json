@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "2:75",
+ "label": "Reference text: Quran 2:75, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/2/75?translations=20",
+ "urls_fetched": [
+  "https://quran.com/2/75?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T09:05:58Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "2:75",
+   "raw": "Do you covet [the hope, O believers], that they would believe for you while a party of them used to hear the words of Allāh and then distort it [i.e., the Torah] after they had understood it while they were knowing?",
+   "text": "Do you covet [the hope, O believers], that they would believe for you while a party of them used to hear the words of Allāh and then distort it [i.e., the Torah] after they had understood it while they were knowing?",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

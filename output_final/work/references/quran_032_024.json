@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "32:24",
+ "label": "Reference text: Quran 32:24, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/32/24?translations=20",
+ "urls_fetched": [
+  "https://quran.com/32/24?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T09:06:37Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "32:24",
+   "raw": "And We made from among them leaders guiding by Our command when they were patient and [when] they were certain of Our signs.",
+   "text": "And We made from among them leaders guiding by Our command when they were patient and [when] they were certain of Our signs.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

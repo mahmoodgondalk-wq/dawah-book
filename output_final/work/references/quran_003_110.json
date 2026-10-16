@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "3:110",
+ "label": "Reference text: Quran 3:110, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/3/110?translations=20",
+ "urls_fetched": [
+  "https://quran.com/3/110?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T09:07:49Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "3:110",
+   "raw": "You are the best nation produced [as an example] for mankind. You enjoin what is right and forbid what is wrong and believe in Allāh. If only the People of the Scripture had believed, it would have been better for them. Among them are believers, but most of them are defiantly disobedient.",
+   "text": "You are the best nation produced [as an example] for mankind. You enjoin what is right and forbid what is wrong and believe in Allāh. If only the People of the Scripture had believed, it would have been better for them. Among them are believers, but most of them are defiantly disobedient.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "30:31",
+ "label": "Reference text: Quran 30:31, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/30/31?translations=20",
+ "urls_fetched": [
+  "https://quran.com/30/31?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T09:06:25Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "30:31",
+   "raw": "[Adhere to it], turning in repentance to Him, and fear Him and establish prayer and do not be of those who associate others with Allāh",
+   "text": "[Adhere to it], turning in repentance to Him, and fear Him and establish prayer and do not be of those who associate others with Allāh",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

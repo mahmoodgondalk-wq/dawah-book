@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "11:73",
+ "label": "Reference text: Quran 11:73, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/11/73?translations=20",
+ "urls_fetched": [
+  "https://quran.com/11/73?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T08:59:34Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "11:73",
+   "raw": "They said, \"Are you amazed at the decree of Allāh? May the mercy of Allāh and His blessings be upon you, people of the house. Indeed, He is Praiseworthy and Honorable.\"",
+   "text": "They said, \"Are you amazed at the decree of Allāh? May the mercy of Allāh and His blessings be upon you, people of the house. Indeed, He is Praiseworthy and Honorable.\"",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

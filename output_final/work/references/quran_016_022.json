@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "16:22",
+ "label": "Reference text: Quran 16:22, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/16/22?translations=20",
+ "urls_fetched": [
+  "https://quran.com/16/22?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T09:00:22Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "16:22",
+   "raw": "Your god is one God. But those who do not believe in the Hereafter - their hearts are disapproving, and they are arrogant.",
+   "text": "Your god is one God. But those who do not believe in the Hereafter - their hearts are disapproving, and they are arrogant.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "25:23",
+ "label": "Reference text: Quran 25:23, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/25/23?translations=20",
+ "urls_fetched": [
+  "https://quran.com/25/23?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T09:02:42Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "25:23",
+   "raw": "And We will approach [i.e., regard]<sup foot_note=255505>1</sup> what they have done of deeds and make them as dust dispersed.",
+   "text": "And We will approach [i.e., regard] what they have done of deeds and make them as dust dispersed.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

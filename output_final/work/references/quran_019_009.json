@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "19:9",
+ "label": "Reference text: Quran 19:9, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/19/9?translations=20",
+ "urls_fetched": [
+  "https://quran.com/19/9?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T09:01:33Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "19:9",
+   "raw": "[An angel] said, \"Thus [it will be]; your Lord says, 'It is easy for Me, for I created you before, while you were nothing.'\"",
+   "text": "[An angel] said, \"Thus [it will be]; your Lord says, 'It is easy for Me, for I created you before, while you were nothing.'\"",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

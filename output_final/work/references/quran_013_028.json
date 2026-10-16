@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "13:28",
+ "label": "Reference text: Quran 13:28, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/13/28?translations=20",
+ "urls_fetched": [
+  "https://quran.com/13/28?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T08:59:46Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "13:28",
+   "raw": "Those who have believed and whose hearts are assured by the remembrance of Allāh. Unquestionably, by the remembrance of Allāh hearts are assured.\"",
+   "text": "Those who have believed and whose hearts are assured by the remembrance of Allāh. Unquestionably, by the remembrance of Allāh hearts are assured.\"",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

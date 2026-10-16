@@ -1699,5 +1699,54 @@
   "key": null,
   "decision": "skip",
   "reason": "Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)"
+ },
+ {
+  "file": "ML412",
+  "seg": 208,
+  "key": "quran:79:32-33",
+  "decision": "add",
+  "reason": "explicit (anNazi'at32-33): surah named"
+ },
+ {
+  "file": "ML419",
+  "seg": 226,
+  "key": "hadith:bukhari:6114",
+  "decision": "add",
+  "reason": "explicit (Bukhari6114)"
+ },
+ {
+  "file": "ML420",
+  "seg": 399,
+  "key": "hadith:bukhari:6464",
+  "decision": "add",
+  "reason": "explicit (Bukhari:6464)"
+ },
+ {
+  "file": "ML420",
+  "seg": 408,
+  "key": "hadith:muslim:2816c",
+  "decision": "add",
+  "reason": "explicit (Muslim:2816c)"
+ },
+ {
+  "file": "ML388",
+  "seg": 35,
+  "key": null,
+  "decision": "skip",
+  "reason": "Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)"
+ },
+ {
+  "file": "ML388",
+  "seg": 223,
+  "key": null,
+  "decision": "skip",
+  "reason": "Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)"
+ },
+ {
+  "file": "ML419",
+  "seg": 444,
+  "key": null,
+  "decision": "skip",
+  "reason": "Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)"
  }
 ]

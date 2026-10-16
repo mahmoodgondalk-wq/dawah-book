@@ -1,0 +1,26 @@
+{
+ "kind": "quran",
+ "ref": "29:2-3",
+ "label": "Reference text: Quran 29:2-3, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/29/2-3?translations=20",
+ "urls_fetched": [
+  "https://quran.com/29/2-3?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T09:03:27Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "29:2",
+   "raw": "Do the people think that they will be left to say, \"We believe\" and they will not be tried?",
+   "text": "Do the people think that they will be left to say, \"We believe\" and they will not be tried?",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "29:3",
+   "raw": "But We have certainly tried those before them, and Allāh will surely make evident those who are truthful, and He will surely make evident the liars.",
+   "text": "But We have certainly tried those before them, and Allāh will surely make evident those who are truthful, and He will surely make evident the liars.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

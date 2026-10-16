@@ -1,0 +1,44 @@
+{
+ "kind": "quran",
+ "ref": "3:71-75",
+ "label": "Reference text: Quran 3:71-75, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/3/71-75?translations=20",
+ "urls_fetched": [
+  "https://quran.com/3/71-75?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T09:08:37Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "3:71",
+   "raw": "O People of the Scripture, why do you mix [i.e., confuse] the truth with falsehood and conceal the truth while you know [it]?",
+   "text": "O People of the Scripture, why do you mix [i.e., confuse] the truth with falsehood and conceal the truth while you know [it]?",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "3:72",
+   "raw": "And a faction of the People of the Scripture say [to each other], \"Believe in that which was revealed to the believers at the beginning of the day and reject it at its end that perhaps they will return [i.e., abandon their religion],",
+   "text": "And a faction of the People of the Scripture say [to each other], \"Believe in that which was revealed to the believers at the beginning of the day and reject it at its end that perhaps they will return [i.e., abandon their religion],",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "3:73",
+   "raw": "And do not trust except those who follow your religion.\" Say, \"Indeed, the [true] guidance is the guidance of Allāh. [Do you fear] lest someone be given [knowledge] like you were given or that they would [thereby] argue with you before your Lord?\" Say, \"Indeed, [all] bounty is in the hand<sup foot_note=254139>1</sup> of Allāh - He grants it to whom He wills. And Allāh is all-Encompassing and Wise.\"",
+   "text": "And do not trust except those who follow your religion.\" Say, \"Indeed, the [true] guidance is the guidance of Allāh. [Do you fear] lest someone be given [knowledge] like you were given or that they would [thereby] argue with you before your Lord?\" Say, \"Indeed, [all] bounty is in the hand of Allāh - He grants it to whom He wills. And Allāh is all-Encompassing and Wise.\"",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "3:74",
+   "raw": "He selects for His mercy whom He wills. And Allāh is the possessor of great bounty.",
+   "text": "He selects for His mercy whom He wills. And Allāh is the possessor of great bounty.",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "3:75",
+   "raw": "And among the People of the Scripture is he who, if you entrust him with a great amount [of wealth], he will return it to you. And among them is he who, if you entrust him with a [single] coin, he will not return it to you unless you are constantly standing over him [demanding it]. That is because they say, \"There is no blame upon us concerning the unlearned.\"<sup foot_note=254140>1</sup> And they speak untruth about Allāh while they know [it].",
+   "text": "And among the People of the Scripture is he who, if you entrust him with a great amount [of wealth], he will return it to you. And among them is he who, if you entrust him with a [single] coin, he will not return it to you unless you are constantly standing over him [demanding it]. That is because they say, \"There is no blame upon us concerning the unlearned.\" And they speak untruth about Allāh while they know [it].",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

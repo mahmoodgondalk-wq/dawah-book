@@ -1,0 +1,38 @@
+{
+ "kind": "quran",
+ "ref": "112:1-4",
+ "label": "Reference text: Quran 112:1-4, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/112/1-4?translations=20",
+ "urls_fetched": [
+  "https://quran.com/112/1-4?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T08:59:19Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "112:1",
+   "raw": "Say, \"He is Allāh, [who is] One,<sup foot_note=257693>1</sup>",
+   "text": "Say, \"He is Allāh, [who is] One,",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "112:2",
+   "raw": "Allāh, the Eternal Refuge.<sup foot_note=257694>1</sup>",
+   "text": "Allāh, the Eternal Refuge.",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "112:3",
+   "raw": "He neither begets nor is born,",
+   "text": "He neither begets nor is born,",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "112:4",
+   "raw": "Nor is there to Him any equivalent.\"",
+   "text": "Nor is there to Him any equivalent.\"",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

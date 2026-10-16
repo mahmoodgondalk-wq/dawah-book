@@ -1,0 +1,50 @@
+{
+ "kind": "quran",
+ "ref": "109:1-6",
+ "label": "Reference text: Quran 109:1-6, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/109/1-6?translations=20",
+ "urls_fetched": [
+  "https://quran.com/109/1-6?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T08:58:58Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "109:1",
+   "raw": "Say, \"O disbelievers,",
+   "text": "Say, \"O disbelievers,",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "109:2",
+   "raw": "I do not worship what you worship.",
+   "text": "I do not worship what you worship.",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "109:3",
+   "raw": "Nor are you worshippers of what I worship.",
+   "text": "Nor are you worshippers of what I worship.",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "109:4",
+   "raw": "Nor will I be a worshipper of what you worship.",
+   "text": "Nor will I be a worshipper of what you worship.",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "109:5",
+   "raw": "Nor will you be worshippers of what I worship.",
+   "text": "Nor will you be worshippers of what I worship.",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "109:6",
+   "raw": "For you is your religion, and for me is my religion.\"",
+   "text": "For you is your religion, and for me is my religion.\"",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

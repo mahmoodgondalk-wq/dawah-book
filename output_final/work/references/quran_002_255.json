@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "2:255",
+ "label": "Reference text: Quran 2:255, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/2/255?translations=20",
+ "urls_fetched": [
+  "https://quran.com/2/255?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T09:04:56Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "2:255",
+   "raw": "Allāh - there is no deity except Him, the Ever-Living,<sup foot_note=254108>1</sup> the Self-Sustaining.<sup foot_note=254106>2</sup> Neither drowsiness overtakes Him nor sleep. To Him belongs whatever is in the heavens and whatever is on the earth. Who is it that can intercede with Him except by His permission? He knows what is [presently] before them and what will be after them,<sup foot_note=254109>3</sup> and they encompass not a thing of His knowledge except for what He wills. His Kursī<sup foot_note=254107>4</sup> extends over the heavens and the earth, and their preservation tires Him not. And He is the Most High,<sup foot_note=254110>5</sup> the Most Great.<sup foot_note=254111>6</sup>",
+   "text": "Allāh - there is no deity except Him, the Ever-Living, the Self-Sustaining. Neither drowsiness overtakes Him nor sleep. To Him belongs whatever is in the heavens and whatever is on the earth. Who is it that can intercede with Him except by His permission? He knows what is [presently] before them and what will be after them, and they encompass not a thing of His knowledge except for what He wills. His Kursī extends over the heavens and the earth, and their preservation tires Him not. And He is the Most High, the Most Great.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

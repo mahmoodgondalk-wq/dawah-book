@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "2:202",
+ "label": "Reference text: Quran 2:202, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/2/202?translations=20",
+ "urls_fetched": [
+  "https://quran.com/2/202?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T09:04:35Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "2:202",
+   "raw": "Those will have a share of what they have earned, and Allāh is swift in account.",
+   "text": "Those will have a share of what they have earned, and Allāh is swift in account.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

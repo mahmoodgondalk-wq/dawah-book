@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "31:15",
+ "label": "Reference text: Quran 31:15, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/31/15?translations=20",
+ "urls_fetched": [
+  "https://quran.com/31/15?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T09:06:30Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "31:15",
+   "raw": "But if they endeavor to make you associate with Me that of which you have no knowledge,<sup foot_note=255917>1</sup> do not obey them but accompany them in [this] world with appropriate kindness and follow the way of those who turn back to Me [in repentance]. Then to Me will be your return, and I will inform you about what you used to do.",
+   "text": "But if they endeavor to make you associate with Me that of which you have no knowledge, do not obey them but accompany them in [this] world with appropriate kindness and follow the way of those who turn back to Me [in repentance]. Then to Me will be your return, and I will inform you about what you used to do.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "39:4",
+ "label": "Reference text: Quran 39:4, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/39/4?translations=20",
+ "urls_fetched": [
+  "https://quran.com/39/4?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T09:07:38Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "39:4",
+   "raw": "If Allāh had intended to take a son, He could have chosen from what He creates whatever He willed. Exalted is He; He is Allāh, the One, the Prevailing.<sup foot_note=256337>1</sup>",
+   "text": "If Allāh had intended to take a son, He could have chosen from what He creates whatever He willed. Exalted is He; He is Allāh, the One, the Prevailing.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

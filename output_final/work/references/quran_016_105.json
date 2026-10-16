@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "16:105",
+ "label": "Reference text: Quran 16:105, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/16/105?translations=20",
+ "urls_fetched": [
+  "https://quran.com/16/105?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T09:00:09Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "16:105",
+   "raw": "They only invent falsehood who do not believe in the verses of Allāh, and it is those who are the liars.",
+   "text": "They only invent falsehood who do not believe in the verses of Allāh, and it is those who are the liars.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

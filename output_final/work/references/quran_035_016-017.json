@@ -1,0 +1,26 @@
+{
+ "kind": "quran",
+ "ref": "35:16-17",
+ "label": "Reference text: Quran 35:16-17, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/35/16-17?translations=20",
+ "urls_fetched": [
+  "https://quran.com/35/16-17?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T09:07:03Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "35:16",
+   "raw": "If He wills, He can do away with you and bring forth a new creation.",
+   "text": "If He wills, He can do away with you and bring forth a new creation.",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "35:17",
+   "raw": "And that is for Allāh not difficult.",
+   "text": "And that is for Allāh not difficult.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

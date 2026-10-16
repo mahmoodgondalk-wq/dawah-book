@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "36:82",
+ "label": "Reference text: Quran 36:82, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/36/82?translations=20",
+ "urls_fetched": [
+  "https://quran.com/36/82?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T09:07:11Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "36:82",
+   "raw": "His command is only when He intends a thing that He says to it, \"Be,\" and it is.",
+   "text": "His command is only when He intends a thing that He says to it, \"Be,\" and it is.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

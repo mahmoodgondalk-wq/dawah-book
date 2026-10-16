@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "24:30",
+ "label": "Reference text: Quran 24:30, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/24/30?translations=20",
+ "urls_fetched": [
+  "https://quran.com/24/30?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T09:02:33Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "24:30",
+   "raw": "Tell the believing men to reduce [some] of their vision<sup foot_note=255456>1</sup> and guard their private parts.<sup foot_note=255457>2</sup> That is purer for them. Indeed, Allāh is [fully] Aware of what they do.",
+   "text": "Tell the believing men to reduce [some] of their vision and guard their private parts. That is purer for them. Indeed, Allāh is [fully] Aware of what they do.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

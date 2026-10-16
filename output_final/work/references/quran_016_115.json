@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "16:115",
+ "label": "Reference text: Quran 16:115, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/16/115?translations=20",
+ "urls_fetched": [
+  "https://quran.com/16/115?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T09:00:17Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "16:115",
+   "raw": "He has only forbidden to you dead animals,<sup foot_note=254866>1</sup> blood, the flesh of swine, and that which has been dedicated to other than Allāh. But whoever is forced [by necessity], neither desiring [it] nor transgressing [its limit] - then indeed, Allāh is Forgiving and Merciful.",
+   "text": "He has only forbidden to you dead animals, blood, the flesh of swine, and that which has been dedicated to other than Allāh. But whoever is forced [by necessity], neither desiring [it] nor transgressing [its limit] - then indeed, Allāh is Forgiving and Merciful.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

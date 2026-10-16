@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "17:59",
+ "label": "Reference text: Quran 17:59, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/17/59?translations=20",
+ "urls_fetched": [
+  "https://quran.com/17/59?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T09:00:56Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "17:59",
+   "raw": "And nothing has prevented Us from sending signs [i.e., miracles] except that the former peoples denied them. And We gave Thamūd the she-camel as a visible sign, but they wronged her. And We send not the signs except as a warning.",
+   "text": "And nothing has prevented Us from sending signs [i.e., miracles] except that the former peoples denied them. And We gave Thamūd the she-camel as a visible sign, but they wronged her. And We send not the signs except as a warning.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

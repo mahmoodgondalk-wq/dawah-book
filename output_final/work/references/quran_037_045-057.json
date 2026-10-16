@@ -1,0 +1,93 @@
+{
+ "kind": "quran",
+ "ref": "37:45-57",
+ "label": "Reference text: Quran 37:45-57, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/37/45-57?translations=20",
+ "urls_fetched": [
+  "https://quran.com/37/45-57?translations=20",
+  "https://quran.com/37/52?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T09:07:16Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "37:45",
+   "raw": "There will be circulated among them a cup [of wine] from a flowing spring,",
+   "text": "There will be circulated among them a cup [of wine] from a flowing spring,",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "37:46",
+   "raw": "White and delicious to the drinkers;",
+   "text": "White and delicious to the drinkers;",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "37:47",
+   "raw": "No bad effect is there in it, nor from it will they be intoxicated.",
+   "text": "No bad effect is there in it, nor from it will they be intoxicated.",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "37:48",
+   "raw": "And with them will be women limiting [their] glances,<sup foot_note=256196>1</sup> with large, [beautiful] eyes,",
+   "text": "And with them will be women limiting [their] glances, with large, [beautiful] eyes,",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "37:49",
+   "raw": "As if they were [delicate] eggs, well-protected.",
+   "text": "As if they were [delicate] eggs, well-protected.",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "37:50",
+   "raw": "And they will approach one another, inquiring of each other.",
+   "text": "And they will approach one another, inquiring of each other.",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "37:51",
+   "raw": "A speaker among them will say, \"Indeed, I had a companion [on earth].",
+   "text": "A speaker among them will say, \"Indeed, I had a companion [on earth].",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "37:52",
+   "raw": "Who would say, 'Are you indeed of those who believe",
+   "text": "Who would say, 'Are you indeed of those who believe",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "37:53",
+   "raw": "That when we have died and become dust and bones, we will indeed be recompensed?'\"",
+   "text": "That when we have died and become dust and bones, we will indeed be recompensed?'\"",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "37:54",
+   "raw": "He will say,<sup foot_note=256200>1</sup> \"Would you [care to] look?\"",
+   "text": "He will say, \"Would you [care to] look?\"",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "37:55",
+   "raw": "And he will look and see him<sup foot_note=256202>1</sup> in the midst of the Hellfire.",
+   "text": "And he will look and see him in the midst of the Hellfire.",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "37:56",
+   "raw": "He will say, \"By Allāh, you almost ruined me.",
+   "text": "He will say, \"By Allāh, you almost ruined me.",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "37:57",
+   "raw": "If not for the favor of my Lord, I would have been of those brought in [to Hell].",
+   "text": "If not for the favor of my Lord, I would have been of those brought in [to Hell].",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

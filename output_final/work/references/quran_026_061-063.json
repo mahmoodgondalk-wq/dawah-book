@@ -1,0 +1,32 @@
+{
+ "kind": "quran",
+ "ref": "26:61-63",
+ "label": "Reference text: Quran 26:61-63, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/26/61-63?translations=20",
+ "urls_fetched": [
+  "https://quran.com/26/61-63?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T09:02:55Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "26:61",
+   "raw": "And when the two companies saw one another, the companions of Moses said, \"Indeed, we are to be overtaken!\"",
+   "text": "And when the two companies saw one another, the companions of Moses said, \"Indeed, we are to be overtaken!\"",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "26:62",
+   "raw": "[Moses] said, \"No! Indeed, with me is my Lord; He will guide me.\"",
+   "text": "[Moses] said, \"No! Indeed, with me is my Lord; He will guide me.\"",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "26:63",
+   "raw": "Then We inspired to Moses, \"Strike with your staff the sea,\" and it parted, and each portion was like a great towering mountain.",
+   "text": "Then We inspired to Moses, \"Strike with your staff the sea,\" and it parted, and each portion was like a great towering mountain.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

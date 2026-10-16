@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "2:62",
+ "label": "Reference text: Quran 2:62, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/2/62?translations=20",
+ "urls_fetched": [
+  "https://quran.com/2/62?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T09:05:53Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "2:62",
+   "raw": "Indeed, those who believed and those who were Jews or Christians or Sabeans [before Prophet Muḥammad (ﷺ)] - those [among them] who believed in Allāh and the Last Day and did righteousness - will have their reward with their Lord, and no fear will there be concerning them, nor will they grieve<sup foot_note=254037>1</sup>.",
+   "text": "Indeed, those who believed and those who were Jews or Christians or Sabeans [before Prophet Muḥammad (ﷺ)] - those [among them] who believed in Allāh and the Last Day and did righteousness - will have their reward with their Lord, and no fear will there be concerning them, nor will they grieve.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

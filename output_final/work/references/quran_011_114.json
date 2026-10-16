@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "11:114",
+ "label": "Reference text: Quran 11:114, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/11/114?translations=20",
+ "urls_fetched": [
+  "https://quran.com/11/114?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T08:59:26Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "11:114",
+   "raw": "And establish prayer at the two ends of the day and at the approach of the night. Indeed, good deeds do away with misdeeds. That is a reminder for those who remember.",
+   "text": "And establish prayer at the two ends of the day and at the approach of the night. Indeed, good deeds do away with misdeeds. That is a reminder for those who remember.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

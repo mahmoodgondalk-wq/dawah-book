@@ -1,0 +1,34 @@
+{
+ "kind": "quran",
+ "ref": "3:45-47",
+ "label": "Reference text: Quran 3:45-47, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/3/45-47?translations=20",
+ "urls_fetched": [
+  "https://quran.com/3/45-47?translations=20",
+  "https://quran.com/3/46?translations=20",
+  "https://quran.com/3/47?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T09:08:16Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "3:45",
+   "raw": "[And mention] when the angels said, \"O Mary, indeed Allāh gives you good tidings of a word<sup foot_note=254132>1</sup> from Him, whose name will be the Messiah, Jesus, the son of Mary - distinguished in this world and the Hereafter and among those brought near [to Allāh].",
+   "text": "[And mention] when the angels said, \"O Mary, indeed Allāh gives you good tidings of a word from Him, whose name will be the Messiah, Jesus, the son of Mary - distinguished in this world and the Hereafter and among those brought near [to Allāh].",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "3:46",
+   "raw": "He will speak to the people in the cradle and in maturity and will be of the righteous.\"",
+   "text": "He will speak to the people in the cradle and in maturity and will be of the righteous.\"",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "3:47",
+   "raw": "She said, \"My Lord, how will I have a child when no man has touched me?\" [The angel] said, \"Such is Allāh; He creates what He wills. When He decrees a matter, He only says to it, 'Be,' and it is.",
+   "text": "She said, \"My Lord, how will I have a child when no man has touched me?\" [The angel] said, \"Such is Allāh; He creates what He wills. When He decrees a matter, He only says to it, 'Be,' and it is.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

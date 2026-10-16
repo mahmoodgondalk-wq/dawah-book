@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "3:90",
+ "label": "Reference text: Quran 3:90, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/3/90?translations=20",
+ "urls_fetched": [
+  "https://quran.com/3/90?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T09:08:41Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "3:90",
+   "raw": "Indeed, those who disbelieve [i.e., reject the message] after their belief and then increase in disbelief - never will their [claimed] repentance be accepted, and they are the ones astray.",
+   "text": "Indeed, those who disbelieve [i.e., reject the message] after their belief and then increase in disbelief - never will their [claimed] repentance be accepted, and they are the ones astray.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "kind": "quran",
+ "ref": "17:18-19",
+ "label": "Reference text: Quran 17:18-19, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/17/18-19?translations=20",
+ "urls_fetched": [
+  "https://quran.com/17/18-19?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T09:00:45Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "17:18",
+   "raw": "Whoever should desire the immediate<sup foot_note=254889>1</sup> - We hasten for him from it what We will to whom We intend. Then We have made for him Hell, which he will [enter to] burn, censured and banished.",
+   "text": "Whoever should desire the immediate - We hasten for him from it what We will to whom We intend. Then We have made for him Hell, which he will [enter to] burn, censured and banished.",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "17:19",
+   "raw": "But whoever desires the Hereafter and exerts the effort due to it while he is a believer - it is those whose effort is ever appreciated [by Allāh].",
+   "text": "But whoever desires the Hereafter and exerts the effort due to it while he is a believer - it is those whose effort is ever appreciated [by Allāh].",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

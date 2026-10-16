@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "31:10",
+ "label": "Reference text: Quran 31:10, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/31/10?translations=20",
+ "urls_fetched": [
+  "https://quran.com/31/10?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T09:06:29Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "31:10",
+   "raw": "He created the heavens without pillars that you see and has cast into the earth firmly set mountains, lest it should shift with you, and dispersed therein from every creature. And We sent down rain from the sky and made grow therein [plants] of every noble kind.",
+   "text": "He created the heavens without pillars that you see and has cast into the earth firmly set mountains, lest it should shift with you, and dispersed therein from every creature. And We sent down rain from the sky and made grow therein [plants] of every noble kind.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

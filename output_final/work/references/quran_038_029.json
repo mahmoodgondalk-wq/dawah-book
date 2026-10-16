@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "38:29",
+ "label": "Reference text: Quran 38:29, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/38/29?translations=20",
+ "urls_fetched": [
+  "https://quran.com/38/29?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T09:07:22Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "38:29",
+   "raw": "[This is] a blessed Book which We have revealed to you, [O Muḥammad], that they might reflect upon its verses and that those of understanding would be reminded.",
+   "text": "[This is] a blessed Book which We have revealed to you, [O Muḥammad], that they might reflect upon its verses and that those of understanding would be reminded.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "2:128",
+ "label": "Reference text: Quran 2:128, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/2/128?translations=20",
+ "urls_fetched": [
+  "https://quran.com/2/128?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T09:03:57Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "2:128",
+   "raw": "Our Lord, and make us Muslims [in submission] to You and from our descendants a Muslim nation [in submission] to You. And show us our rites [of worship] and accept our repentance. Indeed, You are the Accepting of Repentance, the Merciful.",
+   "text": "Our Lord, and make us Muslims [in submission] to You and from our descendants a Muslim nation [in submission] to You. And show us our rites [of worship] and accept our repentance. Indeed, You are the Accepting of Repentance, the Merciful.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

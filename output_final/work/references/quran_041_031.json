@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "41:31",
+ "label": "Reference text: Quran 41:31, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/41/31?translations=20",
+ "urls_fetched": [
+  "https://quran.com/41/31?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:22:39Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "41:31",
+   "raw": "We [angels] were your allies in worldly life and [are so] in the Hereafter. And you will have therein whatever your souls desire, and you will have therein whatever you request [or wish]",
+   "text": "We [angels] were your allies in worldly life and [are so] in the Hereafter. And you will have therein whatever your souls desire, and you will have therein whatever you request [or wish]",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "39:3",
+ "label": "Reference text: Quran 39:3, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/39/3?translations=20",
+ "urls_fetched": [
+  "https://quran.com/39/3?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T09:07:36Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "39:3",
+   "raw": "Unquestionably, for Allāh is the pure religion.<sup foot_note=256335>1</sup> And those who take protectors besides Him [say], \"We only worship them that they may bring us nearer to Allāh in position.\" Indeed, Allāh will judge between them concerning that over which they differ. Indeed, Allāh does not guide he who is a liar and [confirmed] disbeliever.",
+   "text": "Unquestionably, for Allāh is the pure religion. And those who take protectors besides Him [say], \"We only worship them that they may bring us nearer to Allāh in position.\" Indeed, Allāh will judge between them concerning that over which they differ. Indeed, Allāh does not guide he who is a liar and [confirmed] disbeliever.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

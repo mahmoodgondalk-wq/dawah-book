@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "16:125",
+ "label": "Reference text: Quran 16:125, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/16/125?translations=20",
+ "urls_fetched": [
+  "https://quran.com/16/125?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T09:00:19Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "16:125",
+   "raw": "Invite to the way of your Lord with wisdom and good instruction, and argue with them in a way that is best. Indeed, your Lord is most knowing of who has strayed from His way, and He is most knowing of who is [rightly] guided.",
+   "text": "Invite to the way of your Lord with wisdom and good instruction, and argue with them in a way that is best. Indeed, your Lord is most knowing of who has strayed from His way, and He is most knowing of who is [rightly] guided.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

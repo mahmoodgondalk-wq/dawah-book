@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "18:110",
+ "label": "Reference text: Quran 18:110, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/18/110?translations=20",
+ "urls_fetched": [
+  "https://quran.com/18/110?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T09:01:07Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "18:110",
+   "raw": "Say, \"I am only a man like you, to whom has been revealed that your god is one God. So whoever would hope for the meeting with his Lord - let him do righteous work and not associate in the worship of his Lord anyone.\"",
+   "text": "Say, \"I am only a man like you, to whom has been revealed that your god is one God. So whoever would hope for the meeting with his Lord - let him do righteous work and not associate in the worship of his Lord anyone.\"",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

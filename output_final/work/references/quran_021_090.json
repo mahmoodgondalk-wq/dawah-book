@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "21:90",
+ "label": "Reference text: Quran 21:90, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/21/90?translations=20",
+ "urls_fetched": [
+  "https://quran.com/21/90?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T09:02:05Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "21:90",
+   "raw": "So We responded to him, and We gave to him John, and amended for him his wife. Indeed, they used to hasten to good deeds and supplicate<sup foot_note=255194>1</sup> Us in hope and fear, and they were to Us humbly submissive.",
+   "text": "So We responded to him, and We gave to him John, and amended for him his wife. Indeed, they used to hasten to good deeds and supplicate Us in hope and fear, and they were to Us humbly submissive.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

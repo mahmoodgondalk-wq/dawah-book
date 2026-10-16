@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "40:36",
+ "label": "Reference text: Quran 40:36, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/40/36?translations=20",
+ "urls_fetched": [
+  "https://quran.com/40/36?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T09:08:48Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "40:36",
+   "raw": "And Pharaoh said, \"O Hāmān, construct for me a tower that I might reach the ways<sup foot_note=256387>1</sup> -",
+   "text": "And Pharaoh said, \"O Hāmān, construct for me a tower that I might reach the ways -",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

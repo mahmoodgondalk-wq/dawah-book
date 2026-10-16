@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "29:48",
+ "label": "Reference text: Quran 29:48, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/29/48?translations=20",
+ "urls_fetched": [
+  "https://quran.com/29/48?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T09:03:33Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "29:48",
+   "raw": "And you did not recite before it any scripture, nor did you inscribe one with your right hand. Then [i.e., otherwise] the falsifiers would have had [cause for] doubt.",
+   "text": "And you did not recite before it any scripture, nor did you inscribe one with your right hand. Then [i.e., otherwise] the falsifiers would have had [cause for] doubt.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

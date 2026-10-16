@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "2:34",
+ "label": "Reference text: Quran 2:34, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/2/34?translations=20",
+ "urls_fetched": [
+  "https://quran.com/2/34?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T09:05:19Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "2:34",
+   "raw": "And [mention] when We said to the angels, \"Prostrate before Adam\"; so they prostrated, except for Iblees.<sup foot_note=254029>1</sup> He refused and was arrogant and became of the disbelievers.",
+   "text": "And [mention] when We said to the angels, \"Prostrate before Adam\"; so they prostrated, except for Iblees. He refused and was arrogant and became of the disbelievers.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

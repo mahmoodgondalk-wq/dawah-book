@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "2:76",
+ "label": "Reference text: Quran 2:76, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/2/76?translations=20",
+ "urls_fetched": [
+  "https://quran.com/2/76?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T09:06:03Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "2:76",
+   "raw": "And when they meet those who believe, they say, \"We have believed\"; but when they are alone with one another, they say, \"Do you talk to them about what Allāh has revealed to you so they can argue with you about it before your Lord?\" Then will you not reason?",
+   "text": "And when they meet those who believe, they say, \"We have believed\"; but when they are alone with one another, they say, \"Do you talk to them about what Allāh has revealed to you so they can argue with you about it before your Lord?\" Then will you not reason?",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

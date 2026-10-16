@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "2:127",
+ "label": "Reference text: Quran 2:127, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/2/127?translations=20",
+ "urls_fetched": [
+  "https://quran.com/2/127?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T09:03:56Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "2:127",
+   "raw": "And [mention] when Abraham was raising the foundations of the House and [with him] Ishmael, [saying], \"Our Lord, accept [this] from us. Indeed, You are the Hearing,<sup foot_note=254050>1</sup> the Knowing.<sup foot_note=254051>2</sup>",
+   "text": "And [mention] when Abraham was raising the foundations of the House and [with him] Ishmael, [saying], \"Our Lord, accept [this] from us. Indeed, You are the Hearing, the Knowing.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

@@ -22,7 +22,7 @@ All scripts are in `work/scripts/`. Run them from the repository root.
 - Each batch is labeled by one subagent with the identical prompt in `work/scripts/agent_prompt.txt` (replace {FILES}).
 - Outputs: `work/labels/<id>.json` (type, confidence, evidence, speaker ranges, doubts), `work/topics/<id>.json` (topic ranges, refs).
 - Pilot (ML043, FR054, FR002, ML001) done and checked.
-- Labeling status: TOTAL 774/774 files labeled; complete batches: 152/152 (as of 2026-10-11 08:57 UTC)
+- Labeling status: TOTAL 774/774 files labeled; complete batches: 152/152 (as of 2026-10-16 14:22 UTC)
 - NOTE: at ~09:30 UTC the API session limit was hit; batches B54, B57-B63 failed mid-way. To resume: run `batches.py todo 10` and relaunch those batches with the same prompt (files already valid are skipped automatically).
 - USER INSTRUCTION (2026-10-04): labeling subagents must run on the default model (Opus 5.5); do NOT switch them to Sonnet.
 - Oct 2: the weekly usage limit was hit around B57-B64; resumed Oct 4.
@@ -33,6 +33,10 @@ All scripts are in `work/scripts/`. Run them from the repository root.
 - One Opus subagent per part with the prompt in `work/scripts/consolidation_prompt.txt` ({PART}, {N}) and CONSOLIDATION_GUIDE.md
   -> work/consolidation/Pxx_out.json; check: `python3 output_final/work/scripts/check_consolidation.py P01 ... P16`
 - Then: place the 'moves' (work/consolidation/moves_out.json), `build_mapping.py` -> work/taxonomy.json + work/mapping.json
+- USER INSTRUCTION (2026-10-16): the book order must be first everything about Islam, then all other religions and/or ideologies.
+  Implemented in `work/part_order.json` (P01-P07, P11-P15 = Islam; then P08 Christianity, P09 Bible, P10 Judaism and other religions,
+  P17 "Atheism, Secularism and Other Worldviews" = chapters P01.C02, P01.C06, P01.C07, P13.C06, P14.C04 moved there via
+  `work/chapter_parts.json` + `work/part_titles.json`; P16 Other Remarks last). build_mapping.py applies these files.
 - Reference review notes collected during labeling: work/report_notes.md (manual decisions already in references/manual_decisions.json)
 ## Stage 5: REFERENCE TEXTS — NOT STARTED
 ## Stage 6: ASSEMBLE + PDF — NOT STARTED

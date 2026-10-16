@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "39:6",
+ "label": "Reference text: Quran 39:6, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/39/6?translations=20",
+ "urls_fetched": [
+  "https://quran.com/39/6?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T09:07:41Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "39:6",
+   "raw": "He created you from one soul. Then He made from it its mate, and He produced for you from the grazing livestock eight mates.<sup foot_note=256339>1</sup> He creates you in the wombs of your mothers, creation after creation, within three darknesses.<sup foot_note=256340>2</sup> That is Allāh, your Lord; to Him belongs dominion. There is no deity except Him, so how are you averted?",
+   "text": "He created you from one soul. Then He made from it its mate, and He produced for you from the grazing livestock eight mates. He creates you in the wombs of your mothers, creation after creation, within three darknesses. That is Allāh, your Lord; to Him belongs dominion. There is no deity except Him, so how are you averted?",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

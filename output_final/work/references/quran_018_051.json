@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "18:51",
+ "label": "Reference text: Quran 18:51, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/18/51?translations=20",
+ "urls_fetched": [
+  "https://quran.com/18/51?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T09:01:13Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "18:51",
+   "raw": "I did not make them witness to the creation of the heavens and the earth or to the creation of themselves, and I would not have taken the misguiders as assistants.",
+   "text": "I did not make them witness to the creation of the heavens and the earth or to the creation of themselves, and I would not have taken the misguiders as assistants.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

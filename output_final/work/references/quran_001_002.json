@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "1:2",
+ "label": "Reference text: Quran 1:2, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/1/2?translations=20",
+ "urls_fetched": [
+  "https://quran.com/1/2?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T09:01:36Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "1:2",
+   "raw": "[All] praise is [due] to Allāh, Lord<sup foot_note=254013>1</sup> of the worlds -",
+   "text": "[All] praise is [due] to Allāh, Lord of the worlds -",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

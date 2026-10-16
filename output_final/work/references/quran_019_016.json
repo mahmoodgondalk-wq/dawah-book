@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "19:16",
+ "label": "Reference text: Quran 19:16, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/19/16?translations=20",
+ "urls_fetched": [
+  "https://quran.com/19/16?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T09:01:17Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "19:16",
+   "raw": "And mention, [O Muḥammad], in the Book [the story of] Mary, when she withdrew from her family to a place toward the east.",
+   "text": "And mention, [O Muḥammad], in the Book [the story of] Mary, when she withdrew from her family to a place toward the east.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

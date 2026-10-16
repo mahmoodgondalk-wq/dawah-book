@@ -1,0 +1,26 @@
+{
+ "kind": "quran",
+ "ref": "38:77-78",
+ "label": "Reference text: Quran 38:77-78, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/38/77-78?translations=20",
+ "urls_fetched": [
+  "https://quran.com/38/77-78?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T09:07:29Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "38:77",
+   "raw": "[Allāh] said, \"Then get out of it [i.e., Paradise], for indeed, you are expelled.",
+   "text": "[Allāh] said, \"Then get out of it [i.e., Paradise], for indeed, you are expelled.",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "38:78",
+   "raw": "And indeed, upon you is My curse until the Day of Recompense.\"",
+   "text": "And indeed, upon you is My curse until the Day of Recompense.\"",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

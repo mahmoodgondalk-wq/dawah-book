@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "10:38",
+ "label": "Reference text: Quran 10:38, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/10/38?translations=20",
+ "urls_fetched": [
+  "https://quran.com/10/38?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T08:59:01Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "10:38",
+   "raw": "Or do they say [about the Prophet (ﷺ)], \"He invented it?\" Say, \"Then bring forth a sūrah like it and call upon [for assistance] whomever you can besides Allāh, if you should be truthful.\"",
+   "text": "Or do they say [about the Prophet (ﷺ)], \"He invented it?\" Say, \"Then bring forth a sūrah like it and call upon [for assistance] whomever you can besides Allāh, if you should be truthful.\"",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "17:23",
+ "label": "Reference text: Quran 17:23, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/17/23?translations=20",
+ "urls_fetched": [
+  "https://quran.com/17/23?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T09:00:47Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "17:23",
+   "raw": "And your Lord has decreed that you worship not except Him, and to parents, good treatment. Whether one or both of them reach old age [while] with you, say not to them [so much as], \"uff,\"<sup foot_note=254891>1</sup> and do not repel them but speak to them a noble word.",
+   "text": "And your Lord has decreed that you worship not except Him, and to parents, good treatment. Whether one or both of them reach old age [while] with you, say not to them [so much as], \"uff,\" and do not repel them but speak to them a noble word.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

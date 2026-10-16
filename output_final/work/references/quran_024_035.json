@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "24:35",
+ "label": "Reference text: Quran 24:35, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/24/35?translations=20",
+ "urls_fetched": [
+  "https://quran.com/24/35?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T09:02:37Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "24:35",
+   "raw": "Allāh is the Light<sup foot_note=255468>1</sup> of the heavens and the earth. The example of His light<sup foot_note=255469>2</sup> is like a niche within which is a lamp;<sup foot_note=255470>3</sup> the lamp is within glass, the glass as if it were a pearly [white] star lit from [the oil of] a blessed olive tree, neither of the east nor of the west, whose oil would almost glow even if untouched by fire. Light upon light. Allāh guides to His light whom He wills. And Allāh presents examples for the people, and Allāh is Knowing of all things.",
+   "text": "Allāh is the Light of the heavens and the earth. The example of His light is like a niche within which is a lamp; the lamp is within glass, the glass as if it were a pearly [white] star lit from [the oil of] a blessed olive tree, neither of the east nor of the west, whose oil would almost glow even if untouched by fire. Light upon light. Allāh guides to His light whom He wills. And Allāh presents examples for the people, and Allāh is Knowing of all things.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

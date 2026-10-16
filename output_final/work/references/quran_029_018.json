@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "29:18",
+ "label": "Reference text: Quran 29:18, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/29/18?translations=20",
+ "urls_fetched": [
+  "https://quran.com/29/18?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T09:03:25Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "29:18",
+   "raw": "And if you [people] deny [the message] - already nations before you have denied. And there is not upon the Messenger except [the duty of] clear notification.<sup foot_note=255838>1</sup>",
+   "text": "And if you [people] deny [the message] - already nations before you have denied. And there is not upon the Messenger except [the duty of] clear notification.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

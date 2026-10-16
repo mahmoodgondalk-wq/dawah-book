@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "33:21",
+ "label": "Reference text: Quran 33:21, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/33/21?translations=20",
+ "urls_fetched": [
+  "https://quran.com/33/21?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T09:06:41Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "33:21",
+   "raw": "There has certainly been for you in the Messenger of Allāh an excellent pattern<sup foot_note=255987>1</sup> for anyone whose hope is in Allāh and the Last Day and [who] remembers Allāh often.",
+   "text": "There has certainly been for you in the Messenger of Allāh an excellent pattern for anyone whose hope is in Allāh and the Last Day and [who] remembers Allāh often.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

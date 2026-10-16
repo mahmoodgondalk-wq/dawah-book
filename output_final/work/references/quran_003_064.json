@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "3:64",
+ "label": "Reference text: Quran 3:64, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/3/64?translations=20",
+ "urls_fetched": [
+  "https://quran.com/3/64?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T09:08:27Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "3:64",
+   "raw": "Say, \"O People of the Scripture, come to a word that is equitable between us and you - that we will not worship except Allāh and not associate anything with Him and not take one another as lords instead of Allāh.\"<sup foot_note=254135>1</sup> But if they turn away, then say, \"Bear witness that we are Muslims [submitting to Him].\"",
+   "text": "Say, \"O People of the Scripture, come to a word that is equitable between us and you - that we will not worship except Allāh and not associate anything with Him and not take one another as lords instead of Allāh.\" But if they turn away, then say, \"Bear witness that we are Muslims [submitting to Him].\"",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

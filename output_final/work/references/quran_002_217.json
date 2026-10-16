@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "2:217",
+ "label": "Reference text: Quran 2:217, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/2/217?translations=20",
+ "urls_fetched": [
+  "https://quran.com/2/217?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T09:04:43Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "2:217",
+   "raw": "They ask you about the sacred month<sup foot_note=254086>1</sup> - about fighting therein. Say, \"Fighting therein is great [sin], but averting [people] from the way of Allāh and disbelief in Him and [preventing access to] al-Masjid al-Ḥarām and the expulsion of its people therefrom are greater [evil] in the sight of Allāh. And fitnah<sup foot_note=254087>2</sup> is greater than killing.\" And they will continue to fight you until they turn you back from your religion if they are able. And whoever of you reverts from his religion [to disbelief] and dies while he is a disbeliever - for those, their deeds have become worthless in this world and the Hereafter, and those are the companions of the Fire; they will abide therein eternally.",
+   "text": "They ask you about the sacred month - about fighting therein. Say, \"Fighting therein is great [sin], but averting [people] from the way of Allāh and disbelief in Him and [preventing access to] al-Masjid al-Ḥarām and the expulsion of its people therefrom are greater [evil] in the sight of Allāh. And fitnah is greater than killing.\" And they will continue to fight you until they turn you back from your religion if they are able. And whoever of you reverts from his religion [to disbelief] and dies while he is a disbeliever - for those, their deeds have become worthless in this world and the Hereafter, and those are the companions of the Fire; they will abide therein eternally.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

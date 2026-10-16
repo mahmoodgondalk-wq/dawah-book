@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "10:63",
+ "label": "Reference text: Quran 10:63, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/10/63?translations=20",
+ "urls_fetched": [
+  "https://quran.com/10/63?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T08:59:02Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "10:63",
+   "raw": "Those who believed and were fearing Allāh.",
+   "text": "Those who believed and were fearing Allāh.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

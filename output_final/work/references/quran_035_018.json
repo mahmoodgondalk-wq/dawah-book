@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "35:18",
+ "label": "Reference text: Quran 35:18, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/35/18?translations=20",
+ "urls_fetched": [
+  "https://quran.com/35/18?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T09:07:04Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "35:18",
+   "raw": "And no bearer of burdens will bear the burden of another. And if a heavily laden soul calls [another] to [carry some of] its load, nothing of it will be carried, even if he should be a close relative. You can only warn those who fear their Lord unseen and have established prayer. And whoever purifies himself only purifies himself for [the benefit of] his soul. And to Allāh is the [final] destination.",
+   "text": "And no bearer of burdens will bear the burden of another. And if a heavily laden soul calls [another] to [carry some of] its load, nothing of it will be carried, even if he should be a close relative. You can only warn those who fear their Lord unseen and have established prayer. And whoever purifies himself only purifies himself for [the benefit of] his soul. And to Allāh is the [final] destination.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

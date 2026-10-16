@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "15:47",
+ "label": "Reference text: Quran 15:47, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/15/47?translations=20",
+ "urls_fetched": [
+  "https://quran.com/15/47?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T08:59:59Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "15:47",
+   "raw": "And We will remove whatever is in their breasts of resentment,<sup foot_note=254789>1</sup> [so they will be] brothers, on thrones facing each other.",
+   "text": "And We will remove whatever is in their breasts of resentment, [so they will be] brothers, on thrones facing each other.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

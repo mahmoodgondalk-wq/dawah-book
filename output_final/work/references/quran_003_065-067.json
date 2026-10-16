@@ -1,0 +1,32 @@
+{
+ "kind": "quran",
+ "ref": "3:65-67",
+ "label": "Reference text: Quran 3:65-67, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/3/65-67?translations=20",
+ "urls_fetched": [
+  "https://quran.com/3/65-67?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T09:08:32Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "3:65",
+   "raw": "O People of the Scripture, why do you argue about Abraham while the Torah and the Gospel were not revealed until after him? Then will you not reason?",
+   "text": "O People of the Scripture, why do you argue about Abraham while the Torah and the Gospel were not revealed until after him? Then will you not reason?",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "3:66",
+   "raw": "Here you are - those who have argued about that of which you have [some] knowledge, but why do you argue about that of which you have no knowledge? And Allāh knows, while you know not.",
+   "text": "Here you are - those who have argued about that of which you have [some] knowledge, but why do you argue about that of which you have no knowledge? And Allāh knows, while you know not.",
+   "resource_name": "Saheeh International"
+  },
+  {
+   "key": "3:67",
+   "raw": "Abraham was neither a Jew nor a Christian, but he was one inclining toward truth, a Muslim [submitting to Allāh]. And he was not of the polytheists.<sup foot_note=254136>1</sup>",
+   "text": "Abraham was neither a Jew nor a Christian, but he was one inclining toward truth, a Muslim [submitting to Allāh]. And he was not of the polytheists.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

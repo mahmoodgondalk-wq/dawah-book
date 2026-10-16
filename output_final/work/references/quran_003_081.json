@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "3:81",
+ "label": "Reference text: Quran 3:81, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/3/81?translations=20",
+ "urls_fetched": [
+  "https://quran.com/3/81?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T09:08:40Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "3:81",
+   "raw": "And [recall, O People of the Scripture], when Allāh took the covenant of the prophets, [saying], \"Whatever I give you of the Scripture and wisdom and then there comes to you a messenger confirming what is with you, you [must] believe in him and support him.\" [Allāh] said, \"Have you acknowledged and taken upon that My commitment?\"<sup foot_note=254143>1</sup> They said, \"We have acknowledged it.\" He said, \"Then bear witness, and I am with you among the witnesses.\"",
+   "text": "And [recall, O People of the Scripture], when Allāh took the covenant of the prophets, [saying], \"Whatever I give you of the Scripture and wisdom and then there comes to you a messenger confirming what is with you, you [must] believe in him and support him.\" [Allāh] said, \"Have you acknowledged and taken upon that My commitment?\" They said, \"We have acknowledged it.\" He said, \"Then bear witness, and I am with you among the witnesses.\"",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

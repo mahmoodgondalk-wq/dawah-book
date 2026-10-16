@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "41:41",
+ "label": "Reference text: Quran 41:41, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/41/41?translations=20",
+ "urls_fetched": [
+  "https://quran.com/41/41?translations=20"
+ ],
+ "retrieved_utc": "2026-10-16T14:22:43Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "41:41",
+   "raw": "Indeed, those who disbelieve in the message [i.e., the Qur’ān]<sup foot_note=256436>1</sup> after it has come to them...<sup foot_note=256437>2</sup> And indeed, it is a mighty<sup foot_note=256435>3</sup> Book.",
+   "text": "Indeed, those who disbelieve in the message [i.e., the Qur’ān] after it has come to them... And indeed, it is a mighty Book.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "kind": "quran",
+ "ref": "28:76",
+ "label": "Reference text: Quran 28:76, quran.com (Saheeh International)",
+ "source": "quran.com, Saheeh International (translation id 20)",
+ "url": "https://quran.com/28/76?translations=20",
+ "urls_fetched": [
+  "https://quran.com/28/76?translations=20"
+ ],
+ "retrieved_utc": "2026-10-11T09:03:17Z",
+ "processing": "footnote-marker tags <sup foot_note=...>n</sup> removed from 'text'; 'raw' is the string as served",
+ "verses": [
+  {
+   "key": "28:76",
+   "raw": "Indeed, Qārūn was from the people of Moses, but he tyrannized them. And We gave him of treasures whose keys would burden a band of strong men; thereupon his people said to him, \"Do not exult. Indeed, Allāh does not like the exultant.",
+   "text": "Indeed, Qārūn was from the people of Moses, but he tyrannized them. And We gave him of treasures whose keys would burden a band of strong men; thereupon his people said to him, \"Do not exult. Indeed, Allāh does not like the exultant.",
+   "resource_name": "Saheeh International"
+  }
+ ]
+}
