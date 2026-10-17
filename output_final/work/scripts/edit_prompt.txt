@@ -4,6 +4,8 @@ First read the full guide: /home/user/dawah-book/output_final/work/EDITING_GUIDE
 
 Your batch: {BATCH}. Input: /home/user/dawah-book/output_final/work/edit/in/{BATCH}.txt ({WORDS} words, {N} passages). Read EVERY passage completely (use offset/limit for the long file). Do not skim.
 
+If /home/user/dawah-book/output_final/work/edit/out/{BATCH}.txt already exists (from an interrupted earlier run), run the checker first: keep the blocks that are already correct, fix the wrong ones and add the missing ones; do not redo finished passages.
+
 Write /home/user/dawah-book/output_final/work/edit/out/{BATCH}.txt in the output format of the guide (one `### <PASSAGE_ID>` block per passage, same ids, same order; write the file in several appends if it is long). Then run
   cd /home/user/dawah-book && python3 output_final/work/scripts/check_edit.py {BATCH}
 and fix every ERROR until it prints "{BATCH} OK". Read the warnings and fix real problems (substance deleted, passage left unedited).
