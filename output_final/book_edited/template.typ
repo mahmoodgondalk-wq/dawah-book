@@ -26,6 +26,7 @@
   show heading.where(level: 2): it => {
     running.update(none)
     pagebreak(weak: true)
+    counter(footnote).update(0)
     v(10mm)
     block(width: 100%, below: 1.4em)[
       #set text(size: 19pt, weight: "semibold")
@@ -60,4 +61,5 @@
     if i < paras.len() - 1 [#p #parbreak()] else [#p#footnote(src)]
   }
   parbreak()
+  v(0.45em, weak: true)
 }
