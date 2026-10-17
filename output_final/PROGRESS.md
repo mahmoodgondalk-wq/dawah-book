@@ -22,7 +22,7 @@ All scripts are in `work/scripts/`. Run them from the repository root.
 - Each batch is labeled by one subagent with the identical prompt in `work/scripts/agent_prompt.txt` (replace {FILES}).
 - Outputs: `work/labels/<id>.json` (type, confidence, evidence, speaker ranges, doubts), `work/topics/<id>.json` (topic ranges, refs).
 - Pilot (ML043, FR054, FR002, ML001) done and checked.
-- Labeling status: TOTAL 774/774 files labeled; complete batches: 152/152 (as of 2026-10-17 21:12 UTC)
+- Labeling status: TOTAL 774/774 files labeled; complete batches: 152/152 (as of 2026-10-17 21:15 UTC)
 - NOTE: at ~09:30 UTC the API session limit was hit; batches B54, B57-B63 failed mid-way. To resume: run `batches.py todo 10` and relaunch those batches with the same prompt (files already valid are skipped automatically).
 - USER INSTRUCTION (2026-10-04): labeling subagents must run on the default model (Opus 5.5); do NOT switch them to Sonnet.
 - Oct 2: the weekly usage limit was hit around B57-B64; resumed Oct 4.
@@ -59,3 +59,9 @@ All scripts are in `work/scripts/`. Run them from the repository root.
 - After all batches: assemble_edited.py -> output_final/book_edited/, build_pdf.py -> output_final/The_Muslim_Lantern_and_Farid_Responds_Edited.pdf,
   verify_edited.py (fidelity = sub-sequence check against the transcripts, coverage of passages, references), checks_edited.md.
 - The verbatim compilation (Stages 1-7) is kept as ..._A_Topical_Compilation.pdf.
+- 2026-10-17: REPETITIONS. The option the user chose said "complete, organized by topic, without repetitions, ~800-1200 pages".
+  Cleaning alone keeps ~78% (=> ~3,500 pages), so a second deletion-only step removes repetitions across the passages of each
+  sub-chapter (keep each point once, in its fullest telling): guide work/EDITING_GUIDE_V2.md.
+  * Batches E001-E023 were cleaned with guide v1 -> condense pass: `scripts/condense_input.py E###` (backs up to edit/out_v1/,
+    writes edit/cin/E###.txt) + agent with scripts/condense_prompt.txt -> rewrites edit/out/E###.txt. Done list: work/edit/condensed.txt
+  * Batches E024-E147: one pass with scripts/edit_prompt_v2.txt (clean + condense).

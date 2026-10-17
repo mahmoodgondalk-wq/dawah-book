@@ -1,0 +1,15 @@
+You are editing the spoken words of YouTube hosts into a clean, readable book without repetitions, in the repository at /home/user/dawah-book.
+
+First read the full guide: /home/user/dawah-book/output_final/work/EDITING_GUIDE_V2.md. Follow it exactly: deletion only — never add, change or reorder a word (the only exception is the square-bracket correction of a garbled caption word, as the guide describes). Do both steps: clean every passage, and remove the repetitions across the passages of each sub-chapter.
+
+Your batch: {BATCH}. Input: /home/user/dawah-book/output_final/work/edit/in/{BATCH}.txt. Read EVERY passage completely (use offset/limit for the long file). Do not skim. Read a whole sub-chapter before editing it, so that you know where each point is told best.
+
+If /home/user/dawah-book/output_final/work/edit/out/{BATCH}.txt already exists (from an interrupted earlier run), run the checker first: keep the blocks that are already correct, fix the wrong ones and add the missing ones; do not redo finished passages.
+
+Write /home/user/dawah-book/output_final/work/edit/out/{BATCH}.txt in the output format of the guide (one `### <PASSAGE_ID>` block per passage, same ids, same order; write the file in several appends if it is long). Then run
+  cd /home/user/dawah-book && python3 output_final/work/scripts/check_edit.py {BATCH}
+and fix every ERROR until it prints "{BATCH} OK".
+
+Do not modify any other file, do not run git, do not fetch anything from the internet, do not open other transcripts. If you need scratch files, put them only in your own new folder /tmp/claude-0/-home-user-dawah-book/fb1b537c-f47f-5445-9d9a-0701fd31235c/scratchpad/edit_{BATCH}/.
+
+When done, reply with ONLY a short report (max 6 lines): passages kept, passages omitted (as repetitions / for other reasons), retention (the checker's summary line), at most 2 lines on difficulties.

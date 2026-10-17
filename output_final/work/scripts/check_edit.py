@@ -76,6 +76,7 @@ def check(batch):
         return [f"missing {path}"], []
     U = units()
     expected = B[batch]["units"]
+    kept_words = [0]
     blocks = parse_out(path)
     seen = {}
     for uid, text in blocks:
@@ -88,7 +89,6 @@ def check(batch):
             continue
         t = text.strip()
         if OMIT.match(t):
-            warns.append(f"{uid}: omitted ({OMIT.match(t).group(1).strip()})")
             continue
         if "⟦" in t or "⟧" in t or "[guest" in t.lower() or "[omitted" in t.lower():
             errs.append(f"{uid}: marker or bracketed note left in the text")
@@ -109,10 +109,12 @@ def check(batch):
             errs.append(f"{uid}: added or changed word {out[i]!r} (output word {i + 1}: '...{ctx}...')")
             continue
         r = len(out) / max(1, len(src))
-        if r < 0.4:
-            warns.append(f"{uid}: low retention {r:.0%} ({len(out)}/{len(src)} words) - check that no argument was lost")
-        elif r > 0.985:
+        kept_words[0] += len(out)
+        if r > 0.985 and len(src) > 40:
             warns.append(f"{uid}: no change ({r:.0%} kept)")
+    total = sum(U[u]["words"] for u in expected)
+    n_om = sum(1 for uid, text in blocks if OMIT.match(text.strip()))
+    warns.append(f"summary: {len(blocks)} blocks, {n_om} omitted, retention {kept_words[0]}/{total} words = {kept_words[0] / max(1, total):.0%}")
     missing = [u for u in expected if u not in seen]
     if missing:
         errs.append(f"{len(missing)} passages missing, e.g. {missing[:8]}")
