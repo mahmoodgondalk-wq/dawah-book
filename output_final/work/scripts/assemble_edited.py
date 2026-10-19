@@ -21,11 +21,14 @@ from check_edit import parse_out, OMIT, EDIT  # noqa: E402
 from edit_batches import SKIP_PARTS  # noqa: E402
 
 
-def load_edits():
-    """{unit id: list of paragraphs} for every edited passage; {unit id: reason} for omitted ones."""
+def load_edits(only=None):
+    """{unit id: list of paragraphs} for every edited passage; {unit id: reason} for omitted ones.
+    only: optional set of batch ids (preview builds)."""
     edits, omitted = {}, {}
     batches = json.load(open(os.path.join(EDIT, "batches.json")))
     for b in batches:
+        if only and b["batch"] not in only:
+            continue
         p = os.path.join(EDIT, "out", b["batch"] + ".txt")
         if not os.path.exists(p):
             if "--partial" in sys.argv:
@@ -46,14 +49,19 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--out", default=os.path.join(ROOT, "output_final", "book_edited"))
     ap.add_argument("--partial", action="store_true", help="test build with the batches edited so far")
+    ap.add_argument("--batches", default="", help="preview build: comma-separated batch ids (implies --partial)")
+    ap.add_argument("--no-articles", action="store_true", help="preview build: leave the articles out")
     args = ap.parse_args()
+    only = set(x for x in args.batches.split(",") if x) or None
+    if only and "--partial" not in sys.argv:
+        sys.argv.append("--partial")
     tax = json.load(open(os.path.join(WORK, "taxonomy.json"), encoding="utf-8"))
     mapping = json.load(open(os.path.join(WORK, "mapping.json"), encoding="utf-8"))
     units = {u["id"]: u for u in json.load(open(os.path.join(EDIT, "units.json"), encoding="utf-8"))}
     by_excerpt = {}
     for u in units.values():
         by_excerpt.setdefault((u["file"], u["sub"]), []).append(u)
-    edits, omitted = load_edits()
+    edits, omitted = load_edits(only)
     idx = files_index()
     refidx = load_ref_index()
     arts = articles_index()
@@ -79,6 +87,8 @@ def main():
                 rendered, last_author = [], None
                 for ex in merge_adjacent(mapping.get(sub["id"], [])):
                     if "article" in ex:
+                        if args.no_articles:
+                            continue
                         rendered.extend(render_article(ex["article"], arts))
                         used_articles.add(ex["article"])
                         last_author = None
