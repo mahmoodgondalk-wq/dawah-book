@@ -8,6 +8,7 @@ import json
 import os
 import shutil
 import sys
+import textwrap
 
 sys.path.insert(0, os.path.dirname(__file__))
 from check_edit import EDIT, parse_out, units  # noqa: E402
@@ -41,7 +42,10 @@ def main():
                     t, c, p = titles[u["sub"]]
                     f.write(f"## SUB-CHAPTER {u['sub']} — {t}   (chapter: {c}; part: {p})\n\n")
                     last = u["sub"]
-                f.write(f'### {uid} | {u["host"]} | "{idx[u["file"]]["title"]}"\n{blocks[uid].strip()}\n\n')
+                body = []
+                for line in blocks[uid].strip().split("\n"):
+                    body.extend(textwrap.wrap(line, width=160, break_long_words=False, break_on_hyphens=False) if len(line) > 170 else [line])
+                f.write(f'### {uid} | {u["host"]} | "{idx[u["file"]]["title"]}"\n' + "\n".join(body) + "\n\n")
                 n += 1
         print(batch, n, "passages")
 
