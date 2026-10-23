@@ -23,7 +23,7 @@ import sys
 sys.path.insert(0, os.path.dirname(__file__))
 from excerpts import HOSTS, WORK, ROOT  # noqa: E402
 from verify import parse_tstrings, check_D, load_all  # noqa: E402
-from check_edit import tokens, is_subsequence, strip_editorial, EDIT, MAX_EDITORIAL_RATIO, MAX_EDITORIAL_WORDS  # noqa: E402
+from check_edit import tokens, is_subsequence, strip_editorial, EDIT, MAX_EDITORIAL_RATIO, MAX_EDITORIAL_WORDS, MIN_EDITORIAL_ALLOWANCE  # noqa: E402
 from assemble import files_index  # noqa: E402
 
 BOOK = os.environ.get("BOOK_DIR", os.path.join(ROOT, "output_final", "book_edited"))
@@ -79,7 +79,7 @@ def main():
                 plain, ins = strip_editorial(" ".join(paras))
                 out = tokens(plain)
                 n_words += len(out)
-                if any(len(tokens(x)) > MAX_EDITORIAL_WORDS for x in ins) or sum(len(tokens(x)) for x in ins) > max(3, MAX_EDITORIAL_RATIO * len(out)):
+                if any(len(tokens(x)) > MAX_EDITORIAL_WORDS for x in ins) or sum(len(tokens(x)) for x in ins) > max(MIN_EDITORIAL_ALLOWANCE, MAX_EDITORIAL_RATIO * len(out)):
                     errA.append(f"{where}: {uid}: editorial insertions exceed the allowed limit")
                 n_editorial[0] += len(ins)
                 srcw = tokens(u["text"].replace("⟦…⟧", " "))

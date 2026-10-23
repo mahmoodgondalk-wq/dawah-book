@@ -16,8 +16,9 @@ EDIT = os.path.join(WORK, "edit")
 TOKEN = re.compile(r"[^\W_]+(?:'[^\W_]+)*")
 OMIT = re.compile(r"^\[omitted:\s*(.+?)\]\s*$", re.S)
 EDITORIAL = re.compile(r"\[([^\[\]]{1,60})\]")
-MAX_EDITORIAL_RATIO = 0.02
+MAX_EDITORIAL_RATIO = 0.03
 MAX_EDITORIAL_WORDS = 4
+MIN_EDITORIAL_ALLOWANCE = 5  # words in brackets always allowed per passage
 
 
 def strip_editorial(s):
@@ -98,7 +99,7 @@ def check(batch):
         bad_ins = [x for x in ins if len(tokens(x)) > MAX_EDITORIAL_WORDS or x.lower().startswith(("omitted", "guest"))]
         if bad_ins:
             errs.append(f"{uid}: editorial insertion too long or not allowed: {bad_ins[:3]}")
-        if out and sum(len(tokens(x)) for x in ins) > max(3, MAX_EDITORIAL_RATIO * len(out)):
+        if out and sum(len(tokens(x)) for x in ins) > max(MIN_EDITORIAL_ALLOWANCE, MAX_EDITORIAL_RATIO * len(out)):
             errs.append(f"{uid}: too many editorial insertions in square brackets ({len(ins)}; max 2% of the words)")
         if not out:
             errs.append(f"{uid}: empty text (use [omitted: reason] to leave a passage out)")

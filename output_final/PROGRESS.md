@@ -22,7 +22,7 @@ All scripts are in `work/scripts/`. Run them from the repository root.
 - Each batch is labeled by one subagent with the identical prompt in `work/scripts/agent_prompt.txt` (replace {FILES}).
 - Outputs: `work/labels/<id>.json` (type, confidence, evidence, speaker ranges, doubts), `work/topics/<id>.json` (topic ranges, refs).
 - Pilot (ML043, FR054, FR002, ML001) done and checked.
-- Labeling status: TOTAL 774/774 files labeled; complete batches: 152/152 (as of 2026-10-23 21:13 UTC)
+- Labeling status: TOTAL 774/774 files labeled; complete batches: 152/152 (as of 2026-10-23 21:17 UTC)
 - NOTE: at ~09:30 UTC the API session limit was hit; batches B54, B57-B63 failed mid-way. To resume: run `batches.py todo 10` and relaunch those batches with the same prompt (files already valid are skipped automatically).
 - USER INSTRUCTION (2026-10-04): labeling subagents must run on the default model (Opus 5.5); do NOT switch them to Sonnet.
 - Oct 2: the weekly usage limit was hit around B57-B64; resumed Oct 4.
@@ -65,3 +65,7 @@ All scripts are in `work/scripts/`. Run them from the repository root.
   * Batches E001-E023 were cleaned with guide v1 -> condense pass: `scripts/condense_input.py E###` (backs up to edit/out_v1/,
     writes edit/cin/E###.txt) + agent with scripts/condense_prompt.txt -> rewrites edit/out/E###.txt. Done list: work/edit/condensed.txt
   * Batches E024-E147: one pass with scripts/edit_prompt_v2.txt (clean + condense).
+- 2026-10-23: bracket corrections of garbled caption words raised from max(3 words, 2%) to max(5 words, 3%) per passage
+  (check_edit.py MIN_EDITORIAL_ALLOWANCE / MAX_EDITORIAL_RATIO, also used by verify_edited.py), and the guide now says that
+  misspelt names count as garbled (agents had left e.g. "NS bin Malik"). front.typ explains the square brackets.
+  Planned final polish: scan all outputs for misspelt names left uncorrected (E001-E041 used the old limit).
