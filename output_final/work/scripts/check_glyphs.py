@@ -9,13 +9,15 @@ import unicodedata
 from fontTools.ttLib import TTCollection, TTFont
 
 sys.path.insert(0, os.path.dirname(__file__))
-from verify import parse_tstrings, BOOK  # noqa: E402
+from verify import parse_tstrings, BOOK, ROOT  # noqa: E402
+
+FONT_DIR = os.path.join(ROOT, "output_final", "book", "fonts")  # shared by the compilation and the edited book
 
 FONTS = [
-    os.path.join(BOOK, "fonts", "SourceSerif4_400Regular.ttf"),
-    os.path.join(BOOK, "fonts", "Amiri_400Regular.ttf"),
-    os.path.join(BOOK, "fonts", "NotoNaskhArabic_400Regular.ttf"),
-    os.path.join(BOOK, "fonts", "NotoSerifHebrew_400Regular.ttf"),
+    os.path.join(FONT_DIR, "SourceSerif4_400Regular.ttf"),
+    os.path.join(FONT_DIR, "Amiri_400Regular.ttf"),
+    os.path.join(FONT_DIR, "NotoNaskhArabic_400Regular.ttf"),
+    os.path.join(FONT_DIR, "NotoSerifHebrew_400Regular.ttf"),
     "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf",
     "/usr/share/fonts/truetype/freefont/FreeSerif.ttf",
     "/usr/share/fonts/truetype/wqy/wqy-zenhei.ttc",
@@ -60,7 +62,8 @@ def main():
     for ch, o, n, name in bad:
         print(f"  U+{o:04X} x{n} {name}")
     import json
-    with open(os.path.join(BOOK, "..", "work", "glyph_check.json"), "w", encoding="utf-8") as f:
+    name = "glyph_check.json" if os.path.basename(BOOK.rstrip("/")) == "book" else f"glyph_check_{os.path.basename(BOOK.rstrip('/'))}.json"
+    with open(os.path.join(ROOT, "output_final", "work", name), "w", encoding="utf-8") as f:
         json.dump({"distinct_characters": len(chars), "uncovered": [f"U+{o:04X} {name} (x{n})" for ch, o, n, name in bad]}, f, indent=1)
     sys.exit(1 if bad else 0)
 
