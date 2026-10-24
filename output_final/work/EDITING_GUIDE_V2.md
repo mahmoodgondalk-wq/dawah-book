@@ -49,7 +49,8 @@ between paragraphs; aim for 60-150 words per paragraph), and drop a dash at the 
 You may NOT: add any word (not even "the", "and", "is", "that"), change a word (no tense, number, spelling or synonym
 changes; keep caption spellings such as "Muhammedﷺ", "Mathew12:25-26", "Quran4:124"), reorder words or sentences,
 move text from one passage to another, summarize, paraphrase, write transitions, headings, notes or comments, translate
-or transliterate Arabic. The checker verifies that the words of your output, in order, are a sub-sequence of the words
+or transliterate Arabic, or delete a statement because you think it is factually wrong or weak (the book reports what
+the hosts said; judging their claims is not your task). The checker verifies that the words of your output, in order, are a sub-sequence of the words
 of the input passage (case and punctuation ignored). Any added or changed word is an error.
 
 One exception, for obvious transcription errors only: when the captions garbled a word (for example "f" or "fitra" for
