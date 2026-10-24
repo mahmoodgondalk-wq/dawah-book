@@ -22,7 +22,7 @@ All scripts are in `work/scripts/`. Run them from the repository root.
 - Each batch is labeled by one subagent with the identical prompt in `work/scripts/agent_prompt.txt` (replace {FILES}).
 - Outputs: `work/labels/<id>.json` (type, confidence, evidence, speaker ranges, doubts), `work/topics/<id>.json` (topic ranges, refs).
 - Pilot (ML043, FR054, FR002, ML001) done and checked.
-- Labeling status: TOTAL 774/774 files labeled; complete batches: 152/152 (as of 2026-10-24 03:58 UTC)
+- Labeling status: TOTAL 774/774 files labeled; complete batches: 152/152 (as of 2026-10-24 03:59 UTC)
 - NOTE: at ~09:30 UTC the API session limit was hit; batches B54, B57-B63 failed mid-way. To resume: run `batches.py todo 10` and relaunch those batches with the same prompt (files already valid are skipped automatically).
 - USER INSTRUCTION (2026-10-04): labeling subagents must run on the default model (Opus 5.5); do NOT switch them to Sonnet.
 - Oct 2: the weekly usage limit was hit around B57-B64; resumed Oct 4.
@@ -69,3 +69,9 @@ All scripts are in `work/scripts/`. Run them from the repository root.
   (check_edit.py MIN_EDITORIAL_ALLOWANCE / MAX_EDITORIAL_RATIO, also used by verify_edited.py), and the guide now says that
   misspelt names count as garbled (agents had left e.g. "NS bin Malik"). front.typ explains the square brackets.
   Planned final polish: scan all outputs for misspelt names left uncorrected (E001-E041 used the old limit).
+- 2026-10-23: one agent hit the 128k output-token limit of a single response (E039) -> both prompts now say: write per sub-chapter,
+  each write under ~3,000 words, short thinking. Agents stopped by a usage limit are resumed with SendMessage (context kept).
+- STATUS 2026-10-24 (how to resume: a batch is final when `check_edit.py E###` prints OK and, for E001-E023, it is listed in
+  work/edit/condensed.txt; partial outputs are kept and completed by a resumed/relaunched agent):
+  final: condensed E001-E013; v2 E024-E038, E041, E043. Running: condense E014, E015; v2 E039, E040, E042, E044, E045, E046.
+  Todo: condense E016-E023 (inputs ready in edit/cin/), v2 E047-E147.
