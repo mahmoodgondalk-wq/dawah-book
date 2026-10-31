@@ -22,7 +22,7 @@ All scripts are in `work/scripts/`. Run them from the repository root.
 - Each batch is labeled by one subagent with the identical prompt in `work/scripts/agent_prompt.txt` (replace {FILES}).
 - Outputs: `work/labels/<id>.json` (type, confidence, evidence, speaker ranges, doubts), `work/topics/<id>.json` (topic ranges, refs).
 - Pilot (ML043, FR054, FR002, ML001) done and checked.
-- Labeling status: TOTAL 774/774 files labeled; complete batches: 152/152 (as of 2026-10-31 18:53 UTC)
+- Labeling status: TOTAL 774/774 files labeled; complete batches: 152/152 (as of 2026-10-31 18:54 UTC)
 - NOTE: at ~09:30 UTC the API session limit was hit; batches B54, B57-B63 failed mid-way. To resume: run `batches.py todo 10` and relaunch those batches with the same prompt (files already valid are skipped automatically).
 - USER INSTRUCTION (2026-10-04): labeling subagents must run on the default model (Opus 5.5); do NOT switch them to Sonnet.
 - Oct 2: the weekly usage limit was hit around B57-B64; resumed Oct 4.
@@ -76,7 +76,8 @@ All scripts are in `work/scripts/`. Run them from the repository root.
   per page (counter reset in the page header); a following paragraph of the same passage says "Ibid." unless its note is
   the first on the page. Times: work/scripts/timestamps.py (caption-line timestamps of the raw transcripts, difflib alignment
   of the edited words); assemble_edited.py emits them, verify_edited.py check A recomputes them. front.typ explains it.
-- STATUS 2026-10-31 (how to resume: a batch is final when `check_edit.py E###` prints OK and, for E001-E023, it is listed in
-  work/edit/condensed.txt; partial outputs are kept and completed by a relaunched agent with a RESUME paragraph):
-  final: condensed E001-E015; v2 E024-E045 (37 batches). Running: condense E016 (resume), E017; v2 E046-E049 (resume), E050, E051.
-  Todo: condense E018-E023 (inputs ready in edit/cin/), v2 E052-E147. Weekly usage limit hit on 2026-10-24 (resumed 10-31).
+- STATUS 2026-10-31 19:00 (how to resume: a batch is final when `check_edit.py E###` prints OK and, for E001-E023, it is listed
+  in work/edit/condensed.txt; partial outputs are kept and completed by a relaunched agent with a RESUME paragraph):
+  final: condensed E001-E020; v2 E024-E052 (49 batches). Running: condense E021 (resume), E022; v2 E053, E054, E056, E057
+  (resume), E055, E058. Todo: condense E023 (input ready in edit/cin/), v2 E059-E147.
+  Usage limits: weekly limit hit 2026-10-24 (resumed 10-31); 5-hour limit hit 2026-10-31 18:00 (reset 18:40).
