@@ -56,9 +56,10 @@ of the input passage (case and punctuation ignored). Any added or changed word i
 One exception, for obvious transcription errors only: when the captions garbled a word (for example "f" or "fitra" for
 *fitrah*, "Quan" for Quran, a mangled name or Arabic term), you may replace it with the correct word **in square
 brackets**: "the [fitrah] is there". Use this only where the garbled word would make the sentence unreadable or
-wrong; at most 4 words per bracket and at most 3% of the words of a passage (always at least 5 words allowed). A
+wrong; at most 4 words per bracket and at most 6% of the words of a passage (always at least 8 words allowed). A
 misspelt name or Arabic term counts as garbled: correct it ("[Anas] bin Malik" for "NS bin Malik", "[Yunus]" for
-"Eunice", "the [Sirah]" for "the Sierra") rather than leaving it misspelt. Never use brackets to add content,
+"Eunice", "the [Sirah]" for "the Sierra") rather than leaving it misspelt, and correct a garbled name rather than
+deleting the detail it carries (a scholar's name, a number, a source). Never use brackets to add content,
 explanations or missing words.
 
 A passage that is only greetings, logistics, banter, or an answer that is meaningless without the other person's words

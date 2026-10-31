@@ -76,6 +76,9 @@ All scripts are in `work/scripts/`. Run them from the repository root.
   per page (counter reset in the page header); a following paragraph of the same passage says "Ibid." unless its note is
   the first on the page. Times: work/scripts/timestamps.py (caption-line timestamps of the raw transcripts, difflib alignment
   of the edited words); assemble_edited.py emits them, verify_edited.py check A recomputes them. front.typ explains it.
+- 2026-10-31: bracket allowance raised again to max(8 words, 6%) per passage (agents were deleting details of badly captioned
+  Farid Responds passages - scholars' names, numbers, sources - because of the 3% cap). Guide: correct a garbled name rather
+  than delete the detail. Details dropped earlier for this reason are listed in work/edit/restore_todo.md (restore pass at the end).
 - STATUS 2026-10-31 19:00 (how to resume: a batch is final when `check_edit.py E###` prints OK and, for E001-E023, it is listed
   in work/edit/condensed.txt; partial outputs are kept and completed by a relaunched agent with a RESUME paragraph):
   final: condensed E001-E020; v2 E024-E052 (49 batches). Running: condense E021 (resume), E022; v2 E053, E054, E056, E057

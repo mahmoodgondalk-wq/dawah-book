@@ -16,9 +16,9 @@ EDIT = os.path.join(WORK, "edit")
 TOKEN = re.compile(r"[^\W_]+(?:'[^\W_]+)*")
 OMIT = re.compile(r"^\[omitted:\s*(.+?)\]\s*$", re.S)
 EDITORIAL = re.compile(r"\[([^\[\]]{1,60})\]")
-MAX_EDITORIAL_RATIO = 0.03
+MAX_EDITORIAL_RATIO = 0.06
 MAX_EDITORIAL_WORDS = 4
-MIN_EDITORIAL_ALLOWANCE = 5  # words in brackets always allowed per passage
+MIN_EDITORIAL_ALLOWANCE = 8  # words in brackets always allowed per passage
 
 
 def strip_editorial(s):
