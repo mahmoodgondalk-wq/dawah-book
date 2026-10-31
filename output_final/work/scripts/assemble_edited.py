@@ -6,6 +6,7 @@ Inputs : work/taxonomy.json, work/mapping.json, work/edit/units.json, work/edit/
 Output : output_final/book_edited/{book.typ, content/P??.typ, sources.typ}
 Every passage call is preceded by a machine-readable comment
   // U <unit id> | <host> | <n paragraphs>
+and has one footnote per paragraph: channel, video title and the time in the video (timestamps.py), linked to the video.
 so that verify_edited.py can re-check fidelity (deletion-only), coverage and references.
 Part P16 (Other Remarks) is left out; omitted passages ("[omitted: ...]") are listed in work/edit/omitted.json.
 """
@@ -19,6 +20,7 @@ from excerpts import WORK, ROOT  # noqa: E402
 from assemble import tstr, files_index, articles_index, render_article, load_ref_index, ref_box, merge_adjacent, ROMAN  # noqa: E402
 from check_edit import parse_out, OMIT, EDIT  # noqa: E402
 from edit_batches import SKIP_PARTS  # noqa: E402
+from timestamps import paragraph_times, fmt_range  # noqa: E402
 
 
 def load_edits(only=None):
@@ -110,7 +112,10 @@ def main():
                             last_author = u["host"]
                         rendered.append(f"// U {u['id']} | {u['host']} | {len(paras)}")
                         src = f'{idx[u["file"]]["channel"]}, "{idx[u["file"]]["title"]}"'
-                        rendered.append(f"#passage(({', '.join(tstr(p) for p in paras)},), {tstr(src)})")
+                        # one footnote per paragraph: the video and the time (start of its first word - start of its last word)
+                        times = paragraph_times(u, paras)
+                        tl = ", ".join(f"({a}, {tstr(fmt_range(a, b))})" for a, b in times)
+                        rendered.append(f"#passage(({', '.join(tstr(p) for p in paras)},), {tstr(src)}, {tstr(idx[u['file']]['url'])}, ({tl},))")
                         used_files.add(u["file"])
                         stats["passages"] += 1
                         # reference boxes cited in the host segments of this unit
