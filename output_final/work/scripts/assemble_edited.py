@@ -111,7 +111,7 @@ def main():
                             rendered.append(f"#author({tstr(u['host'])})")
                             last_author = u["host"]
                         rendered.append(f"// U {u['id']} | {u['host']} | {len(paras)}")
-                        src = f'{idx[u["file"]]["channel"]}, "{idx[u["file"]]["title"]}"'
+                        src = f'{idx[u["file"]]["channel"]}, “{idx[u["file"]]["title"]}”'
                         # one footnote per paragraph: the video and the time (start of its first word - start of its last word)
                         times = paragraph_times(u, paras)
                         tl = ", ".join(f"({a}, {tstr(fmt_range(a, b))})" for a, b in times)

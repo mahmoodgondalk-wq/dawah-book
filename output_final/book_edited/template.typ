@@ -5,7 +5,7 @@
 #let book-setup(doc) = {
   set document(title: "The Muslim Lantern and Farid Responds: The Arguments", author: ("The Muslim Lantern", "Farid Responds"))
   set page(paper: "a4", margin: (inside: 30mm, outside: 25mm, top: 28mm, bottom: 26mm), binding: left,
-           header: running-header, footer: running-footer)
+           header: [#counter(footnote).update(0)#running-header], footer: running-footer)  // footnotes numbered per page
   set text(font: body-fonts, size: 11.2pt, lang: "en", hyphenate: true, fallback: true)
   set par(justify: true, leading: 0.8em, spacing: 0.75em, first-line-indent: 1.4em)
   set footnote.entry(separator: line(length: 30%, stroke: 0.4pt + c-rule), gap: 0.5em)
@@ -54,11 +54,19 @@
   ]
 }
 
-// One passage: paragraphs of the host's (edited) words; the source (channel and video title) goes in a footnote
-// attached to the end of the last paragraph.
-#let passage(paras, src) = {
+// One passage: paragraphs of the host's (edited) words. Every paragraph ends with a footnote giving the video
+// (channel and title) and the time in the video where its words were spoken; the time links to the video at that
+// moment. times: ((start second, "m:ss–m:ss"), ...), one per paragraph. A following paragraph of the same passage
+// (same video) says "Ibid.", except when its footnote is the first one on a page.
+#let passage(paras, src, url, times) = {
   for (i, p) in paras.enumerate() {
-    if i < paras.len() - 1 [#p #parbreak()] else [#p#footnote(src)]
+    let (sec, label) = times.at(i)
+    let when = link(url + "&t=" + str(sec) + "s", label)
+    [#p#context {
+      let first-on-page = counter(footnote).get().first() == 0
+      footnote(if i == 0 or first-on-page [#src, #when.] else [Ibid., #when.])
+    }]
+    if i < paras.len() - 1 { parbreak() }
   }
   parbreak()
   v(0.45em, weak: true)

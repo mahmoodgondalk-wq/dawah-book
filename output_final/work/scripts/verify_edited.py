@@ -25,6 +25,7 @@ from excerpts import HOSTS, WORK, ROOT  # noqa: E402
 from verify import parse_tstrings, check_D, load_all  # noqa: E402
 from check_edit import tokens, is_subsequence, strip_editorial, EDIT, MAX_EDITORIAL_RATIO, MAX_EDITORIAL_WORDS, MIN_EDITORIAL_ALLOWANCE  # noqa: E402
 from assemble import files_index  # noqa: E402
+from timestamps import paragraph_times, fmt_range  # noqa: E402
 
 BOOK = os.environ.get("BOOK_DIR", os.path.join(ROOT, "output_final", "book_edited"))
 
@@ -38,7 +39,7 @@ def main():
     segs, labels, spk = load_all()
     errA, errB, errC, errF = [], [], [], []
     seen, seen_art = {}, {}
-    n_pass, n_ref, n_words = 0, 0, 0
+    n_pass, n_ref, n_words, n_notes = 0, 0, 0, 0
     n_editorial = [0]
     ref_texts = set()
     for p in glob.glob(os.path.join(WORK, "references", "*.json")):
@@ -64,7 +65,9 @@ def main():
                     errA.append(f"{where}: unit comment not followed by a passage call")
                     continue
                 strs = parse_tstrings(call)
-                paras, src = strs[:-1], strs[-1]
+                n = int(npar)
+                paras, src, url, labels = strs[:n], strs[n] if len(strs) > n else None, strs[n + 1] if len(strs) > n + 1 else None, strs[n + 2:]
+                secs = [int(x) for x in re.findall(r"\((\d+), \"", call[call.rfind(", ((") if ", ((" in call else 0:])]
                 u = units.get(uid)
                 if u is None:
                     errB.append(f"{where}: unknown passage {uid}")
@@ -94,9 +97,14 @@ def main():
                 for k in u["segs"]:
                     if spk[u["file"]][k] != u["host"]:
                         errC.append(f"{where}: {uid}: segment {k} is not labeled {u['host']!r}")
-                exp_src = f'{idx[u["file"]]["channel"]}, "{idx[u["file"]]["title"]}"'
-                if src != exp_src:
-                    errA.append(f"{where}: {uid}: source footnote does not match files.csv")
+                exp_src = f'{idx[u["file"]]["channel"]}, “{idx[u["file"]]["title"]}”'
+                if src != exp_src or url != idx[u["file"]]["url"]:
+                    errA.append(f"{where}: {uid}: source footnote (video title or link) does not match files.csv")
+                # footnote times: recomputed from the timestamped caption lines of the transcript
+                exp_t = paragraph_times(u, paras) if ok else []
+                if ok and ([fmt_range(a, b) for a, b in exp_t] != labels or [a for a, _ in exp_t] != secs):
+                    errA.append(f"{where}: {uid}: footnote times do not match the transcript timestamps")
+                n_notes += len(labels)
                 joined = " ".join(paras)
                 for t in ref_texts:
                     if t in joined:
@@ -157,7 +165,8 @@ def main():
     src_words = sum(u["words"] for u in units.values())
     summary = {"passages_in_plan": len(units), "passages_in_book": n_pass, "passages_omitted": len(omitted),
                "words_transcribed": src_words, "words_in_book": n_words, "editorial_insertions": n_editorial[0], "reference_boxes": n_ref,
-               "articles_in_book": sum(seen_art.values()), "articles_total": len(arts), "files": len(segs)}
+               "articles_in_book": sum(seen_art.values()), "articles_total": len(arts), "files": len(segs),
+               "footnotes": n_notes}
     json.dump({"summary": summary, "errors": results}, open(os.path.join(WORK, "verify_edited_results.json"), "w", encoding="utf-8"),
               ensure_ascii=False, indent=1)
     ok = True

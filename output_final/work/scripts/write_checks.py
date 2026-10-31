@@ -29,8 +29,8 @@ DESC = {
 DESC_EDITED = {
     "A": "Fidelity: every paragraph of every passage is, word for word and in order, a sub-sequence of the host's transcribed "
          "words (deletion-only editing: nothing added, changed or reordered; only short square-bracket corrections of garbled "
-         "caption words, within the limits of the editing guide); the source footnote matches the file; articles are the "
-         "unaltered original PDF pages (sha256)",
+         "caption words, within the limits of the editing guide); every paragraph's footnote gives the right video, link and "
+         "time (recomputed from the timestamped caption lines); articles are the unaltered original PDF pages (sha256)",
     "B": "Coverage: every passage of the plan appears exactly once, unless it was omitted as a repetition or as not an "
          "argument (listed in work/edit/omitted.json with its reason); every article appears exactly once",
     "C": "Attribution: every passage is shown under the host whose labeled segments it comes from",
@@ -65,6 +65,7 @@ def main_edited():
               f"- Words: {S['words_transcribed']} transcribed host words, {S['words_in_book']} in the book "
               f"({S['words_in_book'] / max(1, S['words_transcribed']):.0%})",
               f"- Editorial corrections in square brackets: {S['editorial_insertions']}",
+              f"- Footnotes (one per paragraph, with the video and the time): {S.get('footnotes', '?')}",
               f"- Reference boxes: {S['reference_boxes']}",
               f"- Articles: {S['articles_in_book']} of {S['articles_total']} (original PDF pages embedded)",
               f"- PDF pages: {E.get('pdf_pages', '?')}; pages inspected visually: {len(E.get('pages_inspected', []))}",

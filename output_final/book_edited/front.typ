@@ -31,7 +31,8 @@
   #set text(size: 10.4pt)
   - The book is organized by topic, not by video. Each passage is made of the words of one of the two hosts as spoken in a video, edited for reading by deletion only: fillers, false starts, repetitions, remarks addressed to callers and stream logistics were removed, and where the same point is made in several videos it is given once, in its fullest telling. Punctuation and paragraphs were added. No word was added, changed or reordered, and nothing was summarized. The only exception is a word in square brackets, which replaces a word garbled by the automatic captions (for example a misheard name): "the [fitrah]".
   - The words of callers, guests and people in played clips are not included; passages that consisted only of greetings, announcements or logistics were left out.
-  - A small line in capitals (THE MUSLIM LANTERN, FARID RESPONDS) marks whose words follow when the author changes within a section. The footnote at the end of each passage gives the channel and the title of the video it comes from, exactly as published.
+  - A small line in capitals (THE MUSLIM LANTERN, FARID RESPONDS) marks whose words follow when the author changes within a section.
+  - Every paragraph ends with a footnote giving the channel, the title of the video it comes from (exactly as published) and the time in the video, in minutes and seconds, at which its first and its last word were spoken; "Ibid." stands for the same video as the footnote just above it. In the PDF the time is a link that opens the video at that moment.
   - Shaded boxes headed "Reference text: …" contain the text of a Quran verse (quran.com, Saheeh International translation) or a hadith (sunnah.com) whose reference is cited in the passage just above. They are not the hosts' words.
   - The written articles published by Farid Responds are reproduced as their original pages.
 ]
