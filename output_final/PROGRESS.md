@@ -22,7 +22,7 @@ All scripts are in `work/scripts/`. Run them from the repository root.
 - Each batch is labeled by one subagent with the identical prompt in `work/scripts/agent_prompt.txt` (replace {FILES}).
 - Outputs: `work/labels/<id>.json` (type, confidence, evidence, speaker ranges, doubts), `work/topics/<id>.json` (topic ranges, refs).
 - Pilot (ML043, FR054, FR002, ML001) done and checked.
-- Labeling status: TOTAL 774/774 files labeled; complete batches: 152/152 (as of 2026-10-31 19:36 UTC)
+- Labeling status: TOTAL 774/774 files labeled; complete batches: 152/152 (as of 2026-11-07 15:35 UTC)
 - NOTE: at ~09:30 UTC the API session limit was hit; batches B54, B57-B63 failed mid-way. To resume: run `batches.py todo 10` and relaunch those batches with the same prompt (files already valid are skipped automatically).
 - USER INSTRUCTION (2026-10-04): labeling subagents must run on the default model (Opus 5.5); do NOT switch them to Sonnet.
 - Oct 2: the weekly usage limit was hit around B57-B64; resumed Oct 4.
@@ -79,8 +79,10 @@ All scripts are in `work/scripts/`. Run them from the repository root.
 - 2026-10-31: bracket allowance raised again to max(8 words, 6%) per passage (agents were deleting details of badly captioned
   Farid Responds passages - scholars' names, numbers, sources - because of the 3% cap). Guide: correct a garbled name rather
   than delete the detail. Details dropped earlier for this reason are listed in work/edit/restore_todo.md (restore pass at the end).
-- STATUS 2026-10-31 19:00 (how to resume: a batch is final when `check_edit.py E###` prints OK and, for E001-E023, it is listed
+- STATUS 2026-11-07 (how to resume: a batch is final when `check_edit.py E###` prints OK and, for E001-E023, it is listed
   in work/edit/condensed.txt; partial outputs are kept and completed by a relaunched agent with a RESUME paragraph):
-  final: condensed E001-E020; v2 E024-E052 (49 batches). Running: condense E021 (resume), E022; v2 E053, E054, E056, E057
-  (resume), E055, E058. Todo: condense E023 (input ready in edit/cin/), v2 E059-E147.
-  Usage limits: weekly limit hit 2026-10-24 (resumed 10-31); 5-hour limit hit 2026-10-31 18:00 (reset 18:40).
+  final: condensed E001-E023; v2 E024-E061 (61 batches). Running: v2 E062-E067 (resume), E068, E069. Todo: v2 E070-E147.
+  Usage limits: weekly limit hit 2026-10-24 and 2026-10-31 (each time resumed a week later); 5-hour limit 2026-10-31.
+  NEW CONTAINER (2026-11-07): the clone was on the initial commit -> `git fetch origin claude/upbeat-ptolemy-ph4o7a &&
+  git checkout -B claude/upbeat-ptolemy-ph4o7a origin/claude/upbeat-ptolemy-ph4o7a`; then `python3 -m pip install typst fonttools`
+  (python3 = /usr/local/bin/python3.11; plain `pip` installs into another python). Git-ignored PDFs are not kept across containers.
