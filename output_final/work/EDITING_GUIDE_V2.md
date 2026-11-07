@@ -52,7 +52,8 @@ move text from one passage to another, summarize, paraphrase, write transitions,
 or transliterate Arabic, or delete a statement because you think it is factually wrong or weak (the book reports what
 the hosts said; judging their claims is not your task), or let words the host quotes from someone else (a scholar, an
 opponent, a book) read as the host's own: keep the "he said" / "X says" that marks the quotation, or delete the whole
-quotation. The checker verifies that the words of your output, in order, are a sub-sequence of the words
+quotation; likewise, when a deletion removes a name or "he said", the statement must not end up credited to someone
+else (another scholar, "many scholars", the host) - delete it instead. The checker verifies that the words of your output, in order, are a sub-sequence of the words
 of the input passage (case and punctuation ignored). Any added or changed word is an error.
 
 One exception, for obvious transcription errors only: when the captions garbled a word (for example "f" or "fitra" for
