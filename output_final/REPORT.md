@@ -1,5 +1,7 @@
 # Final report — "The Muslim Lantern and Farid Responds: A Topical Compilation"
 
+> This report covers the verbatim compilation (Stages 1-7). The book requested on 2026-10-16, made of the hosts' own words edited by deletion only, with a footnote for every paragraph, is described in `REPORT_edited.md` (`The_Muslim_Lantern_and_Farid_Responds_The_Arguments.pdf`).
+
 Deliverables in `output_final/`: the PDF (`The_Muslim_Lantern_and_Farid_Responds_A_Topical_Compilation.pdf`, 6,688 pages, 104 MB), `checks.md`, `PROGRESS.md`, `work/` (segments, labels, topics, classification, taxonomy, mapping, references, scripts), `attribution_doubts.md`, `skipped_references.md`.
 
 ## Book structure
@@ -70,5 +72,5 @@ Skipped (185, full list with reasons in `skipped_references.md`):
 
 ## Notes
 
-- Git: every stage and batch was committed locally on `claude/upbeat-ptolemy-ph4o7a`; every push was refused (403: this session has no GitHub access). Reconnect GitHub and push the branch. The PDF itself is git-ignored because it exceeds GitHub's 100 MB per-file limit; it is delivered directly.
+- Git: every stage and batch was committed on `claude/upbeat-ptolemy-ph4o7a`; pushes were refused at the time (403), and from 2026-10-24 on the branch has been pushed normally. The PDF itself is git-ignored because it exceeds GitHub's 100 MB per-file limit; it is delivered directly.
 - Nothing was typed by hand into the book: all speaker text is moved by code from the segment files; the only non-verbatim text in the book is the structure (titles), the source lines, the legend page and the reference boxes fetched from quran.com / sunnah.com.

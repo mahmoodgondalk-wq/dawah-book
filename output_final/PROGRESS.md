@@ -22,7 +22,7 @@ All scripts are in `work/scripts/`. Run them from the repository root.
 - Each batch is labeled by one subagent with the identical prompt in `work/scripts/agent_prompt.txt` (replace {FILES}).
 - Outputs: `work/labels/<id>.json` (type, confidence, evidence, speaker ranges, doubts), `work/topics/<id>.json` (topic ranges, refs).
 - Pilot (ML043, FR054, FR002, ML001) done and checked.
-- Labeling status: TOTAL 774/774 files labeled; complete batches: 152/152 (as of 2026-11-07 21:51 UTC)
+- Labeling status: TOTAL 774/774 files labeled; complete batches: 152/152 (as of 2026-11-07 21:52 UTC)
 - NOTE: at ~09:30 UTC the API session limit was hit; batches B54, B57-B63 failed mid-way. To resume: run `batches.py todo 10` and relaunch those batches with the same prompt (files already valid are skipped automatically).
 - USER INSTRUCTION (2026-10-04): labeling subagents must run on the default model (Opus 5.5); do NOT switch them to Sonnet.
 - Oct 2: the weekly usage limit was hit around B57-B64; resumed Oct 4.
@@ -47,7 +47,7 @@ All scripts are in `work/scripts/`. Run them from the repository root.
 ## Stage 7: VERIFY (A-F) — DONE (2026-10-16): all checks pass, see output_final/checks.md; final report in output_final/REPORT.md
 - verify.py (A,B,C,D,F) -> work/verify_results.json; check_glyphs.py -> work/glyph_check.json; render_samples.py + visual inspection -> work/visual_check.json; write_checks.py -> output_final/checks.md
 
-## Stage 8: EDITED BOOK (user instruction 2026-10-16) — IN PROGRESS
+## Stage 8: EDITED BOOK (user instruction 2026-10-16) — DONE (2026-11-07): output_final/The_Muslim_Lantern_and_Farid_Responds_The_Arguments.pdf, 3327 pages, 80 MB (git-ignored); checks A-F PASS (checks_edited.md); final report REPORT_edited.md
 - USER INSTRUCTION: the verbatim compilation is unreadable as a book. New goal: a well-written book made of the two hosts' OWN WORDS,
   "removing the superfluous from the sentences" — not written by me, no dialogues. English. Complete (all arguments).
   Interpretation: deletion-only editing of the hosts' speech (fillers, repetitions, false starts, chatter, logistics removed; punctuation,
@@ -56,7 +56,7 @@ All scripts are in `work/scripts/`. Run them from the repository root.
 - Guide: work/EDITING_GUIDE.md; plan: `python3 output_final/work/scripts/edit_batches.py plan|status|todo N` (147 batches, 5738 passages, 2.32M words)
   inputs work/edit/in/E###.txt, outputs work/edit/out/E###.txt, checker work/scripts/check_edit.py (deletion-only sub-sequence check).
 - Each batch is edited by one Opus subagent with the prompt in work/scripts/edit_prompt.txt ({BATCH}, {WORDS}, {N}).
-- After all batches: assemble_edited.py -> output_final/book_edited/, build_pdf.py -> output_final/The_Muslim_Lantern_and_Farid_Responds_Edited.pdf,
+- After all batches: assemble_edited.py -> output_final/book_edited/, build_pdf.py -> output_final/The_Muslim_Lantern_and_Farid_Responds_The_Arguments.pdf,
   verify_edited.py (fidelity = sub-sequence check against the transcripts, coverage of passages, references), checks_edited.md.
 - The verbatim compilation (Stages 1-7) is kept as ..._A_Topical_Compilation.pdf.
 - 2026-10-17: REPETITIONS. The option the user chose said "complete, organized by topic, without repetitions, ~800-1200 pages".
@@ -87,3 +87,16 @@ All scripts are in `work/scripts/`. Run them from the repository root.
   NEW CONTAINER (2026-11-07): the clone was on the initial commit -> `git fetch origin claude/upbeat-ptolemy-ph4o7a &&
   git checkout -B claude/upbeat-ptolemy-ph4o7a origin/claude/upbeat-ptolemy-ph4o7a`; then `python3 -m pip install typst fonttools`
   (python3 = /usr/local/bin/python3.11; plain `pip` installs into another python). Git-ignored PDFs are not kept across containers.
+- DONE 2026-11-07 (final): restore pass E045/E047 merged; reference boxes ML065 fixed; full assembly; A-F PASS.
+  Final figures: 5181 passages (4273 The Muslim Lantern, 908 Farid Responds), 557 omitted (267 repetitions, 183 dialogue-only,
+  63 greetings/logistics, 25 fragments, 19 other: references to other videos, asides), 1,357,009 words = 58% of 2,321,154;
+  6065 bracket corrections; 1461 reference boxes; 13120 footnotes; 8/8 articles; 16 parts, 91 chapters, 774 sub-chapters.
+- FOOTNOTE LAYOUT (2026-11-07): the first build had wrong per-page note numbers on 116 pages (note text chosen with
+  `context` from the per-page counter did not converge). Now: notes always "Ibid." after the first paragraph of a passage,
+  except those listed in book_edited/fullnotes.json; `footnote_pages.py` queries the laid-out book (metadata <fnpos> in every
+  note: passage id, paragraph, page) and adds every "Ibid." note that is first on its page, until none is added (monotone;
+  converged in 6 rounds, 2416 notes). Run it after every assemble_edited.py, before build_pdf.py. A word joiner keeps the note
+  mark with the last word (3 marks stood alone after "?"). check_pdf_footnotes.py checks the built PDF (numbering 1..n per
+  page, first note never Ibid., no lone mark) -> work/footnote_pdf_check.json, used by write_checks.py --edited (check E).
+- build_pdf.py re-saves the PDF with pikepdf object streams when pikepdf is installed (107 MB -> 80 MB, lossless).
+  New container: `python3 -m pip install typst fonttools pikepdf` (+ `--ignore-installed pillow` for page renders).
