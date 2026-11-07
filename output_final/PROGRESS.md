@@ -81,7 +81,7 @@ All scripts are in `work/scripts/`. Run them from the repository root.
   than delete the detail. Details dropped earlier for this reason are listed in work/edit/restore_todo.md (restore pass at the end).
 - STATUS 2026-11-07 (how to resume: a batch is final when `check_edit.py E###` prints OK and, for E001-E023, it is listed
   in work/edit/condensed.txt; partial outputs are kept and completed by a relaunched agent with a RESUME paragraph):
-  final: condensed E001-E023; v2 E024-E061 (61 batches). Running: v2 E062-E067 (resume), E068, E069. Todo: v2 E070-E147.
+  final (95 batches, 2026-11-07 evening): E001-E094. Running: E095-E102. Todo: E103-E147.
   Usage limits: weekly limit hit 2026-10-24 and 2026-10-31 (each time resumed a week later); 5-hour limit 2026-10-31.
   NEW CONTAINER (2026-11-07): the clone was on the initial commit -> `git fetch origin claude/upbeat-ptolemy-ph4o7a &&
   git checkout -B claude/upbeat-ptolemy-ph4o7a origin/claude/upbeat-ptolemy-ph4o7a`; then `python3 -m pip install typst fonttools`
