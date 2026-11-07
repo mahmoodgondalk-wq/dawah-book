@@ -21,3 +21,6 @@
 - DONE 2026-11-07 name polish (script): Ibraim->[Ibrahim] x7, Westenfeld->[Wüstenfeld] x2, Usery/usery->[usury] x3,
   Nejiran->[Najran] x2, Sierra->[Sirah], NS bin->[Anas] bin, Eunice->[Yunus] (E008, E031, E032, E034, E038, E040, E041; all re-checked OK).
   Left as captioned (unidentified): Damans, Benue, Alabri, Awiyazid; "Shamun" is an accepted spelling of Sham'un.
+- CHECKED 2026-11-07 (kept): E134 [Hudhayfah] came to [Uthman] (Bukhari 4987, Hudhayfah's words to Uthman); [Ibn Hazm] d. 456 AH;
+  [Ibn Ishaq] quoting the Gospel of John (his Sirah quotes John 15:23ff.); rabbi [Saadia] (for "s"; Saadia Gaon's Arabic Torah);
+  [Ibn Kathir] on 3:3 and [al-Tabari] on the Injil/Torah confirmation (wording matches their tafsirs). All well grounded.
