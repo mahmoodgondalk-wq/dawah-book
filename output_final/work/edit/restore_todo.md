@@ -24,3 +24,6 @@
 - CHECKED 2026-11-07 (kept): E134 [Hudhayfah] came to [Uthman] (Bukhari 4987, Hudhayfah's words to Uthman); [Ibn Hazm] d. 456 AH;
   [Ibn Ishaq] quoting the Gospel of John (his Sirah quotes John 15:23ff.); rabbi [Saadia] (for "s"; Saadia Gaon's Arabic Torah);
   [Ibn Kathir] on 3:3 and [al-Tabari] on the Injil/Torah confirmation (wording matches their tafsirs). All well grounded.
+- DONE 2026-11-07 restore pass: E045 FR080:342-414 Ubayy's 116 chapters restored; E047 FR268:64-153 (tribes Asad, Bakr ibn Wa'il;
+  al-Susi and Abu 'Amr; Kisa'i) and FR268:154-216 (Ibn Kathir the reciter reciting both forms) restored. Not restorable within
+  the bracket allowance or because words are missing (not garbled): Ibn Mas'ud's 111 chapters, six reciters, rejected readings.
