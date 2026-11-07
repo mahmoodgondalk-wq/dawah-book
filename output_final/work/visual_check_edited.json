@@ -1,0 +1,35 @@
+{
+ "pdf_pages": 3327,
+ "pages_inspected": [
+  1,
+  3,
+  4,
+  23,
+  24,
+  25,
+  60,
+  958,
+  959,
+  1892,
+  2601,
+  2783,
+  3136,
+  3200,
+  3311,
+  3312,
+  3313
+ ],
+ "findings": [
+  "Cover, About this book, Contents, part title pages (Part I, Part XIII, Part XV), chapter openings, running headers and page numbers render correctly.",
+  "Passages: author line in small capitals, justified text, paragraph footnote marks; square-bracket corrections visible as such.",
+  "Footnotes: numbered from 1 on every page (pdftotext check of all 3327 pages: 2847 pages with footnotes, 13120 footnotes, numbering 1..n on every page); the first footnote of every page names the channel and video (footnote_pages.py: 2416 'Ibid.' footnotes that fall first on a page name the video again; check_pdf_footnotes.py: 0 pages starting with Ibid.); every time is a link to the video at that second (checked on p. 25).",
+  "Fixed during this check: in the first build, footnote numbers were wrong on 116 pages (footnote text that depended on its position did not converge in layout); replaced by footnote_pages.py, which fixes the list of footnotes naming the video before the final layout.",
+  "Fixed during this check: 3 footnote marks stood alone on a line after a question mark (p. 60, 639, 2331); a word joiner now keeps the mark with the last word (0 left).",
+  "Reference boxes (quran.com Saheeh International, sunnah.com) are shaded, headed with their source and placed after the passage, outside the hosts' words (pp. 60, 2783, 959).",
+  "Arabic quoted by a host inside a passage renders right-to-left with the Amiri font (pp. 2783, 959); no empty boxes (font check: 0 uncovered characters).",
+  "Articles are reproduced as their original pages with a source line (p. 958).",
+  "Index of Sources lists the video titles by channel (pp. 3312-3313).",
+  "Known limitation, not a layout error: a few names garbled by the automatic captions are left as captioned when the right name could not be established (e.g. 'Navich', p. 3200)."
+ ],
+ "pass": true
+}

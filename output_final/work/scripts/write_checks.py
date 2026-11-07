@@ -35,7 +35,8 @@ DESC_EDITED = {
          "argument (listed in work/edit/omitted.json with its reason); every article appears exactly once",
     "C": "Attribution: every passage is shown under the host whose labeled segments it comes from",
     "D": "Join: the normalized segments of every file re-join to the normalized original transcript",
-    "E": "Visual: fonts cover every character (no empty boxes); sample pages inspected",
+    "E": "Visual: fonts cover every character (no empty boxes); footnotes numbered 1, 2, 3... on every page of the PDF and the "
+         "first footnote of every page names its video; sample pages inspected",
     "F": "References: every reference box is an unaltered text from quran.com (Saheeh International) / sunnah.com / shamela.ws, "
          "cited by the passage above it, never inside the speakers' words; never for Bible references",
 }
@@ -45,6 +46,8 @@ def main_edited():
     V = json.load(open(os.path.join(WORK, "verify_edited_results.json"), encoding="utf-8"))
     G = json.load(open(os.path.join(WORK, "glyph_check_book_edited.json"), encoding="utf-8"))
     E = json.load(open(os.path.join(WORK, "visual_check_edited.json"), encoding="utf-8"))
+    FP = json.load(open(os.path.join(WORK, "footnote_pages.json"), encoding="utf-8"))
+    FT = json.load(open(os.path.join(WORK, "footnote_pdf_check.json"), encoding="utf-8"))
     S = V["summary"]
     lines = ["# Verification checks (A-F) - edited book", "",
              "Produced by `work/scripts/verify_edited.py` (A, B, C, D, F), `check_glyphs.py` and a visual inspection of rendered pages (E).",
@@ -53,6 +56,9 @@ def main_edited():
     for c in "ABCDEF":
         if c == "E":
             errs = [f"uncovered character {x}" for x in G.get("uncovered", [])] + ([] if E.get("pass") else ["visual inspection failed"])
+            errs += ([] if FP.get("pass") else ["a page starts with an Ibid. footnote (layout query)"]) + FT.get("errors", [])
+            if FT.get("footnotes") != S.get("footnotes"):
+                errs.append(f"PDF has {FT.get('footnotes')} footnotes, the source {S.get('footnotes')}")
         else:
             errs = V["errors"][c]
         allok &= not errs
@@ -75,6 +81,10 @@ def main_edited():
             lines += [f"## Errors in check {c}", ""] + [f"- {e}" for e in V["errors"][c][:50]] + [""]
     lines += ["## Check E details", ""]
     lines += [f"- Fonts: {'every character covered' if not G.get('uncovered') else 'UNCOVERED: ' + ', '.join(G['uncovered'])}"]
+    lines += [f"- Footnotes in the PDF ({FT['pdf']}): {FT['footnotes']} on {FT['pages_with_footnotes']} pages; numbered from 1 on "
+              f"every page, the first one of each page names its video ({FP['footnotes_naming_video_again']} 'Ibid.' footnotes "
+              f"name it again because they fall first on a page), no mark alone on a line: "
+              f"{'PASS' if FT['pass'] and FP['pass'] else 'FAIL'}"]
     lines += [f"- Pages inspected: {', '.join(str(p) for p in E.get('pages_inspected', []))}"]
     lines += [f"- {x}" for x in E.get("findings", [])]
     with open(os.path.join(WORK, "..", "checks_edited.md"), "w", encoding="utf-8") as f:
@@ -97,6 +107,9 @@ def main():
     for c in "ABCDEF":
         if c == "E":
             errs = [f"uncovered character {x}" for x in G.get("uncovered", [])] + ([] if E.get("pass") else ["visual inspection failed"])
+            errs += ([] if FP.get("pass") else ["a page starts with an Ibid. footnote (layout query)"]) + FT.get("errors", [])
+            if FT.get("footnotes") != S.get("footnotes"):
+                errs.append(f"PDF has {FT.get('footnotes')} footnotes, the source {S.get('footnotes')}")
         else:
             errs = V["errors"][c]
         ok = not errs
@@ -118,6 +131,10 @@ def main():
             lines += [f"## Errors in check {c}", ""] + [f"- {e}" for e in V["errors"][c][:50]] + [""]
     lines += ["## Check E details", ""]
     lines += [f"- Fonts: {'every character covered' if not G.get('uncovered') else 'UNCOVERED: ' + ', '.join(G['uncovered'])}"]
+    lines += [f"- Footnotes in the PDF ({FT['pdf']}): {FT['footnotes']} on {FT['pages_with_footnotes']} pages; numbered from 1 on "
+              f"every page, the first one of each page names its video ({FP['footnotes_naming_video_again']} 'Ibid.' footnotes "
+              f"name it again because they fall first on a page), no mark alone on a line: "
+              f"{'PASS' if FT['pass'] and FP['pass'] else 'FAIL'}"]
     lines += [f"- Pages inspected: {', '.join(str(p) for p in E.get('pages_inspected', []))}"]
     lines += [f"- {x}" for x in E.get("findings", [])]
     with open(OUT, "w", encoding="utf-8") as f:

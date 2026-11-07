@@ -57,15 +57,18 @@
 // One passage: paragraphs of the host's (edited) words. Every paragraph ends with a footnote giving the video
 // (channel and title) and the time in the video where its words were spoken; the time links to the video at that
 // moment. times: ((start second, "m:ss–m:ss"), ...), one per paragraph. A following paragraph of the same passage
-// (same video) says "Ibid.", except when its footnote is the first one on a page.
-#let passage(paras, src, url, times) = {
+// (same video) says "Ibid.", except the footnotes listed in fullnotes.json (id -> paragraph indices), which name the
+// video again: footnote_pages.py lists there every footnote that falls first on its page, so that the first footnote
+// of every page names its video. Each footnote records its page in a metadata <fnpos> (id, paragraph, page) for that.
+// The word joiner keeps the footnote mark on the line of the last word (no mark alone on a line after "?").
+#let fullnotes = json("fullnotes.json")
+#let passage(paras, src, url, times, id: none) = {
+  let full = if id == none { () } else { fullnotes.at(str(id), default: ()) }
   for (i, p) in paras.enumerate() {
     let (sec, label) = times.at(i)
     let when = link(url + "&t=" + str(sec) + "s", label)
-    [#p#context {
-      let first-on-page = counter(footnote).get().first() == 0
-      footnote(if i == 0 or first-on-page [#src, #when.] else [Ibid., #when.])
-    }]
+    let mark = if id != none { context [#metadata((id, i, here().page()))<fnpos>] }
+    [#p#sym.wj#footnote(if i == 0 or full.contains(i) [#src, #when.#mark] else [Ibid., #when.#mark])]
     if i < paras.len() - 1 { parbreak() }
   }
   parbreak()

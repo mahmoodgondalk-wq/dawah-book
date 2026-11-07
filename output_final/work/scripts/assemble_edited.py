@@ -115,7 +115,7 @@ def main():
                         # one footnote per paragraph: the video and the time (start of its first word - start of its last word)
                         times = paragraph_times(u, paras)
                         tl = ", ".join(f"({a}, {tstr(fmt_range(a, b))})" for a, b in times)
-                        rendered.append(f"#passage(({', '.join(tstr(p) for p in paras)},), {tstr(src)}, {tstr(idx[u['file']]['url'])}, ({tl},))")
+                        rendered.append(f"#passage(({', '.join(tstr(p) for p in paras)},), {tstr(src)}, {tstr(idx[u['file']]['url'])}, ({tl},), id: {stats['passages']})")
                         used_files.add(u["file"])
                         stats["passages"] += 1
                         # reference boxes cited in the host segments of this unit
