@@ -10,3 +10,8 @@
   The reference boxes come from approved_refs.json (resolved from the raw citation), so this passage still gets boxes for 27:89 and 16:115.
   Final polish: list every bracketed [n:n] / [n] verse correction, compare with the unit's approved refs, and fix the boxes
   (fetch the corrected verse from quran.com with fetch_quran.py, record a manual decision, drop the wrong box).
+
+# Pure name insertions in brackets (the guide forbids adding missing words) - verify or remove in the final polish
+- E134 ML065:794-843 [Hudhayfah]; ML065:974-1053 [Ibn Kathir] (Quran 3:3 quote), [al-Tabari] (3:50); also [Ibn Hazm], [Ibn Ishaq], [Saadia]
+  (names identified by the editor from the quoted text; check against the tafsir texts, else delete the quotation).
+- E068 FR098:1-168 "[Ibn Hazm and Imam] Muslim" (missing name before "and"; context makes it clear).
