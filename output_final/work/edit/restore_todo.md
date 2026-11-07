@@ -18,3 +18,6 @@
 - DONE 2026-11-07: ML065:1063 box 27:89 -> 18:27, ML065:1074 box 16:115 -> 6:115 (manual_decisions.json + resolve_refs final +
   finalize_refs). The two old files are kept because the verbatim compilation (output_final/book) still shows them.
   Other bracketed verse numbers (26) checked: no other wrong Quran box (the rest are Bible references or have no box).
+- DONE 2026-11-07 name polish (script): Ibraim->[Ibrahim] x7, Westenfeld->[Wüstenfeld] x2, Usery/usery->[usury] x3,
+  Nejiran->[Najran] x2, Sierra->[Sirah], NS bin->[Anas] bin, Eunice->[Yunus] (E008, E031, E032, E034, E038, E040, E041; all re-checked OK).
+  Left as captioned (unidentified): Damans, Benue, Alabri, Awiyazid; "Shamun" is an accepted spelling of Sham'un.
