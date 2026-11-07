@@ -4,3 +4,9 @@
 - E045: FR080:342-414 - Ibn Mas'ud "111 chapters" claim, his explicit report, Ubayy's "116 chapters" deleted (bracket cap)
 - E047: FR088 etc. - lists of reciters and tribe names, Ibn Kathir reciting both forms of "sirat", examples of rejected readings deleted
 - E054: DONE 2026-10-31 (FR313 restored: Ibn Atiyya, Mujahid, al-Hasan, the three-century gap, the second source; a few names still out)
+
+# Reference boxes vs bracket-corrected verse numbers (check in the final polish)
+- Editors sometimes correct a mis-cited verse in brackets (e.g. E135 ML065:1054-1092: "Quran 27:89" -> [18:27], "chapter 16 verse 115" -> [6] 115).
+  The reference boxes come from approved_refs.json (resolved from the raw citation), so this passage still gets boxes for 27:89 and 16:115.
+  Final polish: list every bracketed [n:n] / [n] verse correction, compare with the unit's approved refs, and fix the boxes
+  (fetch the corrected verse from quran.com with fetch_quran.py, record a manual decision, drop the wrong box).
