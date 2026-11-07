@@ -1748,5 +1748,33 @@
   "key": null,
   "decision": "skip",
   "reason": "Bible or non-Quran chapter/verse locator; not applicable (Bible references are never added)"
+ },
+ {
+  "file": "ML065",
+  "seg": 1063,
+  "key": "quran:27:89",
+  "decision": "skip",
+  "reason": "the host says '27:89' but quotes 18:27 ('recite what has been revealed to you of the Book of your Lord; none can change His words'); edited text corrects it to [18:27]"
+ },
+ {
+  "file": "ML065",
+  "seg": 1063,
+  "key": "quran:18:27",
+  "decision": "add",
+  "reason": "the verse actually quoted in this segment (see the skip of 27:89)"
+ },
+ {
+  "file": "ML065",
+  "seg": 1074,
+  "key": "quran:16:115",
+  "decision": "skip",
+  "reason": "the host says 'chapter 16 verse 115' but quotes 6:115 ('the word of your Lord has been perfected in truth and justice; none can change His words')"
+ },
+ {
+  "file": "ML065",
+  "seg": 1074,
+  "key": "quran:6:115",
+  "decision": "add",
+  "reason": "the verse actually quoted in this segment (see the skip of 16:115)"
  }
 ]

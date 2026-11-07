@@ -15,3 +15,6 @@
 - E134 ML065:794-843 [Hudhayfah]; ML065:974-1053 [Ibn Kathir] (Quran 3:3 quote), [al-Tabari] (3:50); also [Ibn Hazm], [Ibn Ishaq], [Saadia]
   (names identified by the editor from the quoted text; check against the tafsir texts, else delete the quotation).
 - E068 FR098:1-168 "[Ibn Hazm and Imam] Muslim" (missing name before "and"; context makes it clear).
+- DONE 2026-11-07: ML065:1063 box 27:89 -> 18:27, ML065:1074 box 16:115 -> 6:115 (manual_decisions.json + resolve_refs final +
+  finalize_refs). The two old files are kept because the verbatim compilation (output_final/book) still shows them.
+  Other bracketed verse numbers (26) checked: no other wrong Quran box (the rest are Bible references or have no box).
