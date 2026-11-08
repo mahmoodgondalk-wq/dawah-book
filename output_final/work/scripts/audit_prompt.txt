@@ -43,6 +43,10 @@ HOW TO RESTORE
 - Square brackets in the out file mean an editorial correction of a garbled caption word (guide: at most 4 words per bracket,
   and the per-passage allowance). A reference written in square brackets in the transcript, like [alAnbiya21:30], must be
   written in round brackets in the out file: (alAnbiya21:30).
+- If the captions DROPPED a name (no garbled word in its place) and the restored sentence, left without it, would read as
+  said of or by someone else (e.g. a claim of Mirza Ghulam Ahmad reading as a claim of the Prophet): add the name in square
+  brackets when it is certain from the context, e.g. "[Mirza] claimed that..."; if it is not certain, mark the gap with "…".
+  Never add a bracketed word for any other reason.
 - Words a host quotes from someone else must not read as the host's own: keep the "he said" / "X says", or use quotation marks.
 - Run  python3 output_final/work/scripts/check_edit.py {BATCH}  and fix every ERROR until it prints "{BATCH} OK".
 

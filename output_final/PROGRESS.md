@@ -112,3 +112,7 @@ All scripts are in `work/scripts/`. Run them from the repository root.
   edits work/edit/out/E###.txt, runs check_edit, writes work/edit/audit/E###.log.md. Done list: work/edit/audited.txt.
   To resume: launch the batches not in audited.txt; then assemble_edited.py, reset book_edited/fullnotes.json to {} and run
   footnote_pages.py, build_pdf.py, verify_edited.py, check_glyphs.py, check_pdf_footnotes.py, write_checks.py --edited.
+  Audit notes: (1) cut lists for E016-E147 list cuts with >= 2 content words (E001-E015 had >= 3; short-cut second pass for
+  E001-E015 to do at the end with `audit_cuts.py --short E001 ... E015` -> work/edit/audit/E###.short.in.txt). (2) Where the
+  captions dropped a name and the restored sentence would be read as said of someone else, the name is added in square
+  brackets when certain (FR132: [Mirza] x6); audit_prompt.txt says so; front.typ must say so at the end.
