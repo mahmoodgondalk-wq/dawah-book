@@ -99,7 +99,7 @@ Fixes made during the final checks:
 - **Some garbled names are left as captioned** because the right name could not be established with certainty: Damans, Benue, Alabri, Awiyazid, "Julian Porter and Phillip Pitcher", "Nvich National University" / "Navich", "Survivita".
 - **Names identified by the editor from context.** Bracketed names such as [Hudhayfah], [Ibn Kathir], [al-Tabari], [Ibn Hazm], [Ibn Ishaq] and [Saadia] were each checked against the quoted texts and kept.
 - **Attribution** relies on the speaker labels of Stage 3, the same labels the verbatim compilation used. Doubtful cases, such as auto-captioned videos without turn markers where a caption line can mix two speakers, are listed in `attribution_doubts.md`.
-- **Statements are the hosts' own.** No statement was cut because it might be factually wrong. Words a host quotes from someone else keep their "he said". If keeping that was not possible, the quotation was deleted, so it never reads as the host's own claim.
+- **Statements are the hosts' own.** The editing guide forbids cutting a statement because it might be factually wrong. One editor (batch E014) did so twice before that rule was added on 2026-10-24: "you will be called Jacob" (ML359) and "they have 30 Gods" (ML275). A check of every figure removed from the book (`work/scripts/dropped_stats.py`) also found 28 statistics said by the hosts that were cut without a recorded reason and are no longer anywhere in the book. All of these are listed, with video and minute, in `removed_statistics.md`. Words a host quotes from someone else keep their "he said". If keeping that was not possible, the quotation was deleted, so it never reads as the host's own claim.
 
 ## Rebuilding the PDF
 
