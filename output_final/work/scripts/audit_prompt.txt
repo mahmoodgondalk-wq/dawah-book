@@ -43,8 +43,13 @@ HOW TO RESTORE
 - Square brackets in the out file mean an editorial correction of a garbled caption word (guide: at most 4 words per bracket,
   and the per-passage allowance). A reference written in square brackets in the transcript, like [alAnbiya21:30], must be
   written in round brackets in the out file: (alAnbiya21:30).
-- Never leave content out because the square-bracket allowance is used up: then restore the words with the caption
-  spelling, without brackets (a garbled word is better than a lost detail).
+- READABILITY (the owner's rule: "exactly what is said, but with the useless talk deleted, so that it reads like a book").
+  What you restore must read like the rest of the book: inside it drop fillers, stammers, false starts, repeated words,
+  "you know", "right?", "okay", "basically", cheering ("wow, wow"), plugs ("check out my video", "link in the description",
+  "subscribe"), greetings and chat with the audience. Keep every point, claim, figure, name, source, example and remark.
+- Garbled caption words: correct them in square brackets when you can identify them (the allowance is now 10% of a
+  passage's words). If a garbled bit cannot be identified and cannot be read, leave out only that bit, never the point
+  around it.
 - If the captions DROPPED a name (no garbled word in its place) and the restored sentence, left without it, would read as
   said of or by someone else (e.g. a claim of Mirza Ghulam Ahmad reading as a claim of the Prophet): add the name in square
   brackets when it is certain from the context, e.g. "[Mirza] claimed that..."; if it is not certain, mark the gap with "…".
