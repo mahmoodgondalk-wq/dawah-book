@@ -1,8 +1,8 @@
 {
- "rounds": 1,
- "footnotes": 13120,
- "pages_with_footnotes": 2847,
- "footnotes_naming_video_again": 2416,
+ "rounds": 7,
+ "footnotes": 13141,
+ "pages_with_footnotes": 2853,
+ "footnotes_naming_video_again": 2440,
  "pages_whose_first_footnote_is_ibid": 0,
  "max_footnotes_on_a_page": 10,
  "pass": true

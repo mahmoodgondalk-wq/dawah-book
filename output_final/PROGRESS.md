@@ -22,7 +22,7 @@ All scripts are in `work/scripts/`. Run them from the repository root.
 - Each batch is labeled by one subagent with the identical prompt in `work/scripts/agent_prompt.txt` (replace {FILES}).
 - Outputs: `work/labels/<id>.json` (type, confidence, evidence, speaker ranges, doubts), `work/topics/<id>.json` (topic ranges, refs).
 - Pilot (ML043, FR054, FR002, ML001) done and checked.
-- Labeling status: TOTAL 774/774 files labeled; complete batches: 152/152 (as of 2026-11-08 07:50 UTC)
+- Labeling status: TOTAL 774/774 files labeled; complete batches: 152/152 (as of 2026-11-08 07:57 UTC)
 - NOTE: at ~09:30 UTC the API session limit was hit; batches B54, B57-B63 failed mid-way. To resume: run `batches.py todo 10` and relaunch those batches with the same prompt (files already valid are skipped automatically).
 - USER INSTRUCTION (2026-10-04): labeling subagents must run on the default model (Opus 5.5); do NOT switch them to Sonnet.
 - Oct 2: the weekly usage limit was hit around B57-B64; resumed Oct 4.
@@ -100,3 +100,15 @@ All scripts are in `work/scripts/`. Run them from the repository root.
   page, first note never Ibid., no lone mark) -> work/footnote_pdf_check.json, used by write_checks.py --edited (check E).
 - build_pdf.py re-saves the PDF with pikepdf object streams when pikepdf is installed (107 MB -> 80 MB, lossless).
   New container: `python3 -m pip install typst fonttools pikepdf` (+ `--ignore-installed pillow` for page renders).
+- 2026-11-08 USER INSTRUCTION (after reading the audit of removed statistics): "how dare you remove all this, it goes against the
+  rules: put everything back in the book, EVERYTHING, also anything else removed as 'other'; as per the rule only the host's
+  words WITHOUT JUDGING THEM". Done at once: the 2 details E014 cut as wrong, the 26 statistics cut without a reason
+  (removed_statistics.md; 2 listed items were false positives, already in the book) and the 19 passages omitted as "other"
+  restored by hand (check_edit OK); book rebuilt: 5200 passages, 538 omitted, 13141 footnotes, 3333 pages, A-F PASS.
+  AUDIT OF ALL CUTS (running): work/scripts/audit_cuts.py lists every cut span (>= 3 content words) and every omitted passage per
+  batch -> work/edit/audit/E###.in.txt (872,725 words in all); one Opus agent per batch with work/scripts/audit_prompt.txt
+  ({BATCH}) restores everything cut by judging (wrong, doubtful, exaggerated, offensive, controversial, digression...), keeps
+  out only superfluous cuts (filler, repetition in the same sub-chapter, dialogue-only, logistics, garble, other speaker),
+  edits work/edit/out/E###.txt, runs check_edit, writes work/edit/audit/E###.log.md. Done list: work/edit/audited.txt.
+  To resume: launch the batches not in audited.txt; then assemble_edited.py, reset book_edited/fullnotes.json to {} and run
+  footnote_pages.py, build_pdf.py, verify_edited.py, check_glyphs.py, check_pdf_footnotes.py, write_checks.py --edited.

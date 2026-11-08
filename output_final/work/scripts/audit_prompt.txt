@@ -1,0 +1,58 @@
+You are reviewing the cuts of batch {BATCH} of an edited book. Repository root: /home/user/dawah-book (run commands from there).
+
+THE BOOK. A book made only of the words of two YouTube hosts (The Muslim Lantern = Muhammed Ali; Farid Responds = Farid), edited by
+DELETION ONLY: fillers, stammers, false starts, repetitions, words addressed to callers/guests and stream logistics were removed;
+punctuation and paragraphs were added; no word was added, changed or reordered. The rules are in
+output_final/work/EDITING_GUIDE_V2.md (read the sections "What you may and may not do" and the square-bracket exception).
+
+THE PROBLEM. The owner of the book found that the editors also cut things by JUDGING the hosts' words: statistics they thought
+wrong, details they thought inaccurate, remarks they found harsh or controversial. The owner's rule is: only the hosts' words,
+WITHOUT JUDGING THEM; remove only what is superfluous. Your task: put back into batch {BATCH} everything that was cut for any
+reason other than being superfluous.
+
+FILES
+- output_final/work/edit/audit/{BATCH}.in.txt : every cut of the batch. For each passage ("### <uid> | <sub-chapter> | ...") the cut
+  spans are shown as  …kept words before ⟨CUT: the cut words⟩ kept words after…  with "seen NN%" = share of the cut's content
+  words that also occur in the kept text of the same sub-chapter (high = maybe a repetition; it is only a hint, check it).
+  Omitted passages are shown whole with the reason they were omitted. ⟦…⟧ marks where another person (guest, caller, clip) spoke.
+- output_final/work/edit/out/{BATCH}.txt : the edited text of the batch ("### <uid>" then the passage). YOU EDIT THIS FILE.
+
+WHAT TO RESTORE. Every cut span (or the part of it) in which the host says something with content: a claim, fact, figure,
+statistic, percentage, date, name, source, quotation, example, story, argument, explanation, opinion, advice, warning, criticism,
+accusation, a joke or remark that makes a point - UNLESS it is superfluous in one of these ways:
+  a) fillers, stammers, false starts, the same words said twice in a row;
+  b) a repetition: the same point, with the same details, is already in the kept text of the SAME sub-chapter (check the out
+     file). If the cut telling has a detail the kept one lacks (a number, a name, an example, a source, a date), restore that detail;
+  c) words addressed to the other speaker that make no sense without the other speaker's words: prompts ("go ahead", "what's your
+     question", "tell me", "translate it"), bare "yes / no / exactly / I agree", chasing an answer;
+  d) stream logistics, greetings, thanks, plugs, chat moderation;
+  e) caption garble with no recoverable meaning;
+  f) words that clearly belong to the other speaker (a guest or caller) wrongly inside the host's text.
+NEVER leave out something because it is, or seems, wrong, inaccurate, exaggerated, doubtful, unsourced, contradictory, offensive,
+harsh, insulting, rude, crude, mocking, politically or religiously sensitive, controversial, a digression, an aside, or "weak".
+Those MUST be restored. When in doubt, restore.
+OMITTED passages: if omitted as a repetition, check that its points and details really are in the kept text of the sub-chapter and
+restore it (replace the "[omitted: ...]" line with the edited passage) if anything is not; if omitted as dialogue / logistics /
+fragment, restore it if it contains a statement of the host that has content on its own.
+
+HOW TO RESTORE
+- Put the words back in their original order and place: between the kept words shown before and after the cut. Clean them the
+  same way as the rest of the book: drop fillers and stammers inside, add punctuation, capitals and paragraph breaks; never add,
+  change or reorder a word; keep the caption spelling. If the restored sentence needs a few neighbouring cut words to read
+  well, restore those too.
+- Square brackets in the out file mean an editorial correction of a garbled caption word (guide: at most 4 words per bracket,
+  and the per-passage allowance). A reference written in square brackets in the transcript, like [alAnbiya21:30], must be
+  written in round brackets in the out file: (alAnbiya21:30).
+- Words a host quotes from someone else must not read as the host's own: keep the "he said" / "X says", or use quotation marks.
+- Run  python3 output_final/work/scripts/check_edit.py {BATCH}  and fix every ERROR until it prints "{BATCH} OK".
+
+LOG. Write output_final/work/edit/audit/{BATCH}.log.md with one line per restored item:
+  - <uid> | <why it had probably been cut: wrong-or-doubtful / exaggeration / statistic / offensive-or-harsh / controversial /
+    digression-or-aside / other-content / omitted-passage> | «first words … last words of what you restored»
+and a last line:  kept out: <N> cuts (repetition / dialogue / filler / logistics / garbled / other speaker).
+
+WORKING RULES. Work passage by passage, sub-chapter by sub-chapter. A single response must stay under the output-token limit: keep
+every single write or edit under about 3,000 words, and keep your thinking short. Do not run git (not even git status). Do not
+modify any file other than output_final/work/edit/out/{BATCH}.txt and output_final/work/edit/audit/{BATCH}.log.md.
+When done, reply with: "{BATCH} OK", the number of items restored, the number of words added (check_edit's retention line
+before/after), and the 3 most notable restorations.

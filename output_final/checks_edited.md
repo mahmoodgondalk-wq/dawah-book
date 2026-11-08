@@ -25,18 +25,18 @@ Produced by `work/scripts/verify_edited.py` (A, B, C, D, F), `check_glyphs.py` a
 ## Figures
 
 - Transcript files: 774
-- Passages in the plan: 5738; in the book: 5181; omitted: 557
-- Words: 2321154 transcribed host words, 1357009 in the book (58%)
-- Editorial corrections in square brackets: 6065
-- Footnotes (one per paragraph, with the video and the time): 13120
+- Passages in the plan: 5738; in the book: 5200; omitted: 538
+- Words: 2321154 transcribed host words, 1359355 in the book (59%)
+- Editorial corrections in square brackets: 6083
+- Footnotes (one per paragraph, with the video and the time): 13141
 - Reference boxes: 1461
 - Articles: 8 of 8 (original PDF pages embedded)
-- PDF pages: 3327; pages inspected visually: 17
+- PDF pages: 3333; pages inspected visually: 17
 
 ## Check E details
 
 - Fonts: every character covered
-- Footnotes in the PDF (The_Muslim_Lantern_and_Farid_Responds_The_Arguments.pdf): 13120 on 2847 pages; numbered from 1 on every page, the first one of each page names its video (2416 'Ibid.' footnotes name it again because they fall first on a page), no mark alone on a line: PASS
+- Footnotes in the PDF (The_Muslim_Lantern_and_Farid_Responds_The_Arguments.pdf): 13141 on 2853 pages; numbered from 1 on every page, the first one of each page names its video (2440 'Ibid.' footnotes name it again because they fall first on a page), no mark alone on a line: PASS
 - Pages inspected: 1, 3, 4, 23, 24, 25, 60, 958, 959, 1892, 2601, 2783, 3136, 3200, 3311, 3312, 3313
 - Cover, About this book, Contents, part title pages (Part I, Part XIII, Part XV), chapter openings, running headers and page numbers render correctly.
 - Passages: author line in small capitals, justified text, paragraph footnote marks; square-bracket corrections visible as such.
