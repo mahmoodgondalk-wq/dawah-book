@@ -3,8 +3,8 @@
 judging the host's words (as wrong, doubtful, exaggerated, offensive, harsh, weak, off-topic...) instead of as superfluous.
 
 For each passage of the batch (source = work/edit/units.json, edited = work/edit/out/E###.txt) the words of the source that
-are not in the edited text are grouped into cut spans (difflib alignment). Spans with fewer than 3 content words (fillers,
-"you know", "right?", stammers) are not listed. Each span is shown between the kept words before and after it, with the
+are not in the edited text are grouped into cut spans (difflib alignment). Spans with fewer than 2 content words (fillers,
+"you know", "right?", stammers) are not listed (MIN_CW; the first batches, E001-E015, were listed with 3). Each span is shown between the kept words before and after it, with the
 share of its content words that also occur in the kept text of the same sub-chapter ("seen") - a high share suggests a
 repetition, a low share a point that is not in the book. Omitted passages are listed whole, with their reason.
   python3 audit_cuts.py E079 [...]   -> work/edit/audit/E079.in.txt
@@ -24,6 +24,7 @@ not no yes yeah yep okay ok oh uh um uhm hmm like just right well now then also 
 sort know mean say said says gonna wanna gotta let lets do does did done have has had will would can could should shall may
 might must about all any some one thing things stuff guys bro brother sister man look listen see go going get got okay""".split())
 AUD = os.path.join(EDIT, "audit")
+MIN_CW = int(os.environ.get("MIN_CW", "2"))  # cut spans with fewer content words are not listed (E001-E015 were listed with 3)
 
 
 def toks(s):
@@ -34,7 +35,7 @@ def content(ws):
     return [w for w in ws if w not in FILLER and len(w) > 1]
 
 
-def main(batch):
+def main(batch, only_short=False):
     U = units()
     blocks = parse_out(os.path.join(EDIT, "out", batch + ".txt"))
     kept_sub = {}
@@ -73,7 +74,7 @@ def main(batch):
         seen_words = kept_sub.get(u["sub"], set())
         for i, j in spans:
             cw = content([w for w, *_ in st[i:j]])
-            if len(cw) < 3:
+            if len(cw) < MIN_CW or (only_short and len(cw) >= 3):
                 continue
             seen = sum(w in seen_words for w in cw) / len(cw)
             a, b = st[i][1], st[j - 1][2]
@@ -87,11 +88,14 @@ def main(batch):
             out.extend(lines)
             out.append("")
     os.makedirs(AUD, exist_ok=True)
-    with open(os.path.join(AUD, batch + ".in.txt"), "w", encoding="utf-8") as f:
+    if only_short:  # second pass for E001-E015: only the 2-content-word cuts, no omitted passages
+        out = [x for x in out if "OMITTED" not in x]
+    with open(os.path.join(AUD, batch + (".short.in.txt" if only_short else ".in.txt")), "w", encoding="utf-8") as f:
         f.write("\n".join(out) + "\n")
     print(f"{batch}: {n_spans} cut spans + {sum(1 for x in out if 'OMITTED' in x)} omitted passages, {n_words} words to review")
 
 
 if __name__ == "__main__":
-    for b in sys.argv[1:]:
-        main(b)
+    short = "--short" in sys.argv
+    for b in [a for a in sys.argv[1:] if a != "--short"]:
+        main(b, short)
