@@ -54,6 +54,9 @@ HOW TO RESTORE
   said of or by someone else (e.g. a claim of Mirza Ghulam Ahmad reading as a claim of the Prophet): add the name in square
   brackets when it is certain from the context, e.g. "[Mirza] claimed that..."; if it is not certain, mark the gap with "…".
   Never add a bracketed word for any other reason.
+- Never drop the words that mark a statement as the host's opinion or as uncertain ("I believe", "I think", "I would say",
+  "that's my view", "maybe", "I'm not sure"): a hedged claim must not become a flat one. If the captions lost a word of
+  the marker, keep the rest and mark the gap with "…".
 - Words a host quotes from someone else must not read as the host's own: keep the "he said" / "X says", or use quotation marks.
 - Run  python3 output_final/work/scripts/check_edit.py {BATCH}  and fix every ERROR until it prints "{BATCH} OK".
 
