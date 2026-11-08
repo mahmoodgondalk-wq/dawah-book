@@ -51,7 +51,9 @@ LOG. Write output_final/work/edit/audit/{BATCH}.log.md with one line per restore
     digression-or-aside / other-content / omitted-passage> | «first words … last words of what you restored»
 and a last line:  kept out: <N> cuts (repetition / dialogue / filler / logistics / garbled / other speaker).
 
-WORKING RULES. Work passage by passage, sub-chapter by sub-chapter. A single response must stay under the output-token limit: keep
+WORKING RULES. Other agents audit other batches at the same time and share the scratch directory: if you write helper
+scripts or temporary files, give them names that contain {BATCH} (e.g. a folder {BATCH}_audit/) and never run or edit
+another agent's files. Work passage by passage, sub-chapter by sub-chapter. A single response must stay under the output-token limit: keep
 every single write or edit under about 3,000 words, and keep your thinking short. Do not run git (not even git status). Do not
 modify any file other than output_final/work/edit/out/{BATCH}.txt and output_final/work/edit/audit/{BATCH}.log.md.
 When done, reply with: "{BATCH} OK", the number of items restored, the number of words added (check_edit's retention line
