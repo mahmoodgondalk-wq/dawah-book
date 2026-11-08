@@ -10,7 +10,6 @@ Output: output_final/objection_index/index.typ -> output_final/Objections_to_Isl
 import csv
 import json
 import os
-import shutil
 import sys
 
 import typst
@@ -43,7 +42,9 @@ def main():
     arts = articles_index()
     sub_no, ch_no = book_numbers()
     os.makedirs(OUT_DIR, exist_ok=True)
-    shutil.copy(os.path.join(ROOT, "output_final", "topic_index", "template.typ"), os.path.join(OUT_DIR, "template.typ"))
+    t = open(os.path.join(ROOT, "output_final", "topic_index", "template.typ"), encoding="utf-8").read()
+    t = t.replace("[Part #num. #title]", "[#num. #title]").replace("Topic Index of the Videos", "Objections to Islam: Index of the Videos")
+    open(os.path.join(OUT_DIR, "template.typ"), "w", encoding="utf-8").write(t)
     L = ['#import "template.typ": *', "#show: setup", '#include "intro.typ"', ""]
     rows, videos, n_ex = [], set(), 0
     for k, (title, ids) in enumerate(sections, 1):
